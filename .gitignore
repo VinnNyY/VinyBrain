@@ -64,3 +64,6 @@ Thumbs.db
 desktop.ini
 *~
 *.swp
+
+# ---------- CONFIG LOCAL DO CLAUDE CODE (pessoal, nao versionar) ----------
+.claude/settings.local.json
