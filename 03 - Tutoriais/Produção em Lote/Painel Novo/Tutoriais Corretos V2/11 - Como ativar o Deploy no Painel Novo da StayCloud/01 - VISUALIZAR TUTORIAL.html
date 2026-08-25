@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Como ativar o Deploy no Painel Novo da StayCloud em 4 passos</title>
+  <style>
+    body { font-family: Arial, sans-serif; color: #111827; background: #f8fafc; margin: 0; line-height: 1.65; }
+    main { max-width: 880px; margin: 0 auto; background: #fff; padding: 40px 28px; }
+    h1, h2, h3 { line-height: 1.25; }
+    h1 { font-size: 34px; margin-top: 0; }
+    h2 { font-size: 24px; margin-top: 36px; }
+    h3 { font-size: 19px; margin-top: 24px; }
+    p { font-size: 17px; }
+    figure { margin: 26px 0; }
+    img { width: 100%; height: auto; border: 1px solid #e5e7eb; border-radius: 8px; }
+    figcaption { color: #4b5563; font-size: 14px; margin-top: 8px; }
+    .notice { border-left: 4px solid #2563eb; background: #eff6ff; padding: 14px 16px; margin: 20px 0; }
+  </style>
+</head>
+<body>
+<main>
+  <div class="notice"><strong>Status:</strong> preview local. Nada foi publicado no WordPress ou BetterDocs.</div>
+  <!-- Conteúdo igual ao arquivo 02 - COLAR NO WORDPRESS.txt -->
+  <h1>Como ativar o Deploy no Painel Novo da StayCloud em 4 passos</h1>
+  <p><strong>Ativar Deploy StayCloud</strong> pelo Painel Novo começa pela área <strong>Cloud</strong>. Ela foi criada para ajudar você a colocar no ar sites, páginas ou aplicações sem precisar configurar um servidor manualmente. Neste tutorial, você vai aprender como localizar o Deploy, conferir o status da sua conta e identificar o botão usado para iniciar a ativação.</p>
+  <p>Antes de continuar, leia o fluxo com atenção: nesta validação, o produto estava visível, mas ainda não estava ativo. Por segurança, o clique final em <strong>Começar grátis</strong> não foi executado, pois ele pode iniciar a ativação do recurso.</p>
+  <h2>O que é o Deploy StayCloud</h2>
+  <p>No Painel Novo, o Deploy é exibido no menu lateral com o nome <strong>Deploy</strong>. Ao abrir essa área, o painel mostra a tela <strong>Cloud</strong>, com a descrição <strong>deploy de git</strong>. A interface indica que o Cloud pode receber projetos vindos do <a href="https://docs.github.com/pt/repositories">GitHub</a>, de um arquivo <strong>.zip</strong>, de um projeto iniciado do zero ou de um comando no terminal.</p>
+  <p>A tela também mostra recursos de acompanhamento, como <strong>Deployments</strong>, <strong>Logs</strong>, <strong>Domínios</strong>, <strong>Integrações</strong> e <strong>Plano</strong>. Esses itens indicam uma jornada própria, diferente de publicar arquivos pelo <a href="https://ajuda.staycloud.com.br/docs/como-acessar-o-cpanel-painel-novo/">cPanel pelo Painel Novo</a> ou de acessar ferramentas de VPS.</p>
+  <h2>Antes de ativar o Deploy StayCloud</h2>
+  <p>Antes de iniciar a ativação, confirme se você está na conta correta e se entende o que será feito. A tela validada exibiu o status <strong>cloud ainda não ativo</strong>, o botão <strong>Começar grátis</strong> e o botão <strong>Falar com vendas</strong>. Também apareceu a observação de que, em contas com equipe, o titular pode liberar a permissão Cloud para subusuários.</p>
+  <p>Não clique em ativar se você estiver em uma conta de cliente, em um ambiente de produção ou sem autorização do titular. Também revise projetos privados antes de usar comandos ou repositórios.</p>
+  <h2>Como ativar Deploy StayCloud pelo Painel Novo</h2>
+  <h3>1. Abra a área Deploy</h3>
+  <p>Acesse o Painel Novo da StayCloud e localize o menu lateral. Clique em <strong>Deploy</strong>. Esse menu fica junto das áreas principais do painel, como Hospedagem, WordPress, VPS, Loja, Domínios e Faturas.</p>
+  <figure><img src="prints-finais/01-menu-deploy-sanitizado.png" alt="Menu Deploy para ativar Deploy StayCloud no Painel Novo"><figcaption>Clique em Deploy no menu lateral para abrir a área do produto.</figcaption></figure>
+  <h3>2. Confira se a tela Cloud abriu</h3>
+  <p>Depois de abrir o menu, confirme se o painel mostra a área <strong>Cloud</strong>. No topo da tela, a rota validada apareceu como <strong>~/cloud</strong>.</p>
+  <figure><img src="prints-finais/02-tela-inicial-deploy-sanitizado.png" alt="Tela Cloud do Deploy StayCloud no Painel Novo"><figcaption>A área Cloud confirma que você está na tela do Deploy.</figcaption></figure>
+  <h3>3. Confira o status do Cloud</h3>
+  <p>Na conta validada, o status exibido foi <strong>cloud ainda não ativo</strong>. Esse status indica que o recurso ainda precisa ser iniciado antes de publicar um projeto.</p>
+  <figure><img src="prints-finais/03-status-cloud-nao-ativo-sanitizado.png" alt="Status cloud ainda não ativo antes de ativar Deploy StayCloud"><figcaption>Confira o status antes de iniciar a ativação.</figcaption></figure>
+  <h3>4. Inicie a ativação pelo botão Começar grátis</h3>
+  <p>Com o status conferido, o botão principal disponível é <strong>Começar grátis</strong>. Esse é o botão usado para iniciar a ativação do Cloud. Nesta produção, o fluxo parou antes do clique final, porque a ação pode criar recurso, ativar serviço ou iniciar uma configuração de conta.</p>
+  <figure><img src="prints-finais/04-botao-ativacao-sanitizado.png" alt="Botão Começar grátis para ativar Deploy StayCloud"><figcaption>Use Começar grátis apenas quando tiver autorização para ativar o Cloud.</figcaption></figure>
+  <h2>O que fazer depois da ativação</h2>
+  <p>Após a ativação ser autorizada e concluída, o próximo passo natural é publicar um projeto de teste. A própria tela indica caminhos como trazer um projeto do GitHub, enviar um arquivo <strong>.zip</strong> ou usar o comando <strong>npx @staysdev/setup init</strong>. Como esses fluxos ainda precisam de validação individual, eles devem ser tratados em tutoriais separados.</p>
+  <h2>Erros comuns</h2>
+  <p>O erro mais comum é confundir Deploy com publicação via cPanel. O Deploy/Cloud é uma área própria do Painel Novo e não deve ser documentado como upload de arquivos em <strong>public_html</strong>. Se a tela mostrar <strong>cloud ainda não ativo</strong>, trate o ambiente como pendente. Para acompanhar recursos de hospedagem tradicional, veja também como <a href="https://ajuda.staycloud.com.br/docs/disco-cpu-ram-painel-novo-staycloud/">consultar disco, CPU e RAM no Painel Novo</a>.</p>
+  <p>Também evite clicar em <strong>Começar grátis</strong> sem saber se a conta permite ativação. Mesmo que o botão use a palavra grátis, a decisão deve considerar plano, permissão do titular e impacto do recurso. Em contas com equipe, confirme se o usuário atual tem permissão para gerenciar o Deploy StayCloud.</p>
+  <h2>Dúvidas frequentes</h2>
+  <h3>O Deploy é a mesma coisa que cPanel?</h3>
+  <p>Não. O cPanel é usado para gerenciar hospedagem tradicional, arquivos, e-mails, banco de dados e outros recursos. O Deploy aparece como Cloud no Painel Novo e tem um fluxo voltado a publicar projetos.</p>
+  <h3>Preciso usar GitHub?</h3>
+  <p>A interface cita GitHub como uma das opções, mas também menciona envio de <strong>.zip</strong>, projeto do zero e comando no terminal. O fluxo exato de cada opção precisa ser validado antes de uso em produção.</p>
+  <h3>Posso clicar em Começar grátis em qualquer conta?</h3>
+  <p>Não faça isso sem autorização. O botão inicia a ativação do Cloud e pode alterar o estado da conta. Em caso de dúvida, confirme com o titular ou fale com o suporte da StayCloud.</p>
+  <h2>Conclusão</h2>
+  <p>Agora você sabe onde localizar o Deploy, como confirmar que está na tela Cloud e qual botão inicia a ativação. Para ativar Deploy StayCloud com segurança, confira o status <strong>cloud ainda não ativo</strong>, revise se está na conta correta e só avance em <strong>Começar grátis</strong> quando houver autorização para iniciar o recurso.</p>
+</main>
+</body>
+</html>

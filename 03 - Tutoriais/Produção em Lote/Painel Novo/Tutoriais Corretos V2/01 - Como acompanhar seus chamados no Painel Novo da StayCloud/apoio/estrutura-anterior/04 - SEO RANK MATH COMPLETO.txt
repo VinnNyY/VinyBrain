@@ -1,0 +1,52 @@
+TÍTULO DO ARTIGO:
+Como acompanhar seus chamados no Painel Novo da StayCloud
+
+PALAVRA-CHAVE PRINCIPAL:
+acompanhar chamados no Painel Novo
+
+TÍTULO SEO:
+Como acompanhar seus chamados no Painel Novo da StayCloud
+
+SLUG:
+acompanhar-chamados-staycloud
+
+META DESCRIPTION:
+Veja como acessar seus chamados e acompanhar o status do atendimento no Painel Novo da StayCloud.
+
+EXCERPT:
+Consulte seus chamados e acompanhe o status de cada atendimento pelo Painel Novo da StayCloud.
+
+CATEGORIA:
+Painel Novo
+
+TAGS:
+Suporte; Chamados; Painel Novo; StayCloud
+
+PALAVRAS-CHAVE SECUNDÁRIAS:
+consultar chamados StayCloud; status de chamado StayCloud; suporte no Painel Novo; acompanhar ticket StayCloud
+
+TÍTULO SOCIAL:
+Como acompanhar seus chamados no Painel Novo da StayCloud
+
+DESCRIÇÃO SOCIAL:
+Veja onde consultar seus chamados e acompanhar o status do atendimento no Painel Novo da StayCloud.
+
+IMAGEM DESTACADA RECOMENDADA:
+Mídia 2812, passo 1, versão sanitizada.
+
+ALT DA IMAGEM DESTACADA:
+Tela do Painel Novo da StayCloud destacando o menu Suporte.
+
+LINKS INTERNOS SUGERIDOS:
+URL antiga e canônica de referência: https://ajuda.staycloud.com.br/docs/acompanhar-chamados-staycloud/
+Não criar uma URL concorrente.
+
+CHECKLIST RANK MATH:
+Palavra-chave principal no título, introdução, slug e meta description.
+Título SEO e meta description definidos.
+Subtítulos, listas e ALT texts descritivos.
+Intenção de busca atendida.
+Meta pretendida: pontuação acima de 80 após o preenchimento no Rank Math.
+
+OBSERVAÇÕES:
+Use o slug já definido para preservar a URL de referência. Este arquivo não deve ser colado no corpo do artigo.

@@ -1,0 +1,1 @@
+npx @staysdev/setup init --token SEU_TOKEN --api-url URL_DA_API

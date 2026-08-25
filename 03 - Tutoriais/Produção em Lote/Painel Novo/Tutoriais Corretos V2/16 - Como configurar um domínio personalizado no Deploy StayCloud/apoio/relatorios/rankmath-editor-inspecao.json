@@ -1,0 +1,213 @@
+{
+  "url": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2962&action=edit",
+  "text": "Editar documentos DOMÍNIO PERSONALIZADO NO DEPLOY STAYCLOUD · Base de conhecimento Ctrl+K Escrever com IA 79 / 100 0 / 100 Salvar Caixas de metadados Use as teclas de seta para cima e para baixo para redimensionar o painel da caixa de metadados. Rank Math Geral Tudo Imagens Vídeos Notícias Mapas Mais Configurações Ferramentas Cerca de 43.700.000 resultados (0,32 segundos) https://ajuda.staycloud.com.br/docs/dominio-personalizado-deploy-staycloud/ Domínio personalizado Deploy StayCloud: configurar Domínio personalizado Deploy StayCloud: aprenda a adicionar o registro DNS e validar o endereço da aplicação. Editar fragmento de código (snippet)Analytics Palavra-chave de foco Conteúdo com IA domínio personalizado Deploy StayCloud Aviso de alerta Leia aqui como Obter uma pontuação de 100/100 Este post é um conteúdo pilar (principal) SEO básico Tudo certo Excelente! Você está usando a palavra-chave de foco no título de SEO. A palavra-chave de foco foi usada na meta descrição de SEO. A palavra-chave de foco foi usada no URL. A palavra-chave de foco aparece nos primeiros 10% do conteúdo. A palavra-chave de foco foi encontrada no conteúdo. O conteúdo tem 978 palavras. Bom trabalho! Adicional 3 Erros Legibilidade do título 1 Erros Legibilidade do conteúdo Tudo certo Abrir painel de publicação Base de conhecimento Notificações Leia aqui como Obter uma pontuação de 100/100 ",
+  "fieldInfo": [
+    {
+      "tag": "INPUT",
+      "type": "checkbox",
+      "name": null,
+      "id": "rank-math-tooltip-1",
+      "placeholder": null,
+      "aria": null,
+      "value": "on",
+      "className": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": null,
+      "name": null,
+      "id": "",
+      "placeholder": "Exemplo: Rank Math SEO",
+      "aria": null,
+      "value": "[{\"value\":\"domínio personalizado Deploy StayCloud\"}]",
+      "className": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "hidden",
+      "name": "nonce_CMB2phprank_math_metabox_link_suggestions",
+      "id": "nonce_CMB2phprank_math_metabox_link_suggestions",
+      "placeholder": null,
+      "aria": null,
+      "value": "c8c6f9a37e",
+      "className": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": null,
+      "id": "wp-link-title",
+      "placeholder": null,
+      "aria": null,
+      "value": "",
+      "className": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "betterdocs-ai-title",
+      "id": "betterdocs-ai-title",
+      "placeholder": "Digite um título descritivo para sua documentação.",
+      "aria": null,
+      "value": "DOMÍNIO PERSONALIZADO NO DEPLOY STAYCLOUD",
+      "className": ""
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "name": "betterdocs-ai-keyword",
+      "id": "betterdocs-ai-keyword",
+      "placeholder": "Adicione palavras-chave para gerar documentação precisa e relevante (separadas por vírgula).",
+      "aria": null,
+      "value": "",
+      "className": ""
+    },
+    {
+      "tag": "TEXTAREA",
+      "type": null,
+      "name": "betterdocs-ai-content",
+      "id": "betterdocs-ai-content",
+      "placeholder": null,
+      "aria": null,
+      "value": "Generate documentation using HTML heading tags for 'DOMÍNIO PERSONALIZADO NO DEPLOY STAYCLOUD'. Include relevant details on {Documentation Keywords} in the documentation. Ensure all content is enclosed with <p> tags and apply a <span> tag with the class 'highlight' to headings and topic tags for emphasis.",
+      "className": ""
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Rank Math SEO",
+      "aria": null,
+      "className": "wp-has-submenu wp-not-current-submenu menu-top toplevel_page_rank-math menu-top-last"
+    },
+    {
+      "text": "Analisador de SEO",
+      "aria": null,
+      "className": ""
+    },
+    {
+      "text": "Rank Math SEO",
+      "aria": null,
+      "className": "ab-item"
+    },
+    {
+      "text": "Vinicius AlvesEditar perfil",
+      "aria": null,
+      "className": "ab-item"
+    },
+    {
+      "text": "79 / 100",
+      "aria": "Rank Math",
+      "className": "components-button is-compact is-pressed has-icon"
+    },
+    {
+      "text": "0 / 100",
+      "aria": "Content AI",
+      "className": "components-button is-compact has-icon"
+    },
+    {
+      "text": "Geral",
+      "aria": null,
+      "className": "components-button components-tab-panel__tabs-item rank-math-general-tab is-active"
+    },
+    {
+      "text": "Avançado",
+      "aria": null,
+      "className": "components-button components-tab-panel__tabs-item rank-math-advanced-tab"
+    },
+    {
+      "text": "Dado estruturado (schema)",
+      "aria": null,
+      "className": "components-button components-tab-panel__tabs-item rank-math-schema-tab"
+    },
+    {
+      "text": "Social",
+      "aria": null,
+      "className": "components-button components-tab-panel__tabs-item rank-math-social-tab"
+    },
+    {
+      "text": "Conteúdo com IA",
+      "aria": null,
+      "className": "components-button components-tab-panel__tabs-item rank-math-content-ai-tab hidden is-active"
+    },
+    {
+      "text": "Editar fragmento de código (snippet)",
+      "aria": null,
+      "className": "components-button rank-math-edit-snippet is-primary"
+    },
+    {
+      "text": "Analytics",
+      "aria": null,
+      "className": "components-button button-secondary rank-math-single-analytics-report"
+    },
+    {
+      "text": "atingir 100/100 pontos",
+      "aria": null,
+      "className": ""
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "components-button button rank-math-trends-tool-button rank-math-compare-keywords-trigger is-secondary"
+    },
+    {
+      "text": "Conteúdo com IA",
+      "aria": null,
+      "className": "components-button button-secondary rank-math-content-ai"
+    },
+    {
+      "text": "Mostrar intenção",
+      "aria": null,
+      "className": "rank-math-keyword-intent-wrapper is-show-intent"
+    },
+    {
+      "text": "Obter uma pontuação de 100/100",
+      "aria": null,
+      "className": ""
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "dashicons-before dashicons-editor-help rank-math-help-icon"
+    },
+    {
+      "text": "SEO básico Tudo certo",
+      "aria": null,
+      "className": "components-button components-panel__body-toggle is-next-40px-default-size"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "dashicons-before dashicons-editor-help rank-math-help-icon"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "dashicons-before dashicons-editor-help rank-math-help-icon"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "dashicons-before dashicons-editor-help rank-math-help-icon"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "dashicons-before dashicons-editor-help rank-math-help-icon"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "dashicons-before dashicons-editor-help rank-math-help-icon"
+    },
+    {
+      "text": "",
+      "aria": null,
+      "className": "dashicons-before dashicons-editor-help rank-math-help-icon"
+    },
+    {
+      "text": "Rank Math",
+      "aria": null,
+      "className": ""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "startedAt": "2026-07-28T19:37:44.886Z",
+  "login": "login realizado na conta autorizada",
+  "details": {
+    "url": "https://beta.staycloud.com/dashboard/hospedagem",
+    "title": "Meus sites · StayCloud",
+    "headings": [
+      "Meus sites",
+      "Basic BASIC ativo",
+      "Basic"
+    ],
+    "body": "staycloud\n[dado censurado]\nBuscar site, domínio, fatura ou chamado...\n⌘ K\ndark\nHome\nHospedagem\nWordPress\nVPS\nDeploy\nLoja\nDomínios\nFaturas\n[dado censurado]\nFerramentas\nStayFast\nNOVO\nStayAcademy\n[dado censurado]\n\nHOME\n›\nMeus sites\n\nMeus sites\n\nGerencie suas hospedagens cPanel.\n\nAdicionar site\n\n01\nTOTAL\n\n1\nsite contratados\n\n02\nATIVOS\n\n1\nem operação\n\n03\nATENÇÃO\n\n0\n0 expirando · 0 críticos\n\n04\nPRÓXIMA COBRANÇA\n\n-\nsem cobrança prevista\ntodos\n1\nativos\n1\natenção\n0\nsuspensos\n0\nBasic\nBASIC\nativo\n\n[dominio censurado]\n\ndisco 0%\n·\n4 emails\n·\nrenova em 28d\n\nGerenciar\n0%\nDISCO\n0 MB / 19.5 GB\n0%\nCPU\n100% LVE\n0%\nRAM\n0 MB / 3.0 GB\nEMAILS\n4\ncontas\nBD\n0\nMySQL\nDOMÍNIOS\n0\naddon\nÚltima atualização: 16:38:06\n1. Expandir detalhes\n2. Gerenciar"
+  },
+  "manage": {
+    "url": "https://beta.staycloud.com/dashboard/hospedagem/8445",
+    "title": "Visão geral · [dominio censurado] · StayCloud",
+    "headings": [
+      "[dominio censurado] online",
+      "[dominio censurado]",
+      "Site principal e instalações",
+      "Velocidade percebida pelos visitantes",
+      "Atalhos com 1 clique",
+      "O que está usando",
+      "[servidor censurado]",
+      "Hospedagem ativa"
+    ],
+    "body": "staycloud\n[dado censurado]\nBuscar site, domínio, fatura ou chamado...\n⌘ K\ndark\nHome\nHospedagem\nWordPress\nVPS\nDeploy\nLoja\nDomínios\nFaturas\n[dado censurado]\nFerramentas\nStayFast\nNOVO\nStayAcademy\n[dado censurado]\n\n~/SITES\n›\n[dominio censurado]\n\n[dominio censurado]\nonline\n\nBasic · [servidor censurado]\n\nIP\n[IP censurado]\nNS1\n[nameserver censurado]\nNS2\n[nameserver censurado]\nAcessos\nMudar de plano\nVisão geral\nWordPress\nDomínios\nE-mails\nBanco de dados\nArquivos\nBackups\nDNS\nDesempenho\nPlano\nDISCO\n0%\n0 MB / 19.5 GB\nCPU\n0%\n0% de 100% LVE\nMEMÓRIA\n0%\n-\nE-MAILS\n0%\n4 contas\n\n01\nWORDPRESS\n\nSite principal e instalações\ngerenciar tudo\nNenhuma instalação detectada\nInstale WordPress pelo WP Toolkit ou Softaculous para começar.\nGerenciar WordPress\n\n02\nPAGESPEED\n\nVelocidade percebida pelos visitantes\nmedir agora\nNenhuma medição feita ainda\nClique em \"medir agora\" para rodar um teste Lighthouse no domínio principal.\nÚltima medição: -\n\n03\nACESSO DIRETO\n\nAtalhos com 1 clique\ncPanel\nadmin do site\nFile Manager\narquivos\nphpMyAdmin\nbanco de dados\nWebmail\ncaixa de entrada\nGerenciar WordPress\npainel com fallback (WPT/Softaculous)\n\n04\nRECURSOS DO PLANO\n\nO que está usando\nver plano completo\nDOMÍNIOS ADDON\n0\nconfigurados\nCONTAS DE E-MAIL\n4\nativas\nBANCOS MYSQL\n0\ncriados\nCONTAS FTP\n2\nconfiguradas\nSUBDOMÍNIOS\n0\ncriados\nSERVIDOR\n[servidor censurado]\n[IP censurado]\n\n05\nSERVIDOR\n\n[servidor censurado]\nIP\n[IP censurado]\nNS1\n[nameserver censurado]\nNS2\n[nameserver censurado]\n\n06\nESTADO DA HOSPEDAGEM\n\nHospedagem ativa\nSem alertas no momento\ntodos os recursos estão dentro do esperado\nVisão geral · [dominio censurado] · StayCloud\nGerenciar"
+  },
+  "prints": [
+    {
+      "file": "passo-01-ver-detalhes-e-gerenciar.png",
+      "targets": [
+        "Ver detalhes",
+        "Gerenciar"
+      ]
+    },
+    {
+      "file": "passo-02-destino-ver-detalhes.png",
+      "target": "DISCO"
+    },
+    {
+      "file": "passo-03-botao-gerenciar.png",
+      "target": "Gerenciar"
+    },
+    {
+      "file": "passo-04-destino-gerenciar.png",
+      "target": "Visão geral"
+    }
+  ],
+  "finishedAt": "2026-07-28T19:38:18.473Z",
+  "note": "Relatorio sanitizado: dominios, IPs, nameservers e identificadores reais foram censurados."
+}

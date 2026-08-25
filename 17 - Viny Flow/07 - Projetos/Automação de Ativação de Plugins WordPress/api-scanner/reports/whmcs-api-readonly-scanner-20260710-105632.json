@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_at": "20260710-105632",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "whmcs_api"
+  },
+  "summary": {
+    "listed": 0,
+    "opened": 0,
+    "pending_activation": 0,
+    "needs_review": 0,
+    "ignored": 0
+  },
+  "error": "HTTPError: HTTP Error 403: Forbidden",
+  "tickets": []
+}

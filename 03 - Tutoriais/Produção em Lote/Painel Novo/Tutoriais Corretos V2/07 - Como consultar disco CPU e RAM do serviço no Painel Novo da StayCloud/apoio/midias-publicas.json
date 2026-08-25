@@ -1,0 +1,42 @@
+{
+  "tutorial": "Como consultar disco, CPU e RAM do serviço no Painel Novo da StayCloud",
+  "origem": "Upload autorizado por Vinicius em 2026-07-27. Publicacao autorizada.",
+  "midias": [
+    {
+      "etapa": 1,
+      "file": "prints-finais/01-card-servico-correto-sanitizado.png",
+      "title": "Disco CPU RAM Painel Novo StayCloud - Serviço correto",
+      "alt": "Card do serviço correto antes de consultar disco, CPU e RAM no Painel Novo StayCloud",
+      "caption": "Confira o card do serviço antes de abrir a consulta.",
+      "filename": "01-card-servico-correto-sanitizado.png",
+      "media_id": 2861,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-card-servico-correto-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 2,
+      "file": "prints-finais/02-botao-gerenciar-sanitizado.png",
+      "title": "Disco CPU RAM Painel Novo StayCloud - Botão Gerenciar",
+      "alt": "Botão Gerenciar do serviço correto no Painel Novo StayCloud",
+      "caption": "Use o botão Gerenciar somente depois de conferir o serviço.",
+      "filename": "02-botao-gerenciar-sanitizado.png",
+      "media_id": 2862,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-botao-gerenciar-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 3,
+      "file": "prints-finais/03-indicadores-recursos-sanitizado.png",
+      "title": "Disco CPU RAM Painel Novo StayCloud - Indicadores",
+      "alt": "Indicadores de disco, CPU e memória no Painel Novo StayCloud",
+      "caption": "Os indicadores ficam na visão geral do serviço e ajudam na consulta inicial.",
+      "filename": "03-indicadores-recursos-sanitizado.png",
+      "media_id": 2863,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-indicadores-recursos-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    }
+  ]
+}

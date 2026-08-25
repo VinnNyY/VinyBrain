@@ -1,0 +1,17 @@
+<h1>Título do tutorial</h1>
+<p>Introdução do tutorial.</p>
+<h2>Quando usar</h2>
+<p>Texto da seção.</p>
+<h2>Antes de começar</h2>
+<ul>
+  <li>Item de preparação.</li>
+</ul>
+<h2>Passo a passo</h2>
+<h3>1. Nome do passo</h3>
+<p>Texto do passo.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/ano/mes/arquivo-sanitizado.png" alt="ALT text da imagem.">
+  <figcaption>Legenda da imagem.</figcaption>
+</figure>
+<h2>Conclusão</h2>
+<p>Fechamento do tutorial.</p>

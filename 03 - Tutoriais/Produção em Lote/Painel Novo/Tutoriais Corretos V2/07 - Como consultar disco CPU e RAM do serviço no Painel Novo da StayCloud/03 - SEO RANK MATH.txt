@@ -1,0 +1,54 @@
+# SEO Rank Math
+
+Status:
+Publicado e SEO validado no Rank Math.
+
+Título:
+Como consultar disco, CPU e RAM do serviço no Painel Novo da StayCloud
+
+Palavra-chave principal:
+disco, CPU e RAM no Painel Novo StayCloud
+
+Título SEO:
+Disco, CPU e RAM no Painel Novo StayCloud: como consultar
+
+Slug:
+disco-cpu-ram-painel-novo-staycloud
+
+Meta description:
+Aprenda a consultar disco, CPU e RAM no Painel Novo StayCloud, identificar o uso atual do serviço e evitar alterações desnecessárias.
+
+Resumo:
+Veja onde consultar disco, CPU e RAM no Painel Novo StayCloud e como interpretar os indicadores básicos do serviço.
+
+Título social:
+Disco, CPU e RAM no Painel Novo StayCloud
+
+Descrição social:
+Confira onde ver os indicadores de disco, CPU e memória do serviço no Painel Novo StayCloud sem executar alterações.
+
+Categoria:
+Painel novo
+
+Tags:
+- Painel Novo
+- Recursos
+- Hospedagem
+- StayCloud
+
+Links internos:
+- https://ajuda.staycloud.com.br/docs/como-acessar-o-cpanel-painel-novo/
+- https://ajuda.staycloud.com.br/docs/central-de-ajuda-staycloud/
+
+Checklist local:
+- Palavra-chave no H1.
+- Palavra-chave no primeiro parágrafo.
+- Palavra-chave em H2.
+- Variação natural em H3.
+- Palavra-chave no ALT da primeira imagem.
+- Dois links internos reais.
+- Conteúdo com mais de 600 palavras.
+- Score real Rank Math: 81/100.
+- BetterDocs ID: 2865.
+- URL pública: https://ajuda.staycloud.com.br/docs/disco-cpu-ram-painel-novo-staycloud/
+- Validação pública: HTTP 200, imagens públicas, sem caminhos locais e sem Markdown visível.

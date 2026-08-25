@@ -1,0 +1,47 @@
+# SEO Rank Math
+
+Título do tutorial:
+Como localizar a área de Deploy no Painel Novo da StayCloud
+
+Palavra-chave principal:
+área de Deploy Painel Novo StayCloud
+
+Título SEO:
+Área de Deploy no Painel Novo StayCloud: onde localizar
+
+Slug:
+area-deploy-painel-novo-staycloud
+
+Meta description:
+Aprenda a localizar a área de Deploy no Painel Novo StayCloud, reconhecer a tela Cloud e evitar iniciar uma publicação por engano.
+
+Resumo:
+Veja onde fica a área de Deploy no Painel Novo StayCloud e como reconhecer a tela Cloud sem iniciar uma publicação.
+
+Título social:
+Área de Deploy no Painel Novo StayCloud
+
+Descrição social:
+Saiba onde encontrar o menu Deploy, reconhecer a área Cloud e verificar o status antes de qualquer publicação.
+
+Categoria:
+Painel novo
+
+Tags:
+- Painel Novo
+- Deploy
+- Cloud
+- StayCloud
+
+Links internos usados:
+- https://ajuda.staycloud.com.br/docs/ferramentas-painel-staycloud/
+- https://ajuda.staycloud.com.br/docs/central-de-ajuda-staycloud/
+
+Checklist preparado:
+- Palavra-chave no primeiro parágrafo.
+- Palavra-chave em H2.
+- Variação em H3.
+- Palavra-chave no ALT da primeira imagem.
+- Dois links internos reais.
+- Conteúdo acima de 600 palavras úteis.
+- Score real ainda não existe porque o tutorial não foi criado no WordPress nesta fase.

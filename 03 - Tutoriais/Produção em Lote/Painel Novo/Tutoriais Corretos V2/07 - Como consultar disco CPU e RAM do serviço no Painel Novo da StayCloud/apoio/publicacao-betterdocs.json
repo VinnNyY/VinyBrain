@@ -1,0 +1,116 @@
+{
+  "status": "publicado",
+  "blocked_at": "2026-07-27T20:32:26.237Z",
+  "id": 2865,
+  "edit_url": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2865&action=edit",
+  "link": "https://ajuda.staycloud.com.br/docs/disco-cpu-ram-painel-novo-staycloud/",
+  "before": {
+    "score": 26,
+    "focus_visible": true,
+    "focus_chip_detected": false,
+    "seo_title_visible": true,
+    "slug_visible": true,
+    "description_visible": true,
+    "social_visible": true,
+    "lines": [
+      "Como consultar disco, CPU e RAM do serviço no Painel Novo da StayCloud",
+      "26 / 100",
+      "0 / 100",
+      "Rank Math",
+      "Ferramentas",
+      "https://ajuda.staycloud.com.br/docs/disco-cpu-ram-painel-novo-staycloud/",
+      "Disco, CPU e RAM no Painel Novo StayCloud: como consultar",
+      "Aprenda a consultar disco, CPU e RAM no Painel Novo StayCloud, identificar o uso atual do serviço e evitar alterações desnecessárias.",
+      "Editar fragmento de código (snippet)",
+      "Palavra-chave de foco",
+      "disco CPU RAM Painel Novo StayCloud",
+      "Leia aqui como Obter uma pontuação de 100/100",
+      "SEO básico",
+      "4 Erros",
+      "A palavra-chave de foco não aparece no título de SEO.",
+      "A palavra-chave de foco não foi encontrada na sua meta descrição de SEO.",
+      "A palavra-chave de foco foi usada no URL.",
+      "A palavra-chave de foco não aparece no início do seu conteúdo.",
+      "A palavra-chave de foco não aparece no conteúdo.",
+      "O conteúdo tem 657 palavras. Bom trabalho!",
+      "5 Erros",
+      "Legibilidade do título",
+      "2 Erros",
+      "Leia aqui como Obter uma pontuação de 100/100"
+    ]
+  },
+  "afterSave": {
+    "score": 81,
+    "focus_visible": false,
+    "focus_chip_detected": false,
+    "seo_title_visible": false,
+    "slug_visible": false,
+    "description_visible": false,
+    "social_visible": false,
+    "lines": [
+      "Como consultar disco, CPU e RAM do serviço no Painel Novo da StayCloud",
+      "81 / 100",
+      "0 / 100"
+    ]
+  },
+  "gate": {
+    "score_ok": true,
+    "focus_ok": false,
+    "snippet_ok": false
+  },
+  "snippetOpened": true,
+  "socialOpened": true,
+  "midias": [
+    {
+      "etapa": 1,
+      "file": "prints-finais/01-card-servico-correto-sanitizado.png",
+      "title": "Disco CPU RAM Painel Novo StayCloud - Serviço correto",
+      "alt": "Card do serviço correto antes de consultar disco, CPU e RAM no Painel Novo StayCloud",
+      "caption": "Confira o card do serviço antes de abrir a consulta.",
+      "filename": "01-card-servico-correto-sanitizado.png",
+      "media_id": 2861,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-card-servico-correto-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 2,
+      "file": "prints-finais/02-botao-gerenciar-sanitizado.png",
+      "title": "Disco CPU RAM Painel Novo StayCloud - Botão Gerenciar",
+      "alt": "Botão Gerenciar do serviço correto no Painel Novo StayCloud",
+      "caption": "Use o botão Gerenciar somente depois de conferir o serviço.",
+      "filename": "02-botao-gerenciar-sanitizado.png",
+      "media_id": 2862,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-botao-gerenciar-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 3,
+      "file": "prints-finais/03-indicadores-recursos-sanitizado.png",
+      "title": "Disco CPU RAM Painel Novo StayCloud - Indicadores",
+      "alt": "Indicadores de disco, CPU e memória no Painel Novo StayCloud",
+      "caption": "Os indicadores ficam na visão geral do serviço e ajudam na consulta inicial.",
+      "filename": "03-indicadores-recursos-sanitizado.png",
+      "media_id": 2863,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-indicadores-recursos-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    }
+  ],
+  "published_at": "2026-07-27T20:34:23.796Z",
+  "slug": "disco-cpu-ram-painel-novo-staycloud",
+  "score": 81,
+  "focus_keyword": "disco, CPU e RAM no Painel Novo StayCloud",
+  "focus_chip_confirmed": true,
+  "focus_chips": [
+    "disco",
+    "CPU e RAM no Painel Novo StayCloud"
+  ],
+  "snippet_confirmed": true,
+  "seo_title": "Disco, CPU e RAM no Painel Novo StayCloud: como consultar",
+  "meta_description": "Aprenda a consultar disco, CPU e RAM no Painel Novo StayCloud, identificar o uso atual do serviço e evitar alterações desnecessárias.",
+  "excerpt": "Veja onde consultar disco, CPU e RAM no Painel Novo StayCloud e como interpretar os indicadores básicos do serviço.",
+  "social_available": true,
+  "category": "Painel novo"
+}

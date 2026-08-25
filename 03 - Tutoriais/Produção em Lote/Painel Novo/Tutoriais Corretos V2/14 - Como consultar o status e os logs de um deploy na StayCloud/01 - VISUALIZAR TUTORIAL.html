@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Como consultar os logs do Deploy StayCloud e acompanhar o status</title>
+  <style>
+    :root {
+      --text: #111827;
+      --muted: #4b5563;
+      --line: #d8dee8;
+      --soft: #f6f8fb;
+      --accent: #2563eb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--text);
+      background: #ffffff;
+      line-height: 1.65;
+    }
+    main {
+      width: min(980px, calc(100% - 32px));
+      margin: 36px auto 64px;
+    }
+    article {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 36px;
+    }
+    h1 {
+      font-size: 34px;
+      line-height: 1.15;
+      margin: 0 0 20px;
+      letter-spacing: 0;
+    }
+    h2 {
+      font-size: 25px;
+      line-height: 1.25;
+      margin: 34px 0 12px;
+      letter-spacing: 0;
+    }
+    h3 {
+      font-size: 20px;
+      line-height: 1.3;
+      margin: 24px 0 8px;
+      letter-spacing: 0;
+    }
+    p, li { font-size: 17px; }
+    a { color: #155eef; font-weight: 700; }
+    figure {
+      margin: 22px 0 30px;
+      border: 1px solid var(--line);
+      background: var(--soft);
+      padding: 12px;
+    }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border: 1px solid var(--line);
+      background: #fff;
+    }
+    figcaption {
+      color: var(--muted);
+      font-size: 14px;
+      margin-top: 10px;
+    }
+    .seo {
+      margin-top: 34px;
+      background: var(--soft);
+      border: 1px solid var(--line);
+      padding: 20px;
+    }
+    .seo h2 { margin-top: 0; }
+    .seo dl {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 10px 18px;
+      margin: 0;
+    }
+    .seo dt { font-weight: 700; }
+    .seo dd { margin: 0; color: var(--muted); }
+    @media (max-width: 720px) {
+      main { width: min(100% - 20px, 980px); margin-top: 20px; }
+      h1 { font-size: 28px; }
+      h2 { font-size: 22px; }
+      p, li { font-size: 16px; }
+      .seo dl { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<main>
+<article>
+<h1>Como consultar os logs do Deploy StayCloud e acompanhar o status</h1>
+
+<p><strong>Logs do Deploy StayCloud</strong> ajudam a entender o que aconteceu durante uma publicação, confirmar se a aplicação ficou disponível e identificar os primeiros sinais de erro antes de tentar uma nova ação. Neste tutorial, você vai aprender como abrir uma aplicação publicada no Painel Novo, conferir o status do deploy, acessar o histórico de publicações e consultar os logs de build com segurança.</p>
+
+<p>Este passo a passo parte de uma aplicação de teste já publicada. Se você ainda não ativou o recurso, veja <a href="https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/">como ativar o Deploy no Painel Novo</a>. Se ainda não publicou uma aplicação, consulte <a href="https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/">como fazer o primeiro deploy na StayCloud</a>. Para terminal, use o tutorial de <a href="https://ajuda.staycloud.com.br/docs/cli-deploy-staycloud/">CLI Deploy StayCloud</a>. Para conhecer a empresa, acesse o site oficial da <a href="https://staycloud.com.br/">StayCloud</a>.</p>
+
+<h2>O que o status de um deploy informa</h2>
+
+<p>O status mostra a situação atual da publicação. No fluxo validado, a aplicação de teste aparece como <strong>online</strong>, enquanto a área <strong>IMPLANTAÇÃO DE PRODUÇÃO</strong> exibe o campo <strong>status</strong> com o valor <strong>pronto</strong>. A mesma área também mostra domínio, deploy, autor, duração e fase.</p>
+
+<p>Na validação, o deploy estava com fase <strong>live</strong> e duração de <strong>23s</strong>. Esses dados ajudam a confirmar que a publicação foi processada. O painel também apresenta indicadores de histórico, como <strong>Total</strong>, <strong>Produção</strong>, <strong>Build · Ativos</strong> e <strong>Falha</strong>.</p>
+
+<h2>Quando consultar os logs do Deploy StayCloud</h2>
+
+<p>Consulte os logs quando quiser verificar o caminho percorrido por uma publicação, confirmar se o build avançou ou entender em qual etapa o processo parou. No painel validado, a aba <strong>Logs</strong> mostra os logs de build do último deploy e oferece filtros por nível, como <strong>Todos</strong>, <strong>Info · OK</strong>, <strong>Alertas</strong> e <strong>Erros · Fatal</strong>.</p>
+
+<p>Existe uma limitação importante: a interface informa que essa visão mostra logs de build. Logs de runtime, ou seja, do site já no ar, ainda não aparecem nessa tela. Use esse recurso para acompanhar publicação e build, não como monitoramento completo da aplicação em produção.</p>
+
+<h2>Como acompanhar um deploy na StayCloud</h2>
+
+<h3>1. Abra a aplicação correta</h3>
+
+<p>No Painel Novo, acesse <strong>Cloud</strong> e localize o projeto. Abra somente a aplicação correta, principalmente se houver mais de um projeto na conta. Neste tutorial, foi usado um projeto descartável.</p>
+
+<figure><img src="prints-finais/01-aplicacao-correta-sanitizado.png" alt="Aplicação correta para consultar os logs do Deploy StayCloud"><figcaption>Aplicação de teste localizada na área Cloud.</figcaption></figure>
+
+<h3>2. Confira o status do deploy</h3>
+
+<p>Na página do projeto, confira <strong>IMPLANTAÇÃO DE PRODUÇÃO</strong>. O campo principal é <strong>status</strong>. Quando o painel mostra <strong>pronto</strong>, a publicação validada foi concluída. Observe também <strong>duração</strong> e <strong>fase</strong>, pois elas indicam se o processo chegou ao estado final esperado.</p>
+
+<figure><img src="prints-finais/02-status-deploy-sanitizado.png" alt="Status pronto no Deploy StayCloud"><figcaption>Status do deploy exibido na visão geral do projeto.</figcaption></figure>
+
+<h3>3. Abra a execução ou publicação</h3>
+
+<p>Para consultar o histórico, clique em <strong>ver todos os deploys</strong> ou abra a aba <strong>Deploys</strong>. Essa tela reúne os registros de publicação e permite verificar se há builds em execução, deploys em produção ou falhas a investigar. No projeto usado no tutorial, o registro exibido estava como <strong>pronto</strong> e em <strong>produção</strong>.</p>
+
+<figure><img src="prints-finais/03-historico-execucao-sanitizado.png" alt="Histórico de deploys com publicação pronta na StayCloud"><figcaption>Registro do deploy dentro do histórico de publicações.</figcaption></figure>
+
+<h3>4. Consulte os logs</h3>
+
+<p>Abra a aba <strong>Logs</strong>. A tela mostra o build do último deploy e informa que os logs atualizam sozinhos a cada 2s. Use os filtros laterais para separar informações, alertas ou erros fatais. Se estiver analisando uma falha, revise apenas as linhas necessárias.</p>
+
+<figure><img src="prints-finais/04-aba-logs-sanitizado.png" alt="Aba Logs do Deploy StayCloud"><figcaption>Aba Logs aberta no projeto de teste.</figcaption></figure>
+
+<h3>5. Identifique se o deploy foi concluído</h3>
+
+<p>Nos logs, procure mensagens de avanço do build, validação da fonte, geração do pacote e envio para publicação. No exemplo validado, uma linha segura mostra <strong>deploy enfileirado no StayCloud</strong>. Outras mensagens indicavam preparação do pacote e início da publicação.</p>
+
+<figure><img src="prints-finais/05-conteudo-logs-sanitizado.png" alt="Linha segura de log do Deploy StayCloud"><figcaption>Linha de log segura usada para acompanhar o processamento.</figcaption></figure>
+
+<h2>Como reconhecer um deploy bem-sucedido</h2>
+
+<p>Um deploy bem-sucedido combina alguns sinais: o projeto aparece como <strong>online</strong>, o status de produção aparece como <strong>pronto</strong>, a fase está como <strong>live</strong> e a aplicação pode ser aberta pelo botão <strong>Abrir</strong>. Esses sinais devem ser avaliados juntos, porque o histórico e os logs ajudam a confirmar que o painel terminou o processo esperado.</p>
+
+<figure><img src="prints-finais/06-aplicacao-disponivel-sanitizado.png" alt="Botão Abrir para acessar aplicação publicada no Deploy StayCloud"><figcaption>Botão Abrir disponível após a publicação.</figcaption></figure>
+
+<h2>Como reconhecer uma falha</h2>
+
+<p>No fluxo validado, não foi criada uma falha artificial. Ainda assim, o painel mostrou áreas preparadas para esse acompanhamento: o resumo de <strong>Falha</strong> no histórico e os filtros <strong>Alertas</strong> e <strong>Erros · Fatal</strong> nos logs. Quando esses contadores tiverem valores, abra os logs e leia as mensagens próximas ao ponto em que o build parou.</p>
+
+<h2>O que conferir antes de tentar novamente</h2>
+
+<p>Antes de executar outro deploy, confira se você está no projeto correto, se o status já terminou, se há registro em <strong>Build · Ativos</strong> e se os logs exibem alerta ou erro. Se o painel mostra uma publicação bem-sucedida, não é necessário repetir o deploy só para confirmar.</p>
+
+<h2>Erros comuns ao acompanhar um deploy</h2>
+
+<ul>
+<li>Abrir o projeto errado e interpretar o status de outra aplicação.</li>
+<li>Confundir logs de build com logs de runtime do site no ar.</li>
+<li>Copiar logs completos sem revisar dados sensíveis.</li>
+<li>Ignorar os filtros de <strong>Alertas</strong> e <strong>Erros · Fatal</strong>.</li>
+<li>Refazer o deploy antes de confirmar se existe build em execução.</li>
+</ul>
+
+<h2>Dúvidas frequentes</h2>
+
+<h3>Os logs do Deploy StayCloud mostram tudo que acontece no site?</h3>
+<p>Não. Na tela validada, os logs são de build. A interface informa que logs de runtime do site no ar ainda não aparecem nessa visão.</p>
+
+<h3>Preciso usar terminal para consultar os logs?</h3>
+<p>Não para esse fluxo. A consulta mostrada neste tutorial foi feita pelo painel, usando as abas <strong>Deploys</strong> e <strong>Logs</strong>.</p>
+
+<h3>Posso baixar os logs?</h3>
+<p>A tela validada exibiu o botão <strong>baixar log</strong>. Antes de compartilhar qualquer arquivo baixado, revise e remova dados sensíveis.</p>
+
+<h2>Conclusão</h2>
+
+<p>Consultar os logs do Deploy StayCloud ajuda a confirmar o andamento da publicação e o resultado do build. Para uma verificação segura, abra a aplicação correta, confira o status, revise <strong>Deploys</strong>, use <strong>Logs</strong> e só compartilhe mensagens depois de revisar dados sensíveis.</p>
+</article>
+
+<section class="seo">
+<h2>Bloco SEO</h2>
+<dl>
+  <dt>Título nativo</dt><dd>LOGS DO DEPLOY STAYCLOUD</dd>
+  <dt>Título SEO</dt><dd>Logs do Deploy StayCloud: consulte em 5 passos</dd>
+  <dt>Palavra-chave</dt><dd>logs do Deploy StayCloud</dd>
+  <dt>Slug</dt><dd>logs-deploy-staycloud</dd>
+  <dt>Meta description</dt><dd>Veja como consultar os logs do Deploy StayCloud, acompanhar o status da publicação e identificar se sua aplicação foi concluída ou apresentou erro.</dd>
+  <dt>Categoria</dt><dd>Painel novo</dd>
+  <dt>Tags</dt><dd>Deploy, Logs, Status, Aplicações, Desenvolvimento, StayCloud</dd>
+  <dt>Links internos</dt><dd>Ativação do Deploy, Primeiro deploy, CLI Deploy StayCloud</dd>
+</dl>
+</section>
+</main>
+</body>
+</html>

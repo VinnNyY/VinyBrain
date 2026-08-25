@@ -1,0 +1,51 @@
+[
+  {
+    "file": "01-projeto-publicado-sanitizado.png",
+    "id": 2930,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-projeto-publicado-sanitizado.png",
+    "alt": "Projeto publicado para publicar nova versão StayCloud",
+    "title": "Projeto publicado no Cloud"
+  },
+  {
+    "file": "02-versao-atual-sanitizado.png",
+    "id": 2931,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-versao-atual-sanitizado.png",
+    "alt": "Versão atual antes de publicar nova versão StayCloud",
+    "title": "Versão atual publicada"
+  },
+  {
+    "file": "03-alteracao-projeto-sanitizado.png",
+    "id": 2932,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-alteracao-projeto-sanitizado.png",
+    "alt": "Alteração local antes de publicar nova versão StayCloud",
+    "title": "Alteração local do projeto"
+  },
+  {
+    "file": "04-nova-publicacao-sanitizado.png",
+    "id": 2933,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-nova-publicacao-sanitizado.png",
+    "alt": "Comando para publicar nova versão StayCloud",
+    "title": "Comando de nova publicação"
+  },
+  {
+    "file": "05-processamento-sanitizado.png",
+    "id": 2934,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-processamento-sanitizado.png",
+    "alt": "Status após publicar nova versão StayCloud",
+    "title": "Status após novo deploy"
+  },
+  {
+    "file": "06-conclusao-sanitizado.png",
+    "id": 2935,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-conclusao-sanitizado.png",
+    "alt": "Projeto pronto após publicar nova versão StayCloud",
+    "title": "Projeto pronto no painel"
+  },
+  {
+    "file": "07-nova-versao-publicada-sanitizado.png",
+    "id": 2936,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/07-nova-versao-publicada-sanitizado.png",
+    "alt": "Nova versão publicada pelo Deploy StayCloud",
+    "title": "Nova versão publicada"
+  }
+]

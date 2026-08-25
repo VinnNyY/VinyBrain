@@ -1,0 +1,30 @@
+{
+  "captures": [
+    {
+      "file": "01-aplicacao-correta-sanitizado.png",
+      "target": "tutorial-deploy-cli-teste"
+    },
+    {
+      "file": "02-status-deploy-sanitizado.png",
+      "target": "status pronto"
+    },
+    {
+      "file": "03-historico-execucao-sanitizado.png",
+      "target": "registro de deploy com status pronto"
+    },
+    {
+      "file": "04-aba-logs-sanitizado.png",
+      "target": "aba Logs"
+    },
+    {
+      "file": "05-conteudo-logs-sanitizado.png",
+      "target": "linha segura do log de build"
+    },
+    {
+      "file": "06-aplicacao-disponivel-sanitizado.png",
+      "target": "botão Abrir"
+    }
+  ],
+  "deploysBody": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git Todos projetos PROJETO · [ID CENSURADO] Visão geral Deploys Logs Domínios Variáveis edge global · São Paulo + CDN StayCloud ~/CLOUD › tutorial-deploy-cli-teste tutorial-deploy-cli-teste online blank · sao-1 · [dominio censurado] Abrir ~/CLOUD/[ID CENSURADO]/DEPLOYS Deploys Histórico completo de builds. Reimplante ou inspecione os logs de qualquer deploy. exportar atualizar Novo deploy Deploy pelo terminal (CLI) 0 tokens deste projeto Publique este projeto direto do terminal com npx @staysdev/setup init. ver todas as integrações gerar token deste projeto Nenhum token deste projeto ainda. Gere um pra publicar pelo terminal. TOTAL 1 deploys PRODUÇÃO 1 no ar BUILD · ATIVOS 0 em execução FALHA 0 a investigar Todas as branches Todos os autores Últimos 30 dias Todos 1 Pronto 1 Build 0 Falha 0 pronto [ID censurado] produção 23s há 16 h visualizar logs Deploys · tutorial-deploy-cli-teste · Cloud · StayCloud",
+  "logsBody": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git Todos projetos PROJETO · [ID CENSURADO] Visão geral Deploys Logs Domínios Variáveis edge global · São Paulo + CDN StayCloud ~/CLOUD › tutorial-deploy-cli-teste tutorial-deploy-cli-teste online blank · sao-1 · [dominio censurado] Abrir ~/CLOUD/[ID CENSURADO]/LOGS Logs Build do último deploy. Use o filtro para isolar avisos e erros, ou abra um deploy específico para histórico completo. tela cheia atualizar Esta visão mostra os logs de build, que atualizam sozinhos a cada 2s. Logs de runtime (do site no ar) ainda não aparecem aqui. deploy atual [ID censurado] pronto tutorial-deploy-cli-teste · v1 · há 17 h ver todos os deploys FILTROS limpar NÍVEL Todos 14 Info · OK 14 Alertas 0 Erros · Fatal 0 PERÍODO Último deploy ORIGEM Build REGIÃO Todas RUNTIME Logs do site no ar ainda não estão disponíveis nesta visão. 14 linhas buscar ⌘F pausar baixar log deploy enfileirado no StayCloud deploy iniciado no backend fonte validada pelo painel StayCloud artefato estático pronto (1 arquivos) [DEPLOY] preparando static para tutorial-deploy-cli-teste [DEPLOY] 1 arquivos gravados [DEPLOY] preparando pacote de publicação [DEPLOY] pacote de publicação gerado [DEPLOY] enviando pacote para publicação [DEPLOY] pacote enviado para publicação [DEPLOY] ambiente de publicação criado [DEPLOY] iniciando publicação [DEPLOY] publicação enfileirada ---------------------------------------- Logs · tutorial-deploy-cli-teste · Cloud · StayCloud"
+}

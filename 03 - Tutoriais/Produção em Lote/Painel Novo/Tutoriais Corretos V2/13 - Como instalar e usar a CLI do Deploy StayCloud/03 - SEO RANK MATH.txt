@@ -1,0 +1,66 @@
+SCORE MÍNIMO PARA APROVAÇÃO:
+80/100
+
+STATUS:
+Publicado e validado
+
+SCORE ESTIMADO LOCAL:
+86/100
+
+SCORE REAL:
+85/100
+
+TÍTULO DO ARTIGO:
+Como instalar e usar a CLI do Deploy StayCloud
+
+TÍTULO NATIVO BETTERDOCS:
+CLI DEPLOY STAYCLOUD
+
+PALAVRA-CHAVE PRINCIPAL:
+CLI Deploy StayCloud
+
+PALAVRA-CHAVE SECUNDÁRIA:
+instalar CLI StayCloud
+
+TÍTULO SEO:
+CLI Deploy StayCloud: como instalar e usar
+
+SLUG:
+cli-deploy-staycloud
+
+META DESCRIPTION:
+Aprenda a instalar e usar a CLI Deploy StayCloud, conectar seu projeto e executar o comando de publicação com segurança.
+
+EXCERPT:
+Veja como usar a CLI Deploy StayCloud pelo Painel Novo, gerar o comando oficial, conectar o projeto local e publicar pelo terminal.
+
+CATEGORIA:
+Painel novo
+
+TAGS:
+Deploy, CLI, Terminal, Desenvolvimento, Aplicações, StayCloud
+
+QUANTIDADE DE PALAVRAS:
+992
+
+LINKS INTERNOS:
+https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/
+https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/
+
+LINKS EXTERNOS:
+Nenhum.
+
+IMAGEM COM PALAVRA-CHAVE NO ALT:
+PRINT 01: CLI Deploy StayCloud no card Deploy via CLI do Painel Novo
+
+CHECKLIST:
+
+- palavra-chave no primeiro parágrafo;
+- palavra-chave em H2;
+- variação em H3;
+- slug definido;
+- meta description definida;
+- dois links internos reais;
+- comandos sanitizados;
+- seis imagens planejadas;
+- score real 85/100 validado no WordPress.

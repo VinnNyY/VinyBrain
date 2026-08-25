@@ -1,0 +1,62 @@
+{
+  "adjustedAt": "2026-07-30T11:10:18.814Z",
+  "results": [
+    {
+      "id": 2885,
+      "slug": "ativar-deploy-staycloud",
+      "beforeTitle": "Como ativar o Deploy no Painel Novo da StayCloud em 4 passos",
+      "afterTitle": "DEPLOY STAYCLOUD NO PAINEL NOVO",
+      "expectedH1": "Como ativar o Deploy no Painel Novo da StayCloud em 4 passos",
+      "publicValidation": {
+        "url": "https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/",
+        "status": 200,
+        "documentTitle": "Ativar Deploy StayCloud pelo Painel Novo em 4 passos",
+        "h1s": [
+          "Qual sua dúvida?",
+          "DEPLOY STAYCLOUD NO PAINEL NOVO",
+          "Como ativar o Deploy no Painel Novo da StayCloud em 4 passos #"
+        ],
+        "containsNativeTitle": true,
+        "containsExpectedH1": true
+      }
+    },
+    {
+      "id": 2896,
+      "slug": "primeiro-deploy-staycloud",
+      "beforeTitle": "Como fazer o primeiro deploy na StayCloud",
+      "afterTitle": "PRIMEIRO DEPLOY STAYCLOUD",
+      "expectedH1": "Como fazer o primeiro deploy na StayCloud",
+      "publicValidation": {
+        "url": "https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/",
+        "status": 200,
+        "documentTitle": "Primeiro deploy StayCloud: veja como publicar",
+        "h1s": [
+          "Qual sua dúvida?",
+          "PRIMEIRO DEPLOY STAYCLOUD",
+          "Como fazer o primeiro deploy na StayCloud #"
+        ],
+        "containsNativeTitle": true,
+        "containsExpectedH1": true
+      }
+    },
+    {
+      "id": 2909,
+      "slug": "cli-deploy-staycloud",
+      "beforeTitle": "Como instalar e usar a CLI do Deploy StayCloud",
+      "afterTitle": "CLI DEPLOY STAYCLOUD",
+      "expectedH1": "Como instalar e usar a CLI Deploy StayCloud",
+      "publicValidation": {
+        "url": "https://ajuda.staycloud.com.br/docs/cli-deploy-staycloud/",
+        "status": 200,
+        "documentTitle": "CLI Deploy StayCloud: como instalar e usar",
+        "h1s": [
+          "Qual sua dúvida?",
+          "CLI DEPLOY STAYCLOUD",
+          "Como instalar e usar a CLI Deploy StayCloud #"
+        ],
+        "containsNativeTitle": true,
+        "containsExpectedH1": true
+      }
+    }
+  ]
+}

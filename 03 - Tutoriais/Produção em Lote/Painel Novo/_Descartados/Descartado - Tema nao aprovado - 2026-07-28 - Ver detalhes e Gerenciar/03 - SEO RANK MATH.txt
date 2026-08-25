@@ -1,0 +1,56 @@
+Palavra-chave principal:
+Ver detalhes e Gerenciar StayCloud
+
+Palavra-chave secundária:
+diferença entre Ver detalhes e Gerenciar
+
+Título SEO:
+Ver detalhes e Gerenciar StayCloud: qual a diferença?
+
+Slug:
+ver-detalhes-gerenciar-staycloud
+
+Meta description:
+Entenda a diferença entre Ver detalhes e Gerenciar StayCloud, saiba qual botão utilizar e evite acessar a área errada no Painel Novo.
+
+Resumo / excerpt:
+Veja a diferença entre Ver detalhes e Gerenciar StayCloud no Painel Novo e saiba quando usar cada opção para consultar informações ou acessar recursos do serviço.
+
+Categoria:
+Painel novo
+
+Tags:
+- Painel Novo
+- Gerenciar
+- Serviços
+- Navegação
+- StayCloud
+
+Social:
+- Título: Ver detalhes e Gerenciar StayCloud no Painel Novo
+- Descrição: Entenda quando usar detalhes e quando clicar em Gerenciar para acessar os recursos do serviço no Painel Novo da StayCloud.
+
+ALT principal:
+Ver detalhes e Gerenciar StayCloud destacados no card do serviço no Painel Novo
+
+Links internos validados:
+- https://ajuda.staycloud.com.br/docs/localizar-arquivos-staycloud/ — HTTP 200
+- https://ajuda.staycloud.com.br/docs/como-acessar-o-cpanel-painel-novo/ — HTTP 200
+- https://ajuda.staycloud.com.br/docs/consultar-faturas-staycloud/ — HTTP 200
+
+Checklist Rank Math preparado:
+- Palavra-chave no H1: sim.
+- Palavra-chave no primeiro parágrafo: sim.
+- Palavra-chave nas primeiras 100 palavras: sim.
+- Palavra-chave em H2: sim.
+- Variação em H3: sim.
+- Palavra-chave no corpo: sim.
+- Palavra-chave no ALT: sim.
+- Palavra-chave no título SEO: sim.
+- Palavra-chave na meta description: sim.
+- Palavra-chave no slug: sim.
+- Dois links internos reais: sim.
+- Score real: aguardando WordPress / Rank Math após aprovação.
+
+Observação editorial:
+Na interface validada em 2026-07-28, o controle equivalente a `Ver detalhes` aparece como `Expandir detalhes`. O tutorial preserva a intenção do tema e explica o nome real exibido pelo Painel Novo.

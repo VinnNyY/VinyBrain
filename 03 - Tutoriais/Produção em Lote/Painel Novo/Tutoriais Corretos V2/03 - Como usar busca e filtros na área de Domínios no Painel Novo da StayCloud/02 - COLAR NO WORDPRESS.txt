@@ -1,0 +1,68 @@
+<h1>Como usar busca e filtros na área de Domínios no Painel Novo da StayCloud</h1>
+<p>Para buscar domínio no Painel Novo da StayCloud, acesse a área de Domínios, use o campo de busca e aplique os filtros disponíveis na lista. Esse caminho serve para consulta e navegação, sem registrar, transferir, renovar, excluir ou alterar configurações do domínio.</p>
+<p>A busca ajuda quando a conta tem vários domínios, quando você lembra apenas parte do nome ou quando precisa conferir se um domínio aparece em um status específico.</p>
+<h2>Quando usar a busca de domínios</h2>
+<p>Use a busca quando quiser encontrar rapidamente um domínio já vinculado à conta ou reduzir a quantidade de itens exibidos. Ela também é útil antes de abrir um chamado.</p>
+<p>Se a sua intenção for comprar um novo domínio, consulte o tutorial <a href="https://ajuda.staycloud.com.br/docs/comprar-dominio-staycloud/">Comprar domínio StayCloud pelo painel</a>. Se você precisa conferir uma configuração de nameservers, veja <a href="https://ajuda.staycloud.com.br/docs/alterar-nameservers-staycloud/">Alterar nameservers StayCloud pelo painel</a>. Aqui o foco é apenas localizar e filtrar informações.</p>
+<h2>Antes de começar</h2>
+<ul>
+  <li>Entre no Painel Novo da StayCloud com um usuário válido.</li>
+  <li>Tenha em mãos o nome completo ou parte do domínio que deseja consultar.</li>
+  <li>Confira se você está na conta correta antes de interpretar a lista.</li>
+  <li>Não clique em opções de registro, transferência, renovação, DNS ou exclusão durante esta consulta.</li>
+</ul>
+<h2>Como buscar domínio no Painel Novo</h2>
+<p>A área de Domínios reúne a lista de domínios da conta e mostra controles para pesquisa e filtragem. Siga os passos abaixo sem avançar para ações de configuração.</p>
+<h3>1. Abra a área de Domínios</h3>
+<p>No menu lateral do Painel Novo, clique em <strong>Domínios</strong>. Ao abrir a página, confirme se o título exibido é <strong>Seus domínios</strong>.</p>
+<p>A tela de Domínios pode exibir botões de transferência ou registro no topo. Não use esses botões neste procedimento, porque eles pertencem a fluxos diferentes. Para este tutorial, permaneça na lista e nos controles de consulta.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-menu-dominios-sanitizado.png" alt="Menu Domínios destacado para buscar domínio no Painel Novo da StayCloud.">
+  <figcaption>Clique em Domínios no menu lateral para abrir a lista da conta.</figcaption>
+</figure>
+<h3>2. Pesquise o domínio desejado</h3>
+<p>Na parte superior da lista, localize o campo <strong>Buscar domínio...</strong>. Digite o domínio completo ou apenas uma parte do nome. Por exemplo, se você não lembra a extensão ou quer reduzir a lista, pesquise somente o trecho principal do domínio.</p>
+<p>Depois de digitar, observe a área de resultados. O painel atualiza a lista conforme a busca e mantém um ícone de limpeza dentro do campo. Use esse ícone quando quiser remover o texto pesquisado e voltar à visualização sem busca.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-campo-busca-dominios-sanitizado.png" alt="Campo Buscar domínio destacado na área de Domínios do Painel Novo.">
+  <figcaption>Use o campo Buscar domínio para digitar o nome completo ou parte do domínio.</figcaption>
+</figure>
+<h3>3. Utilize os filtros disponíveis</h3>
+<p>Ao lado do campo de busca, use as abas de filtro exibidas pelo painel: <strong>todos</strong>, <strong>ativos</strong>, <strong>expirando em 30d</strong>, <strong>vencidos</strong> e <strong>cancelados</strong>. Cada filtro mostra apenas os domínios que se encaixam naquele grupo.</p>
+<p>Esses filtros ajudam a reduzir a lista sem alterar nenhum domínio. Se você clicar em <strong>ativos</strong>, por exemplo, a tela deve exibir somente os domínios classificados como ativos naquela conta.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-filtros-dominios-sanitizado.png" alt="Filtros todos, ativos, expirando em 30d, vencidos e cancelados na área de Domínios.">
+  <figcaption>Use os filtros disponíveis para reduzir a lista por grupo de domínio.</figcaption>
+</figure>
+<h3>4. Confira os resultados da busca</h3>
+<p>Depois de pesquisar ou filtrar, confira a mensagem e o contador da lista. Quando não houver itens correspondentes, o painel pode mostrar <strong>Nenhum domínio encontrado para esse filtro</strong> e um contador como <strong>0 de 0 domínios</strong>. Isso significa que a busca ou o filtro atual não encontrou domínio para exibir naquela conta.</p>
+<p>Se a lista aparecer reduzida, revise se o texto digitado está correto e se o filtro selecionado faz sentido. Para pesquisar novamente, limpe o campo de busca ou volte para o filtro <strong>todos</strong>.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-resultado-busca-sanitizado.png" alt="Resultado vazio ao buscar domínio no Painel Novo da StayCloud.">
+  <figcaption>Quando nada corresponder à busca ou ao filtro, confira a mensagem e o contador da lista.</figcaption>
+</figure>
+<h2>O que fazer quando o domínio não aparece</h2>
+<ul>
+  <li>Confira se você digitou o nome sem erro de letra, hífen ou extensão.</li>
+  <li>Limpe a busca e tente pesquisar apenas parte do domínio.</li>
+  <li>Volte para o filtro <strong>todos</strong> para remover recortes por status.</li>
+  <li>Confirme se você está acessando a conta correta no Painel Novo.</li>
+  <li>Se o domínio ainda não aparecer, abra um chamado com o domínio procurado e o resultado exibido.</li>
+</ul>
+<h2>Erros comuns ao pesquisar domínios</h2>
+<ul>
+  <li>Pesquisar na barra global do topo em vez do campo <strong>Buscar domínio...</strong> da lista.</li>
+  <li>Usar um filtro como <strong>vencidos</strong> e esquecer de voltar para <strong>todos</strong>.</li>
+  <li>Digitar o domínio com extensão diferente da esperada.</li>
+  <li>Confundir a área de Domínios com a Loja, que é usada para contratação.</li>
+  <li>Clicar em botões de registro ou transferência durante uma consulta simples.</li>
+</ul>
+<h2>Dúvidas frequentes</h2>
+<h3>A busca altera alguma configuração do domínio?</h3>
+<p>Não. A busca apenas filtra a lista exibida na tela. Ela não altera DNS, nameservers, renovação, registro ou qualquer dado do domínio.</p>
+<h3>Posso pesquisar só parte do nome?</h3>
+<p>Sim. Você pode digitar uma parte do domínio para reduzir a lista e localizar o item com mais facilidade.</p>
+<h3>O que significa lista vazia?</h3>
+<p>Lista vazia significa que a busca ou o filtro atual não encontrou domínio para exibir. Antes de concluir que o domínio não está na conta, limpe a busca, volte para <strong>todos</strong> e confirme se está na conta certa.</p>
+<h2>Conclusão</h2>
+<p>Agora você sabe como buscar domínio no Painel Novo da StayCloud, aplicar os filtros disponíveis e interpretar uma lista vazia ou reduzida. Use esse procedimento apenas para consulta e navegação. Para qualquer alteração de domínio, siga o tutorial específico ou fale com o suporte antes de avançar.</p>

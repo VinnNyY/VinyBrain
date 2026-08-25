@@ -1,0 +1,56 @@
+# SEO Rank Math
+
+Status:
+Bloqueado aguardando validação do fluxo real no Painel Novo.
+
+Título:
+Como alterar a senha de uma conta de e-mail no Painel Novo da StayCloud
+
+Tipo:
+Refatoração do artigo existente.
+
+URL e slug a preservar:
+https://ajuda.staycloud.com.br/docs/alterar-senha-de-e-mail/
+
+Palavra-chave principal:
+alterar senha de e-mail StayCloud
+
+Palavra-chave secundária:
+alterar senha de e-mail no Painel Novo
+
+Título SEO sugerido:
+Alterar senha de e-mail StayCloud pelo Painel Novo
+
+Slug:
+alterar-senha-de-e-mail
+
+Meta description sugerida:
+Aprenda a alterar a senha de e-mail StayCloud pelo Painel Novo, localizar a conta correta e definir uma nova senha com segurança.
+
+Categoria:
+Painel novo
+
+Tags:
+- E-mail
+- Senha
+- Painel Novo
+- Segurança
+- StayCloud
+
+Links internos a confirmar antes da publicação:
+- https://ajuda.staycloud.com.br/docs/como-criar-email-no-painel-novo/
+- https://ajuda.staycloud.com.br/docs/acessar-webmail-email-profissional/
+- https://ajuda.staycloud.com.br/docs/consultar-uso-email-painel-novo/
+
+Gate Rank Math:
+- palavra-chave ativa como chip;
+- título SEO;
+- slug preservado;
+- meta description;
+- excerpt;
+- primeiro parágrafo;
+- H2;
+- variação em H3;
+- ALT;
+- links internos;
+- score mínimo real 80 antes da atualização pública.

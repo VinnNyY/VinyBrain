@@ -1,0 +1,18 @@
+{
+  "status": "publicado",
+  "published_at": "2026-07-27T13:50:31.067Z",
+  "id": 2843,
+  "link": "https://ajuda.staycloud.com.br/docs/central-de-ajuda-staycloud/",
+  "slug": "central-de-ajuda-staycloud",
+  "category_taxonomy": "doc_category",
+  "category_id": 17,
+  "tag_taxonomy": "doc_tag",
+  "tag_ids": [
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "rank_math_meta_sent": true
+}

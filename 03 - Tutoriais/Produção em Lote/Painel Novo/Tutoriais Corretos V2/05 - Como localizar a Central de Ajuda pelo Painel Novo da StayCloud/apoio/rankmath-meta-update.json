@@ -1,0 +1,35 @@
+{
+  "updated_at": "2026-07-27T14:19:06.756Z",
+  "post_id": 2843,
+  "values": {
+    "title": "Central de Ajuda StayCloud: como acessar pelo Painel Novo",
+    "slug": "central-de-ajuda-staycloud",
+    "description": "Aprenda a localizar a Central de Ajuda StayCloud pelo Painel Novo, pesquisar tutoriais e encontrar rapidamente orientações para sua conta e serviços.",
+    "focus": "Central de Ajuda StayCloud",
+    "excerpt": "Acesse a Central de Ajuda StayCloud pelo Painel Novo e encontre tutoriais para solucionar dúvidas sobre sua conta e seus serviços.",
+    "socialTitle": "Central de Ajuda StayCloud pelo Painel Novo",
+    "socialDescription": "Veja como acessar a Central de Ajuda StayCloud, pesquisar tutoriais e encontrar orientações para sua conta e serviços.",
+    "socialImage": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-menu-suporte-sanitizado.png",
+    "socialImageId": "2838"
+  },
+  "result": {
+    "rankStatus": 200,
+    "rankText": "{\"slug\":true,\"schemas\":[]}",
+    "postStatus": 200,
+    "postText": "{\"id\":2843,\"date\":\"2026-07-27T10:50:30\",\"date_gmt\":\"2026-07-27T13:50:30\",\"guid\":{\"rendered\":\"https:\\/\\/ajuda.staycloud.com.br\\/docs\\/central-de-ajuda-staycloud\\/\",\"raw\":\"https:\\/\\/ajuda.staycloud.com.br\\/docs\\/central-de-ajuda-staycloud\\/\"},\"modified\":\"2026-07-27T11:19:06\",\"modified_gmt\":\"2026-07-27T14:19:06\",\"password\":\"\",\"slug\":\"central-de-ajuda-staycloud\",\"status\":\"publish\",\"type\":\"docs\",\"link\":\"https:\\/\\/ajuda.staycloud.com.br\\/docs\\/central-de-ajuda-staycloud\\/\",\"title\":{\"raw\":\"Como localizar a Central de Ajuda pelo Painel Novo da StayCloud\",\"rendered\":\"Como localizar a Central de Ajuda pelo Painel Novo da StayCloud\"},\"content\":{\"raw\":\"<p>A <strong>Central de Ajuda StayCloud<\\/strong> fica dentro da \\u00e1rea de Suporte do Painel Novo e re\\u00fane tutoriais para orientar tarefas comuns da conta. Use este caminho quando quiser pesquisar uma d\\u00favida antes de abrir um chamado ou quando precisar encontrar rapidamente uma orienta\\u00e7\\u00e3o sobre painel, hospedagem, e-mail, dom\\u",
+    "meta": {
+      "rank_math_focus_keyword": "Central de Ajuda StayCloud",
+      "rank_math_title": "Central de Ajuda StayCloud: como acessar pelo Painel Novo",
+      "rank_math_description": "Aprenda a localizar a Central de Ajuda StayCloud pelo Painel Novo, pesquisar tutoriais e encontrar rapidamente orientações para sua conta e serviços.",
+      "rank_math_facebook_title": "Central de Ajuda StayCloud pelo Painel Novo",
+      "rank_math_facebook_description": "Veja como acessar a Central de Ajuda StayCloud, pesquisar tutoriais e encontrar orientações para sua conta e serviços.",
+      "rank_math_facebook_image": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-menu-suporte-sanitizado.png",
+      "rank_math_facebook_image_id": "2838",
+      "rank_math_twitter_use_facebook": "off",
+      "rank_math_twitter_title": "Central de Ajuda StayCloud pelo Painel Novo",
+      "rank_math_twitter_description": "Veja como acessar a Central de Ajuda StayCloud, pesquisar tutoriais e encontrar orientações para sua conta e serviços.",
+      "rank_math_twitter_image": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-menu-suporte-sanitizado.png",
+      "rank_math_twitter_image_id": "2838"
+    }
+  }
+}

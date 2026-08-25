@@ -1,0 +1,18 @@
+{
+  "modo": "simples",
+  "nome": "Subir tutorial de faturas",
+  "descricao": "Registro rápido criado a partir do Viny Brain.",
+  "responsavel": "Vinicius",
+  "prioridade": "Média",
+  "status_inicial": "Pendente",
+  "prazo": "2026-07-03",
+  "tags": ["viny-brain", "captura-rapida"],
+  "checklist": [
+    "Subir o tutorial de faturas",
+    "Conferir a publicação",
+    "Marcar como concluído"
+  ],
+  "criterio_conclusao": "Tutorial enviado e conferido no ClickUp.",
+  "origem": "Viny Brain",
+  "observacoes_internas": "Demanda simples capturada para execução direta."
+}

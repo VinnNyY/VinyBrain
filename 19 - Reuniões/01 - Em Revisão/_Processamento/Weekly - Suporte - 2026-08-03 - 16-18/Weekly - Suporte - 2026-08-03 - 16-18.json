@@ -1,0 +1,4077 @@
+{
+  "language": "pt",
+  "language_probability": 1,
+  "duration": 1205.4186875,
+  "duration_after_vad": 1140.4426875,
+  "model": "faster-whisper/small",
+  "device": "cpu",
+  "compute_type": "int8",
+  "alignment": "not_run",
+  "diarization": "not_run",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 10.13,
+      "text": "e não o ligar deаботar",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 2,
+      "start": 10.81,
+      "end": 13.09,
+      "text": "e ebe",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 3,
+      "start": 13.09,
+      "end": 15.97,
+      "text": "e ebe",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 4,
+      "start": 15.97,
+      "end": 17.71,
+      "text": "e ebe",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 5,
+      "start": 17.71,
+      "end": 21.51,
+      "text": "ebiiiiiii",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 6,
+      "start": 21.51,
+      "end": 24.5,
+      "text": "ebiiiiiii",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 7,
+      "start": 24.5,
+      "end": 25.56,
+      "text": "ebiiiiiii",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 8,
+      "start": 25.56,
+      "end": 27.52,
+      "text": "o lisão",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 9,
+      "start": 27.52,
+      "end": 30.52,
+      "text": "o cara se saia abaixo um pouquinho",
+      "avg_logprob": -2.518280264047476,
+      "no_speech_prob": 0.46964672207832336
+    },
+    {
+      "id": 10,
+      "start": 30.52,
+      "end": 48.24,
+      "text": "Pronto, resolvi. Bom, eu acho que preciso apresentar a minha tela aqui, vou partilhar.",
+      "avg_logprob": -0.5856870676462467,
+      "no_speech_prob": 0.7225935459136963
+    },
+    {
+      "id": 11,
+      "start": 48.24,
+      "end": 74.05,
+      "text": "Vou apresentar aqui para vocês algumas novidades que eu reparei para a equipe suposta.",
+      "avg_logprob": -0.5856870676462467,
+      "no_speech_prob": 0.7225935459136963
+    },
+    {
+      "id": 12,
+      "start": 75.05,
+      "end": 82.85,
+      "text": "Alguns de vocês já viram que criamos uma ferramente nova que fica aplicada no Zendesk.",
+      "avg_logprob": -0.3937332896476096,
+      "no_speech_prob": 0.7441487312316895
+    },
+    {
+      "id": 13,
+      "start": 82.85,
+      "end": 89.85,
+      "text": "Vocês vão ganhar conta de maneira facilitada e fazer a escalada do ticket também de maneira facilitada.",
+      "avg_logprob": -0.3937332896476096,
+      "no_speech_prob": 0.7441487312316895
+    },
+    {
+      "id": 14,
+      "start": 89.85,
+      "end": 95.04,
+      "text": "Eu vou falar um pouquinho sobre isso aqui, vocês vão tirar nas dúvidas, ok?",
+      "avg_logprob": -0.3937332896476096,
+      "no_speech_prob": 0.7441487312316895
+    },
+    {
+      "id": 15,
+      "start": 95.04,
+      "end": 100.2,
+      "text": "Bom, primeiro de tudo, aqui é uma redeante do que a gente vai ver.",
+      "avg_logprob": -0.3937332896476096,
+      "no_speech_prob": 0.7441487312316895
+    },
+    {
+      "id": 16,
+      "start": 100.2,
+      "end": 104.38,
+      "text": "Eu vou falar um pouquinho sobre o que eu acho que a gente vai pedir aqui.",
+      "avg_logprob": -0.4341199639297667,
+      "no_speech_prob": 0.354579895734787
+    },
+    {
+      "id": 17,
+      "start": 104.38,
+      "end": 108.38,
+      "text": "Mas, basicamente, o jocamente é chamada BMCS Finder.",
+      "avg_logprob": -0.4341199639297667,
+      "no_speech_prob": 0.354579895734787
+    },
+    {
+      "id": 18,
+      "start": 108.38,
+      "end": 112.38,
+      "text": "Ela pergunta se abrir a conta na hora para você listar o serviço.",
+      "avg_logprob": -0.4341199639297667,
+      "no_speech_prob": 0.354579895734787
+    },
+    {
+      "id": 19,
+      "start": 112.38,
+      "end": 115.57,
+      "text": "Tá vendo?",
+      "avg_logprob": -0.4341199639297667,
+      "no_speech_prob": 0.354579895734787
+    },
+    {
+      "id": 20,
+      "start": 115.57,
+      "end": 121.24,
+      "text": "Ela lista todos os serviços dos clientes, ela tem algumas ações rápidas.",
+      "avg_logprob": -0.4341199639297667,
+      "no_speech_prob": 0.354579895734787
+    },
+    {
+      "id": 21,
+      "start": 121.24,
+      "end": 124.24,
+      "text": "O principal dela, que eu acho, é o botão de escalada de ingredientes.",
+      "avg_logprob": -0.4341199639297667,
+      "no_speech_prob": 0.354579895734787
+    },
+    {
+      "id": 22,
+      "start": 124.24,
+      "end": 127.24,
+      "text": "Então, hoje vocês não precisam mais ficar naquela lã-ruta da merda,",
+      "avg_logprob": -0.4341199639297667,
+      "no_speech_prob": 0.354579895734787
+    },
+    {
+      "id": 23,
+      "start": 127.24,
+      "end": 131.24,
+      "text": "você não está lá em príncipe 2, então talvez você procureu.",
+      "avg_logprob": -0.27821924441283746,
+      "no_speech_prob": 0.05250435322523117
+    },
+    {
+      "id": 24,
+      "start": 131.24,
+      "end": 137.27,
+      "text": "De maneira que você tem que ficar procurando tickets para depois rodar a marca,",
+      "avg_logprob": -0.27821924441283746,
+      "no_speech_prob": 0.05250435322523117
+    },
+    {
+      "id": 25,
+      "start": 137.27,
+      "end": 141.27,
+      "text": "ela faz tudo para vocês, vocês vão ter que preencher as informações que ela precisa.",
+      "avg_logprob": -0.27821924441283746,
+      "no_speech_prob": 0.05250435322523117
+    },
+    {
+      "id": 26,
+      "start": 141.27,
+      "end": 148.33,
+      "text": "Agora, a gente vai parar de usar o PIN para o cliente como ferramenta de identificação dele.",
+      "avg_logprob": -0.27821924441283746,
+      "no_speech_prob": 0.05250435322523117
+    },
+    {
+      "id": 27,
+      "start": 148.33,
+      "end": 150.33,
+      "text": "A gente vai utilizar o e-mail.",
+      "avg_logprob": -0.27821924441283746,
+      "no_speech_prob": 0.05250435322523117
+    },
+    {
+      "id": 28,
+      "start": 150.33,
+      "end": 155.33,
+      "text": "Então, a partir de agora, a maioria das contas já convinto o e-mail atrelado nela",
+      "avg_logprob": -0.27821924441283746,
+      "no_speech_prob": 0.05250435322523117
+    },
+    {
+      "id": 29,
+      "start": 155.33,
+      "end": 161.33,
+      "text": "e o WMCS Finder já vai muito para se arrastar com as informações do cliente lá,",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 30,
+      "start": 161.33,
+      "end": 163.33,
+      "text": "bem expostas para vocês.",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 31,
+      "start": 163.33,
+      "end": 167.33,
+      "text": "Porém, Trinando, é bom que alguns casos que a conta não vai ser encontrada diretamente.",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 32,
+      "start": 167.33,
+      "end": 170.33,
+      "text": "Então, neste momento, é o momento que vocês vão precisar",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 33,
+      "start": 170.33,
+      "end": 174.33,
+      "text": "para pedir o cliente o e-mail dele e vim pular a conta para que no futuro",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 34,
+      "start": 174.33,
+      "end": 176.33,
+      "text": "ninguém precise terminar mais, entendeu?",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 35,
+      "start": 176.33,
+      "end": 180.33,
+      "text": "A maioria das contas já vem, mas algumas não estão com pressão de WhatsApp.",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 36,
+      "start": 180.33,
+      "end": 185.55,
+      "text": "Então, a gente vai acabar gerando de diferença, fechou?",
+      "avg_logprob": -0.3242334168532799,
+      "no_speech_prob": 0.22127413749694824
+    },
+    {
+      "id": 37,
+      "start": 185.55,
+      "end": 190.55,
+      "text": "E, aqui, é um localzinho de como vocês vão chegar na conta do cliente.",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 38,
+      "start": 190.55,
+      "end": 195.55,
+      "text": "Basicamente, vocês podem clicar em abrir o WMCS que vai abrir.",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 39,
+      "start": 195.55,
+      "end": 196.55,
+      "text": "Pode falar.",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 40,
+      "start": 196.55,
+      "end": 200.48,
+      "text": "Como é que a gente vai parar de vim pular a conta dele e desse prazer dele?",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 41,
+      "start": 200.48,
+      "end": 202.48,
+      "text": "Tem algum sistema?",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 42,
+      "start": 202.48,
+      "end": 204.48,
+      "text": "Ou só pegar o e-mail dele?",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 43,
+      "start": 204.48,
+      "end": 206.48,
+      "text": "É, é bem simples, mano.",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 44,
+      "start": 206.48,
+      "end": 208.48,
+      "text": "Dentro que você vai pegar o e-mail do cliente,",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 45,
+      "start": 208.48,
+      "end": 211.48,
+      "text": "vai colocar aqui, mas não escorcar em dois.",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 46,
+      "start": 211.48,
+      "end": 212.48,
+      "text": "Esse é o problema, ok?",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 47,
+      "start": 212.48,
+      "end": 214.48,
+      "text": "É de uma conta não vim pular.",
+      "avg_logprob": -0.38885736042583313,
+      "no_speech_prob": 0.08473703265190125
+    },
+    {
+      "id": 48,
+      "start": 214.48,
+      "end": 218.48,
+      "text": "Vocês vão colocar em todos os atendimentos que não tiverem a conta,",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 49,
+      "start": 218.48,
+      "end": 220.48,
+      "text": "vocês vão colocar o e-mail do cliente aí,",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 50,
+      "start": 220.48,
+      "end": 223.48,
+      "text": "aí o ferramento vai buscar a cúbio e nela,",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 51,
+      "start": 223.48,
+      "end": 225.48,
+      "text": "vai precisar então salvar a cliente.",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 52,
+      "start": 225.48,
+      "end": 227.48,
+      "text": "Fichou?",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 53,
+      "start": 227.48,
+      "end": 228.48,
+      "text": "Fichou?",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 54,
+      "start": 228.48,
+      "end": 231.08,
+      "text": "Fichou.",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 55,
+      "start": 231.08,
+      "end": 235.39,
+      "text": "E, mais uma vez, a respeito do cliente,",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 56,
+      "start": 235.39,
+      "end": 238.39,
+      "text": "mas eu quero que a gente trabalhe muito em cima disso aqui,",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 57,
+      "start": 238.39,
+      "end": 241.39,
+      "text": "e a parte de agora vai ser bem mais, repetir.",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 58,
+      "start": 241.39,
+      "end": 245.39,
+      "text": "É, o suporte vai estar todo completamente dividido em mim.",
+      "avg_logprob": -0.34455375994245213,
+      "no_speech_prob": 0.04134686291217804
+    },
+    {
+      "id": 59,
+      "start": 245.39,
+      "end": 248.39,
+      "text": "É, vai ser completamente dividido em mim.",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 60,
+      "start": 248.39,
+      "end": 251.39,
+      "text": "Tem o chat, o WhatsApp,",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 61,
+      "start": 251.39,
+      "end": 253.39,
+      "text": "é onde a linha de frente do atendimento,",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 62,
+      "start": 253.39,
+      "end": 254.39,
+      "text": "é onde vai cair tudo.",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 63,
+      "start": 254.39,
+      "end": 256.39,
+      "text": "Se o cliente não conseguiu resolver,",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 64,
+      "start": 256.39,
+      "end": 258.39,
+      "text": "ou for alguma demanda que necessite ticket,",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 65,
+      "start": 258.39,
+      "end": 261.39,
+      "text": "ele vai fazer a escalada técnica do ticket lá,",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 66,
+      "start": 261.39,
+      "end": 263.39,
+      "text": "no MTSS5.",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 67,
+      "start": 263.39,
+      "end": 266.39,
+      "text": "Vou mostrar pra vocês aqui, mas isso já está um prazer.",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 68,
+      "start": 266.39,
+      "end": 270.39,
+      "text": "E, se o cliente não conseguiu resolver,",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 69,
+      "start": 270.39,
+      "end": 273.39,
+      "text": "ao invés de vocês pegarem e chamarem o Gabriel Anota,",
+      "avg_logprob": -0.35708024766710067,
+      "no_speech_prob": 0.0383276604115963
+    },
+    {
+      "id": 70,
+      "start": 273.39,
+      "end": 277.39,
+      "text": "vocês vão pegar e vão fazer a escalada pra N3.",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 71,
+      "start": 277.39,
+      "end": 280.39,
+      "text": "Porém, todo ticket tem que ter a investigação",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 72,
+      "start": 280.39,
+      "end": 286.45,
+      "text": "antes de vocês pegarem e fazerem a escalada do caso.",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 73,
+      "start": 286.45,
+      "end": 289.45,
+      "text": "Então, essa escalada você é procedido documental que foi feito",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 74,
+      "start": 289.45,
+      "end": 291.45,
+      "text": "pra não ter resultância de processos",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 75,
+      "start": 291.45,
+      "end": 295.45,
+      "text": "e investigar exatamente o que a gente precisa saber",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 76,
+      "start": 295.45,
+      "end": 298.45,
+      "text": "na continuidade do atendimento.",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 77,
+      "start": 298.45,
+      "end": 301.83,
+      "text": "Então, é basicamente isso aqui,",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 78,
+      "start": 301.83,
+      "end": 302.83,
+      "text": "não conseguiu resolver o chat,",
+      "avg_logprob": -0.17673492220650733,
+      "no_speech_prob": 0.034715451300144196
+    },
+    {
+      "id": 79,
+      "start": 302.83,
+      "end": 303.83,
+      "text": "a escalada pra ticket.",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 80,
+      "start": 303.83,
+      "end": 306.83,
+      "text": "Não ficam perdendo tempo com a demanda que vocês não sabem.",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 81,
+      "start": 306.83,
+      "end": 308.83,
+      "text": "E depois o N3 ou o N2, você pode pegar,",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 82,
+      "start": 308.83,
+      "end": 310.83,
+      "text": "você pode virar e procurar essa pessoa",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 83,
+      "start": 310.83,
+      "end": 312.83,
+      "text": "e pedir um feedback por quem foi a solução do caso,",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 84,
+      "start": 312.83,
+      "end": 313.83,
+      "text": "ou então vocês podem,",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 85,
+      "start": 313.83,
+      "end": 315.83,
+      "text": "vocês mesmos, entraram no ticket depois",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 86,
+      "start": 315.83,
+      "end": 317.83,
+      "text": "e darem uma vida no que está lá.",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 87,
+      "start": 317.83,
+      "end": 319.83,
+      "text": "Se o N2 pegou um ticket completo,",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 88,
+      "start": 319.83,
+      "end": 321.83,
+      "text": "se não conseguiu resolver,",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 89,
+      "start": 321.83,
+      "end": 323.83,
+      "text": "escalada pra N3.",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 90,
+      "start": 323.83,
+      "end": 326.83,
+      "text": "Então, isso vai fazer um ciclo do sport",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 91,
+      "start": 326.83,
+      "end": 328.83,
+      "text": "de girar muito melhor do que ele está girando hoje.",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 92,
+      "start": 328.83,
+      "end": 331.83,
+      "text": "Então, a gente não vai ter aquela parada mais de",
+      "avg_logprob": -0.23765857553198225,
+      "no_speech_prob": 0.29183346033096313
+    },
+    {
+      "id": 93,
+      "start": 331.83,
+      "end": 335.99,
+      "text": "de tickets para na fila e pra embalagem, ok?",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 94,
+      "start": 335.99,
+      "end": 339.95,
+      "text": "Aqui tem um tutorial básico no escalado atendimento,",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 95,
+      "start": 339.95,
+      "end": 341.95,
+      "text": "vocês já sabem como funciona.",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 96,
+      "start": 341.95,
+      "end": 343.95,
+      "text": "Primeiro, localizar a conta, confirmar os dados",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 97,
+      "start": 343.95,
+      "end": 345.95,
+      "text": "pra ver se está anonar a conta certa,",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 98,
+      "start": 345.95,
+      "end": 347.95,
+      "text": "ver se está tudo beleza, clicar em escalar,",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 99,
+      "start": 347.95,
+      "end": 350.95,
+      "text": "vocês vão preencher e enviar.",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 100,
+      "start": 350.95,
+      "end": 352.95,
+      "text": "Lá na hora de preencher,",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 101,
+      "start": 352.95,
+      "end": 354.95,
+      "text": "eu quero que vocês coloquem uma descrição bem detalhada",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 102,
+      "start": 354.95,
+      "end": 356.95,
+      "text": "pra não chegar um ticket pro Gabriel",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 103,
+      "start": 356.95,
+      "end": 358.95,
+      "text": "e estar sem informação interna nenhuma.",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 104,
+      "start": 358.95,
+      "end": 360.95,
+      "text": "Tá apresentando lá o problema,",
+      "avg_logprob": -0.2717505089279746,
+      "no_speech_prob": 0.007873155176639557
+    },
+    {
+      "id": 105,
+      "start": 360.95,
+      "end": 362.95,
+      "text": "ele deu um problema de e-mail.",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 106,
+      "start": 362.95,
+      "end": 364.95,
+      "text": "Então, isso não faz nenhum sentido.",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 107,
+      "start": 364.95,
+      "end": 366.95,
+      "text": "Ele pegou o ticket assim e é de prova.",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 108,
+      "start": 366.95,
+      "end": 368.95,
+      "text": "Você está levando na mão ou foi o seu sucesso?",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 109,
+      "start": 368.95,
+      "end": 372.07,
+      "text": "Só isso que ele se debaixou, não.",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 110,
+      "start": 372.07,
+      "end": 374.07,
+      "text": "Tá, não é bom.",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 111,
+      "start": 374.07,
+      "end": 376.07,
+      "text": "Então, por isso que precisa estar a investigação",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 112,
+      "start": 376.07,
+      "end": 378.07,
+      "text": "que foi realizada,",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 113,
+      "start": 378.07,
+      "end": 380.07,
+      "text": "para que não chegue lá no suporte, lá na frente,",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 114,
+      "start": 380.07,
+      "end": 382.07,
+      "text": "no N3, e tenha redundância do caso.",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 115,
+      "start": 382.07,
+      "end": 384.07,
+      "text": "Fechou?",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 116,
+      "start": 384.07,
+      "end": 387.06,
+      "text": "Então, aqui,",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 117,
+      "start": 387.06,
+      "end": 389.06,
+      "text": "eu estou colocando aqui um exemplo dos dados",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 118,
+      "start": 389.06,
+      "end": 391.06,
+      "text": "que precisam ter em toda a escalação.",
+      "avg_logprob": -0.3756754014354486,
+      "no_speech_prob": 0.05771252140402794
+    },
+    {
+      "id": 119,
+      "start": 391.06,
+      "end": 393.06,
+      "text": "O primeiro é o produto,",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 120,
+      "start": 393.06,
+      "end": 395.06,
+      "text": "que é um VPS, um hospedal e um Deploy.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 121,
+      "start": 395.06,
+      "end": 397.06,
+      "text": "O tipo de demanda,",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 122,
+      "start": 397.06,
+      "end": 399.06,
+      "text": "vocês vão colocar a justificação no programa.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 123,
+      "start": 399.06,
+      "end": 401.06,
+      "text": "Se for uma VPS, vai ter um IP.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 124,
+      "start": 401.06,
+      "end": 404.15,
+      "text": "Se for hospedal de normal,",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 125,
+      "start": 404.15,
+      "end": 406.15,
+      "text": "não vai ter.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 126,
+      "start": 406.15,
+      "end": 408.15,
+      "text": "Se for VPS, você tem.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 127,
+      "start": 408.15,
+      "end": 410.15,
+      "text": "E se for hospedal de normal,",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 128,
+      "start": 410.15,
+      "end": 412.15,
+      "text": "vai ter domínio.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 129,
+      "start": 412.15,
+      "end": 414.15,
+      "text": "É bem lintiva, é só que vocês preencheram.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 130,
+      "start": 414.15,
+      "end": 416.15,
+      "text": "Seriador do cliente também.",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 131,
+      "start": 416.15,
+      "end": 418.15,
+      "text": "Título da demanda,",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 132,
+      "start": 418.15,
+      "end": 420.15,
+      "text": "isso aqui vocês vão colocar no resumo,",
+      "avg_logprob": -0.3243860490620136,
+      "no_speech_prob": 0.4140642285346985
+    },
+    {
+      "id": 133,
+      "start": 420.15,
+      "end": 422.15,
+      "text": "e isso você tem sempre que lembrar.",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 134,
+      "start": 422.15,
+      "end": 424.15,
+      "text": "Esse título da demanda,",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 135,
+      "start": 424.15,
+      "end": 426.15,
+      "text": "ele chega pro cliente.",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 136,
+      "start": 426.15,
+      "end": 428.15,
+      "text": "Ele fica no título do ticket.",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 137,
+      "start": 428.15,
+      "end": 430.15,
+      "text": "Então, é bom vocês tomarem cuidado",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 138,
+      "start": 430.15,
+      "end": 432.15,
+      "text": "no que vocês colocam.",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 139,
+      "start": 432.15,
+      "end": 437.86,
+      "text": "Investigação realizada, detalhar,",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 140,
+      "start": 437.86,
+      "end": 439.86,
+      "text": "TSP,",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 141,
+      "start": 439.86,
+      "end": 441.86,
+      "text": "o que já foi testado,",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 142,
+      "start": 441.86,
+      "end": 443.86,
+      "text": "o que já foi analisado.",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 143,
+      "start": 443.86,
+      "end": 445.86,
+      "text": "E anexo em print,",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 144,
+      "start": 445.86,
+      "end": 447.86,
+      "text": "vocês vão colocar lá no anexo,",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 145,
+      "start": 447.86,
+      "end": 449.86,
+      "text": "se você puxar algum lote,",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 146,
+      "start": 449.86,
+      "end": 452.92,
+      "text": "vocês colocam print.",
+      "avg_logprob": -0.24337674339767545,
+      "no_speech_prob": 0.02256329357624054
+    },
+    {
+      "id": 147,
+      "start": 452.92,
+      "end": 454.92,
+      "text": "Então, é bom pra escalar o DNI 1.2,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 148,
+      "start": 454.92,
+      "end": 456.92,
+      "text": "passar o chat para o ticket.",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 149,
+      "start": 456.92,
+      "end": 458.92,
+      "text": "Vai para passar o ticket para",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 150,
+      "start": 458.92,
+      "end": 461.36,
+      "text": "o nível mais inossável do caso do Gabriel.",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 151,
+      "start": 461.36,
+      "end": 463.36,
+      "text": "Aqui, eu coloquei alguns exemplos aqui.",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 152,
+      "start": 463.36,
+      "end": 465.36,
+      "text": "Um exemplo, na verdade,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 153,
+      "start": 465.36,
+      "end": 467.36,
+      "text": "como fazer uma posiculação,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 154,
+      "start": 467.36,
+      "end": 469.36,
+      "text": "servir aquele número que tá marcado de mermelho",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 155,
+      "start": 469.36,
+      "end": 471.36,
+      "text": "dá um problema completamente vazio,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 156,
+      "start": 471.36,
+      "end": 473.36,
+      "text": "não tem informação,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 157,
+      "start": 473.36,
+      "end": 475.36,
+      "text": "nem reclamando,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 158,
+      "start": 475.36,
+      "end": 477.36,
+      "text": "vestiação não conseguir resolver, favor verificar.",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 159,
+      "start": 477.36,
+      "end": 479.36,
+      "text": "E aqui tem um jeito certo,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 160,
+      "start": 479.36,
+      "end": 481.36,
+      "text": "de erro no cedro,",
+      "avg_logprob": -0.47350526468394555,
+      "no_speech_prob": 0.21787115931510925
+    },
+    {
+      "id": 161,
+      "start": 481.36,
+      "end": 483.36,
+      "text": "de não ser um pgb,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 162,
+      "start": 483.36,
+      "end": 485.36,
+      "text": "não ser um cedro que coloquei o pgb.",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 163,
+      "start": 485.36,
+      "end": 487.36,
+      "text": "Aí você coloca fila e ssfg,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 164,
+      "start": 487.36,
+      "end": 489.36,
+      "text": "você coloca o DNI,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 165,
+      "start": 489.36,
+      "end": 491.36,
+      "text": "você tem um exemplo,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 166,
+      "start": 491.36,
+      "end": 493.36,
+      "text": "detalhou, em anexo,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 167,
+      "start": 493.36,
+      "end": 495.36,
+      "text": "colocou log, um documento de texto,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 168,
+      "start": 495.36,
+      "end": 498.55,
+      "text": "colocou log.",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 169,
+      "start": 498.55,
+      "end": 500.55,
+      "text": "Então, assim, o ticket já vai chegar",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 170,
+      "start": 500.55,
+      "end": 502.55,
+      "text": "com a conformação suficiente",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 171,
+      "start": 502.55,
+      "end": 505.19,
+      "text": "para pegar, olhar e resolver.",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 172,
+      "start": 505.19,
+      "end": 507.19,
+      "text": "Para fechar o dia,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 173,
+      "start": 507.19,
+      "end": 509.19,
+      "text": "eu defini algumas negrinhas aqui,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 174,
+      "start": 509.19,
+      "end": 511.19,
+      "text": "a gente não é bom,",
+      "avg_logprob": -0.5209951117741976,
+      "no_speech_prob": 0.05762720853090286
+    },
+    {
+      "id": 175,
+      "start": 511.19,
+      "end": 513.19,
+      "text": "então você vai encerrar o dia",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 176,
+      "start": 513.19,
+      "end": 515.19,
+      "text": "com o ticket na sua demanda,",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 177,
+      "start": 515.19,
+      "end": 517.19,
+      "text": "lá naquela parte sua em atendimento.",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 178,
+      "start": 517.19,
+      "end": 519.19,
+      "text": "Eu não quero que vocês encerrem o dia por nada lá.",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 179,
+      "start": 519.19,
+      "end": 521.19,
+      "text": "Então, o que vocês vão fazer?",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 180,
+      "start": 521.19,
+      "end": 523.19,
+      "text": "Se, por alguns dos casos,",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 181,
+      "start": 523.19,
+      "end": 525.19,
+      "text": "vocês não conseguirem resolver esse ticket",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 182,
+      "start": 525.19,
+      "end": 527.19,
+      "text": "antes de sair,",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 183,
+      "start": 527.19,
+      "end": 529.19,
+      "text": "vocês vão devolver para a fila.",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 184,
+      "start": 529.19,
+      "end": 531.19,
+      "text": "Existem três maus,",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 185,
+      "start": 531.19,
+      "end": 533.19,
+      "text": "devolvendo para a fila N1, N2, N3.",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 186,
+      "start": 533.19,
+      "end": 535.19,
+      "text": "A N1 vocês vão procurar,",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 187,
+      "start": 535.19,
+      "end": 537.19,
+      "text": "para mim, porque",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 188,
+      "start": 537.19,
+      "end": 539.19,
+      "text": "é para devolver um chat para a fila,",
+      "avg_logprob": -0.25298760192734854,
+      "no_speech_prob": 0.18937665224075317
+    },
+    {
+      "id": 189,
+      "start": 539.19,
+      "end": 541.19,
+      "text": "para a fila N2, devolver para a fila N3.",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 190,
+      "start": 541.19,
+      "end": 543.19,
+      "text": "Antes de devolver, antes de sair,",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 191,
+      "start": 543.19,
+      "end": 545.19,
+      "text": "vocês vão devolver para o 10 do março.",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 192,
+      "start": 545.19,
+      "end": 547.19,
+      "text": "E lembre-se, isso aqui é o último caso,",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 193,
+      "start": 547.19,
+      "end": 549.19,
+      "text": "olhar e resolver o 1,",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 194,
+      "start": 549.19,
+      "end": 551.19,
+      "text": "sair.",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 195,
+      "start": 551.19,
+      "end": 553.19,
+      "text": "Então, eu coloquei aqui",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 196,
+      "start": 553.19,
+      "end": 555.19,
+      "text": "para vocês colocarem os 20 de 2010",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 197,
+      "start": 555.19,
+      "end": 557.19,
+      "text": "para vocês sair.",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 198,
+      "start": 557.19,
+      "end": 559.19,
+      "text": "Então, é uma extrema importância",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 199,
+      "start": 559.19,
+      "end": 561.25,
+      "text": "que vocês",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 200,
+      "start": 561.25,
+      "end": 563.25,
+      "text": "fiquem online durante o dia",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 201,
+      "start": 563.25,
+      "end": 565.25,
+      "text": "para vocês receberem as demandas.",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 202,
+      "start": 565.25,
+      "end": 567.25,
+      "text": "Mesmo se for o ticket, se for o chat,",
+      "avg_logprob": -0.3167753340424718,
+      "no_speech_prob": 0.08817204087972641
+    },
+    {
+      "id": 203,
+      "start": 567.25,
+      "end": 569.25,
+      "text": "se for online.",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 204,
+      "start": 569.25,
+      "end": 571.25,
+      "text": "Então, devolvendo de sair, ou seja,",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 205,
+      "start": 571.25,
+      "end": 573.25,
+      "text": "para o almoço,",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 206,
+      "start": 573.25,
+      "end": 575.25,
+      "text": "vocês colocam o modalzinho de 10 do março.",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 207,
+      "start": 575.25,
+      "end": 577.25,
+      "text": "Então, você pode colocar qualquer modalidade na fila.",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 208,
+      "start": 577.25,
+      "end": 579.25,
+      "text": "É tão fácil.",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 209,
+      "start": 579.25,
+      "end": 581.25,
+      "text": "O importante é que vocês sigam esse processo",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 210,
+      "start": 581.25,
+      "end": 583.25,
+      "text": "para os tipos que caírem para vocês",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 211,
+      "start": 583.25,
+      "end": 585.25,
+      "text": "e a gente siga um fluxo",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 212,
+      "start": 585.25,
+      "end": 587.25,
+      "text": "que suporte que seja em saldago.",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 213,
+      "start": 587.25,
+      "end": 589.25,
+      "text": "Para não ficar tímido sem resposta,",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 214,
+      "start": 589.25,
+      "end": 591.25,
+      "text": "para não ficar sem aquele disse que me disse.",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 215,
+      "start": 591.25,
+      "end": 593.41,
+      "text": "E hoje em dia, eu sinto que a gente está escolhendo",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 216,
+      "start": 593.41,
+      "end": 595.41,
+      "text": "muitos tipos de demanda que quer atender.",
+      "avg_logprob": -0.323934280872345,
+      "no_speech_prob": 0.026564348489046097
+    },
+    {
+      "id": 217,
+      "start": 595.41,
+      "end": 597.41,
+      "text": "Então, se você tem um grau de complexidade,",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 218,
+      "start": 597.41,
+      "end": 599.41,
+      "text": "uma migração longa,",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 219,
+      "start": 599.41,
+      "end": 601.41,
+      "text": "vocês não fazem direto.",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 220,
+      "start": 601.41,
+      "end": 603.41,
+      "text": "Vocês fazem todas as demandas mais simples",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 221,
+      "start": 603.41,
+      "end": 605.41,
+      "text": "antes para depois pegar aquelas que são mais complexas.",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 222,
+      "start": 605.41,
+      "end": 607.41,
+      "text": "E eu não quero que isso aconteça.",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 223,
+      "start": 607.41,
+      "end": 609.41,
+      "text": "Então, mesmo que você não tenha conhecimento",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 224,
+      "start": 609.41,
+      "end": 611.41,
+      "text": "de como fazer uma migração,",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 225,
+      "start": 611.41,
+      "end": 613.41,
+      "text": "sei lá, via SSH, por exemplo,",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 226,
+      "start": 613.41,
+      "end": 615.41,
+      "text": "vocês vão receber esse ticket.",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 227,
+      "start": 615.41,
+      "end": 617.41,
+      "text": "O que vocês vão fazer?",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 228,
+      "start": 617.41,
+      "end": 619.41,
+      "text": "Vocês vão investigar e vão escalar para o nível 3",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 229,
+      "start": 619.41,
+      "end": 621.41,
+      "text": "que o nível 3 só cai para o Gabriel.",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 230,
+      "start": 621.41,
+      "end": 623.41,
+      "text": "Só o Gabriel está atribuído aos tickets",
+      "avg_logprob": -0.19590023062587564,
+      "no_speech_prob": 0.31965920329093933
+    },
+    {
+      "id": 231,
+      "start": 623.41,
+      "end": 625.41,
+      "text": "e está o Alves e o Fael",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 232,
+      "start": 625.41,
+      "end": 627.41,
+      "text": "e N1 está o Matheus.",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 233,
+      "start": 627.41,
+      "end": 629.41,
+      "text": "Então,",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 234,
+      "start": 629.41,
+      "end": 631.41,
+      "text": "pegue um ticket mais escala.",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 235,
+      "start": 631.41,
+      "end": 633.41,
+      "text": "Cada um vai ter sua fila.",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 236,
+      "start": 633.41,
+      "end": 635.41,
+      "text": "E, obviamente, a gente sabe que não vai ter demanda",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 237,
+      "start": 635.41,
+      "end": 637.41,
+      "text": "suficiente para Gabriel ficar só recendo.",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 238,
+      "start": 637.41,
+      "end": 639.41,
+      "text": "Ticket de N3 tem que impiar.",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 239,
+      "start": 639.41,
+      "end": 641.8,
+      "text": "Então, o que acontece?",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 240,
+      "start": 641.8,
+      "end": 643.8,
+      "text": "Quando não tiver demanda de N3,",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 241,
+      "start": 643.8,
+      "end": 645.8,
+      "text": "quando não tiver ticket de N3",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 242,
+      "start": 645.8,
+      "end": 647.8,
+      "text": "e suporte, o que vai acontecer?",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 243,
+      "start": 647.8,
+      "end": 649.8,
+      "text": "Os tickets de N2 também passam",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 244,
+      "start": 649.8,
+      "end": 651.8,
+      "text": "para o Gabriel se for necessário.",
+      "avg_logprob": -0.2368882177592991,
+      "no_speech_prob": 0.06304704397916794
+    },
+    {
+      "id": 245,
+      "start": 651.8,
+      "end": 655.65,
+      "text": "Esse cara gosta de uma dúvida de agora?",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 246,
+      "start": 655.65,
+      "end": 657.65,
+      "text": "Foi muita coisa assim, muita informação,",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 247,
+      "start": 657.65,
+      "end": 659.65,
+      "text": "mas é tudo bem intuitivo que você já conhece.",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 248,
+      "start": 659.65,
+      "end": 662.64,
+      "text": "É outra coisa.",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 249,
+      "start": 662.64,
+      "end": 664.84,
+      "text": "É outra coisa?",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 250,
+      "start": 664.84,
+      "end": 670.61,
+      "text": "Outra coisa que é muito importante,",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 251,
+      "start": 670.61,
+      "end": 672.61,
+      "text": "é que a gente",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 252,
+      "start": 672.61,
+      "end": 674.61,
+      "text": "vai parar de usar o grupo de WhatsApp",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 253,
+      "start": 674.61,
+      "end": 676.61,
+      "text": "para acionar umas a os outros.",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 254,
+      "start": 676.61,
+      "end": 678.61,
+      "text": "O que é assim importante agora",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 255,
+      "start": 678.61,
+      "end": 680.61,
+      "text": "vai ser a gente ficar de olho no Slack.",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 256,
+      "start": 680.61,
+      "end": 682.61,
+      "text": "Eu criei grupos, principalmente",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 257,
+      "start": 682.61,
+      "end": 684.61,
+      "text": "uma sala de suporte N1 no Slack",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 258,
+      "start": 684.61,
+      "end": 686.61,
+      "text": "e eu quero que a gente use lá",
+      "avg_logprob": -0.2759521224481218,
+      "no_speech_prob": 0.07625792920589447
+    },
+    {
+      "id": 259,
+      "start": 686.61,
+      "end": 688.61,
+      "text": "para fazer as causas.",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 260,
+      "start": 688.61,
+      "end": 690.64,
+      "text": "Feijou?",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 261,
+      "start": 690.64,
+      "end": 692.64,
+      "text": "Então,",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 262,
+      "start": 692.64,
+      "end": 694.64,
+      "text": "é basicamente isso.",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 263,
+      "start": 694.64,
+      "end": 696.64,
+      "text": "Vocês vão com o WhatsApp para ficar só,",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 264,
+      "start": 696.64,
+      "end": 698.64,
+      "text": "para ficar falando com o cliente,",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 265,
+      "start": 698.64,
+      "end": 700.64,
+      "text": "ou então pensam se vocês quiserem mandar",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 266,
+      "start": 700.64,
+      "end": 702.64,
+      "text": "uma piadinha ou uma gracinha",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 267,
+      "start": 702.64,
+      "end": 704.64,
+      "text": "ou mesmo, igual vocês fazem aí,",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 268,
+      "start": 704.64,
+      "end": 706.64,
+      "text": "algum cliente que falou uma coisa",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 269,
+      "start": 706.64,
+      "end": 708.64,
+      "text": "é completamente sem sentido",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 270,
+      "start": 708.64,
+      "end": 710.64,
+      "text": "no chat que vocês mandaram lá,",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 271,
+      "start": 710.64,
+      "end": 712.64,
+      "text": "mas quando for para pegar demanda",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 272,
+      "start": 712.64,
+      "end": 715.67,
+      "text": "e passar demanda ou vice-versa",
+      "avg_logprob": -0.27968123218705576,
+      "no_speech_prob": 0.1664762645959854
+    },
+    {
+      "id": 273,
+      "start": 715.67,
+      "end": 718.56,
+      "text": "então é isso.",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 274,
+      "start": 718.56,
+      "end": 720.56,
+      "text": "E esse aqui é um processo",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 275,
+      "start": 720.56,
+      "end": 722.56,
+      "text": "de sucesso do cliente.",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 276,
+      "start": 722.56,
+      "end": 724.56,
+      "text": "Uma coisa que tem acontecido muito",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 277,
+      "start": 724.56,
+      "end": 726.56,
+      "text": "que tem gerado um certo grau da satisfação",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 278,
+      "start": 726.56,
+      "end": 728.56,
+      "text": "dos clientes, está sendo os grupos de WhatsApp",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 279,
+      "start": 728.56,
+      "end": 730.56,
+      "text": "que querem ser respostas.",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 280,
+      "start": 730.56,
+      "end": 732.56,
+      "text": "Aí, se alguém é um grupo tal,",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 281,
+      "start": 732.56,
+      "end": 734.56,
+      "text": "aí quando vai ver hoje, por exemplo,",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 282,
+      "start": 734.56,
+      "end": 736.56,
+      "text": "tem um grupo tal, você é exposto",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 283,
+      "start": 736.56,
+      "end": 740.2,
+      "text": "desde que é 27, o cara falando de mal,",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 284,
+      "start": 740.2,
+      "end": 742.2,
+      "text": "ninguém pegou.",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 285,
+      "start": 742.2,
+      "end": 744.2,
+      "text": "E eu sei que não é culpa de ninguém.",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 286,
+      "start": 744.2,
+      "end": 746.2,
+      "text": "Eu sei que não é culpa de ninguém isso.",
+      "avg_logprob": -0.30649520282087656,
+      "no_speech_prob": 0.042393069714307785
+    },
+    {
+      "id": 287,
+      "start": 746.2,
+      "end": 748.2,
+      "text": "Agora, cada um vai ter um dia",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 288,
+      "start": 748.2,
+      "end": 750.2,
+      "text": "da semana para ficar de olho",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 289,
+      "start": 750.2,
+      "end": 752.2,
+      "text": "no grupo de suporte específico.",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 290,
+      "start": 752.2,
+      "end": 754.2,
+      "text": "De todos os grupos de suporte,",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 291,
+      "start": 754.2,
+      "end": 756.2,
+      "text": "vocês vão ficar de olho no WhatsApp.",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 292,
+      "start": 756.2,
+      "end": 758.32,
+      "text": "Vai ser como se você tivesse online naquele canal.",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 293,
+      "start": 758.32,
+      "end": 760.32,
+      "text": "E não significa que vocês",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 294,
+      "start": 760.32,
+      "end": 762.32,
+      "text": "vão atender aquele cara.",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 295,
+      "start": 762.32,
+      "end": 764.32,
+      "text": "Se você estiver engarrado como modelo importante,",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 296,
+      "start": 764.32,
+      "end": 766.32,
+      "text": "por exemplo, vocês podem pegar e passar para a frente.",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 297,
+      "start": 766.32,
+      "end": 768.32,
+      "text": "É importante vocês deixarem o WhatsApp",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 298,
+      "start": 768.32,
+      "end": 770.32,
+      "text": "de olho no computador do lado",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 299,
+      "start": 770.32,
+      "end": 772.32,
+      "text": "e sempre estar dando uma olhada",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 300,
+      "start": 772.32,
+      "end": 775.67,
+      "text": "para ver se não tem nenhum grupo de barco.",
+      "avg_logprob": -0.1934801720797199,
+      "no_speech_prob": 0.044522807002067566
+    },
+    {
+      "id": 301,
+      "start": 775.67,
+      "end": 777.67,
+      "text": "E aqui foi o que eu delimitei",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 302,
+      "start": 777.67,
+      "end": 779.67,
+      "text": "na segunda-feira o Alves, na terça o Gabriel,",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 303,
+      "start": 779.67,
+      "end": 781.67,
+      "text": "quarto o Fael, quinto o Alves",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 304,
+      "start": 781.67,
+      "end": 783.89,
+      "text": "e sexto o Rafael.",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 305,
+      "start": 783.89,
+      "end": 785.89,
+      "text": "Eu coloquei mais o Rafael do que o Alves",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 306,
+      "start": 785.89,
+      "end": 787.89,
+      "text": "porque hoje eles estão",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 307,
+      "start": 787.89,
+      "end": 789.89,
+      "text": "indo para mais o ramo de N2,",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 308,
+      "start": 789.89,
+      "end": 791.89,
+      "text": "quem está ali entre os especialistas",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 309,
+      "start": 791.89,
+      "end": 793.89,
+      "text": "e a linha de frente.",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 310,
+      "start": 793.89,
+      "end": 795.89,
+      "text": "Então, é isso.",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 311,
+      "start": 795.89,
+      "end": 797.89,
+      "text": "Mas quando o Matheus já estiver",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 312,
+      "start": 797.89,
+      "end": 799.89,
+      "text": "sempre preparado, já estiver passado por tudo,",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 313,
+      "start": 799.89,
+      "end": 801.89,
+      "text": "eu vou tirar um dia do Rafael",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 314,
+      "start": 801.89,
+      "end": 803.89,
+      "text": "e vou colocar um dia para ele também.",
+      "avg_logprob": -0.2153789837088361,
+      "no_speech_prob": 0.5215312838554382
+    },
+    {
+      "id": 315,
+      "start": 803.89,
+      "end": 805.89,
+      "text": "No sábado é quem estiver de plantão",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 316,
+      "start": 805.89,
+      "end": 807.89,
+      "text": "e no domingo é quem estiver de sobrevista.",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 317,
+      "start": 807.89,
+      "end": 810.88,
+      "text": "Fechou?",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 318,
+      "start": 810.88,
+      "end": 812.88,
+      "text": "E aqui agora a gente vai ter equipiais",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 319,
+      "start": 812.88,
+      "end": 814.88,
+      "text": "por mim.",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 320,
+      "start": 814.88,
+      "end": 816.88,
+      "text": "Ou seja, além das metas,",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 321,
+      "start": 816.88,
+      "end": 818.88,
+      "text": "vocês vão ter as métricas.",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 322,
+      "start": 818.88,
+      "end": 820.88,
+      "text": "Essas métricas são bem intuitivas",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 323,
+      "start": 820.88,
+      "end": 822.88,
+      "text": "e eu vou mandar isso para vocês, mas é basicamente",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 324,
+      "start": 822.88,
+      "end": 824.88,
+      "text": "ele não tem que resolver 400 tíquets",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 325,
+      "start": 824.88,
+      "end": 826.88,
+      "text": "no mês, tem que ter um cessate de 98",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 326,
+      "start": 826.88,
+      "end": 828.88,
+      "text": "por tempo médio de resolução",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 327,
+      "start": 828.88,
+      "end": 830.88,
+      "text": "40 minutos e o que há 88.",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 328,
+      "start": 830.88,
+      "end": 832.88,
+      "text": "N2, 300,",
+      "avg_logprob": -0.19907408425597106,
+      "no_speech_prob": 0.3164736330509186
+    },
+    {
+      "id": 329,
+      "start": 832.88,
+      "end": 834.88,
+      "text": "366,",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 330,
+      "start": 834.88,
+      "end": 836.88,
+      "text": "FCN 65",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 331,
+      "start": 836.88,
+      "end": 838.88,
+      "text": "e que há 88.",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 332,
+      "start": 838.88,
+      "end": 840.88,
+      "text": "Final, como você está em transição de N1 para N2",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 333,
+      "start": 840.88,
+      "end": 842.88,
+      "text": "você pode considerar as suas métricas",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 334,
+      "start": 842.88,
+      "end": 844.88,
+      "text": "ou as métricas de N2.",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 335,
+      "start": 844.88,
+      "end": 847.97,
+      "text": "Fechou? Fechou.",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 336,
+      "start": 847.97,
+      "end": 849.97,
+      "text": "E N3, eu coloquei ali",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 337,
+      "start": 849.97,
+      "end": 851.97,
+      "text": "que é coloquei N3 e Ztec Lint.",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 338,
+      "start": 851.97,
+      "end": 853.97,
+      "text": "Então tanto o Gabriel",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 339,
+      "start": 853.97,
+      "end": 856.9,
+      "text": "quanto o Alves",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 340,
+      "start": 856.9,
+      "end": 858.9,
+      "text": "vão ter as métricas de N3 ali.",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 341,
+      "start": 858.9,
+      "end": 860.9,
+      "text": "Obviamente a gente sabe que",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 342,
+      "start": 860.9,
+      "end": 862.9,
+      "text": "tíquets de N3",
+      "avg_logprob": -0.20684794084552457,
+      "no_speech_prob": 0.018189838156104088
+    },
+    {
+      "id": 343,
+      "start": 862.9,
+      "end": 864.9,
+      "text": "tem que ter um volume menor, obviamente",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 344,
+      "start": 864.9,
+      "end": 866.9,
+      "text": "porque é muito demanda muito mais complexa",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 345,
+      "start": 866.9,
+      "end": 869.38,
+      "text": "e",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 346,
+      "start": 869.38,
+      "end": 871.38,
+      "text": "o Alves eu coloquei aí também",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 347,
+      "start": 871.38,
+      "end": 873.38,
+      "text": "porque o Alves tem outros demandos além de suporte.",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 348,
+      "start": 873.38,
+      "end": 875.38,
+      "text": "Esse foi o Gabriel, então faz sentido que",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 349,
+      "start": 875.38,
+      "end": 877.38,
+      "text": "sejam menos tíquets.",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 350,
+      "start": 877.38,
+      "end": 879.38,
+      "text": "Tempo médio de resolução de 2 horas",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 351,
+      "start": 879.38,
+      "end": 881.38,
+      "text": "eu coloquei 2 horas, você pode",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 352,
+      "start": 881.38,
+      "end": 883.38,
+      "text": "ir lá para eu ler e falar que eu acho que não sei pouco",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 353,
+      "start": 883.38,
+      "end": 885.38,
+      "text": "porque tem migração, você vai ficar 3 dias fazendo.",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 354,
+      "start": 885.38,
+      "end": 887.38,
+      "text": "Só que na maioria dos casos",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 355,
+      "start": 887.38,
+      "end": 889.38,
+      "text": "vão pegar tíquets, se resolvem em 1 hora",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 356,
+      "start": 889.38,
+      "end": 891.38,
+      "text": "então acaba que a média desce muito.",
+      "avg_logprob": -0.2794612979516387,
+      "no_speech_prob": 0.056481726467609406
+    },
+    {
+      "id": 357,
+      "start": 891.38,
+      "end": 893.38,
+      "text": "Então pode ficar tranquilo que",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 358,
+      "start": 893.38,
+      "end": 895.38,
+      "text": "hoje precisa de ideia",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 359,
+      "start": 895.38,
+      "end": 897.38,
+      "text": "o tempo médio de resolução de tíquets de N3",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 360,
+      "start": 897.38,
+      "end": 899.38,
+      "text": "são de 2 horas e 10 minutos",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 361,
+      "start": 899.38,
+      "end": 901.38,
+      "text": "então está bem dentro do esperado, sabe?",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 362,
+      "start": 901.38,
+      "end": 905.2,
+      "text": "E",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 363,
+      "start": 905.2,
+      "end": 907.2,
+      "text": "vai ter uma regra agora para as metas também.",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 364,
+      "start": 907.2,
+      "end": 909.2,
+      "text": "Então pelo menos 3",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 365,
+      "start": 909.2,
+      "end": 911.2,
+      "text": "dos 4 quipiais tem que ser batido",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 366,
+      "start": 911.2,
+      "end": 913.2,
+      "text": "para as metas do Alves.",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 367,
+      "start": 913.2,
+      "end": 915.2,
+      "text": "Ou seja, cada ano vai ter 4 quipiais aqui, certo?",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 368,
+      "start": 915.2,
+      "end": 917.2,
+      "text": "Vocês tem que bater pelo menos 3 vezes.",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 369,
+      "start": 917.2,
+      "end": 919.2,
+      "text": "Eu imagino que pelo que",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 370,
+      "start": 919.2,
+      "end": 921.2,
+      "text": "eu estou vendo em vocês",
+      "avg_logprob": -0.17241664406740004,
+      "no_speech_prob": 0.026591690257191658
+    },
+    {
+      "id": 371,
+      "start": 921.2,
+      "end": 923.2,
+      "text": "eu não vou bater isso aqui os 4 todo mês, sabe?",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 372,
+      "start": 923.2,
+      "end": 925.2,
+      "text": "Pode ter algum mesmo ou outro",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 373,
+      "start": 925.2,
+      "end": 927.2,
+      "text": "que não bata 1, não bata 2",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 374,
+      "start": 927.2,
+      "end": 929.2,
+      "text": "mas é aquilo também.",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 375,
+      "start": 929.2,
+      "end": 931.2,
+      "text": "Se eu tenho consistência, não tenho porquê",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 376,
+      "start": 931.2,
+      "end": 933.2,
+      "text": "por um deslize e vocês",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 377,
+      "start": 933.2,
+      "end": 935.2,
+      "text": "terem algum tipo de restrição por isso",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 378,
+      "start": 935.2,
+      "end": 937.2,
+      "text": "então vocês podem ficar preocupados que",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 379,
+      "start": 937.2,
+      "end": 939.2,
+      "text": "assim, está todo mundo batendo tudo",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 380,
+      "start": 939.2,
+      "end": 941.2,
+      "text": "nas últimas",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 381,
+      "start": 941.2,
+      "end": 943.2,
+      "text": "6 meses, então não faça sentido",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 382,
+      "start": 943.2,
+      "end": 945.2,
+      "text": "cair agora, sabe?",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 383,
+      "start": 945.2,
+      "end": 947.2,
+      "text": "Então vocês têm que",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 384,
+      "start": 947.2,
+      "end": 949.2,
+      "text": "preocupar um pouco com isso aqui",
+      "avg_logprob": -0.23123658961719937,
+      "no_speech_prob": 0.244144007563591
+    },
+    {
+      "id": 385,
+      "start": 949.2,
+      "end": 951.2,
+      "text": "e por favor nesse tipo de demandas suas",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 386,
+      "start": 951.2,
+      "end": 953.2,
+      "text": "eu convidei todos vocês para o dashboard",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 387,
+      "start": 953.2,
+      "end": 955.2,
+      "text": "desse take-off, então vocês vão conseguir",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 388,
+      "start": 955.2,
+      "end": 957.2,
+      "text": "acompanhar os",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 389,
+      "start": 957.2,
+      "end": 959.2,
+      "text": "os convites que chegaram nos meios corporais",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 390,
+      "start": 959.2,
+      "end": 961.2,
+      "text": "de vocês, acompanhar os quipiais individuais",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 391,
+      "start": 961.2,
+      "end": 963.2,
+      "text": "o Alves pode mostrar para vocês depois",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 392,
+      "start": 963.2,
+      "end": 966.45,
+      "text": "Então",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 393,
+      "start": 966.45,
+      "end": 968.45,
+      "text": "vocês vão conseguir acompanhar isso aqui",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 394,
+      "start": 968.45,
+      "end": 970.45,
+      "text": "diariamente, pode ficar se preocupado",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 395,
+      "start": 970.45,
+      "end": 972.45,
+      "text": "que vocês conseguem saber se vocês estão",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 396,
+      "start": 972.45,
+      "end": 974.45,
+      "text": "indo bem, se não estão indo",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 397,
+      "start": 974.45,
+      "end": 976.45,
+      "text": "e por aí vai. E isso aqui",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 398,
+      "start": 976.45,
+      "end": 978.45,
+      "text": "impacta também um lar metal matriz",
+      "avg_logprob": -0.31151183338268945,
+      "no_speech_prob": 0.20177748799324036
+    },
+    {
+      "id": 399,
+      "start": 978.45,
+      "end": 980.61,
+      "text": "com tudo que a gente já conversou",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 400,
+      "start": 980.61,
+      "end": 982.61,
+      "text": "com promoções, homens, etc",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 401,
+      "start": 982.61,
+      "end": 984.84,
+      "text": "Então",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 402,
+      "start": 984.84,
+      "end": 986.84,
+      "text": "isso aqui é um ponto importante",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 403,
+      "start": 986.84,
+      "end": 988.84,
+      "text": "de vocês se preocuparem também",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 404,
+      "start": 988.84,
+      "end": 992.47,
+      "text": "ok? Aqui eu falei",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 405,
+      "start": 992.47,
+      "end": 994.47,
+      "text": "vocês baterem dois quipiais ou menos",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 406,
+      "start": 994.47,
+      "end": 996.47,
+      "text": "então a meta dos meus não vai valer",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 407,
+      "start": 996.47,
+      "end": 998.47,
+      "text": "e obviamente eu vou variar",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 408,
+      "start": 998.47,
+      "end": 1000.47,
+      "text": "pela da ela também não, mas vai ser",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 409,
+      "start": 1000.47,
+      "end": 1002.47,
+      "text": "muito difícil isso que acontecer, então",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 410,
+      "start": 1002.47,
+      "end": 1004.47,
+      "text": "assim, porque vocês conseguem",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 411,
+      "start": 1004.47,
+      "end": 1006.47,
+      "text": "acompanhar diariamente os quipiais de vocês",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 412,
+      "start": 1006.47,
+      "end": 1008.47,
+      "text": "vocês vão ser donos das próprias métricas",
+      "avg_logprob": -0.224169893820483,
+      "no_speech_prob": 0.046734701842069626
+    },
+    {
+      "id": 413,
+      "start": 1008.47,
+      "end": 1010.47,
+      "text": "então, sei lá, se um dia você beber",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 414,
+      "start": 1010.47,
+      "end": 1012.47,
+      "text": "que você está abaixo da quantidade",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 415,
+      "start": 1012.47,
+      "end": 1014.47,
+      "text": "de tíquete, se atende mais tíquete",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 416,
+      "start": 1014.47,
+      "end": 1016.47,
+      "text": "um dia, pede mais ajuda, agiliza",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 417,
+      "start": 1016.47,
+      "end": 1018.47,
+      "text": "o rendimento e por aí vai",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 418,
+      "start": 1018.47,
+      "end": 1020.95,
+      "text": "vocês vão ser donos dos próprios atendimentos",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 419,
+      "start": 1020.95,
+      "end": 1022.95,
+      "text": "Então",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 420,
+      "start": 1022.95,
+      "end": 1024.95,
+      "text": "isso aqui é um resultado, eu vou mandar",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 421,
+      "start": 1024.95,
+      "end": 1027.01,
+      "text": "para vocês essa apresentação",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 422,
+      "start": 1027.01,
+      "end": 1029.01,
+      "text": "para vocês lerem com calma",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 423,
+      "start": 1029.01,
+      "end": 1031.01,
+      "text": "e eu me mantendo",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 424,
+      "start": 1031.01,
+      "end": 1033.01,
+      "text": "a disposição do SLAC, vamos sempre",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 425,
+      "start": 1033.01,
+      "end": 1035.01,
+      "text": "lidar no SLAC",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 426,
+      "start": 1035.01,
+      "end": 1037.01,
+      "text": "para tirar as dúvidas de vocês relacionadas a isso",
+      "avg_logprob": -0.23286560573777954,
+      "no_speech_prob": 0.02437274344265461
+    },
+    {
+      "id": 427,
+      "start": 1037.01,
+      "end": 1039.01,
+      "text": "ah, dê um ponto aqui importante também",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 428,
+      "start": 1039.01,
+      "end": 1041.14,
+      "text": "ah, isso aqui",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 429,
+      "start": 1041.14,
+      "end": 1043.14,
+      "text": "aqui mano, vamos ter",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 430,
+      "start": 1043.14,
+      "end": 1046.0,
+      "text": "algumas medidas, por exemplo",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 431,
+      "start": 1046.0,
+      "end": 1048.0,
+      "text": "vão ser tomadas, que vão supor",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 432,
+      "start": 1048.0,
+      "end": 1050.0,
+      "text": "um pouquinho lá, sei lá",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 433,
+      "start": 1050.0,
+      "end": 1052.0,
+      "text": "o Rafael falou assim não, essa semana vou ficar de um",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 434,
+      "start": 1052.0,
+      "end": 1055.32,
+      "text": "no tíquete a semana toda",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 435,
+      "start": 1055.32,
+      "end": 1057.32,
+      "text": "para recompensar o Rafael",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 436,
+      "start": 1057.32,
+      "end": 1059.32,
+      "text": "isso, a gente feita um tipo de pontuação",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 437,
+      "start": 1059.32,
+      "end": 1061.32,
+      "text": "que a gente pode anteriorar isso, que vai impactar",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 438,
+      "start": 1061.32,
+      "end": 1063.32,
+      "text": "lá na Matriz também, então",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 439,
+      "start": 1063.32,
+      "end": 1065.32,
+      "text": "eu como líder, o Vinny também",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 440,
+      "start": 1065.32,
+      "end": 1067.32,
+      "text": "ou Luiz, outro Nico",
+      "avg_logprob": -0.29198350837762405,
+      "no_speech_prob": 0.10186675190925598
+    },
+    {
+      "id": 441,
+      "start": 1067.32,
+      "end": 1069.32,
+      "text": "o Rafael não deixou passar",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 442,
+      "start": 1069.32,
+      "end": 1071.32,
+      "text": "um cliente",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 443,
+      "start": 1071.32,
+      "end": 1073.32,
+      "text": "no grupo do WhatsApp essa semana",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 444,
+      "start": 1073.32,
+      "end": 1075.32,
+      "text": "então aí a gente pega sua biologia",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 445,
+      "start": 1075.32,
+      "end": 1077.32,
+      "text": "que impacta, a mesma coisa vale",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 446,
+      "start": 1077.32,
+      "end": 1079.32,
+      "text": "se for negativamente, tudo isso",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 447,
+      "start": 1079.32,
+      "end": 1081.32,
+      "text": "vai impactar naquela análise",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 448,
+      "start": 1081.32,
+      "end": 1083.32,
+      "text": "que a gente vai fazer a casa seis meses",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 449,
+      "start": 1083.32,
+      "end": 1085.32,
+      "text": "sobre o desempenho",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 450,
+      "start": 1085.32,
+      "end": 1087.32,
+      "text": "e a cultura de vocês, vamos falar, Rafael",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 451,
+      "start": 1087.32,
+      "end": 1089.48,
+      "text": "essa análise, esses conectados",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 452,
+      "start": 1089.48,
+      "end": 1091.48,
+      "text": "e qualquer encontragem",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 453,
+      "start": 1091.48,
+      "end": 1093.48,
+      "text": "eu só sei",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 454,
+      "start": 1093.48,
+      "end": 1095.99,
+      "text": "só as ideias",
+      "avg_logprob": -0.2801506364045023,
+      "no_speech_prob": 0.021386222913861275
+    },
+    {
+      "id": 455,
+      "start": 1095.99,
+      "end": 1098.08,
+      "text": "porque",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 456,
+      "start": 1098.08,
+      "end": 1100.08,
+      "text": "eu acho que",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 457,
+      "start": 1100.08,
+      "end": 1102.24,
+      "text": "julgar o trabalho",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 458,
+      "start": 1102.24,
+      "end": 1104.24,
+      "text": "do outro é um negócio difícil",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 459,
+      "start": 1104.24,
+      "end": 1106.24,
+      "text": "mas",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 460,
+      "start": 1106.24,
+      "end": 1108.24,
+      "text": "se tiver algum deslize no dia",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 461,
+      "start": 1108.24,
+      "end": 1110.24,
+      "text": "você pode vir na pessoa e falar",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 462,
+      "start": 1110.24,
+      "end": 1112.24,
+      "text": "o grupo do Paulo está sem resposta",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 463,
+      "start": 1112.24,
+      "end": 1114.24,
+      "text": "vai lá e dá uma resposta e aciona alguém",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 464,
+      "start": 1114.24,
+      "end": 1116.24,
+      "text": "porque você não perdeu, então eu quero que você saiba",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 465,
+      "start": 1116.24,
+      "end": 1118.24,
+      "text": "tudo isso aqui, eu falo assim",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 466,
+      "start": 1118.24,
+      "end": 1120.24,
+      "text": "estou com muita demanda, alguém pode olhar pra mim",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 467,
+      "start": 1120.24,
+      "end": 1122.24,
+      "text": "nesse momento e obviamente deixa",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 468,
+      "start": 1122.24,
+      "end": 1124.24,
+      "text": "tudo isso comunicado, fechou?",
+      "avg_logprob": -0.24606167082864094,
+      "no_speech_prob": 0.24512512981891632
+    },
+    {
+      "id": 469,
+      "start": 1124.24,
+      "end": 1126.24,
+      "text": "Eu falei mais por no geral",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 470,
+      "start": 1126.24,
+      "end": 1128.24,
+      "text": "esse critão da variação",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 471,
+      "start": 1128.24,
+      "end": 1130.24,
+      "text": "vai ser com base tudo",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 472,
+      "start": 1130.24,
+      "end": 1132.24,
+      "text": "com base tudo",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 473,
+      "start": 1132.24,
+      "end": 1134.24,
+      "text": "exatamente, mas a gente não vai",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 474,
+      "start": 1134.24,
+      "end": 1136.24,
+      "text": "analisar se",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 475,
+      "start": 1136.24,
+      "end": 1138.24,
+      "text": "num dia você deixa um cliente sem resposta",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 476,
+      "start": 1138.24,
+      "end": 1140.24,
+      "text": "porque isso bora o outro, vai acontecer",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 477,
+      "start": 1140.24,
+      "end": 1142.24,
+      "text": "mas não adianta",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 478,
+      "start": 1142.24,
+      "end": 1144.24,
+      "text": "mas tudo impacta de alguma maneira",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 479,
+      "start": 1144.24,
+      "end": 1146.24,
+      "text": "de como você vai, se você está",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 480,
+      "start": 1146.24,
+      "end": 1148.24,
+      "text": "mandando muito bem aqui, você está",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 481,
+      "start": 1148.24,
+      "end": 1150.24,
+      "text": "mandando muito bem na cultura de centrado",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 482,
+      "start": 1150.24,
+      "end": 1152.6,
+      "text": "no cliente, consequentemente",
+      "avg_logprob": -0.26638260798725655,
+      "no_speech_prob": 0.07988010346889496
+    },
+    {
+      "id": 483,
+      "start": 1152.6,
+      "end": 1154.6,
+      "text": "vocês por isso vão vir, sabe?",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 484,
+      "start": 1154.6,
+      "end": 1156.6,
+      "text": "Então, alguém me ficando",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 485,
+      "start": 1156.6,
+      "end": 1158.6,
+      "text": "como funciona o plano de crescimento",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 486,
+      "start": 1158.6,
+      "end": 1160.6,
+      "text": "individual de cada um de vocês",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 487,
+      "start": 1160.6,
+      "end": 1162.6,
+      "text": "então, ações terão reações",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 488,
+      "start": 1162.6,
+      "end": 1164.6,
+      "text": "então, se você tomar uma decisão",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 489,
+      "start": 1164.6,
+      "end": 1166.6,
+      "text": "de, sei lá, tratar um cliente",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 490,
+      "start": 1166.6,
+      "end": 1168.6,
+      "text": "grandiosamente bem, isso vai ser",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 491,
+      "start": 1168.6,
+      "end": 1170.6,
+      "text": "muito bem recompensado por isso",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 492,
+      "start": 1170.6,
+      "end": 1172.6,
+      "text": "e se tivesse, se você tratar um cliente grandiosamente",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 493,
+      "start": 1172.6,
+      "end": 1174.6,
+      "text": "mal, aí vai ter puxão de orelha",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 494,
+      "start": 1174.6,
+      "end": 1176.6,
+      "text": "também, então",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 495,
+      "start": 1176.6,
+      "end": 1178.6,
+      "text": "cada um vai ser dono",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 496,
+      "start": 1178.6,
+      "end": 1180.6,
+      "text": "do atendimento no dia, fechou?",
+      "avg_logprob": -0.2218294579249162,
+      "no_speech_prob": 0.20069311559200287
+    },
+    {
+      "id": 497,
+      "start": 1180.6,
+      "end": 1182.6,
+      "text": "Fechou, fechou",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 498,
+      "start": 1182.6,
+      "end": 1184.79,
+      "text": "Vocês ficaram com alguma dúvida?",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 499,
+      "start": 1184.79,
+      "end": 1187.17,
+      "text": "Nossa Senhora",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 500,
+      "start": 1187.17,
+      "end": 1189.4,
+      "text": "Negativa",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 501,
+      "start": 1189.4,
+      "end": 1191.65,
+      "text": "Então, vamos dar essa apresentação",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 502,
+      "start": 1191.65,
+      "end": 1193.65,
+      "text": "para vocês, e se vocês ficarem",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 503,
+      "start": 1193.65,
+      "end": 1195.65,
+      "text": "com dúvida também, pode",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 504,
+      "start": 1195.65,
+      "end": 1197.88,
+      "text": "pode me mandar",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 505,
+      "start": 1197.88,
+      "end": 1199.88,
+      "text": "mensagem, a hora que for ter infetia",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 506,
+      "start": 1199.88,
+      "end": 1201.88,
+      "text": "uma dúvida, fechou? E aceita os convites",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 507,
+      "start": 1201.88,
+      "end": 1203.88,
+      "text": "nos e-mails aí, eu comprei vocês",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    },
+    {
+      "id": 508,
+      "start": 1203.88,
+      "end": 1205.88,
+      "text": "por no Clube dashboard",
+      "avg_logprob": -0.34386562732132997,
+      "no_speech_prob": 0.023277726024389267
+    }
+  ]
+}

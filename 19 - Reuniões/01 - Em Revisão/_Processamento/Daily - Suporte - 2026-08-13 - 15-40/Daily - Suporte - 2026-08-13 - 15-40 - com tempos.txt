@@ -1,0 +1,117 @@
+[00:00:00.750 - 00:00:03.750] Boa tropa a todos aí. Fael, tá aí?
+[00:00:03.750 - 00:00:08.340] Tô aqui.
+[00:00:08.340 - 00:00:11.340] Boa, perfeito, galera. Só fazer então uma delizinha rapidinho.
+[00:00:11.340 - 00:00:14.340] Troca ideia aqui em geral, geral sobre as demandas, nada parado comum.
+[00:00:14.340 - 00:00:18.340] Do meu lado, por enquanto, zero novidades. Mentira, tem...
+[00:00:18.340 - 00:00:21.340] Não novidade, mas uma coisa que eu preciso que faça.
+[00:00:21.340 - 00:00:24.340] Fael, uma das suas metas é criar playbook, certo?
+[00:00:24.340 - 00:00:25.750] Uhum.
+[00:00:25.750 - 00:00:28.750] Eu preciso que você pegue aquele...
+[00:00:28.750 - 00:00:31.750] Aquele documento que o Naldo mandou, você chegou lá?
+[00:00:31.750 - 00:00:32.750] Ah, eu já tô fazendo já.
+[00:00:32.750 - 00:00:33.750] Perfeito.
+[00:00:33.750 - 00:00:34.750] Eu vou fazer playbook.
+[00:00:34.750 - 00:00:36.750] Isso. Perfeito, então, mano.
+[00:00:36.750 - 00:00:39.750] É, qualquer coisa, só reage a mensagem lá, quando você já tá criando, por favor.
+[00:00:39.750 - 00:00:41.750] Pra já deixar só documentado.
+[00:00:41.750 - 00:00:42.750] Ok?
+[00:00:42.750 - 00:00:43.750] Fechou.
+[00:00:43.750 - 00:00:44.750] Fechou.
+[00:00:44.750 - 00:00:45.750] Não mais, pode, pode já seguir então.
+[00:00:45.750 - 00:00:48.750] Fala das suas demandinhas, como que tá aí do seu dia.
+[00:00:48.750 - 00:00:53.750] Também, também, tá bem. Tranquilo, agora tô fazendo uma migraçãozinha aqui da mulher.
+[00:00:53.750 - 00:00:55.750] Ganhei meu ticket de e-mail.
+[00:00:55.750 - 00:00:56.750] Uhum.
+[00:00:56.750 - 00:01:02.910] Tava ajudando o Gabriel aí, o Danilo e o Matheus, que tivesse aí com os caras aí, pegou mais cedo.
+[00:01:02.910 - 00:01:04.680] Boa, e...
+[00:01:04.680 - 00:01:09.680] Tô fazendo lá no meu Windows um promptzinho pra fazer os playbooks, certinho.
+[00:01:09.680 - 00:01:10.680] Legal.
+[00:01:10.680 - 00:01:15.680] Já tinha o prompt dos tutoriais, agora tô criando um do playbook.
+[00:01:15.680 - 00:01:16.680] Perfeito.
+[00:01:16.680 - 00:01:17.940] É...
+[00:01:17.940 - 00:01:18.940] E aí, é só.
+[00:01:18.940 - 00:01:19.940] Nada de novo, já treino.
+[00:01:19.940 - 00:01:23.350] Você tá com um ticket de migração aí, você tá ligado, né?
+[00:01:23.350 - 00:01:25.280] Isso que eu tô fazendo agora.
+[00:01:25.280 - 00:01:26.280] Perfeito.
+[00:01:26.280 - 00:01:27.280] É.
+[00:01:27.280 - 00:01:29.700] Então, você já tá ciente, beleza.
+[00:01:29.700 - 00:01:31.700] Gabi, como que tá o seu lado aí?
+[00:01:31.700 - 00:01:32.700] Como que tá as demandinhas?
+[00:01:32.700 - 00:01:36.360] Mano, eu tô de boa até.
+[00:01:36.360 - 00:01:40.360] Eu não tô conseguindo mexer no ticket de migração essa semana por causa daquele rolê que eu te falei.
+[00:01:40.360 - 00:01:41.360] Uhum.
+[00:01:41.360 - 00:01:47.420] Mas, semana que vem eu acho que eu termino ele e apresento uma dele pra vocês, como é que usa.
+[00:01:47.420 - 00:01:49.710] Agora eu tô com...
+[00:01:49.710 - 00:01:51.710] Eu tô vinculando todas as...
+[00:01:51.710 - 00:01:55.320] As VM do Poupijá lá do Tuca, que não tá vinculada.
+[00:01:55.320 - 00:01:56.320] Aí vem pra cá.
+[00:01:56.320 - 00:01:57.320] É.
+[00:01:57.320 - 00:01:58.320] Eu tô ligado.
+[00:01:58.320 - 00:02:02.250] Acho que faltam umas 25 ainda, né?
+[00:02:02.250 - 00:02:04.250] Beleza, pode focar nisso aí.
+[00:02:04.250 - 00:02:06.250] Deixa eu ver se tem algum ticket no seu nome.
+[00:02:06.250 - 00:02:07.250] Awei também.
+[00:02:07.250 - 00:02:09.440] Tem um ticket no seu nome.
+[00:02:09.440 - 00:02:10.440] Tinha uma...
+[00:02:10.440 - 00:02:11.440] Eu vou...
+[00:02:11.440 - 00:02:12.440] Eu pedi pro Rafael aqui.
+[00:02:12.440 - 00:02:13.440] Bom do e-mail eu tô fazendo.
+[00:02:13.440 - 00:02:14.440] É esse de-mail mesmo, tá?
+[00:02:14.440 - 00:02:15.440] Bom do e-mail eu tô fazendo.
+[00:02:15.440 - 00:02:18.440] Vou passar pro seu nome aqui então, só pra tirar do lado do dab então.
+[00:02:18.440 - 00:02:19.440] Fechou.
+[00:02:20.560 - 00:02:22.560] Daí você pode seguir aí então.
+[00:02:22.560 - 00:02:24.560] Matheus, você tem algo pra passar?
+[00:02:24.560 - 00:02:25.560] Você tem algo pra falar?
+[00:02:25.560 - 00:02:26.560] Alguma novidade?
+[00:02:26.560 - 00:02:27.560] Como que você tá?
+[00:02:27.560 - 00:02:28.560] Se tá de boa?
+[00:02:28.560 - 00:02:29.560] Se quiser falar aí também.
+[00:02:29.560 - 00:02:30.560] Eu tô tranquilo.
+[00:02:30.560 - 00:02:31.560] Eu tô tranquilo.
+[00:02:31.560 - 00:02:33.560] Não, só pegar o celular no chat.
+[00:02:33.560 - 00:02:35.170] E o Manceno.
+[00:02:35.170 - 00:02:36.170] É...
+[00:02:36.170 - 00:02:37.170] Notando do jogo.
+[00:02:37.170 - 00:02:38.170] Assim...
+[00:02:38.170 - 00:02:39.170] É...
+[00:02:39.170 - 00:02:40.170] Tem mais autonomia no chat também.
+[00:02:40.170 - 00:02:41.170] Fazer as coleções usando calça.
+[00:02:41.170 - 00:02:42.170] Fica demais.
+[00:02:42.170 - 00:02:43.200] Beleza.
+[00:02:43.200 - 00:02:44.200] Boa, galera.
+[00:02:44.200 - 00:02:46.200] Eu acho que de novidade até o momento.
+[00:02:46.200 - 00:02:48.200] Acho que eu não tenho nada pra passar pra vocês.
+[00:02:48.200 - 00:02:49.200] É...
+[00:02:49.200 - 00:02:50.200] Seria só a demandia já...
+[00:02:50.200 - 00:02:52.200] O Gabi já tá cadeli, que o Naldo passou.
+[00:02:52.200 - 00:02:53.200] É...
+[00:02:53.200 - 00:02:54.200] A demandia a mais seria passar...
+[00:02:54.200 - 00:02:56.200] Seria só essa aí pro Faial.
+[00:02:56.200 - 00:02:57.200] Do Playbook.
+[00:02:57.200 - 00:02:58.200] E não mais é isso.
+[00:02:58.200 - 00:03:01.200] Qualquer coisa que vocês precisarem de mim, vocês podem me chamar.
+[00:03:01.200 - 00:03:03.200] Gabi, se quiser focar aí, pode ficar...
+[00:03:03.200 - 00:03:05.200] Out da...
+[00:03:05.200 - 00:03:06.200] Da...
+[00:03:06.200 - 00:03:08.930] Do Circo.
+[00:03:08.930 - 00:03:09.930] Beleza.
+[00:03:09.930 - 00:03:10.930] Amanhã...
+[00:03:10.930 - 00:03:11.930] Amanhã você tá...
+[00:03:11.930 - 00:03:12.930] Amanhã você vai...
+[00:03:12.930 - 00:03:13.930] Tá away, né?
+[00:03:13.930 - 00:03:15.760] Isso.
+[00:03:15.760 - 00:03:16.760] Beleza.
+[00:03:16.760 - 00:03:17.760] Mas acho que eu termino as...
+[00:03:17.760 - 00:03:18.890] As do M8 ainda.
+[00:03:18.890 - 00:03:19.890] Não, de boa.
+[00:03:19.890 - 00:03:20.890] Tranquilo, mano.
+[00:03:20.890 - 00:03:21.890] Fica em paz.
+[00:03:21.890 - 00:03:22.890] Que coisa que você pode dar um salve também.
+[00:03:22.890 - 00:03:24.590] Deus...
+[00:03:24.590 - 00:03:25.590] Valeu.
+[00:03:25.590 - 00:03:26.590] Tchau, tchau.
+[00:03:26.590 - 00:03:27.590] Tchau, tchau.
+[00:03:27.590 - 00:03:28.590] Dê, dê.
+[00:03:28.590 - 00:03:29.590] Vai no trap.

@@ -1,0 +1,113 @@
+SCORE MÍNIMO PARA APROVAÇÃO:
+80/100
+
+STATUS:
+Primeira fase local / Rascunho editorial preparado / Refatoração indicada / Bloqueado para publicação até validação real do painel e abertura do rascunho BetterDocs 2999
+
+SCORE ESTIMADO LOCAL:
+80+
+
+SCORE REAL ANTES DA CORREÇÃO:
+Não validado no WordPress.
+
+SCORE REAL DEPOIS DA CORREÇÃO:
+Não validado no WordPress.
+
+CHIP DA PALAVRA-CHAVE ATIVO:
+Não validado.
+
+TÍTULO DO ARTIGO:
+Como localizar os registros DNS no Painel Novo da StayCloud
+
+PALAVRA-CHAVE PRINCIPAL:
+registros DNS StayCloud
+
+PALAVRAS-CHAVE SECUNDÁRIAS:
+DNS StayCloud; Painel Novo StayCloud; consultar DNS; Cloudflare; registros DNS
+
+TÍTULO SEO:
+Registros DNS StayCloud: como localizar no painel
+
+CARACTERES DO TÍTULO SEO:
+52
+
+SLUG:
+registros-dns-staycloud
+
+META DESCRIPTION:
+Veja como localizar os registros DNS StayCloud no Painel Novo e consultar os dados necessários para apontar seu domínio na Cloudflare ou em outra plataforma.
+
+CARACTERES DA META DESCRIPTION:
+154
+
+EXCERPT:
+Aprenda a localizar os registros DNS no Painel Novo da StayCloud e consultar os dados da hospedagem para usar em Cloudflare, Registro.br ou outro provedor DNS.
+
+CATEGORIA:
+Painel novo
+
+TAGS:
+DNS; Painel Novo; Cloudflare; Domínios; StayCloud
+
+DENSIDADE ESTIMADA:
+Natural. A palavra-chave aparece no título, introdução, corpo, H2 e ALT principal planejado.
+
+QUANTIDADE DE PALAVRAS:
+898 no preview local.
+
+H2 COM PALAVRA-CHAVE:
+Como localizar os registros DNS StayCloud no Painel Novo
+
+H3 COM PALAVRA-CHAVE OU VARIAÇÃO:
+2. Clique na aba DNS
+
+IMAGEM COM PALAVRA-CHAVE NO ALT:
+Print 01 planejado: "Aba DNS para localizar registros DNS StayCloud no Painel Novo"
+
+LINKS INTERNOS:
+https://ajuda.staycloud.com.br/docs/dados-servidor-staycloud/
+https://ajuda.staycloud.com.br/docs/como-apontar-dominio-para-staycloud/
+https://ajuda.staycloud.com.br/docs/alterar-nameservers-staycloud/
+
+LINKS EXTERNOS:
+Nenhum link externo necessário.
+
+TÍTULO SOCIAL:
+Registros DNS StayCloud: como localizar no painel
+
+DESCRIÇÃO SOCIAL:
+Veja onde consultar registros e dados DNS da hospedagem no Painel Novo da StayCloud para usar em plataformas externas.
+
+CHECKLIST RANK MATH:
+
+- palavra-chave de foco preenchida;
+- palavra-chave confirmada como etiqueta/chip ativa;
+- título SEO salvo;
+- slug salvo;
+- meta description salva;
+- resumo preenchido;
+- categoria selecionada;
+- social preenchido quando disponível;
+- Rank Math recalculado;
+- score real mínimo 80/100 antes de publicar.
+
+GATE RANK MATH ANTES DE PUBLICAR:
+
+Antes de clicar em Publicar, confirmar visualmente:
+
+1. A palavra-chave de foco foi preenchida.
+2. A palavra-chave aparece como etiqueta/chip ativa.
+3. O campo não contém somente texto ainda não confirmado.
+4. O título SEO foi salvo.
+5. O slug foi salvo.
+6. A meta description foi salva.
+7. O resumo foi preenchido.
+8. A categoria foi selecionada.
+9. O Rank Math recalculou.
+10. O score real é no mínimo 80/100.
+
+PENDÊNCIAS:
+
+- Validar slug existente do rascunho `2999` antes de alterar.
+- Confirmar score real no Rank Math apenas após inserir no BetterDocs.
+- Não publicar sem aprovação explícita de Vinicius.

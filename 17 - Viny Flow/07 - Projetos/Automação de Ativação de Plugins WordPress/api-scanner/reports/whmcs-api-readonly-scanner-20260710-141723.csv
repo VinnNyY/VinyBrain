@@ -1,0 +1,9 @@
+ticket_id,status,subject,message,plugin,plugin_slug,domain,activation_requested,authorization_detected,completion_detected,wordpress_context,decision,classification,score,signals,blocked_actions,is_candidate,source
+15687,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail
+15697,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail
+15698,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail
+15745,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail
+15684,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail
+15685,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail
+15686,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail
+15689,,,,,,,False,False,False,False,ignored,IGNORAR,0,,,False,detail

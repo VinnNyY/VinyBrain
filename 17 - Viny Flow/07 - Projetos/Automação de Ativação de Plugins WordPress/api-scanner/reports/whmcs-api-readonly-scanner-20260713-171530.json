@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "generated_at": "20260713-171530",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket",
+      "GetClientsProducts"
+    ],
+    "whmcs_provider": "browser-ui",
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "browser-ui",
+    "redact_emails": false,
+    "wp_validator": "browser",
+    "inspect_requested_plugins": false,
+    "debug_plugin_table": false,
+    "browser_session": "persistent",
+    "browser_bootstrap_timeout": 900,
+    "browser_bootstrap_manual_confirm": false,
+    "browser_bootstrap_login": false,
+    "prepare_installation_plan": false,
+    "prepare_execution": false,
+    "execute_installation_plan": false,
+    "apply": false,
+    "gettickets_request": {
+      "provider": "browser-ui",
+      "status": "Awaiting Reply",
+      "limitstart": 0,
+      "limitnum": 20,
+      "totalresults": 8
+    },
+    "browser_ui_debug": {
+      "browser_started": true,
+      "logged_in": true,
+      "current_page": "https://painel.staycloud.com.br/gestor/supporttickets.php",
+      "current_path": "/gestor/supporttickets.php",
+      "page_title": "WHMCS - Tickets de Suporte",
+      "visible_tickets": 8,
+      "candidates": [
+        "FLF-942994",
+        "ONA-962370",
+        "PYA-939981",
+        "QXA-923065"
+      ],
+      "persistent_profile_configured": true,
+      "browser_ui_status": "OK",
+      "browser_ui_reason": "TICKET_NOT_FOUND_IN_UI",
+      "queue_filter_found": true,
+      "awaiting_reply_option_found": true,
+      "filter_applied": true,
+      "items_found_text": "Itens encontrados",
+      "visible_tables": 1,
+      "candidate_tables": 1,
+      "headers_found": [
+        [
+          "departamento",
+          "assunto",
+          "solicitante",
+          "status",
+          "ltima_resposta"
+        ]
+      ],
+      "chosen_table_rows": 11,
+      "ticket_link_count": 10,
+      "normalized_ticket_count": 8,
+      "failure_reason": "TICKET_NOT_FOUND_IN_UI",
+      "rows_analyzed": 11,
+      "rows_accepted": 8,
+      "rows_rejected": 3,
+      "rejection_stats": {
+        "TICKET_NUMBER_NOT_EXTRACTED": 2,
+        "SUBJECT_EMPTY": 0,
+        "ROW_COLUMN_COUNT_MISMATCH": 1,
+        "DEPARTMENT_EMPTY": 0,
+        "STATUS_EMPTY": 0,
+        "UNSAFE_TICKET_HREF": 0,
+        "DUPLICATE_TICKET": 0
+      },
+      "rejection_samples": [
+        {
+          "ticket_num": "",
+          "department_present": true,
+          "subject_present": true,
+          "status_present": true,
+          "href_safe": false,
+          "row_data_quality": "FULL",
+          "reason": "TICKET_NUMBER_NOT_EXTRACTED",
+          "column_count": 7,
+          "header_count": 7
+        },
+        {
+          "ticket_num": "",
+          "department_present": false,
+          "subject_present": false,
+          "status_present": false,
+          "href_safe": false,
+          "row_data_quality": "FULL",
+          "reason": "TICKET_NUMBER_NOT_EXTRACTED",
+          "column_count": 1,
+          "header_count": 7
+        }
+      ],
+      "ticket_index_count": 8,
+      "queue_filter_applications": 0,
+      "listings_executed": 1,
+      "navigation_count": 4,
+      "loop_detected": false,
+      "direct_search_needed": true,
+      "direct_search_input_found": true,
+      "direct_filter_applied": true,
+      "direct_results_count": 0,
+      "direct_exact_match": false,
+      "direct_search_used": true,
+      "search_origin": "direct_ui_search",
+      "opened_ticket": "",
+      "open_origin": "",
+      "detail_detected": false,
+      "login_real_detected": false,
+      "technical_result": "",
+      "requested_ticket": "PMN-083938",
+      "requested_ticket_found_in_index": false,
+      "opened_candidate": false,
+      "returned_to_list": false
+    },
+    "browser_ui_status": "OK",
+    "browser_ui_reason": "TICKET_NOT_FOUND_IN_UI"
+  },
+  "summary": {
+    "listed": 0,
+    "returned": 0,
+    "active_analyzed": 0,
+    "opened": 0,
+    "pending_activation": 0,
+    "needs_review": 0,
+    "ignored": 0,
+    "historical_returned": 0
+  },
+  "tickets": []
+}

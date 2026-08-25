@@ -1,0 +1,79 @@
+# SEO Rank Math
+
+Tutorial: Como alterar a senha de uma conta de e-mail no Painel Novo da StayCloud
+Tipo: refatoração do artigo existente
+Artigo público a preservar: https://ajuda.staycloud.com.br/docs/alterar-senha-de-e-mail/
+BetterDocs público identificado: 2099
+
+## Palavra-chave principal
+
+alterar senha de e-mail
+
+## Palavra-chave secundária
+
+alterar senha de e-mail no Painel Novo
+
+## Título SEO
+
+Alterar senha de e-mail StayCloud em 4 passos
+
+## Slug
+
+alterar-senha-de-e-mail
+
+Observação: preservar o slug público existente. Não criar `alterar-senha-de-e-mail-2`, `alterar-senha-de-e-mail-3` ou qualquer slug concorrente.
+
+## Meta description
+
+Aprenda a alterar senha de e-mail StayCloud pelo Painel Novo, localizar a conta correta e definir uma nova senha com segurança.
+
+## Excerpt / resumo
+
+Veja como alterar a senha de uma conta de e-mail StayCloud pelo Painel Novo, conferindo o serviço correto e usando a ação Resetar senha com segurança.
+
+## Categoria
+
+Painel novo
+
+## Tags sugeridas
+
+- E-mail
+- Senha
+- Painel Novo
+- Segurança
+- StayCloud
+
+## Social
+
+Título social: Alterar senha de e-mail StayCloud pelo Painel Novo
+
+Descrição social: Aprenda a localizar uma conta de e-mail no Painel Novo da StayCloud e redefinir a senha com segurança.
+
+## Links internos confirmados
+
+- https://ajuda.staycloud.com.br/docs/como-criar-email-no-painel-novo/
+- https://ajuda.staycloud.com.br/docs/acessar-webmail-email-profissional/
+- https://ajuda.staycloud.com.br/docs/consultar-uso-email-painel-novo/
+
+## ALT principal
+
+Alterar senha de e-mail StayCloud no modal de Resetar senha do Painel Novo
+
+## Gate Rank Math local
+
+- Palavra-chave no primeiro parágrafo: sim.
+- Palavra-chave nas primeiras 100 palavras: sim.
+- Palavra-chave em H2: sim.
+- Variação em H3: sim.
+- Palavra-chave em ALT: sim.
+- Palavra-chave no corpo: sim.
+- Título SEO com palavra-chave: sim.
+- Meta description com palavra-chave: sim.
+- Slug preservado com termos principais: sim.
+- Links internos reais: sim.
+- Conteúdo com mais de 600 palavras: sim.
+- Score real Rank Math antes da correção final: 70/100.
+- Score real Rank Math depois da correção final: 87/100.
+- Pendência restante: `Adicional 1 erro`, recomendação editorial não crítica; gate aprovado porque o score real ficou acima de 80/100.
+
+Status: SEO validado no Rank Math — 87/100.

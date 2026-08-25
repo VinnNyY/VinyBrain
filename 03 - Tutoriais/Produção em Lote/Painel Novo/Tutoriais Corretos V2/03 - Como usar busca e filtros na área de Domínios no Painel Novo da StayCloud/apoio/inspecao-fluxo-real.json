@@ -1,0 +1,67 @@
+{
+  "data": "2026-07-24T15:11:13.758Z",
+  "url": "https://beta.staycloud.com/dashboard/dominios",
+  "buscaUsada": "dominio-exemplo",
+  "filtrosVisiveis": [
+    "todos 0",
+    "ativos 0",
+    "expirando em 30d 0",
+    "vencidos 0",
+    "cancelados 0"
+  ],
+  "antes": {
+    "inputs": [
+      {
+        "placeholder": "Buscar domínio...",
+        "type": "search",
+        "value": ""
+      }
+    ],
+    "buttons": [
+      "Fechar aviso",
+      "Abrir menu",
+      "Conta de teste",
+      "Buscar site, domínio, fatura ou chamado... ⌘ K",
+      "dark",
+      "Conta de teste",
+      "Minimizar sidebar",
+      "todos 0",
+      "ativos 0",
+      "expirando em 30d 0",
+      "vencidos 0",
+      "cancelados 0"
+    ],
+    "headings": [
+      "Seus domínios"
+    ],
+    "body": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud Conta de teste Buscar site, domínio, fatura ou chamado... ⌘ K dark Home Hospedagem WordPress VPS Deploy Loja Domínios Faturas Suporte Ferramentas StayFast NOVO StayAcademy Conta de teste DOMÍNIOS Seus domínios Gerencie registros, nameservers, DNS e renovações. Transferir Registrar domínio todos 0 ativos 0 expirando em 30d 0 vencidos 0 cancelados 0 Nenhum domínio encontrado para esse filtro. 0 de 0 domínios"
+  },
+  "depoisDaBusca": {
+    "inputs": [
+      {
+        "placeholder": "Buscar domínio...",
+        "type": "search",
+        "value": "dominio-exemplo"
+      }
+    ],
+    "buttons": [
+      "Fechar aviso",
+      "Abrir menu",
+      "Conta de teste",
+      "Buscar site, domínio, fatura ou chamado... ⌘ K",
+      "dark",
+      "Conta de teste",
+      "Minimizar sidebar",
+      "todos 0",
+      "ativos 0",
+      "expirando em 30d 0",
+      "vencidos 0",
+      "cancelados 0"
+    ],
+    "headings": [
+      "Seus domínios"
+    ],
+    "body": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud Conta de teste Buscar site, domínio, fatura ou chamado... ⌘ K dark Home Hospedagem WordPress VPS Deploy Loja Domínios Faturas Suporte Ferramentas StayFast NOVO StayAcademy Conta de teste DOMÍNIOS Seus domínios Gerencie registros, nameservers, DNS e renovações. Transferir Registrar domínio todos 0 ativos 0 expirando em 30d 0 vencidos 0 cancelados 0 Nenhum domínio encontrado para esse filtro. 0 de 0 domínios 1 Resultado da busca"
+  },
+  "observacao": "Script apenas navegou, digitou no campo de busca e marcou filtros/lista. Nenhuma acao de dominio foi executada."
+}

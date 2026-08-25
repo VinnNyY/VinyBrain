@@ -1,0 +1,463 @@
+1
+00:00:00,932 --> 00:00:26,608
+SPEAKER_00: Boa tropa, vamos lá, dailyzinha do dia, daily of the day Do meu lado, não sei se eu... deixa eu ver, acho que eu não tenho nada de novo pra passar pra vocês A única coisa que eu tenho que passar hoje pra vocês é que Ficarei um pouco inativo dos tickets, então eu vou ficar mais monitorando os tickets Vou ficar mais... um pouco mais ativo no chat aqui, principalmente junto com o Matheus Estou ajudando ele aqui mais na frente Eu não sei se foi te passado aí, mas você pode...
+
+2
+00:00:27,649 --> 00:00:27,809
+SPEAKER_00: Não?
+
+3
+00:00:28,009 --> 00:00:29,390
+SPEAKER_01: Pode passar Pode passar?
+
+4
+00:00:30,347 --> 00:00:31,888
+SPEAKER_00: Você pode colocar um line pra ticket aí, tá?
+
+5
+00:00:31,928 --> 00:00:34,089
+SPEAKER_03: Pra ticket?
+
+6
+00:00:34,109 --> 00:00:35,190
+SPEAKER_00: Pra ticket.
+
+7
+00:00:37,291 --> 00:00:43,454
+SPEAKER_00: Só não chora de alegria.
+
+8
+00:00:43,474 --> 00:00:44,475
+SPEAKER_00: Aí, pode colocar um.
+
+9
+00:00:44,815 --> 00:00:47,456
+SPEAKER_00: Ficarei mais à frente aqui junto com o Matheus no chat.
+
+10
+00:00:47,476 --> 00:00:48,297
+SPEAKER_00: Beleza?
+
+11
+00:00:48,317 --> 00:00:50,998
+SPEAKER_00: Então, aí eu vou ficar monitorando a fila aqui com vocês também.
+
+12
+00:00:51,018 --> 00:00:52,499
+SPEAKER_00: Então, se eu precisar de algum follow.
+
+13
+00:00:52,879 --> 00:00:53,859
+SPEAKER_00: Tanto que eu até mandei no chat.
+
+14
+00:00:53,879 --> 00:00:55,840
+SPEAKER_00: Depois, se alguém quiser ver no chat do Slack.
+
+15
+00:00:55,861 --> 00:00:58,682
+SPEAKER_00: Preciso que alguém dê uma focada numa migraçãozinha que o Chapa abriu.
+
+16
+00:00:59,367 --> 00:01:01,849
+SPEAKER_00: Que ela nem tá como novo não, ela já foi como em aberto.
+
+17
+00:01:01,869 --> 00:01:08,334
+SPEAKER_00: Não sei se ela foi escalada pra alguém ou se ela só... Porque o cliente respondeu duas vezes, ela já foi como em aberto.
+
+18
+00:01:08,934 --> 00:01:10,696
+SPEAKER_00: Aí alguém pega essa migraçãozinha, por favor.
+
+19
+00:01:10,736 --> 00:01:14,459
+SPEAKER_00: Vai ser uma migraçãozinha mais puxada, então talvez consome um pouco mais de tempo.
+
+20
+00:01:15,740 --> 00:01:18,602
+SPEAKER_00: De resto...
+
+21
+00:01:18,682 --> 00:01:20,683
+SPEAKER_00: Não tem nenhum ticket tão crítico não.
+
+22
+00:01:21,204 --> 00:01:23,145
+SPEAKER_00: Alguns eu já passei pra quem tem que fazer.
+
+23
+00:01:23,325 --> 00:01:26,668
+SPEAKER_00: Já passei pro Gabriel responder um aí, que ele tá validando.
+
+24
+00:01:27,669 --> 00:01:28,169
+SPEAKER_00: E é isso.
+
+25
+00:01:28,580 --> 00:01:30,081
+SPEAKER_00: Mas acho que do meu lado é isso.
+
+26
+00:01:30,101 --> 00:01:31,522
+SPEAKER_00: Quem quiser já passar para o próximo.
+
+27
+00:01:32,963 --> 00:01:34,443
+SPEAKER_00: As novidades do dia pode passar também.
+
+28
+00:01:37,005 --> 00:01:38,806
+SPEAKER_03: Aí eu vou falar um pouquinho do meu aqui.
+
+29
+00:01:39,546 --> 00:01:40,867
+SPEAKER_03: Ontem foi bem tranquilo.
+
+30
+00:01:40,887 --> 00:01:42,988
+SPEAKER_03: Não teve muitos chats não.
+
+31
+00:01:44,769 --> 00:01:48,732
+SPEAKER_03: Consegui duas, acho que uma ou duas avaliações no Google ontem com o cliente.
+
+32
+00:01:48,832 --> 00:01:50,933
+SPEAKER_03: Subi uma lá, vou subir outra agora.
+
+33
+00:01:52,850 --> 00:02:08,356
+SPEAKER_03: Não mexi, depois que eu saí ontem para a academia, nem mexi no passado, então não subi os editoriais no arquivo ainda, mas eu vou subir tudo já direto hoje para o... Como é que fala?
+
+34
+00:02:08,476 --> 00:02:10,117
+SPEAKER_03: Vou subir direto para a ajuda já.
+
+35
+00:02:13,985 --> 00:02:18,046
+SPEAKER_00: A notícia boa é que essa base nossa de ajuda, ela vai mudar.
+
+36
+00:02:18,066 --> 00:02:21,248
+SPEAKER_00: Acho que eles estão desenvolvendo uma nova, depois eu vou pegar mais informações.
+
+37
+00:02:21,768 --> 00:02:27,950
+SPEAKER_00: Mas aí até o jeito da gente subir o tutorial vai ser muito mais tranquilo depois, velho.
+
+38
+00:02:27,970 --> 00:02:29,070
+SPEAKER_01: É, vai ser melhor mesmo.
+
+39
+00:02:29,110 --> 00:02:32,672
+SPEAKER_00: Porque a gente tá com o tutorial muito defasado aí também, né?
+
+40
+00:02:32,692 --> 00:02:36,593
+SPEAKER_00: A gente tá criando agora dos painéis novos, mas a maioria é tudo do antigo.
+
+41
+00:02:37,634 --> 00:02:41,675
+SPEAKER_00: Aí eles acham que vão criar um painel novo de ajuda e vai ser até mais fácil da gente subir também.
+
+42
+00:02:42,847 --> 00:02:47,208
+SPEAKER_03: Eu tô criando até uns tutoriais com base em dúvida dos clientes mesmo, bem específico.
+
+43
+00:02:47,468 --> 00:02:51,769
+SPEAKER_03: Não, isso aí é perigoso, isso aí é ótimo.
+
+44
+00:02:52,149 --> 00:02:57,391
+SPEAKER_03: Tipo assim, específico, como abrir ticket de migração, como abrir ticket disso.
+
+45
+00:02:57,431 --> 00:03:01,852
+SPEAKER_03: É bem específico, já que a gente já tem direcionamento direto do que é que eles têm dúvida e não...
+
+46
+00:03:03,083 --> 00:03:06,405
+SPEAKER_03: caminho pra ele achar, sabe?
+
+47
+00:03:06,965 --> 00:03:07,826
+SPEAKER_00: É bom, é bom, é bom.
+
+48
+00:03:08,386 --> 00:03:09,847
+SPEAKER_00: Beleza, então.
+
+49
+00:03:09,887 --> 00:03:10,327
+SPEAKER_00: Mais algo?
+
+50
+00:03:11,407 --> 00:03:12,188
+SPEAKER_03: Não, só.
+
+51
+00:03:12,448 --> 00:03:12,948
+SPEAKER_00: Perfeito.
+
+52
+00:03:13,729 --> 00:03:16,670
+SPEAKER_00: Gabriel, algo de novo pra passar pra gente?
+
+53
+00:03:17,391 --> 00:03:18,471
+SPEAKER_00: Como tá do seu lado?
+
+54
+00:03:20,272 --> 00:03:22,213
+SPEAKER_02: Que tá bem corrido, na real.
+
+55
+00:03:23,114 --> 00:03:29,197
+SPEAKER_02: Eu tenho que agilizar minha demanda no meio, mas tá com bastante ticket de VPS nessa merda.
+
+56
+00:03:30,933 --> 00:03:34,876
+SPEAKER_02: Eu acho que isso eu tô com um BO também, velho, que talvez eu vou precisar do Tunico.
+
+57
+00:03:36,116 --> 00:03:38,158
+SPEAKER_02: De uma VPS que...
+
+58
+00:03:39,779 --> 00:03:41,700
+SPEAKER_02: Não sei porquê, velho.
+
+59
+00:03:41,780 --> 00:03:47,344
+SPEAKER_02: Quando eu peguei o ticket dela, esse da segunda-feira, que a gente vai responder agora há pouco.
+
+60
+00:03:48,664 --> 00:03:51,046
+SPEAKER_02: Quando eu peguei a VPS dele, ele tava sem placa de rede.
+
+61
+00:03:51,066 --> 00:03:52,627
+SPEAKER_02: Eu subi a placa de rede nela.
+
+62
+00:03:53,968 --> 00:03:56,109
+SPEAKER_02: Aí ela estartou como se fosse uma VPS nova.
+
+63
+00:03:56,630 --> 00:03:57,790
+SPEAKER_02: Como se fosse do Rebuild.
+
+64
+00:03:57,830 --> 00:04:00,432
+SPEAKER_02: Aí eu fui subir o último backup dela.
+
+65
+00:04:00,624 --> 00:04:02,245
+SPEAKER_02: Que é do dia 15 de julho.
+
+66
+00:04:02,905 --> 00:04:04,826
+SPEAKER_02: E também estava sem placa de rede.
+
+67
+00:04:04,846 --> 00:04:05,986
+SPEAKER_02: Eu subi a placa de rede.
+
+68
+00:04:06,006 --> 00:04:07,027
+SPEAKER_02: E está com a solução do EPS 9.
+
+69
+00:04:07,047 --> 00:04:07,467
+SPEAKER_02: Então, tipo...
+
+70
+00:04:07,487 --> 00:04:09,868
+SPEAKER_02: O cara perdeu os dados.
+
+71
+00:04:11,049 --> 00:04:11,709
+SPEAKER_00: Tá, isso aí.
+
+72
+00:04:11,809 --> 00:04:15,351
+SPEAKER_02: Eu estava esperando o Paulo responder.
+
+73
+00:04:15,371 --> 00:04:16,371
+SPEAKER_02: Só que ele não...
+
+74
+00:04:16,411 --> 00:04:17,832
+SPEAKER_02: Não me respondeu.
+
+75
+00:04:18,252 --> 00:04:18,992
+SPEAKER_00: Não, eu dou um toque nele.
+
+76
+00:04:19,012 --> 00:04:19,493
+SPEAKER_00: Ah, não sei.
+
+77
+00:04:19,513 --> 00:04:21,714
+SPEAKER_00: Eu acho que o cara... Você já falou com ele?
+
+78
+00:04:21,734 --> 00:04:22,454
+SPEAKER_00: Eu dou um toque nele.
+
+79
+00:04:24,050 --> 00:04:26,192
+SPEAKER_02: Eu tinha passado e ele falou pra eu restaurar o backup.
+
+80
+00:04:26,212 --> 00:04:30,437
+SPEAKER_02: Eu restaurei, mas não adiantou não, velho.
+
+81
+00:04:30,637 --> 00:04:31,739
+SPEAKER_00: Tá, eu aviso ele aqui também.
+
+82
+00:04:31,779 --> 00:04:33,581
+SPEAKER_02: Só não tem que me avisar mais.
+
+83
+00:04:33,761 --> 00:04:34,402
+SPEAKER_00: Tá, eu já deixo avisado.
+
+84
+00:04:34,442 --> 00:04:36,884
+SPEAKER_02: E a VPS dele é antigaça.
+
+85
+00:04:36,904 --> 00:04:38,006
+SPEAKER_00: É, eu vi pela data aqui.
+
+86
+00:04:40,188 --> 00:04:45,274
+SPEAKER_02: A Spike e o Tunico vai ter que entrar nesse aí, porque... Vai ter que falar com o cliente se pá, né?
+
+87
+00:04:45,414 --> 00:04:45,554
+SPEAKER_02: É.
+
+88
+00:04:47,087 --> 00:04:48,608
+SPEAKER_02: É, porque não tem nada, velho.
+
+89
+00:04:48,648 --> 00:04:50,328
+SPEAKER_02: Pelo menos eu não consegui recuperar.
+
+90
+00:04:51,028 --> 00:04:54,570
+SPEAKER_02: Porque, tipo, quando eu subo a VPS dele, a VPS sobe fechada.
+
+91
+00:04:54,590 --> 00:05:04,273
+SPEAKER_02: Aí, quando eu subo a placa de rede, ela roda como se fosse uma VPS não aprovisionada, tá ligado?
+
+92
+00:05:04,413 --> 00:05:10,615
+SPEAKER_01: O Naldo, que tem mais VPS, só valida com ele essa parte técnica, que ele tem que entrar em contato.
+
+93
+00:05:14,641 --> 00:05:20,607
+SPEAKER_01: Dependendo, ele toca pra outro lado do que eu faria.
+
+94
+00:05:20,807 --> 00:05:22,849
+SPEAKER_01: VPS ainda eu tô pegando.
+
+95
+00:05:24,370 --> 00:05:28,854
+SPEAKER_02: Beleza, mas acho que esse caso aí mesmo vai ser só tentar consolar o cliente porque ele perdeu os dados.
+
+96
+00:05:29,755 --> 00:05:30,576
+SPEAKER_01: Só falar, irmão.
+
+97
+00:05:30,596 --> 00:05:31,457
+SPEAKER_01: Perdeu.
+
+98
+00:05:32,538 --> 00:05:33,599
+SPEAKER_02: Só lamento, velho.
+
+99
+00:05:34,740 --> 00:05:35,040
+SPEAKER_00: Boa.
+
+100
+00:05:35,400 --> 00:05:35,901
+SPEAKER_00: Demais.
+
+101
+00:05:35,961 --> 00:05:37,362
+SPEAKER_00: Tem algo a mais pra passar?
+
+102
+00:05:39,225 --> 00:05:44,607
+SPEAKER_02: Acho que eu vou ficar um pouquinho off dos tickets também pra tocar minhas demandas aqui, mas se precisar, só dá um toque que eu pulo.
+
+103
+00:05:45,868 --> 00:05:48,769
+SPEAKER_00: Tá.
+
+104
+00:05:48,829 --> 00:05:51,390
+SPEAKER_02: Eu vou antes responder aquele do Melo pular.
+
+105
+00:05:51,991 --> 00:05:53,251
+SPEAKER_02: Tô elaborando a resposta aqui.
+
+106
+00:05:55,632 --> 00:05:58,333
+SPEAKER_01: Eu vou dar uma ajudada então nos tickets, mano.
+
+107
+00:06:00,955 --> 00:06:08,498
+SPEAKER_01: Já que o Vini desceu pro chat e o Gabriel tá agarrado, eu vou ver o que eu posso matar aqui.
+
+108
+00:06:10,666 --> 00:06:11,507
+SPEAKER_01: E file zero.
+
+109
+00:06:11,967 --> 00:06:12,768
+SPEAKER_00: Boa, beleza, então.
+
+110
+00:06:12,968 --> 00:06:14,149
+SPEAKER_00: Qualquer coisa, vocês me dão salve.
+
+111
+00:06:14,269 --> 00:06:16,731
+SPEAKER_00: Eu tô no chat, mas também eu posso voltar sem B.A.
+
+112
+00:06:16,852 --> 00:06:17,552
+SPEAKER_00: nenhum, ok?
+
+113
+00:06:19,294 --> 00:06:19,734
+SPEAKER_01: Bora, bora.
+
+114
+00:06:20,155 --> 00:06:20,695
+SPEAKER_01: É, estrapo.
+
+115
+00:06:20,735 --> 00:06:21,816
+SPEAKER_01: Qualquer coisa, vocês me dão salve aí.
+
+116
+00:06:21,836 --> 00:06:22,857
+SPEAKER_01: Vou ficar montadinhos aqui.

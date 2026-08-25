@@ -1,0 +1,86 @@
+SCORE MÍNIMO PARA APROVAÇÃO:
+80/100
+
+STATUS:
+Conteúdo em produção / Visual validado / SEO preparado localmente / SEO validado no Rank Math / Pronto para publicação / Publicado / Publicação validada
+
+SCORE ESTIMADO LOCAL:
+
+SCORE REAL ANTES DA CORREÇÃO:
+
+SCORE REAL DEPOIS DA CORREÇÃO:
+
+CHIP DA PALAVRA-CHAVE ATIVO:
+Não validado / Sim / Não
+
+TÍTULO DO ARTIGO:
+
+PALAVRA-CHAVE PRINCIPAL:
+
+PALAVRAS-CHAVE SECUNDÁRIAS:
+
+TÍTULO SEO:
+
+CARACTERES DO TÍTULO SEO:
+
+SLUG:
+
+META DESCRIPTION:
+
+CARACTERES DA META DESCRIPTION:
+
+EXCERPT:
+
+CATEGORIA:
+
+TAGS:
+
+DENSIDADE ESTIMADA:
+
+QUANTIDADE DE PALAVRAS:
+
+H2 COM PALAVRA-CHAVE:
+
+H3 COM PALAVRA-CHAVE OU VARIAÇÃO:
+
+IMAGEM COM PALAVRA-CHAVE NO ALT:
+
+LINKS INTERNOS:
+
+LINKS EXTERNOS:
+
+TÍTULO SOCIAL:
+
+DESCRIÇÃO SOCIAL:
+
+CHECKLIST RANK MATH:
+
+- palavra-chave de foco preenchida;
+- palavra-chave confirmada como etiqueta/chip ativa;
+- título SEO salvo;
+- slug salvo;
+- meta description salva;
+- resumo preenchido;
+- categoria selecionada;
+- social preenchido quando disponível;
+- Rank Math recalculado;
+- score real mínimo 80/100 antes de publicar.
+
+GATE RANK MATH ANTES DE PUBLICAR:
+
+Antes de clicar em Publicar, confirmar visualmente:
+
+1. A palavra-chave de foco foi preenchida.
+2. A palavra-chave aparece como etiqueta/chip ativa.
+3. O campo não contém somente texto ainda não confirmado.
+4. O título SEO foi salvo.
+5. O slug foi salvo.
+6. A meta description foi salva.
+7. O resumo foi preenchido.
+8. A categoria foi selecionada.
+9. O Rank Math recalculou.
+10. O score real é no mínimo 80/100.
+
+Não basta digitar a palavra-chave. É obrigatório confirmar que o Rank Math transformou o texto em palavra-chave ativa e recalculou o score.
+
+PENDÊNCIAS:

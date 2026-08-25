@@ -1,0 +1,55 @@
+TÍTULO NATIVO:
+DOMÍNIO PERSONALIZADO DEPLOY STAYCLOUD EM 6 PASSOS
+
+H1:
+Como configurar um domínio personalizado no Deploy StayCloud
+
+PALAVRA-CHAVE PRINCIPAL:
+domínio personalizado Deploy StayCloud
+
+TÍTULO SEO:
+Domínio personalizado Deploy StayCloud em 6 passos
+
+SLUG:
+dominio-personalizado-deploy-staycloud
+
+META DESCRIPTION:
+Domínio personalizado Deploy StayCloud: aprenda a adicionar o registro DNS e validar o endereço da aplicação.
+
+EXCERPT:
+Veja como acessar a área Domínios do Deploy StayCloud, adicionar um domínio, identificar o CNAME solicitado e acompanhar a validação.
+
+CATEGORIA:
+Painel novo
+
+TAGS:
+Deploy; Domínio personalizado; DNS; CNAME; Cloud; Painel novo; StayCloud.
+
+LINKS INTERNOS VALIDADOS:
+https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/
+https://ajuda.staycloud.com.br/docs/logs-do-deploy-staycloud/
+https://ajuda.staycloud.com.br/docs/publicar-nova-versao-staycloud/
+
+ALT PRINCIPAL:
+Aplicação correta para domínio personalizado Deploy StayCloud
+
+SOCIAL TITLE:
+Domínio personalizado Deploy StayCloud em 6 passos
+
+SOCIAL DESCRIPTION:
+Configure domínio personalizado Deploy StayCloud, entenda o CNAME solicitado e acompanhe o status na área Domínios.
+
+GATE RANK MATH:
+- Palavra-chave como chip ativo: confirmado no WordPress.
+- Palavra-chave no primeiro parágrafo: sim.
+- Palavra-chave no título SEO: sim.
+- Palavra-chave no slug: sim.
+- Palavra-chave na meta description: sim.
+- Palavra-chave no corpo: sim.
+- Palavra-chave em H2: sim.
+- Palavra-chave em ALT: sim.
+- Links internos reais: 3, HTTP 200 confirmado.
+- Social preparado: sim.
+- Score mínimo real de 80: confirmado.
+- Score final: 80/100.
+- Status: publicado e validado no Rank Math.

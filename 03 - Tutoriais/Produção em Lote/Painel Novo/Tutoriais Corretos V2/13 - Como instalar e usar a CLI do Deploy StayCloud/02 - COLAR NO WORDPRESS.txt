@@ -1,0 +1,107 @@
+<h1>Como instalar e usar a CLI Deploy StayCloud</h1>
+
+<p><strong>CLI Deploy StayCloud</strong> é a ferramenta de terminal usada para conectar um projeto local ao Cloud do Painel Novo e publicar a aplicação sem enviar um arquivo manualmente pelo painel. Neste tutorial, você vai ver onde obter o comando oficial, como conectar o ambiente com segurança, como executar o primeiro deploy pelo terminal e como confirmar o resultado.</p>
+
+<p>Antes de seguir, confirme que o Deploy já está disponível na sua conta. Se você ainda não ativou o recurso, veja primeiro <a href="https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/">como ativar o Deploy no Painel Novo da StayCloud</a>. Se preferir publicar por upload de arquivo, consulte também <a href="https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/">como fazer o primeiro deploy na StayCloud</a>.</p>
+
+<h2>O que é a CLI Deploy StayCloud</h2>
+
+<p>A CLI Deploy StayCloud é disponibilizada pelo pacote <a href="https://www.npmjs.com/package/@staysdev/setup"><strong>@staysdev/setup</strong></a>. No fluxo validado, o painel mostrou a seção <strong>Deploy via CLI</strong> dentro da tela <strong>Novo projeto</strong>. A própria interface informa que esse caminho conecta a sua IA favorita e coloca suas criações no ar.</p>
+
+<p>O comando é executado com <strong>npx</strong>, então não foi necessário instalar um binário separado antes do uso. O pacote existe como ferramenta pública e expõe o comando <strong>staycloud</strong>, mas o painel entrega um comando pronto de inicialização com token temporário. Esse token é sensível e não deve ser publicado, compartilhado ou salvo em tutoriais.</p>
+
+<h2>Antes de usar a CLI</h2>
+
+<p>Use um projeto local sem dados sensíveis. Na validação deste tutorial, foi usado um projeto estático descartável chamado <strong>tutorial-deploy-cli-teste</strong>, com apenas HTML e CSS. Ele não tinha formulário, banco de dados, variáveis de ambiente, token, chave ou integração externa.</p>
+
+<p>Também é importante ter o Node.js disponível, porque o comando usa <strong>npx</strong>. O pacote público informa suporte a Node.js 18 ou superior. Se o projeto tiver arquivos privados, revise antes de executar o deploy. A ferramenta ignora itens sensíveis comuns, como <strong>.env</strong>, <strong>.git</strong>, <strong>node_modules</strong>, <strong>.staycloud</strong> e chaves privadas, mas a revisão do projeto continua sendo responsabilidade de quem publica.</p>
+
+<h2>Como instalar e usar a CLI do Deploy StayCloud</h2>
+
+<h3>1. Localize a opção Deploy via CLI</h3>
+
+<p>No Painel Novo, abra <strong>Deploy</strong>, acesse a tela <strong>Cloud</strong> e clique em <strong>Novo projeto</strong>. Na tela de criação, localize o card <strong>Deploy via CLI</strong>.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-onde-obter-cli-sanitizado.png" alt="CLI Deploy StayCloud no card Deploy via CLI do Painel Novo">
+  <figcaption>O card Deploy via CLI mostra onde iniciar o fluxo pelo terminal.</figcaption>
+</figure>
+
+<h3>2. Gere o comando oficial no painel</h3>
+
+<p>No card <strong>Deploy via CLI</strong>, clique em <strong>gerar comando</strong> ou copie o comando exibido. O formato validado começa com <strong>npx @staysdev/setup init</strong> e inclui um token temporário. No tutorial, o token foi substituído por <strong>SEU_TOKEN</strong> e a URL da API por <strong>URL_DA_API</strong>.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-comando-oficial-sanitizado.png" alt="Comando oficial da CLI Deploy StayCloud gerado no painel">
+  <figcaption>Copie o comando gerado no painel, mantendo o token em segurança.</figcaption>
+</figure>
+
+<h3>3. Confirme se a CLI Deploy StayCloud está disponível</h3>
+
+<p>Antes de conectar o projeto, você pode confirmar os comandos públicos da ferramenta. O pacote validado mostrou opções como <strong>init</strong>, <strong>connect</strong>, <strong>deploy</strong>, <strong>status</strong>, <strong>logs</strong> e <strong>disconnect</strong>.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-confirmacao-instalacao-sanitizado.png" alt="Comandos públicos da CLI Deploy StayCloud no terminal">
+  <figcaption>O comando de ajuda confirma que a CLI está disponível via npx.</figcaption>
+</figure>
+
+<h3>4. Conecte o projeto com segurança</h3>
+
+<p>Abra o terminal dentro da pasta do projeto e execute o comando gerado no painel. Não cole esse comando em chat público e não salve o token em arquivo de documentação. Quando a conexão funciona, a CLI informa que o projeto foi conectado à StayCloud e cria a pasta local <strong>.staycloud</strong>.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-autenticacao-conexao-sanitizado.png" alt="Conexão segura da CLI Deploy StayCloud no terminal">
+  <figcaption>A conexão cria os arquivos locais da StayCloud sem exibir o token no tutorial.</figcaption>
+</figure>
+
+<h3>5. Execute o deploy pelo terminal</h3>
+
+<p>Com o ambiente conectado, execute o comando de deploy. No fluxo validado, foi usado <strong>deploy --new</strong> para criar um projeto descartável e publicar os arquivos locais. Use nomes genéricos e seguros para testes.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-comando-deploy-sanitizado.png" alt="Comando de deploy pela CLI Deploy StayCloud">
+  <figcaption>O comando deploy envia os arquivos do projeto local para a StayCloud.</figcaption>
+</figure>
+
+<h3>6. Confira o resultado</h3>
+
+<p>Ao final do processamento, a CLI retorna uma URL pública. Valide se a aplicação abre no navegador e confira no painel se o projeto aparece como <strong>pronto</strong>. No teste realizado, a URL pública respondeu HTTP 200.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-resultado-cli-sanitizado.png" alt="Resultado do deploy feito com a CLI Deploy StayCloud">
+  <figcaption>O resultado esperado é uma URL pública funcionando e o projeto pronto no painel.</figcaption>
+</figure>
+
+<h2>Comandos públicos usados no teste</h2>
+
+<pre><code>npx @staysdev/setup help
+npx @staysdev/setup init --token SEU_TOKEN --api-url URL_DA_API
+npx @staysdev/setup deploy --new --name tutorial-deploy-cli-teste --subdomain tutorial-deploy-cli-teste
+npx @staysdev/setup status
+npx @staysdev/setup logs</code></pre>
+
+<p>O comando com token deve ser copiado diretamente do painel. Substitua <strong>SEU_TOKEN</strong> apenas quando estiver documentando ou revisando o fluxo; para executar de verdade, use o comando gerado na sua própria conta.</p>
+
+<h2>Erros comuns</h2>
+
+<p>O erro mais comum é tentar reutilizar um token antigo. O painel informa que o código de conexão é temporário; se ele expirar ou já tiver sido usado, gere um novo comando. Outro erro é executar o deploy fora da pasta do projeto. A CLI publica os arquivos do diretório atual, então abra o terminal no projeto correto antes de rodar o comando.</p>
+
+<p>Também evite publicar projetos com arquivos privados. Mesmo com filtros de segurança, não coloque segredos no projeto de teste. Para variáveis de ambiente, domínio personalizado, logs detalhados, redeploy e remoção, use fluxos próprios em tutoriais separados.</p>
+
+<h2>Dúvidas frequentes</h2>
+
+<h3>A CLI precisa de instalação separada?</h3>
+
+<p>No fluxo validado, não foi necessário baixar um instalador separado. O painel usa <strong>npx @staysdev/setup</strong>, que executa o pacote oficial pelo terminal.</p>
+
+<h3>O token aparece no tutorial?</h3>
+
+<p>Não. O token é sensível. Ele deve aparecer apenas no painel e no terminal do usuário durante a execução real. Em prints e exemplos, use <strong>SEU_TOKEN</strong>.</p>
+
+<h3>A CLI cria um projeto novo?</h3>
+
+<p>Ela pode criar um projeto novo quando o comando <strong>deploy --new</strong> é usado. No teste, isso foi necessário para validar o fluxo completo da CLI com um projeto descartável.</p>
+
+<h2>Conclusão</h2>
+
+<p>Agora você sabe como instalar e usar a CLI Deploy StayCloud pelo fluxo oficial do Painel Novo. O processo validado da CLI Deploy StayCloud consiste em abrir <strong>Novo projeto</strong>, gerar o comando em <strong>Deploy via CLI</strong>, conectar a pasta local com <strong>npx @staysdev/setup init</strong>, executar o deploy pelo terminal e confirmar a URL pública gerada.</p>

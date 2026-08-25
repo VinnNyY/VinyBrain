@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Como fazer o primeiro deploy na StayCloud</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; color: #111827; background: #f5f7fb; }
+    main { max-width: 920px; margin: 0 auto; padding: 40px 24px 72px; background: #fff; }
+    h1 { font-size: 36px; line-height: 1.2; margin: 0 0 20px; }
+    h2 { font-size: 26px; margin: 36px 0 14px; }
+    h3 { font-size: 20px; margin: 28px 0 10px; }
+    p, li { font-size: 17px; line-height: 1.7; }
+    a { color: #2563eb; }
+    figure { margin: 24px 0; border: 1px solid #dbe3ef; border-radius: 8px; overflow: hidden; background: #f8fafc; }
+    figure img { display: block; width: 100%; height: auto; }
+    figcaption { padding: 12px 14px; font-size: 14px; color: #4b5563; background: #fff; border-top: 1px solid #dbe3ef; }
+    .seo { margin-top: 44px; padding: 20px; border: 1px solid #dbe3ef; border-radius: 8px; background: #f8fafc; }
+    .seo h2 { margin-top: 0; }
+    code { background: #eef2ff; padding: 2px 5px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Como fazer o primeiro deploy na StayCloud</h1>
+  <p><strong>Primeiro deploy StayCloud</strong> é o processo de publicar um projeto pela área <strong>Cloud</strong> do Painel Novo. Neste tutorial, você vai ver como preparar um projeto estático simples, enviar um arquivo <strong>.zip</strong>, acompanhar o processamento e abrir a aplicação publicada.</p>
+  <p>Este passo a passo usa o fluxo validado no painel com <strong>Upload de .zip</strong>. A tela também mostra opções de GitHub e CLI, mas elas não fazem parte deste tutorial. Para começar do jeito certo, confirme antes que o Deploy já está ativo na conta. Se ainda não estiver, veja primeiro como <a href="https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/">ativar o Deploy no Painel Novo da StayCloud</a>.</p>
+
+  <p>Se o seu projeto estiver em repositório, mantenha esse caminho para um fluxo separado. A opção <a href="https://github.com/">GitHub</a> aparece na tela do produto, mas o primeiro deploy StayCloud demonstrado aqui usa apenas o envio de arquivo <strong>.zip</strong>.</p>
+  <h2>O que você precisa antes de fazer o deploy</h2>
+  <p>Antes de publicar, tenha um projeto de teste sem dados sensíveis. Na validação deste tutorial, foi usado um HTML estático com uma mensagem de demonstração, sem formulário, banco de dados, token, variável de ambiente ou integração externa.</p>
+  <p>O arquivo enviado ao painel foi um <strong>.zip</strong> com o build pronto. A própria interface informa que o upload aceita arquivo <strong>.zip</strong>. No plano validado neste tutorial, o painel mostrou o limite disponível para upload; em outros planos, esse limite pode ser maior. O nome do projeto deve seguir o padrão indicado no campo: letras minúsculas, hífens e entre 3 e 32 caracteres.</p>
+  <h2>Como funciona o primeiro deploy StayCloud</h2>
+  <p>No Painel Novo, o deploy é feito pela área <strong>Cloud</strong>. O fluxo validado começou em <strong>Novo projeto</strong>, usou a opção <strong>Upload de .zip</strong>, preencheu o campo <strong>NOME DO PROJETO</strong> e acionou o botão <strong>criar e implantar</strong>. Depois disso, o painel abriu a tela <strong>Implantando</strong>, exibiu os logs em tempo real e, ao finalizar, mostrou o projeto como <strong>pronto</strong> e <strong>No ar</strong>.</p>
+  <h3>1. Abra a área Deploy</h3>
+  <p>Acesse o Painel Novo e abra a área <strong>Deploy</strong>. Na tela Cloud, clique em <strong>Novo projeto</strong> para iniciar a publicação de um projeto.</p>
+  <figure><img src="prints-finais/01-iniciar-deploy-sanitizado.png" alt="Primeiro deploy StayCloud pela opção Upload de zip no Painel Novo"><figcaption>Use a tela Novo projeto para iniciar o primeiro deploy pela opção Upload de .zip.</figcaption></figure>
+  <h3>2. Prepare ou conecte o projeto</h3>
+  <p>Na opção <strong>Upload de .zip</strong>, clique em <strong>selecionar arquivo .zip</strong> e escolha o pacote do projeto. Depois do envio, o painel mostra o nome do arquivo e libera o campo <strong>NOME DO PROJETO</strong>.</p>
+  <figure><img src="prints-finais/02-informar-projeto-sanitizado.png" alt="Arquivo zip selecionado para o primeiro deploy StayCloud"><figcaption>Após selecionar o .zip, informe um nome válido para o projeto.</figcaption></figure>
+  <h3>3. Inicie o primeiro deploy StayCloud</h3>
+  <p>Preencha o nome do projeto usando o padrão indicado no painel. No exemplo validado, foi usado <strong>tutorial-deploy-teste</strong>. Em seguida, clique em <strong>criar e implantar</strong>.</p>
+  <figure><img src="prints-finais/03-executar-deploy-sanitizado.png" alt="Botão criar e implantar para fazer o primeiro deploy StayCloud"><figcaption>Clique em criar e implantar para enviar o projeto ao processamento.</figcaption></figure>
+  <h3>4. Acompanhe o processamento</h3>
+  <p>Depois do clique, o painel abre a tela <strong>Implantando</strong>. Nela aparecem o projeto, a origem do arquivo, a região e os <strong>Logs de build</strong>. Durante a validação, o status exibido foi <strong>publicando</strong>, com mensagens como “deploy enfileirado”, “fonte validada” e “artefato estático pronto”.</p>
+  <figure><img src="prints-finais/04-processamento-sanitizado.png" alt="Status publicando durante o primeiro deploy StayCloud"><figcaption>Acompanhe o status publicando e os logs em tempo real.</figcaption></figure>
+  <h3>5. Abra a aplicação publicada</h3>
+  <p>Quando o deploy termina, a visão geral do Cloud passa a mostrar o projeto como <strong>pronto</strong>. O painel também exibe o indicador <strong>No ar</strong> e a URL gerada para acessar a aplicação.</p>
+  <figure><img src="prints-finais/05-concluido-sanitizado.png" alt="Projeto pronto e no ar depois do primeiro deploy StayCloud"><figcaption>O status pronto confirma que a aplicação está publicada.</figcaption></figure>
+  <p>Abra a URL gerada e confirme se a página publicada corresponde ao projeto enviado. No teste validado, a URL pública respondeu com sucesso e exibiu a página estática de demonstração.</p>
+  <figure><img src="prints-finais/06-aplicacao-publicada-sanitizado.png" alt="Aplicação publicada após o primeiro deploy StayCloud"><figcaption>A aplicação publicada deve abrir no navegador sem exigir credenciais.</figcaption></figure>
+  <h2>Como saber se o deploy foi concluído</h2>
+  <p>O deploy foi concluído quando o painel mostra o projeto como <strong>pronto</strong>, o resumo indica <strong>No ar</strong> e a URL pública abre a aplicação. Também é possível conferir se o contador de <strong>Deploys · 30D</strong> aumentou depois da publicação.</p>
+  <h2>O que fazer quando o deploy apresenta erro</h2>
+  <p>Se o deploy não avançar, confira primeiro o formato do arquivo. O fluxo validado usa <strong>.zip</strong>, não uma pasta solta. Depois, revise se o nome do projeto respeita o padrão <strong>lowercase, kebab, 3-32 chars</strong>. Caso o painel exiba logs, leia as últimas mensagens para identificar em qual etapa o processo parou.</p>
+  <p>Não coloque token, chave ou variável de ambiente dentro do arquivo de teste. Configurações avançadas, domínio personalizado, variáveis, logs detalhados e redeploy devem ser tratados em fluxos separados. Para outros conteúdos do Painel Novo, acesse também a <a href="https://ajuda.staycloud.com.br/ajuda-category/painel-novo/">categoria Painel novo da Central de Ajuda</a>.</p>
+  <h2>Erros comuns no primeiro deploy</h2>
+  <p>Um erro comum é tentar publicar um projeto real de cliente para testar o recurso. Use sempre um projeto descartável. Outro erro é confundir este fluxo com publicação via cPanel: no Deploy StayCloud, o projeto é criado dentro da área Cloud e passa por processamento próprio.</p>
+  <h2>Dúvidas frequentes</h2>
+  <h3>Preciso usar GitHub para fazer o primeiro deploy?</h3>
+  <p>Não neste fluxo. A interface mostra GitHub como uma opção, mas o tutorial validado usa <strong>Upload de .zip</strong>.</p>
+  <h3>Posso usar o comando de CLI?</h3>
+  <p>A tela mostra a opção <strong>Deploy via CLI</strong>, mas ela exige comando com token de conexão. Por segurança, esse caminho não foi usado neste tutorial.</p>
+  <h3>O projeto de teste pode ter dados reais?</h3>
+  <p>Não. Use uma página simples, sem dados pessoais, segredos, integrações externas ou informações de cliente.</p>
+  <h2>Conclusão</h2>
+  <p>Agora você sabe como fazer o primeiro deploy StayCloud pelo Painel Novo usando um arquivo <strong>.zip</strong>. O fluxo validado do primeiro deploy StayCloud consiste em abrir <strong>Novo projeto</strong>, selecionar o pacote, preencher <strong>NOME DO PROJETO</strong>, clicar em <strong>criar e implantar</strong>, acompanhar o status <strong>publicando</strong> e confirmar a aplicação como <strong>pronto</strong> e <strong>No ar</strong>.</p>
+  <section class="seo">
+    <h2>SEO</h2>
+    <p><strong>Palavra-chave:</strong> primeiro deploy StayCloud</p>
+    <p><strong>Título SEO:</strong> Primeiro deploy StayCloud: veja como publicar</p>
+    <p><strong>Slug:</strong> primeiro-deploy-staycloud</p>
+    <p><strong>Meta description:</strong> Aprenda a fazer o primeiro deploy StayCloud, publicar um projeto de teste, acompanhar o processamento e abrir a aplicação gerada.</p>
+  </section>
+</main>
+</body>
+</html>

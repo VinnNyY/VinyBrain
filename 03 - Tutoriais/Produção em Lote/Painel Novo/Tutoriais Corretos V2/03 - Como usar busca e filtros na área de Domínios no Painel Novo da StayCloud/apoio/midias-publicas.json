@@ -1,0 +1,50 @@
+{
+  "tutorial": "Como usar busca e filtros na área de Domínios no Painel Novo da StayCloud",
+  "origem": "Upload autorizado por Vinicius em 2026-07-24. Nenhum artigo foi publicado.",
+  "midias": [
+    {
+      "etapa": 1,
+      "media_id": 2828,
+      "filename": "01-menu-dominios-sanitizado.png",
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-menu-dominios-sanitizado.png",
+      "title": "Buscar domínio no Painel Novo - Menu Domínios",
+      "alt": "Menu Domínios destacado para buscar domínio no Painel Novo da StayCloud.",
+      "caption": "Clique em Domínios no menu lateral para abrir a lista da conta.",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 2,
+      "media_id": 2829,
+      "filename": "02-campo-busca-dominios-sanitizado.png",
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-campo-busca-dominios-sanitizado.png",
+      "title": "Buscar domínio no Painel Novo - Campo de busca",
+      "alt": "Campo Buscar domínio destacado na área de Domínios do Painel Novo.",
+      "caption": "Use o campo Buscar domínio para digitar o nome completo ou parte do domínio.",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 3,
+      "media_id": 2830,
+      "filename": "03-filtros-dominios-sanitizado.png",
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-filtros-dominios-sanitizado.png",
+      "title": "Buscar domínio no Painel Novo - Filtros de domínios",
+      "alt": "Filtros todos, ativos, expirando em 30d, vencidos e cancelados na área de Domínios.",
+      "caption": "Use os filtros disponíveis para reduzir a lista por grupo de domínio.",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 4,
+      "media_id": 2831,
+      "filename": "04-resultado-busca-sanitizado.png",
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-resultado-busca-sanitizado.png",
+      "title": "Buscar domínio no Painel Novo - Resultado da busca",
+      "alt": "Resultado vazio ao buscar domínio no Painel Novo da StayCloud.",
+      "caption": "Quando nada corresponder à busca ou ao filtro, confira a mensagem e o contador da lista.",
+      "sanitizada": true,
+      "status": "enviada"
+    }
+  ]
+}

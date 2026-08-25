@@ -1,0 +1,52 @@
+TÍTULO DO ARTIGO:
+Como consultar o uso atual de uma conta de e-mail no Painel Novo da StayCloud
+
+PALAVRA-CHAVE PRINCIPAL:
+uso de e-mail no Painel Novo
+
+TÍTULO SEO:
+Como consultar o uso de uma conta de e-mail no Painel Novo
+
+SLUG:
+consultar-uso-email-painel-novo
+
+META DESCRIPTION:
+Veja como localizar uma conta de e-mail e consultar o uso atual e a cota disponível no Painel Novo da StayCloud.
+
+EXCERPT:
+Localize uma conta de e-mail e consulte o uso atual e a cota disponível no Painel Novo da StayCloud.
+
+CATEGORIA:
+Painel Novo
+
+TAGS:
+E-mail; Painel Novo; Hospedagem; StayCloud
+
+PALAVRAS-CHAVE SECUNDÁRIAS:
+espaço da conta de e-mail; cota de e-mail StayCloud; consultar armazenamento de e-mail; uso do e-mail no painel
+
+TÍTULO SOCIAL:
+Como consultar o uso de uma conta de e-mail no Painel Novo
+
+DESCRIÇÃO SOCIAL:
+Veja como localizar uma conta e consultar o uso atual e a cota de e-mail no Painel Novo da StayCloud.
+
+IMAGEM DESTACADA RECOMENDADA:
+Mídia 2805, passo 1, versão sanitizada.
+
+ALT DA IMAGEM DESTACADA:
+Tela do Painel Novo da StayCloud mostrando a hospedagem selecionada para consultar uma conta de e-mail.
+
+LINKS INTERNOS SUGERIDOS:
+Como acompanhar seus chamados no Painel Novo da StayCloud: https://ajuda.staycloud.com.br/docs/acompanhar-chamados-staycloud/
+Confirmar a URL canônica de outros artigos antes de adicionar novos links.
+
+CHECKLIST RANK MATH:
+Palavra-chave principal no título, introdução, meta description e em um subtítulo.
+Slug, título SEO e meta description definidos.
+Subtítulos, listas e ALT texts descritivos.
+Intenção de busca atendida sem ensinar alteração de cota.
+Meta pretendida: pontuação acima de 80 após o preenchimento no Rank Math.
+
+OBSERVAÇÕES:
+O tutorial cobre somente consulta. Este arquivo não deve ser colado no corpo do artigo.

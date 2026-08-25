@@ -1,0 +1,2031 @@
+1
+00:00:00,210 --> 00:00:10,130
+e não o ligar deаботar
+
+2
+00:00:10,810 --> 00:00:13,090
+e ebe
+
+3
+00:00:13,090 --> 00:00:15,970
+e ebe
+
+4
+00:00:15,970 --> 00:00:17,710
+e ebe
+
+5
+00:00:17,710 --> 00:00:21,510
+ebiiiiiii
+
+6
+00:00:21,510 --> 00:00:24,500
+ebiiiiiii
+
+7
+00:00:24,500 --> 00:00:25,560
+ebiiiiiii
+
+8
+00:00:25,560 --> 00:00:27,520
+o lisão
+
+9
+00:00:27,520 --> 00:00:30,520
+o cara se saia abaixo um pouquinho
+
+10
+00:00:30,520 --> 00:00:48,240
+Pronto, resolvi. Bom, eu acho que preciso apresentar a minha tela aqui, vou partilhar.
+
+11
+00:00:48,240 --> 00:01:14,050
+Vou apresentar aqui para vocês algumas novidades que eu reparei para a equipe suposta.
+
+12
+00:01:15,050 --> 00:01:22,850
+Alguns de vocês já viram que criamos uma ferramente nova que fica aplicada no Zendesk.
+
+13
+00:01:22,850 --> 00:01:29,850
+Vocês vão ganhar conta de maneira facilitada e fazer a escalada do ticket também de maneira facilitada.
+
+14
+00:01:29,850 --> 00:01:35,040
+Eu vou falar um pouquinho sobre isso aqui, vocês vão tirar nas dúvidas, ok?
+
+15
+00:01:35,040 --> 00:01:40,200
+Bom, primeiro de tudo, aqui é uma redeante do que a gente vai ver.
+
+16
+00:01:40,200 --> 00:01:44,380
+Eu vou falar um pouquinho sobre o que eu acho que a gente vai pedir aqui.
+
+17
+00:01:44,380 --> 00:01:48,380
+Mas, basicamente, o jocamente é chamada BMCS Finder.
+
+18
+00:01:48,380 --> 00:01:52,380
+Ela pergunta se abrir a conta na hora para você listar o serviço.
+
+19
+00:01:52,380 --> 00:01:55,570
+Tá vendo?
+
+20
+00:01:55,570 --> 00:02:01,240
+Ela lista todos os serviços dos clientes, ela tem algumas ações rápidas.
+
+21
+00:02:01,240 --> 00:02:04,240
+O principal dela, que eu acho, é o botão de escalada de ingredientes.
+
+22
+00:02:04,240 --> 00:02:07,240
+Então, hoje vocês não precisam mais ficar naquela lã-ruta da merda,
+
+23
+00:02:07,240 --> 00:02:11,240
+você não está lá em príncipe 2, então talvez você procureu.
+
+24
+00:02:11,240 --> 00:02:17,270
+De maneira que você tem que ficar procurando tickets para depois rodar a marca,
+
+25
+00:02:17,270 --> 00:02:21,270
+ela faz tudo para vocês, vocês vão ter que preencher as informações que ela precisa.
+
+26
+00:02:21,270 --> 00:02:28,330
+Agora, a gente vai parar de usar o PIN para o cliente como ferramenta de identificação dele.
+
+27
+00:02:28,330 --> 00:02:30,330
+A gente vai utilizar o e-mail.
+
+28
+00:02:30,330 --> 00:02:35,330
+Então, a partir de agora, a maioria das contas já convinto o e-mail atrelado nela
+
+29
+00:02:35,330 --> 00:02:41,330
+e o WMCS Finder já vai muito para se arrastar com as informações do cliente lá,
+
+30
+00:02:41,330 --> 00:02:43,330
+bem expostas para vocês.
+
+31
+00:02:43,330 --> 00:02:47,330
+Porém, Trinando, é bom que alguns casos que a conta não vai ser encontrada diretamente.
+
+32
+00:02:47,330 --> 00:02:50,330
+Então, neste momento, é o momento que vocês vão precisar
+
+33
+00:02:50,330 --> 00:02:54,330
+para pedir o cliente o e-mail dele e vim pular a conta para que no futuro
+
+34
+00:02:54,330 --> 00:02:56,330
+ninguém precise terminar mais, entendeu?
+
+35
+00:02:56,330 --> 00:03:00,330
+A maioria das contas já vem, mas algumas não estão com pressão de WhatsApp.
+
+36
+00:03:00,330 --> 00:03:05,550
+Então, a gente vai acabar gerando de diferença, fechou?
+
+37
+00:03:05,550 --> 00:03:10,550
+E, aqui, é um localzinho de como vocês vão chegar na conta do cliente.
+
+38
+00:03:10,550 --> 00:03:15,550
+Basicamente, vocês podem clicar em abrir o WMCS que vai abrir.
+
+39
+00:03:15,550 --> 00:03:16,550
+Pode falar.
+
+40
+00:03:16,550 --> 00:03:20,480
+Como é que a gente vai parar de vim pular a conta dele e desse prazer dele?
+
+41
+00:03:20,480 --> 00:03:22,480
+Tem algum sistema?
+
+42
+00:03:22,480 --> 00:03:24,480
+Ou só pegar o e-mail dele?
+
+43
+00:03:24,480 --> 00:03:26,480
+É, é bem simples, mano.
+
+44
+00:03:26,480 --> 00:03:28,480
+Dentro que você vai pegar o e-mail do cliente,
+
+45
+00:03:28,480 --> 00:03:31,480
+vai colocar aqui, mas não escorcar em dois.
+
+46
+00:03:31,480 --> 00:03:32,480
+Esse é o problema, ok?
+
+47
+00:03:32,480 --> 00:03:34,480
+É de uma conta não vim pular.
+
+48
+00:03:34,480 --> 00:03:38,480
+Vocês vão colocar em todos os atendimentos que não tiverem a conta,
+
+49
+00:03:38,480 --> 00:03:40,480
+vocês vão colocar o e-mail do cliente aí,
+
+50
+00:03:40,480 --> 00:03:43,480
+aí o ferramento vai buscar a cúbio e nela,
+
+51
+00:03:43,480 --> 00:03:45,480
+vai precisar então salvar a cliente.
+
+52
+00:03:45,480 --> 00:03:47,480
+Fichou?
+
+53
+00:03:47,480 --> 00:03:48,480
+Fichou?
+
+54
+00:03:48,480 --> 00:03:51,080
+Fichou.
+
+55
+00:03:51,080 --> 00:03:55,390
+E, mais uma vez, a respeito do cliente,
+
+56
+00:03:55,390 --> 00:03:58,390
+mas eu quero que a gente trabalhe muito em cima disso aqui,
+
+57
+00:03:58,390 --> 00:04:01,390
+e a parte de agora vai ser bem mais, repetir.
+
+58
+00:04:01,390 --> 00:04:05,390
+É, o suporte vai estar todo completamente dividido em mim.
+
+59
+00:04:05,390 --> 00:04:08,390
+É, vai ser completamente dividido em mim.
+
+60
+00:04:08,390 --> 00:04:11,390
+Tem o chat, o WhatsApp,
+
+61
+00:04:11,390 --> 00:04:13,390
+é onde a linha de frente do atendimento,
+
+62
+00:04:13,390 --> 00:04:14,390
+é onde vai cair tudo.
+
+63
+00:04:14,390 --> 00:04:16,390
+Se o cliente não conseguiu resolver,
+
+64
+00:04:16,390 --> 00:04:18,390
+ou for alguma demanda que necessite ticket,
+
+65
+00:04:18,390 --> 00:04:21,390
+ele vai fazer a escalada técnica do ticket lá,
+
+66
+00:04:21,390 --> 00:04:23,390
+no MTSS5.
+
+67
+00:04:23,390 --> 00:04:26,390
+Vou mostrar pra vocês aqui, mas isso já está um prazer.
+
+68
+00:04:26,390 --> 00:04:30,390
+E, se o cliente não conseguiu resolver,
+
+69
+00:04:30,390 --> 00:04:33,390
+ao invés de vocês pegarem e chamarem o Gabriel Anota,
+
+70
+00:04:33,390 --> 00:04:37,390
+vocês vão pegar e vão fazer a escalada pra N3.
+
+71
+00:04:37,390 --> 00:04:40,390
+Porém, todo ticket tem que ter a investigação
+
+72
+00:04:40,390 --> 00:04:46,450
+antes de vocês pegarem e fazerem a escalada do caso.
+
+73
+00:04:46,450 --> 00:04:49,450
+Então, essa escalada você é procedido documental que foi feito
+
+74
+00:04:49,450 --> 00:04:51,450
+pra não ter resultância de processos
+
+75
+00:04:51,450 --> 00:04:55,450
+e investigar exatamente o que a gente precisa saber
+
+76
+00:04:55,450 --> 00:04:58,450
+na continuidade do atendimento.
+
+77
+00:04:58,450 --> 00:05:01,830
+Então, é basicamente isso aqui,
+
+78
+00:05:01,830 --> 00:05:02,830
+não conseguiu resolver o chat,
+
+79
+00:05:02,830 --> 00:05:03,830
+a escalada pra ticket.
+
+80
+00:05:03,830 --> 00:05:06,830
+Não ficam perdendo tempo com a demanda que vocês não sabem.
+
+81
+00:05:06,830 --> 00:05:08,830
+E depois o N3 ou o N2, você pode pegar,
+
+82
+00:05:08,830 --> 00:05:10,830
+você pode virar e procurar essa pessoa
+
+83
+00:05:10,830 --> 00:05:12,830
+e pedir um feedback por quem foi a solução do caso,
+
+84
+00:05:12,830 --> 00:05:13,830
+ou então vocês podem,
+
+85
+00:05:13,830 --> 00:05:15,830
+vocês mesmos, entraram no ticket depois
+
+86
+00:05:15,830 --> 00:05:17,830
+e darem uma vida no que está lá.
+
+87
+00:05:17,830 --> 00:05:19,830
+Se o N2 pegou um ticket completo,
+
+88
+00:05:19,830 --> 00:05:21,830
+se não conseguiu resolver,
+
+89
+00:05:21,830 --> 00:05:23,830
+escalada pra N3.
+
+90
+00:05:23,830 --> 00:05:26,830
+Então, isso vai fazer um ciclo do sport
+
+91
+00:05:26,830 --> 00:05:28,830
+de girar muito melhor do que ele está girando hoje.
+
+92
+00:05:28,830 --> 00:05:31,830
+Então, a gente não vai ter aquela parada mais de
+
+93
+00:05:31,830 --> 00:05:35,990
+de tickets para na fila e pra embalagem, ok?
+
+94
+00:05:35,990 --> 00:05:39,950
+Aqui tem um tutorial básico no escalado atendimento,
+
+95
+00:05:39,950 --> 00:05:41,950
+vocês já sabem como funciona.
+
+96
+00:05:41,950 --> 00:05:43,950
+Primeiro, localizar a conta, confirmar os dados
+
+97
+00:05:43,950 --> 00:05:45,950
+pra ver se está anonar a conta certa,
+
+98
+00:05:45,950 --> 00:05:47,950
+ver se está tudo beleza, clicar em escalar,
+
+99
+00:05:47,950 --> 00:05:50,950
+vocês vão preencher e enviar.
+
+100
+00:05:50,950 --> 00:05:52,950
+Lá na hora de preencher,
+
+101
+00:05:52,950 --> 00:05:54,950
+eu quero que vocês coloquem uma descrição bem detalhada
+
+102
+00:05:54,950 --> 00:05:56,950
+pra não chegar um ticket pro Gabriel
+
+103
+00:05:56,950 --> 00:05:58,950
+e estar sem informação interna nenhuma.
+
+104
+00:05:58,950 --> 00:06:00,950
+Tá apresentando lá o problema,
+
+105
+00:06:00,950 --> 00:06:02,950
+ele deu um problema de e-mail.
+
+106
+00:06:02,950 --> 00:06:04,950
+Então, isso não faz nenhum sentido.
+
+107
+00:06:04,950 --> 00:06:06,950
+Ele pegou o ticket assim e é de prova.
+
+108
+00:06:06,950 --> 00:06:08,950
+Você está levando na mão ou foi o seu sucesso?
+
+109
+00:06:08,950 --> 00:06:12,070
+Só isso que ele se debaixou, não.
+
+110
+00:06:12,070 --> 00:06:14,070
+Tá, não é bom.
+
+111
+00:06:14,070 --> 00:06:16,070
+Então, por isso que precisa estar a investigação
+
+112
+00:06:16,070 --> 00:06:18,070
+que foi realizada,
+
+113
+00:06:18,070 --> 00:06:20,070
+para que não chegue lá no suporte, lá na frente,
+
+114
+00:06:20,070 --> 00:06:22,070
+no N3, e tenha redundância do caso.
+
+115
+00:06:22,070 --> 00:06:24,070
+Fechou?
+
+116
+00:06:24,070 --> 00:06:27,060
+Então, aqui,
+
+117
+00:06:27,060 --> 00:06:29,060
+eu estou colocando aqui um exemplo dos dados
+
+118
+00:06:29,060 --> 00:06:31,060
+que precisam ter em toda a escalação.
+
+119
+00:06:31,060 --> 00:06:33,060
+O primeiro é o produto,
+
+120
+00:06:33,060 --> 00:06:35,060
+que é um VPS, um hospedal e um Deploy.
+
+121
+00:06:35,060 --> 00:06:37,060
+O tipo de demanda,
+
+122
+00:06:37,060 --> 00:06:39,060
+vocês vão colocar a justificação no programa.
+
+123
+00:06:39,060 --> 00:06:41,060
+Se for uma VPS, vai ter um IP.
+
+124
+00:06:41,060 --> 00:06:44,150
+Se for hospedal de normal,
+
+125
+00:06:44,150 --> 00:06:46,150
+não vai ter.
+
+126
+00:06:46,150 --> 00:06:48,150
+Se for VPS, você tem.
+
+127
+00:06:48,150 --> 00:06:50,150
+E se for hospedal de normal,
+
+128
+00:06:50,150 --> 00:06:52,150
+vai ter domínio.
+
+129
+00:06:52,150 --> 00:06:54,150
+É bem lintiva, é só que vocês preencheram.
+
+130
+00:06:54,150 --> 00:06:56,150
+Seriador do cliente também.
+
+131
+00:06:56,150 --> 00:06:58,150
+Título da demanda,
+
+132
+00:06:58,150 --> 00:07:00,150
+isso aqui vocês vão colocar no resumo,
+
+133
+00:07:00,150 --> 00:07:02,150
+e isso você tem sempre que lembrar.
+
+134
+00:07:02,150 --> 00:07:04,150
+Esse título da demanda,
+
+135
+00:07:04,150 --> 00:07:06,150
+ele chega pro cliente.
+
+136
+00:07:06,150 --> 00:07:08,150
+Ele fica no título do ticket.
+
+137
+00:07:08,150 --> 00:07:10,150
+Então, é bom vocês tomarem cuidado
+
+138
+00:07:10,150 --> 00:07:12,150
+no que vocês colocam.
+
+139
+00:07:12,150 --> 00:07:17,860
+Investigação realizada, detalhar,
+
+140
+00:07:17,860 --> 00:07:19,860
+TSP,
+
+141
+00:07:19,860 --> 00:07:21,860
+o que já foi testado,
+
+142
+00:07:21,860 --> 00:07:23,860
+o que já foi analisado.
+
+143
+00:07:23,860 --> 00:07:25,860
+E anexo em print,
+
+144
+00:07:25,860 --> 00:07:27,860
+vocês vão colocar lá no anexo,
+
+145
+00:07:27,860 --> 00:07:29,860
+se você puxar algum lote,
+
+146
+00:07:29,860 --> 00:07:32,920
+vocês colocam print.
+
+147
+00:07:32,920 --> 00:07:34,920
+Então, é bom pra escalar o DNI 1.2,
+
+148
+00:07:34,920 --> 00:07:36,920
+passar o chat para o ticket.
+
+149
+00:07:36,920 --> 00:07:38,920
+Vai para passar o ticket para
+
+150
+00:07:38,920 --> 00:07:41,360
+o nível mais inossável do caso do Gabriel.
+
+151
+00:07:41,360 --> 00:07:43,360
+Aqui, eu coloquei alguns exemplos aqui.
+
+152
+00:07:43,360 --> 00:07:45,360
+Um exemplo, na verdade,
+
+153
+00:07:45,360 --> 00:07:47,360
+como fazer uma posiculação,
+
+154
+00:07:47,360 --> 00:07:49,360
+servir aquele número que tá marcado de mermelho
+
+155
+00:07:49,360 --> 00:07:51,360
+dá um problema completamente vazio,
+
+156
+00:07:51,360 --> 00:07:53,360
+não tem informação,
+
+157
+00:07:53,360 --> 00:07:55,360
+nem reclamando,
+
+158
+00:07:55,360 --> 00:07:57,360
+vestiação não conseguir resolver, favor verificar.
+
+159
+00:07:57,360 --> 00:07:59,360
+E aqui tem um jeito certo,
+
+160
+00:07:59,360 --> 00:08:01,360
+de erro no cedro,
+
+161
+00:08:01,360 --> 00:08:03,360
+de não ser um pgb,
+
+162
+00:08:03,360 --> 00:08:05,360
+não ser um cedro que coloquei o pgb.
+
+163
+00:08:05,360 --> 00:08:07,360
+Aí você coloca fila e ssfg,
+
+164
+00:08:07,360 --> 00:08:09,360
+você coloca o DNI,
+
+165
+00:08:09,360 --> 00:08:11,360
+você tem um exemplo,
+
+166
+00:08:11,360 --> 00:08:13,360
+detalhou, em anexo,
+
+167
+00:08:13,360 --> 00:08:15,360
+colocou log, um documento de texto,
+
+168
+00:08:15,360 --> 00:08:18,550
+colocou log.
+
+169
+00:08:18,550 --> 00:08:20,550
+Então, assim, o ticket já vai chegar
+
+170
+00:08:20,550 --> 00:08:22,550
+com a conformação suficiente
+
+171
+00:08:22,550 --> 00:08:25,190
+para pegar, olhar e resolver.
+
+172
+00:08:25,190 --> 00:08:27,190
+Para fechar o dia,
+
+173
+00:08:27,190 --> 00:08:29,190
+eu defini algumas negrinhas aqui,
+
+174
+00:08:29,190 --> 00:08:31,190
+a gente não é bom,
+
+175
+00:08:31,190 --> 00:08:33,190
+então você vai encerrar o dia
+
+176
+00:08:33,190 --> 00:08:35,190
+com o ticket na sua demanda,
+
+177
+00:08:35,190 --> 00:08:37,190
+lá naquela parte sua em atendimento.
+
+178
+00:08:37,190 --> 00:08:39,190
+Eu não quero que vocês encerrem o dia por nada lá.
+
+179
+00:08:39,190 --> 00:08:41,190
+Então, o que vocês vão fazer?
+
+180
+00:08:41,190 --> 00:08:43,190
+Se, por alguns dos casos,
+
+181
+00:08:43,190 --> 00:08:45,190
+vocês não conseguirem resolver esse ticket
+
+182
+00:08:45,190 --> 00:08:47,190
+antes de sair,
+
+183
+00:08:47,190 --> 00:08:49,190
+vocês vão devolver para a fila.
+
+184
+00:08:49,190 --> 00:08:51,190
+Existem três maus,
+
+185
+00:08:51,190 --> 00:08:53,190
+devolvendo para a fila N1, N2, N3.
+
+186
+00:08:53,190 --> 00:08:55,190
+A N1 vocês vão procurar,
+
+187
+00:08:55,190 --> 00:08:57,190
+para mim, porque
+
+188
+00:08:57,190 --> 00:08:59,190
+é para devolver um chat para a fila,
+
+189
+00:08:59,190 --> 00:09:01,190
+para a fila N2, devolver para a fila N3.
+
+190
+00:09:01,190 --> 00:09:03,190
+Antes de devolver, antes de sair,
+
+191
+00:09:03,190 --> 00:09:05,190
+vocês vão devolver para o 10 do março.
+
+192
+00:09:05,190 --> 00:09:07,190
+E lembre-se, isso aqui é o último caso,
+
+193
+00:09:07,190 --> 00:09:09,190
+olhar e resolver o 1,
+
+194
+00:09:09,190 --> 00:09:11,190
+sair.
+
+195
+00:09:11,190 --> 00:09:13,190
+Então, eu coloquei aqui
+
+196
+00:09:13,190 --> 00:09:15,190
+para vocês colocarem os 20 de 2010
+
+197
+00:09:15,190 --> 00:09:17,190
+para vocês sair.
+
+198
+00:09:17,190 --> 00:09:19,190
+Então, é uma extrema importância
+
+199
+00:09:19,190 --> 00:09:21,250
+que vocês
+
+200
+00:09:21,250 --> 00:09:23,250
+fiquem online durante o dia
+
+201
+00:09:23,250 --> 00:09:25,250
+para vocês receberem as demandas.
+
+202
+00:09:25,250 --> 00:09:27,250
+Mesmo se for o ticket, se for o chat,
+
+203
+00:09:27,250 --> 00:09:29,250
+se for online.
+
+204
+00:09:29,250 --> 00:09:31,250
+Então, devolvendo de sair, ou seja,
+
+205
+00:09:31,250 --> 00:09:33,250
+para o almoço,
+
+206
+00:09:33,250 --> 00:09:35,250
+vocês colocam o modalzinho de 10 do março.
+
+207
+00:09:35,250 --> 00:09:37,250
+Então, você pode colocar qualquer modalidade na fila.
+
+208
+00:09:37,250 --> 00:09:39,250
+É tão fácil.
+
+209
+00:09:39,250 --> 00:09:41,250
+O importante é que vocês sigam esse processo
+
+210
+00:09:41,250 --> 00:09:43,250
+para os tipos que caírem para vocês
+
+211
+00:09:43,250 --> 00:09:45,250
+e a gente siga um fluxo
+
+212
+00:09:45,250 --> 00:09:47,250
+que suporte que seja em saldago.
+
+213
+00:09:47,250 --> 00:09:49,250
+Para não ficar tímido sem resposta,
+
+214
+00:09:49,250 --> 00:09:51,250
+para não ficar sem aquele disse que me disse.
+
+215
+00:09:51,250 --> 00:09:53,410
+E hoje em dia, eu sinto que a gente está escolhendo
+
+216
+00:09:53,410 --> 00:09:55,410
+muitos tipos de demanda que quer atender.
+
+217
+00:09:55,410 --> 00:09:57,410
+Então, se você tem um grau de complexidade,
+
+218
+00:09:57,410 --> 00:09:59,410
+uma migração longa,
+
+219
+00:09:59,410 --> 00:10:01,410
+vocês não fazem direto.
+
+220
+00:10:01,410 --> 00:10:03,410
+Vocês fazem todas as demandas mais simples
+
+221
+00:10:03,410 --> 00:10:05,410
+antes para depois pegar aquelas que são mais complexas.
+
+222
+00:10:05,410 --> 00:10:07,410
+E eu não quero que isso aconteça.
+
+223
+00:10:07,410 --> 00:10:09,410
+Então, mesmo que você não tenha conhecimento
+
+224
+00:10:09,410 --> 00:10:11,410
+de como fazer uma migração,
+
+225
+00:10:11,410 --> 00:10:13,410
+sei lá, via SSH, por exemplo,
+
+226
+00:10:13,410 --> 00:10:15,410
+vocês vão receber esse ticket.
+
+227
+00:10:15,410 --> 00:10:17,410
+O que vocês vão fazer?
+
+228
+00:10:17,410 --> 00:10:19,410
+Vocês vão investigar e vão escalar para o nível 3
+
+229
+00:10:19,410 --> 00:10:21,410
+que o nível 3 só cai para o Gabriel.
+
+230
+00:10:21,410 --> 00:10:23,410
+Só o Gabriel está atribuído aos tickets
+
+231
+00:10:23,410 --> 00:10:25,410
+e está o Alves e o Fael
+
+232
+00:10:25,410 --> 00:10:27,410
+e N1 está o Matheus.
+
+233
+00:10:27,410 --> 00:10:29,410
+Então,
+
+234
+00:10:29,410 --> 00:10:31,410
+pegue um ticket mais escala.
+
+235
+00:10:31,410 --> 00:10:33,410
+Cada um vai ter sua fila.
+
+236
+00:10:33,410 --> 00:10:35,410
+E, obviamente, a gente sabe que não vai ter demanda
+
+237
+00:10:35,410 --> 00:10:37,410
+suficiente para Gabriel ficar só recendo.
+
+238
+00:10:37,410 --> 00:10:39,410
+Ticket de N3 tem que impiar.
+
+239
+00:10:39,410 --> 00:10:41,800
+Então, o que acontece?
+
+240
+00:10:41,800 --> 00:10:43,800
+Quando não tiver demanda de N3,
+
+241
+00:10:43,800 --> 00:10:45,800
+quando não tiver ticket de N3
+
+242
+00:10:45,800 --> 00:10:47,800
+e suporte, o que vai acontecer?
+
+243
+00:10:47,800 --> 00:10:49,800
+Os tickets de N2 também passam
+
+244
+00:10:49,800 --> 00:10:51,800
+para o Gabriel se for necessário.
+
+245
+00:10:51,800 --> 00:10:55,650
+Esse cara gosta de uma dúvida de agora?
+
+246
+00:10:55,650 --> 00:10:57,650
+Foi muita coisa assim, muita informação,
+
+247
+00:10:57,650 --> 00:10:59,650
+mas é tudo bem intuitivo que você já conhece.
+
+248
+00:10:59,650 --> 00:11:02,640
+É outra coisa.
+
+249
+00:11:02,640 --> 00:11:04,840
+É outra coisa?
+
+250
+00:11:04,840 --> 00:11:10,610
+Outra coisa que é muito importante,
+
+251
+00:11:10,610 --> 00:11:12,610
+é que a gente
+
+252
+00:11:12,610 --> 00:11:14,610
+vai parar de usar o grupo de WhatsApp
+
+253
+00:11:14,610 --> 00:11:16,610
+para acionar umas a os outros.
+
+254
+00:11:16,610 --> 00:11:18,610
+O que é assim importante agora
+
+255
+00:11:18,610 --> 00:11:20,610
+vai ser a gente ficar de olho no Slack.
+
+256
+00:11:20,610 --> 00:11:22,610
+Eu criei grupos, principalmente
+
+257
+00:11:22,610 --> 00:11:24,610
+uma sala de suporte N1 no Slack
+
+258
+00:11:24,610 --> 00:11:26,610
+e eu quero que a gente use lá
+
+259
+00:11:26,610 --> 00:11:28,610
+para fazer as causas.
+
+260
+00:11:28,610 --> 00:11:30,640
+Feijou?
+
+261
+00:11:30,640 --> 00:11:32,640
+Então,
+
+262
+00:11:32,640 --> 00:11:34,640
+é basicamente isso.
+
+263
+00:11:34,640 --> 00:11:36,640
+Vocês vão com o WhatsApp para ficar só,
+
+264
+00:11:36,640 --> 00:11:38,640
+para ficar falando com o cliente,
+
+265
+00:11:38,640 --> 00:11:40,640
+ou então pensam se vocês quiserem mandar
+
+266
+00:11:40,640 --> 00:11:42,640
+uma piadinha ou uma gracinha
+
+267
+00:11:42,640 --> 00:11:44,640
+ou mesmo, igual vocês fazem aí,
+
+268
+00:11:44,640 --> 00:11:46,640
+algum cliente que falou uma coisa
+
+269
+00:11:46,640 --> 00:11:48,640
+é completamente sem sentido
+
+270
+00:11:48,640 --> 00:11:50,640
+no chat que vocês mandaram lá,
+
+271
+00:11:50,640 --> 00:11:52,640
+mas quando for para pegar demanda
+
+272
+00:11:52,640 --> 00:11:55,670
+e passar demanda ou vice-versa
+
+273
+00:11:55,670 --> 00:11:58,560
+então é isso.
+
+274
+00:11:58,560 --> 00:12:00,560
+E esse aqui é um processo
+
+275
+00:12:00,560 --> 00:12:02,560
+de sucesso do cliente.
+
+276
+00:12:02,560 --> 00:12:04,560
+Uma coisa que tem acontecido muito
+
+277
+00:12:04,560 --> 00:12:06,560
+que tem gerado um certo grau da satisfação
+
+278
+00:12:06,560 --> 00:12:08,560
+dos clientes, está sendo os grupos de WhatsApp
+
+279
+00:12:08,560 --> 00:12:10,560
+que querem ser respostas.
+
+280
+00:12:10,560 --> 00:12:12,560
+Aí, se alguém é um grupo tal,
+
+281
+00:12:12,560 --> 00:12:14,560
+aí quando vai ver hoje, por exemplo,
+
+282
+00:12:14,560 --> 00:12:16,560
+tem um grupo tal, você é exposto
+
+283
+00:12:16,560 --> 00:12:20,200
+desde que é 27, o cara falando de mal,
+
+284
+00:12:20,200 --> 00:12:22,200
+ninguém pegou.
+
+285
+00:12:22,200 --> 00:12:24,200
+E eu sei que não é culpa de ninguém.
+
+286
+00:12:24,200 --> 00:12:26,200
+Eu sei que não é culpa de ninguém isso.
+
+287
+00:12:26,200 --> 00:12:28,200
+Agora, cada um vai ter um dia
+
+288
+00:12:28,200 --> 00:12:30,200
+da semana para ficar de olho
+
+289
+00:12:30,200 --> 00:12:32,200
+no grupo de suporte específico.
+
+290
+00:12:32,200 --> 00:12:34,200
+De todos os grupos de suporte,
+
+291
+00:12:34,200 --> 00:12:36,200
+vocês vão ficar de olho no WhatsApp.
+
+292
+00:12:36,200 --> 00:12:38,320
+Vai ser como se você tivesse online naquele canal.
+
+293
+00:12:38,320 --> 00:12:40,320
+E não significa que vocês
+
+294
+00:12:40,320 --> 00:12:42,320
+vão atender aquele cara.
+
+295
+00:12:42,320 --> 00:12:44,320
+Se você estiver engarrado como modelo importante,
+
+296
+00:12:44,320 --> 00:12:46,320
+por exemplo, vocês podem pegar e passar para a frente.
+
+297
+00:12:46,320 --> 00:12:48,320
+É importante vocês deixarem o WhatsApp
+
+298
+00:12:48,320 --> 00:12:50,320
+de olho no computador do lado
+
+299
+00:12:50,320 --> 00:12:52,320
+e sempre estar dando uma olhada
+
+300
+00:12:52,320 --> 00:12:55,670
+para ver se não tem nenhum grupo de barco.
+
+301
+00:12:55,670 --> 00:12:57,670
+E aqui foi o que eu delimitei
+
+302
+00:12:57,670 --> 00:12:59,670
+na segunda-feira o Alves, na terça o Gabriel,
+
+303
+00:12:59,670 --> 00:13:01,670
+quarto o Fael, quinto o Alves
+
+304
+00:13:01,670 --> 00:13:03,890
+e sexto o Rafael.
+
+305
+00:13:03,890 --> 00:13:05,890
+Eu coloquei mais o Rafael do que o Alves
+
+306
+00:13:05,890 --> 00:13:07,890
+porque hoje eles estão
+
+307
+00:13:07,890 --> 00:13:09,890
+indo para mais o ramo de N2,
+
+308
+00:13:09,890 --> 00:13:11,890
+quem está ali entre os especialistas
+
+309
+00:13:11,890 --> 00:13:13,890
+e a linha de frente.
+
+310
+00:13:13,890 --> 00:13:15,890
+Então, é isso.
+
+311
+00:13:15,890 --> 00:13:17,890
+Mas quando o Matheus já estiver
+
+312
+00:13:17,890 --> 00:13:19,890
+sempre preparado, já estiver passado por tudo,
+
+313
+00:13:19,890 --> 00:13:21,890
+eu vou tirar um dia do Rafael
+
+314
+00:13:21,890 --> 00:13:23,890
+e vou colocar um dia para ele também.
+
+315
+00:13:23,890 --> 00:13:25,890
+No sábado é quem estiver de plantão
+
+316
+00:13:25,890 --> 00:13:27,890
+e no domingo é quem estiver de sobrevista.
+
+317
+00:13:27,890 --> 00:13:30,880
+Fechou?
+
+318
+00:13:30,880 --> 00:13:32,880
+E aqui agora a gente vai ter equipiais
+
+319
+00:13:32,880 --> 00:13:34,880
+por mim.
+
+320
+00:13:34,880 --> 00:13:36,880
+Ou seja, além das metas,
+
+321
+00:13:36,880 --> 00:13:38,880
+vocês vão ter as métricas.
+
+322
+00:13:38,880 --> 00:13:40,880
+Essas métricas são bem intuitivas
+
+323
+00:13:40,880 --> 00:13:42,880
+e eu vou mandar isso para vocês, mas é basicamente
+
+324
+00:13:42,880 --> 00:13:44,880
+ele não tem que resolver 400 tíquets
+
+325
+00:13:44,880 --> 00:13:46,880
+no mês, tem que ter um cessate de 98
+
+326
+00:13:46,880 --> 00:13:48,880
+por tempo médio de resolução
+
+327
+00:13:48,880 --> 00:13:50,880
+40 minutos e o que há 88.
+
+328
+00:13:50,880 --> 00:13:52,880
+N2, 300,
+
+329
+00:13:52,880 --> 00:13:54,880
+366,
+
+330
+00:13:54,880 --> 00:13:56,880
+FCN 65
+
+331
+00:13:56,880 --> 00:13:58,880
+e que há 88.
+
+332
+00:13:58,880 --> 00:14:00,880
+Final, como você está em transição de N1 para N2
+
+333
+00:14:00,880 --> 00:14:02,880
+você pode considerar as suas métricas
+
+334
+00:14:02,880 --> 00:14:04,880
+ou as métricas de N2.
+
+335
+00:14:04,880 --> 00:14:07,970
+Fechou? Fechou.
+
+336
+00:14:07,970 --> 00:14:09,970
+E N3, eu coloquei ali
+
+337
+00:14:09,970 --> 00:14:11,970
+que é coloquei N3 e Ztec Lint.
+
+338
+00:14:11,970 --> 00:14:13,970
+Então tanto o Gabriel
+
+339
+00:14:13,970 --> 00:14:16,900
+quanto o Alves
+
+340
+00:14:16,900 --> 00:14:18,900
+vão ter as métricas de N3 ali.
+
+341
+00:14:18,900 --> 00:14:20,900
+Obviamente a gente sabe que
+
+342
+00:14:20,900 --> 00:14:22,900
+tíquets de N3
+
+343
+00:14:22,900 --> 00:14:24,900
+tem que ter um volume menor, obviamente
+
+344
+00:14:24,900 --> 00:14:26,900
+porque é muito demanda muito mais complexa
+
+345
+00:14:26,900 --> 00:14:29,380
+e
+
+346
+00:14:29,380 --> 00:14:31,380
+o Alves eu coloquei aí também
+
+347
+00:14:31,380 --> 00:14:33,380
+porque o Alves tem outros demandos além de suporte.
+
+348
+00:14:33,380 --> 00:14:35,380
+Esse foi o Gabriel, então faz sentido que
+
+349
+00:14:35,380 --> 00:14:37,380
+sejam menos tíquets.
+
+350
+00:14:37,380 --> 00:14:39,380
+Tempo médio de resolução de 2 horas
+
+351
+00:14:39,380 --> 00:14:41,380
+eu coloquei 2 horas, você pode
+
+352
+00:14:41,380 --> 00:14:43,380
+ir lá para eu ler e falar que eu acho que não sei pouco
+
+353
+00:14:43,380 --> 00:14:45,380
+porque tem migração, você vai ficar 3 dias fazendo.
+
+354
+00:14:45,380 --> 00:14:47,380
+Só que na maioria dos casos
+
+355
+00:14:47,380 --> 00:14:49,380
+vão pegar tíquets, se resolvem em 1 hora
+
+356
+00:14:49,380 --> 00:14:51,380
+então acaba que a média desce muito.
+
+357
+00:14:51,380 --> 00:14:53,380
+Então pode ficar tranquilo que
+
+358
+00:14:53,380 --> 00:14:55,380
+hoje precisa de ideia
+
+359
+00:14:55,380 --> 00:14:57,380
+o tempo médio de resolução de tíquets de N3
+
+360
+00:14:57,380 --> 00:14:59,380
+são de 2 horas e 10 minutos
+
+361
+00:14:59,380 --> 00:15:01,380
+então está bem dentro do esperado, sabe?
+
+362
+00:15:01,380 --> 00:15:05,200
+E
+
+363
+00:15:05,200 --> 00:15:07,200
+vai ter uma regra agora para as metas também.
+
+364
+00:15:07,200 --> 00:15:09,200
+Então pelo menos 3
+
+365
+00:15:09,200 --> 00:15:11,200
+dos 4 quipiais tem que ser batido
+
+366
+00:15:11,200 --> 00:15:13,200
+para as metas do Alves.
+
+367
+00:15:13,200 --> 00:15:15,200
+Ou seja, cada ano vai ter 4 quipiais aqui, certo?
+
+368
+00:15:15,200 --> 00:15:17,200
+Vocês tem que bater pelo menos 3 vezes.
+
+369
+00:15:17,200 --> 00:15:19,200
+Eu imagino que pelo que
+
+370
+00:15:19,200 --> 00:15:21,200
+eu estou vendo em vocês
+
+371
+00:15:21,200 --> 00:15:23,200
+eu não vou bater isso aqui os 4 todo mês, sabe?
+
+372
+00:15:23,200 --> 00:15:25,200
+Pode ter algum mesmo ou outro
+
+373
+00:15:25,200 --> 00:15:27,200
+que não bata 1, não bata 2
+
+374
+00:15:27,200 --> 00:15:29,200
+mas é aquilo também.
+
+375
+00:15:29,200 --> 00:15:31,200
+Se eu tenho consistência, não tenho porquê
+
+376
+00:15:31,200 --> 00:15:33,200
+por um deslize e vocês
+
+377
+00:15:33,200 --> 00:15:35,200
+terem algum tipo de restrição por isso
+
+378
+00:15:35,200 --> 00:15:37,200
+então vocês podem ficar preocupados que
+
+379
+00:15:37,200 --> 00:15:39,200
+assim, está todo mundo batendo tudo
+
+380
+00:15:39,200 --> 00:15:41,200
+nas últimas
+
+381
+00:15:41,200 --> 00:15:43,200
+6 meses, então não faça sentido
+
+382
+00:15:43,200 --> 00:15:45,200
+cair agora, sabe?
+
+383
+00:15:45,200 --> 00:15:47,200
+Então vocês têm que
+
+384
+00:15:47,200 --> 00:15:49,200
+preocupar um pouco com isso aqui
+
+385
+00:15:49,200 --> 00:15:51,200
+e por favor nesse tipo de demandas suas
+
+386
+00:15:51,200 --> 00:15:53,200
+eu convidei todos vocês para o dashboard
+
+387
+00:15:53,200 --> 00:15:55,200
+desse take-off, então vocês vão conseguir
+
+388
+00:15:55,200 --> 00:15:57,200
+acompanhar os
+
+389
+00:15:57,200 --> 00:15:59,200
+os convites que chegaram nos meios corporais
+
+390
+00:15:59,200 --> 00:16:01,200
+de vocês, acompanhar os quipiais individuais
+
+391
+00:16:01,200 --> 00:16:03,200
+o Alves pode mostrar para vocês depois
+
+392
+00:16:03,200 --> 00:16:06,450
+Então
+
+393
+00:16:06,450 --> 00:16:08,450
+vocês vão conseguir acompanhar isso aqui
+
+394
+00:16:08,450 --> 00:16:10,450
+diariamente, pode ficar se preocupado
+
+395
+00:16:10,450 --> 00:16:12,450
+que vocês conseguem saber se vocês estão
+
+396
+00:16:12,450 --> 00:16:14,450
+indo bem, se não estão indo
+
+397
+00:16:14,450 --> 00:16:16,450
+e por aí vai. E isso aqui
+
+398
+00:16:16,450 --> 00:16:18,450
+impacta também um lar metal matriz
+
+399
+00:16:18,450 --> 00:16:20,610
+com tudo que a gente já conversou
+
+400
+00:16:20,610 --> 00:16:22,610
+com promoções, homens, etc
+
+401
+00:16:22,610 --> 00:16:24,840
+Então
+
+402
+00:16:24,840 --> 00:16:26,840
+isso aqui é um ponto importante
+
+403
+00:16:26,840 --> 00:16:28,840
+de vocês se preocuparem também
+
+404
+00:16:28,840 --> 00:16:32,470
+ok? Aqui eu falei
+
+405
+00:16:32,470 --> 00:16:34,470
+vocês baterem dois quipiais ou menos
+
+406
+00:16:34,470 --> 00:16:36,470
+então a meta dos meus não vai valer
+
+407
+00:16:36,470 --> 00:16:38,470
+e obviamente eu vou variar
+
+408
+00:16:38,470 --> 00:16:40,470
+pela da ela também não, mas vai ser
+
+409
+00:16:40,470 --> 00:16:42,470
+muito difícil isso que acontecer, então
+
+410
+00:16:42,470 --> 00:16:44,470
+assim, porque vocês conseguem
+
+411
+00:16:44,470 --> 00:16:46,470
+acompanhar diariamente os quipiais de vocês
+
+412
+00:16:46,470 --> 00:16:48,470
+vocês vão ser donos das próprias métricas
+
+413
+00:16:48,470 --> 00:16:50,470
+então, sei lá, se um dia você beber
+
+414
+00:16:50,470 --> 00:16:52,470
+que você está abaixo da quantidade
+
+415
+00:16:52,470 --> 00:16:54,470
+de tíquete, se atende mais tíquete
+
+416
+00:16:54,470 --> 00:16:56,470
+um dia, pede mais ajuda, agiliza
+
+417
+00:16:56,470 --> 00:16:58,470
+o rendimento e por aí vai
+
+418
+00:16:58,470 --> 00:17:00,950
+vocês vão ser donos dos próprios atendimentos
+
+419
+00:17:00,950 --> 00:17:02,950
+Então
+
+420
+00:17:02,950 --> 00:17:04,950
+isso aqui é um resultado, eu vou mandar
+
+421
+00:17:04,950 --> 00:17:07,010
+para vocês essa apresentação
+
+422
+00:17:07,010 --> 00:17:09,010
+para vocês lerem com calma
+
+423
+00:17:09,010 --> 00:17:11,010
+e eu me mantendo
+
+424
+00:17:11,010 --> 00:17:13,010
+a disposição do SLAC, vamos sempre
+
+425
+00:17:13,010 --> 00:17:15,010
+lidar no SLAC
+
+426
+00:17:15,010 --> 00:17:17,010
+para tirar as dúvidas de vocês relacionadas a isso
+
+427
+00:17:17,010 --> 00:17:19,010
+ah, dê um ponto aqui importante também
+
+428
+00:17:19,010 --> 00:17:21,140
+ah, isso aqui
+
+429
+00:17:21,140 --> 00:17:23,140
+aqui mano, vamos ter
+
+430
+00:17:23,140 --> 00:17:26,000
+algumas medidas, por exemplo
+
+431
+00:17:26,000 --> 00:17:28,000
+vão ser tomadas, que vão supor
+
+432
+00:17:28,000 --> 00:17:30,000
+um pouquinho lá, sei lá
+
+433
+00:17:30,000 --> 00:17:32,000
+o Rafael falou assim não, essa semana vou ficar de um
+
+434
+00:17:32,000 --> 00:17:35,320
+no tíquete a semana toda
+
+435
+00:17:35,320 --> 00:17:37,320
+para recompensar o Rafael
+
+436
+00:17:37,320 --> 00:17:39,320
+isso, a gente feita um tipo de pontuação
+
+437
+00:17:39,320 --> 00:17:41,320
+que a gente pode anteriorar isso, que vai impactar
+
+438
+00:17:41,320 --> 00:17:43,320
+lá na Matriz também, então
+
+439
+00:17:43,320 --> 00:17:45,320
+eu como líder, o Vinny também
+
+440
+00:17:45,320 --> 00:17:47,320
+ou Luiz, outro Nico
+
+441
+00:17:47,320 --> 00:17:49,320
+o Rafael não deixou passar
+
+442
+00:17:49,320 --> 00:17:51,320
+um cliente
+
+443
+00:17:51,320 --> 00:17:53,320
+no grupo do WhatsApp essa semana
+
+444
+00:17:53,320 --> 00:17:55,320
+então aí a gente pega sua biologia
+
+445
+00:17:55,320 --> 00:17:57,320
+que impacta, a mesma coisa vale
+
+446
+00:17:57,320 --> 00:17:59,320
+se for negativamente, tudo isso
+
+447
+00:17:59,320 --> 00:18:01,320
+vai impactar naquela análise
+
+448
+00:18:01,320 --> 00:18:03,320
+que a gente vai fazer a casa seis meses
+
+449
+00:18:03,320 --> 00:18:05,320
+sobre o desempenho
+
+450
+00:18:05,320 --> 00:18:07,320
+e a cultura de vocês, vamos falar, Rafael
+
+451
+00:18:07,320 --> 00:18:09,480
+essa análise, esses conectados
+
+452
+00:18:09,480 --> 00:18:11,480
+e qualquer encontragem
+
+453
+00:18:11,480 --> 00:18:13,480
+eu só sei
+
+454
+00:18:13,480 --> 00:18:15,990
+só as ideias
+
+455
+00:18:15,990 --> 00:18:18,080
+porque
+
+456
+00:18:18,080 --> 00:18:20,080
+eu acho que
+
+457
+00:18:20,080 --> 00:18:22,240
+julgar o trabalho
+
+458
+00:18:22,240 --> 00:18:24,240
+do outro é um negócio difícil
+
+459
+00:18:24,240 --> 00:18:26,240
+mas
+
+460
+00:18:26,240 --> 00:18:28,240
+se tiver algum deslize no dia
+
+461
+00:18:28,240 --> 00:18:30,240
+você pode vir na pessoa e falar
+
+462
+00:18:30,240 --> 00:18:32,240
+o grupo do Paulo está sem resposta
+
+463
+00:18:32,240 --> 00:18:34,240
+vai lá e dá uma resposta e aciona alguém
+
+464
+00:18:34,240 --> 00:18:36,240
+porque você não perdeu, então eu quero que você saiba
+
+465
+00:18:36,240 --> 00:18:38,240
+tudo isso aqui, eu falo assim
+
+466
+00:18:38,240 --> 00:18:40,240
+estou com muita demanda, alguém pode olhar pra mim
+
+467
+00:18:40,240 --> 00:18:42,240
+nesse momento e obviamente deixa
+
+468
+00:18:42,240 --> 00:18:44,240
+tudo isso comunicado, fechou?
+
+469
+00:18:44,240 --> 00:18:46,240
+Eu falei mais por no geral
+
+470
+00:18:46,240 --> 00:18:48,240
+esse critão da variação
+
+471
+00:18:48,240 --> 00:18:50,240
+vai ser com base tudo
+
+472
+00:18:50,240 --> 00:18:52,240
+com base tudo
+
+473
+00:18:52,240 --> 00:18:54,240
+exatamente, mas a gente não vai
+
+474
+00:18:54,240 --> 00:18:56,240
+analisar se
+
+475
+00:18:56,240 --> 00:18:58,240
+num dia você deixa um cliente sem resposta
+
+476
+00:18:58,240 --> 00:19:00,240
+porque isso bora o outro, vai acontecer
+
+477
+00:19:00,240 --> 00:19:02,240
+mas não adianta
+
+478
+00:19:02,240 --> 00:19:04,240
+mas tudo impacta de alguma maneira
+
+479
+00:19:04,240 --> 00:19:06,240
+de como você vai, se você está
+
+480
+00:19:06,240 --> 00:19:08,240
+mandando muito bem aqui, você está
+
+481
+00:19:08,240 --> 00:19:10,240
+mandando muito bem na cultura de centrado
+
+482
+00:19:10,240 --> 00:19:12,600
+no cliente, consequentemente
+
+483
+00:19:12,600 --> 00:19:14,600
+vocês por isso vão vir, sabe?
+
+484
+00:19:14,600 --> 00:19:16,600
+Então, alguém me ficando
+
+485
+00:19:16,600 --> 00:19:18,600
+como funciona o plano de crescimento
+
+486
+00:19:18,600 --> 00:19:20,600
+individual de cada um de vocês
+
+487
+00:19:20,600 --> 00:19:22,600
+então, ações terão reações
+
+488
+00:19:22,600 --> 00:19:24,600
+então, se você tomar uma decisão
+
+489
+00:19:24,600 --> 00:19:26,600
+de, sei lá, tratar um cliente
+
+490
+00:19:26,600 --> 00:19:28,600
+grandiosamente bem, isso vai ser
+
+491
+00:19:28,600 --> 00:19:30,600
+muito bem recompensado por isso
+
+492
+00:19:30,600 --> 00:19:32,600
+e se tivesse, se você tratar um cliente grandiosamente
+
+493
+00:19:32,600 --> 00:19:34,600
+mal, aí vai ter puxão de orelha
+
+494
+00:19:34,600 --> 00:19:36,600
+também, então
+
+495
+00:19:36,600 --> 00:19:38,600
+cada um vai ser dono
+
+496
+00:19:38,600 --> 00:19:40,600
+do atendimento no dia, fechou?
+
+497
+00:19:40,600 --> 00:19:42,600
+Fechou, fechou
+
+498
+00:19:42,600 --> 00:19:44,790
+Vocês ficaram com alguma dúvida?
+
+499
+00:19:44,790 --> 00:19:47,170
+Nossa Senhora
+
+500
+00:19:47,170 --> 00:19:49,400
+Negativa
+
+501
+00:19:49,400 --> 00:19:51,650
+Então, vamos dar essa apresentação
+
+502
+00:19:51,650 --> 00:19:53,650
+para vocês, e se vocês ficarem
+
+503
+00:19:53,650 --> 00:19:55,650
+com dúvida também, pode
+
+504
+00:19:55,650 --> 00:19:57,880
+pode me mandar
+
+505
+00:19:57,880 --> 00:19:59,880
+mensagem, a hora que for ter infetia
+
+506
+00:19:59,880 --> 00:20:01,880
+uma dúvida, fechou? E aceita os convites
+
+507
+00:20:01,880 --> 00:20:03,880
+nos e-mails aí, eu comprei vocês
+
+508
+00:20:03,880 --> 00:20:05,880
+por no Clube dashboard

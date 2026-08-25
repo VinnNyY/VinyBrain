@@ -1,0 +1,364 @@
+{
+  "clicked": false,
+  "url": "https://beta.staycloud.com/dashboard/cloud",
+  "bodySample": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git CLOUD Visão geral Deployments Logs Domínios Integrações Plano edge global · São Paulo + CDN StayCloud ~/cloud ~/CLOUD Cloud Deploy de Git em produção. Build em São Paulo, edge global via CDN da StayCloud. Reportar bug atualizar Conectar GitHub Novo projeto Como fazer seu primeiro deploy O passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel. Assistir PROJETOS 0 ativos NO AR 0 servindo tráfego BUILDANDO 0 em fila ou rodando DEPLOYS · 30D 0 últimos 30 dias 01 PROJETOS Seus projetos Todos 0 No ar 0 Build 0 Falha 0 Sem projetos Importe um repositório do GitHub e o seu primeiro deploy estará no ar em minutos. × Em uma escala de 0 a 10, o quanto você recomendaria a StayCloud a um amigo ou colega? 0 1 2 3 4 5 6 7 8 9 10 Nada provável Muito provável",
+  "buttons": [
+    {
+      "text": "Nos reporte aqui",
+      "x": 142.59375,
+      "y": 8.375,
+      "w": 91.234375,
+      "h": 17.25
+    },
+    {
+      "text": "Fechar aviso",
+      "x": 1402,
+      "y": 6,
+      "w": 22,
+      "h": 22
+    },
+    {
+      "text": "staycloud",
+      "x": 24,
+      "y": 49.75,
+      "w": 114.125,
+      "h": 25.5
+    },
+    {
+      "text": "[dado]",
+      "x": 167.125,
+      "y": 46.5,
+      "w": 141.828125,
+      "h": 32
+    },
+    {
+      "text": "Buscar site, domínio, fatura ou chamado... ⌘ K",
+      "x": 601.734375,
+      "y": 46.5,
+      "w": 360,
+      "h": 32
+    },
+    {
+      "text": "dark",
+      "x": 1254.515625,
+      "y": 47.5,
+      "w": 69.484375,
+      "h": 30
+    },
+    {
+      "text": "Ajuda · reportar bug",
+      "x": 1384,
+      "y": 46.5,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "text": "Home",
+      "x": 8,
+      "y": 105,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Hospedagem",
+      "x": 8,
+      "y": 143,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "WordPress",
+      "x": 8,
+      "y": 181,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "VPS",
+      "x": 8,
+      "y": 219,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Deploy",
+      "x": 8,
+      "y": 257,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Loja",
+      "x": 8,
+      "y": 314,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Domínios",
+      "x": 8,
+      "y": 352,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Faturas",
+      "x": 8,
+      "y": 390,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Suporte",
+      "x": 8,
+      "y": 447,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Ferramentas",
+      "x": 8,
+      "y": 485,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "StayFast Novo",
+      "x": 8,
+      "y": 523,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "StayAcademy",
+      "x": 8,
+      "y": 561,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "[dado]",
+      "x": 15.5,
+      "y": 954,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "text": "Visão geral",
+      "x": 78,
+      "y": 208,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Deployments",
+      "x": 78,
+      "y": 241.75,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Logs",
+      "x": 78,
+      "y": 275.5,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Domínios",
+      "x": 78,
+      "y": 309.25,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Integrações",
+      "x": 78,
+      "y": 343,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Plano",
+      "x": 78,
+      "y": 376.75,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "~/cloud",
+      "x": 328,
+      "y": 123,
+      "w": 43.78125,
+      "h": 18
+    },
+    {
+      "text": "Reportar bug",
+      "x": 880.0625,
+      "y": 235.546875,
+      "w": 124.984375,
+      "h": 32
+    },
+    {
+      "text": "atualizar",
+      "x": 1013.046875,
+      "y": 236.546875,
+      "w": 96.640625,
+      "h": 30
+    },
+    {
+      "text": "Conectar GitHub",
+      "x": 1117.6875,
+      "y": 236.546875,
+      "w": 143.453125,
+      "h": 30
+    },
+    {
+      "text": "Novo projeto",
+      "x": 1269.140625,
+      "y": 233.546875,
+      "w": 130.859375,
+      "h": 36
+    },
+    {
+      "text": "Assistir",
+      "x": 1246.3125,
+      "y": 310.0625,
+      "w": 96.6875,
+      "h": 32
+    },
+    {
+      "text": "Dispensar tutorial",
+      "x": 1357,
+      "y": 312.0625,
+      "w": 28,
+      "h": 28
+    },
+    {
+      "text": "Ajuda: Status do deploy",
+      "x": 974.59375,
+      "y": 400.96875,
+      "w": 13,
+      "h": 13
+    },
+    {
+      "text": "Ajuda: O que é deploy",
+      "x": 1259.421875,
+      "y": 400.96875,
+      "w": 13,
+      "h": 13
+    },
+    {
+      "text": "Todos 0",
+      "x": 1113.6875,
+      "y": 535.84375,
+      "w": 65.5625,
+      "h": 24
+    },
+    {
+      "text": "No ar 0",
+      "x": 1181.25,
+      "y": 535.84375,
+      "w": 62.234375,
+      "h": 24
+    },
+    {
+      "text": "Build 0",
+      "x": 1245.484375,
+      "y": 535.84375,
+      "w": 60.828125,
+      "h": 24
+    },
+    {
+      "text": "Falha 0",
+      "x": 1308.3125,
+      "y": 535.84375,
+      "w": 62.6875,
+      "h": 24
+    },
+    {
+      "text": "×",
+      "x": 1416.546875,
+      "y": 920.609375,
+      "w": 11.453125,
+      "h": 20
+    },
+    {
+      "text": "0",
+      "x": 746,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "1",
+      "x": 786,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "2",
+      "x": 826,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "3",
+      "x": 866,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "4",
+      "x": 906,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "5",
+      "x": 946,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "6",
+      "x": 986,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "7",
+      "x": 1026,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "8",
+      "x": 1066,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "9",
+      "x": 1106,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "10",
+      "x": 1146,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    }
+  ]
+}

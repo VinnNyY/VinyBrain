@@ -1,0 +1,78 @@
+{
+  "documentId": 2909,
+  "editUrl": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2909&action=edit",
+  "publicUrl": "https://ajuda.staycloud.com.br/docs/cli-deploy-staycloud/",
+  "slug": "cli-deploy-staycloud",
+  "status": "publish",
+  "title": "Como instalar e usar a CLI do Deploy StayCloud",
+  "categories": [
+    17
+  ],
+  "tags": [
+    33,
+    36,
+    32,
+    34,
+    22,
+    37
+  ],
+  "uploaded": [
+    {
+      "file": "01-onde-obter-cli-sanitizado.png",
+      "id": 2903,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-onde-obter-cli-sanitizado.png",
+      "alt": "CLI Deploy StayCloud no card Deploy via CLI do Painel Novo",
+      "title": "Card Deploy via CLI no Painel Novo"
+    },
+    {
+      "file": "02-comando-oficial-sanitizado.png",
+      "id": 2904,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-comando-oficial-sanitizado.png",
+      "alt": "Comando oficial da CLI Deploy StayCloud gerado no painel",
+      "title": "Comando oficial da CLI Deploy StayCloud"
+    },
+    {
+      "file": "03-confirmacao-instalacao-sanitizado.png",
+      "id": 2905,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-confirmacao-instalacao-sanitizado.png",
+      "alt": "Comandos públicos da CLI Deploy StayCloud no terminal",
+      "title": "Comandos públicos da CLI Deploy StayCloud"
+    },
+    {
+      "file": "04-autenticacao-conexao-sanitizado.png",
+      "id": 2906,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-autenticacao-conexao-sanitizado.png",
+      "alt": "Conexão segura da CLI Deploy StayCloud no terminal",
+      "title": "Conexão segura pelo terminal"
+    },
+    {
+      "file": "05-comando-deploy-sanitizado.png",
+      "id": 2907,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-comando-deploy-sanitizado.png",
+      "alt": "Comando de deploy pela CLI Deploy StayCloud",
+      "title": "Comando de deploy pela CLI"
+    },
+    {
+      "file": "06-resultado-cli-sanitizado.png",
+      "id": 2908,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-resultado-cli-sanitizado.png",
+      "alt": "Resultado do deploy feito com a CLI Deploy StayCloud",
+      "title": "Resultado do deploy pela CLI"
+    }
+  ],
+  "rankMathResponse": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankMathScoreBeforePublish": 85,
+  "rankMathScoreAfterPublish": 85,
+  "seo": {
+    "focusKeyword": "CLI Deploy StayCloud",
+    "seoTitle": "CLI Deploy StayCloud: como instalar e usar",
+    "metaDescription": "Aprenda a instalar e usar a CLI Deploy StayCloud, conectar seu projeto e executar o comando de publicação com segurança.",
+    "excerpt": "Veja como usar a CLI Deploy StayCloud pelo Painel Novo, gerar o comando oficial, conectar o projeto local e publicar pelo terminal.",
+    "socialTitle": "Como instalar e usar a CLI do Deploy StayCloud",
+    "socialDescription": "Conecte um projeto local ao Deploy StayCloud com a CLI oficial, publique pelo terminal e valide a URL gerada."
+  },
+  "publishedAt": "2026-07-29T19:35:54.425Z"
+}

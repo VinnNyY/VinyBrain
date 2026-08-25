@@ -1,0 +1,85 @@
+{
+  "documentId": 2937,
+  "editUrl": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2937&action=edit",
+  "publicUrl": "https://ajuda.staycloud.com.br/docs/publicar-nova-versao-staycloud/",
+  "slug": "publicar-nova-versao-staycloud",
+  "status": "publish",
+  "title": "PUBLICAR NOVA VERSÃO STAYCLOUD",
+  "categories": [
+    17
+  ],
+  "tags": [
+    33,
+    40,
+    32,
+    34,
+    41,
+    22
+  ],
+  "uploaded": [
+    {
+      "file": "01-projeto-publicado-sanitizado.png",
+      "id": 2930,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-projeto-publicado-sanitizado.png",
+      "alt": "Projeto publicado para publicar nova versão StayCloud",
+      "title": "Projeto publicado no Cloud"
+    },
+    {
+      "file": "02-versao-atual-sanitizado.png",
+      "id": 2931,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-versao-atual-sanitizado.png",
+      "alt": "Versão atual antes de publicar nova versão StayCloud",
+      "title": "Versão atual publicada"
+    },
+    {
+      "file": "03-alteracao-projeto-sanitizado.png",
+      "id": 2932,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-alteracao-projeto-sanitizado.png",
+      "alt": "Alteração local antes de publicar nova versão StayCloud",
+      "title": "Alteração local do projeto"
+    },
+    {
+      "file": "04-nova-publicacao-sanitizado.png",
+      "id": 2933,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-nova-publicacao-sanitizado.png",
+      "alt": "Comando para publicar nova versão StayCloud",
+      "title": "Comando de nova publicação"
+    },
+    {
+      "file": "05-processamento-sanitizado.png",
+      "id": 2934,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-processamento-sanitizado.png",
+      "alt": "Status após publicar nova versão StayCloud",
+      "title": "Status após novo deploy"
+    },
+    {
+      "file": "06-conclusao-sanitizado.png",
+      "id": 2935,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-conclusao-sanitizado.png",
+      "alt": "Projeto pronto após publicar nova versão StayCloud",
+      "title": "Projeto pronto no painel"
+    },
+    {
+      "file": "07-nova-versao-publicada-sanitizado.png",
+      "id": 2936,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/07-nova-versao-publicada-sanitizado.png",
+      "alt": "Nova versão publicada pelo Deploy StayCloud",
+      "title": "Nova versão publicada"
+    }
+  ],
+  "rankMathResponse": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankMathScoreBeforePublish": 80,
+  "rankMathScoreAfterPublish": 80,
+  "seo": {
+    "focusKeyword": "publicar nova versão StayCloud",
+    "seoTitle": "Publicar nova versão StayCloud em 5 passos",
+    "metaDescription": "Veja como publicar nova versão StayCloud pelo Deploy, executar o comando correto, acompanhar o status e confirmar a aplicação atualizada.",
+    "excerpt": "Aprenda a publicar uma nova versão pelo Deploy StayCloud usando o projeto já conectado, o comando correto da CLI e a validação do status no painel.",
+    "socialTitle": "Publicar nova versão StayCloud em 5 passos",
+    "socialDescription": "Veja como atualizar um projeto já conectado ao Deploy StayCloud, executar o comando de publicação e confirmar a nova versão no ar."
+  },
+  "publishedAt": "2026-07-31T16:30:45.944Z"
+}

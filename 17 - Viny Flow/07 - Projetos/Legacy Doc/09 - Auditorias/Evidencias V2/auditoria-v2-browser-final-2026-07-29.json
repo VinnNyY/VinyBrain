@@ -1,0 +1,310 @@
+[
+  {
+    "viewport": {
+      "name": "v2-1440-final",
+      "width": 1440,
+      "height": 1400,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "h1Text": "Documentação técnica gerada a partir do seu código",
+      "h1Width": 544.375,
+      "h1Height": 391.953125,
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "forms": 0,
+      "brokenAnchors": 0,
+      "imgsMissingAlt": 0,
+      "bodyHeight": 10751,
+      "screenshotsLoaded": [
+        {
+          "alt": "Screenshot do Legacy Doc com campo para informar URL de repositório e iniciar análise",
+          "w": 826,
+          "h": 401
+        },
+        {
+          "alt": "Relatório técnico do Legacy Doc com resumo executivo, funções documentadas e observações",
+          "w": 337,
+          "h": 472
+        }
+      ],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": false,
+        "metrics": false,
+        "superiority": false
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-1280-final",
+      "width": 1280,
+      "height": 1000,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "h1Text": "Documentação técnica gerada a partir do seu código",
+      "h1Width": 492.765625,
+      "h1Height": 376.25,
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "forms": 0,
+      "brokenAnchors": 0,
+      "imgsMissingAlt": 0,
+      "bodyHeight": 10351,
+      "screenshotsLoaded": [
+        {
+          "alt": "Screenshot do Legacy Doc com campo para informar URL de repositório e iniciar análise",
+          "w": 826,
+          "h": 401
+        },
+        {
+          "alt": "Relatório técnico do Legacy Doc com resumo executivo, funções documentadas e observações",
+          "w": 337,
+          "h": 472
+        }
+      ],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": false,
+        "metrics": false,
+        "superiority": false
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-1024-final",
+      "width": 1024,
+      "height": 1200,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "h1Text": "Documentação técnica gerada a partir do seu código",
+      "h1Width": 780,
+      "h1Height": 180.609375,
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "forms": 0,
+      "brokenAnchors": 0,
+      "imgsMissingAlt": 0,
+      "bodyHeight": 12396,
+      "screenshotsLoaded": [
+        {
+          "alt": "Screenshot do Legacy Doc com campo para informar URL de repositório e iniciar análise",
+          "w": 826,
+          "h": 401
+        },
+        {
+          "alt": "Relatório técnico do Legacy Doc com resumo executivo, funções documentadas e observações",
+          "w": 337,
+          "h": 472
+        }
+      ],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": false,
+        "metrics": false,
+        "superiority": false
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-768-final",
+      "width": 768,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "h1Text": "Documentação técnica gerada a partir do seu código",
+      "h1Width": 720,
+      "h1Height": 152.859375,
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "forms": 0,
+      "brokenAnchors": 0,
+      "imgsMissingAlt": 0,
+      "bodyHeight": 14480,
+      "screenshotsLoaded": [
+        {
+          "alt": "Screenshot do Legacy Doc com campo para informar URL de repositório e iniciar análise",
+          "w": 325,
+          "h": 158
+        },
+        {
+          "alt": "Relatório técnico do Legacy Doc com resumo executivo, funções documentadas e observações",
+          "w": 171,
+          "h": 239
+        }
+      ],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": false,
+        "metrics": false,
+        "superiority": false
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-430-final",
+      "width": 430,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "h1Text": "Documentação técnica gerada a partir do seu código",
+      "h1Width": 390,
+      "h1Height": 183,
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "forms": 0,
+      "brokenAnchors": 0,
+      "imgsMissingAlt": 0,
+      "bodyHeight": 16068,
+      "screenshotsLoaded": [
+        {
+          "alt": "Screenshot do Legacy Doc com campo para informar URL de repositório e iniciar análise",
+          "w": 395,
+          "h": 192
+        },
+        {
+          "alt": "Relatório técnico do Legacy Doc com resumo executivo, funções documentadas e observações",
+          "w": 222,
+          "h": 310
+        }
+      ],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": false,
+        "metrics": false,
+        "superiority": false
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-390-final",
+      "width": 390,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "h1Text": "Documentação técnica gerada a partir do seu código",
+      "h1Width": 350,
+      "h1Height": 158.0625,
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "forms": 0,
+      "brokenAnchors": 0,
+      "imgsMissingAlt": 0,
+      "bodyHeight": 16420,
+      "screenshotsLoaded": [
+        {
+          "alt": "Screenshot do Legacy Doc com campo para informar URL de repositório e iniciar análise",
+          "w": 358,
+          "h": 174
+        },
+        {
+          "alt": "Relatório técnico do Legacy Doc com resumo executivo, funções documentadas e observações",
+          "w": 222,
+          "h": 310
+        }
+      ],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": false,
+        "metrics": false,
+        "superiority": false
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-360-final",
+      "width": 360,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "h1Text": "Documentação técnica gerada a partir do seu código",
+      "h1Width": 320,
+      "h1Height": 158.0625,
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "forms": 0,
+      "brokenAnchors": 0,
+      "imgsMissingAlt": 0,
+      "bodyHeight": 16972,
+      "screenshotsLoaded": [
+        {
+          "alt": "Screenshot do Legacy Doc com campo para informar URL de repositório e iniciar análise",
+          "w": 331,
+          "h": 160
+        },
+        {
+          "alt": "Relatório técnico do Legacy Doc com resumo executivo, funções documentadas e observações",
+          "w": 205,
+          "h": 287
+        }
+      ],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": false,
+        "metrics": false,
+        "superiority": false
+      }
+    }
+  }
+]

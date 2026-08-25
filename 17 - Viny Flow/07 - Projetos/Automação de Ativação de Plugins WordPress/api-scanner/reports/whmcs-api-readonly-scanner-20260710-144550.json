@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "generated_at": "20260710-144550",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "whmcs_api",
+    "redact_emails": false,
+    "gettickets_request": {
+      "params": {
+        "limitstart": 0,
+        "limitnum": 50,
+        "status": "Awaiting Reply"
+      },
+      "totalresults": 4
+    }
+  },
+  "summary": {
+    "listed": 4,
+    "returned": 4,
+    "active_analyzed": 4,
+    "opened": 1,
+    "pending_activation": 1,
+    "needs_review": 0,
+    "ignored": 3,
+    "historical_returned": 0
+  },
+  "tickets": [
+    {
+      "ticket_id": "15745",
+      "ticket_num": "QEY-565588",
+      "subject": "Solicitação de ativação de plugin(s): Elementor PRO, WP Rocket",
+      "subject_final": "#QEY-565588 - Solicitação de ativação de plugin(s): Elementor PRO, WP Rocket",
+      "status": "Open",
+      "department": "Suporte Técnico",
+      "plugins_detectados": [
+        "Elementor Pro",
+        "WP Rocket"
+      ],
+      "domain_detected": "",
+      "customer_authorization": "incerto",
+      "completion_signal": false,
+      "missing_information": [
+        "domínio não encontrado",
+        "autorização não confirmada"
+      ],
+      "preflight_classification": "FALTAM DADOS",
+      "next_action": "Revisar o ticket ou solicitar as informações faltantes.",
+      "plugin": "Elementor Pro",
+      "plugin_slug": "elementor-pro",
+      "domain": null,
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "pending_activation",
+      "classification": "PRONTO PARA APROVAÇÃO",
+      "priority": "fila_ativacao",
+      "classification_reason": "pedido claro de ativação de plugin com plugin conhecido",
+      "score": 75,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "fields_used": {
+        "ticket_id": "ticket_id",
+        "ticket_num": "tid",
+        "subject": "subject",
+        "department": "deptname",
+        "status": "status",
+        "customer_email": "email",
+        "created_at": "date"
+      },
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail",
+      "debug_fields": {
+        "campos_encontrados_no_resumo": [
+          "ticket_id"
+        ],
+        "raw_subject_fields": {},
+        "campo_subject_escolhido": "nenhum",
+        "keywords_encontradas": [
+          "ativacao",
+          "ativação",
+          "plugin",
+          "ativacao",
+          "ativação",
+          "solicitacao de ativacao",
+          "solicitação de ativação",
+          "plugin",
+          "plugin(s)"
+        ],
+        "plugins_encontrados": [
+          "Elementor Pro",
+          "WP Rocket"
+        ],
+        "motivo": "pedido claro de ativação de plugin com plugin conhecido",
+        "ignorado": false
+      }
+    }
+  ]
+}

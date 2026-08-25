@@ -1,0 +1,96 @@
+SCORE MÍNIMO:
+80/100
+
+STATUS:
+Publicado e SEO validado no Rank Math
+
+TÍTULO DO ARTIGO:
+Como localizar a Central de Ajuda pelo Painel Novo da StayCloud
+
+PALAVRA-CHAVE PRINCIPAL:
+Central de Ajuda StayCloud
+
+PALAVRAS-CHAVE SECUNDÁRIAS:
+- localizar Central de Ajuda no Painel Novo
+- ajuda StayCloud
+- tutoriais StayCloud
+- Base de Conhecimento StayCloud
+- suporte no Painel Novo
+- pesquisar tutorial StayCloud
+
+TÍTULO SEO:
+Central de Ajuda StayCloud: como acessar pelo Painel Novo
+
+CARACTERES DO TÍTULO SEO:
+59
+
+SLUG:
+central-de-ajuda-staycloud
+
+META DESCRIPTION:
+Aprenda a localizar a Central de Ajuda StayCloud pelo Painel Novo, pesquisar tutoriais e encontrar rapidamente orientações para sua conta e serviços.
+
+CARACTERES DA META DESCRIPTION:
+149
+
+EXCERPT:
+Acesse a Central de Ajuda StayCloud pelo Painel Novo e encontre tutoriais para solucionar dúvidas sobre sua conta e seus serviços.
+
+CATEGORIA:
+Painel novo
+
+TAGS:
+- Central de Ajuda
+- Painel Novo
+- Suporte
+- StayCloud
+- Base de Conhecimento
+
+QUANTIDADE DE PALAVRAS:
+743
+
+DENSIDADE ESTIMADA:
+7 ocorrências exatas de "Central de Ajuda StayCloud" em 743 palavras, aproximadamente 0,94%.
+
+H2 COM PALAVRA-CHAVE:
+Quando usar a Central de Ajuda StayCloud
+Como localizar a Central de Ajuda StayCloud
+Dúvidas frequentes sobre a Central de Ajuda StayCloud
+
+H3 COM VARIAÇÃO:
+2. Selecione Central de ajuda
+
+ALT COM PALAVRA-CHAVE:
+Menu Suporte destacado para acessar a Central de Ajuda StayCloud.
+Central de Ajuda StayCloud aberta com o campo de pesquisa de tutoriais destacado.
+
+LINKS INTERNOS:
+- Como abrir ticket no painel StayCloud: https://ajuda.staycloud.com.br/docs/abrir-ticket-no-painel-staycloud/
+- Acompanhar chamados StayCloud pelo painel: https://ajuda.staycloud.com.br/docs/acompanhar-chamados-staycloud/
+- Como encontrar as ferramentas no Painel StayCloud: https://ajuda.staycloud.com.br/docs/ferramentas-painel-staycloud/
+
+LINK EXTERNO OU EXCEÇÃO:
+Site oficial da StayCloud: https://staycloud.com/
+
+TÍTULO SOCIAL:
+Central de Ajuda StayCloud pelo Painel Novo
+
+DESCRIÇÃO SOCIAL:
+Veja como acessar a Central de Ajuda StayCloud, pesquisar tutoriais e encontrar orientações para sua conta e serviços.
+
+PENDÊNCIAS:
+Nenhuma pendência bloqueante.
+
+PUBLICAÇÃO:
+Documento BetterDocs publicado em 2026-07-27.
+ID: 2843
+URL: https://ajuda.staycloud.com.br/docs/central-de-ajuda-staycloud/
+
+OBSERVAÇÃO PÓS-PUBLICAÇÃO:
+Correção executada no mesmo documento ID 2843 em 2026-07-27.
+Score Rank Math antes da correção: 19/100.
+Score intermediário após keyword e snippet: 78/100.
+Score Rank Math final: 84/100.
+Chip da palavra-chave ativo: sim.
+Snippet público validado: title e meta description atualizados na página pública.
+Recomendações restantes não forçadas: Content AI e número no título SEO.

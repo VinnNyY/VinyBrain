@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark light" />
+    <title>Legacy Doc - Prova visual isolada</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Ir para o conteudo</a>
+    <header class="topbar">
+      <nav class="nav" aria-label="Principal">
+        <a class="brand" href="#top" aria-label="Legacy Doc">
+          <span class="brand-mark" aria-hidden="true">LD</span>
+          <span>Legacy Doc</span>
+        </a>
+        <div class="nav-links" aria-label="Secoes">
+          <a href="#workflow">Como funciona</a>
+          <a href="#report">Relatorio</a>
+          <a href="#next">Proxima etapa</a>
+        </div>
+        <a class="button button-small" href="#next">Entrar na lista</a>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section id="top" class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Produto em desenvolvimento</p>
+          <h1 id="hero-title">Documentacao tecnica gerada a partir do seu codigo</h1>
+          <p class="lead">
+            O Legacy Doc usa IA para analisar repositorios e bases de codigo,
+            identificar estruturas relevantes e gerar documentacao tecnica
+            organizada para apoiar manutencao, onboarding e evolucao de sistemas
+            legados ou pouco documentados.
+          </p>
+          <div class="actions" aria-label="Acoes principais">
+            <a class="button" href="#next">Entrar na lista de interesse</a>
+            <a class="button button-secondary" href="#workflow">Ver como funciona</a>
+          </div>
+          <p class="microcopy">
+            A documentacao gerada deve ser revisada pela equipe tecnica.
+          </p>
+        </div>
+
+        <div
+          class="product-frame"
+          role="img"
+          aria-label="Mockup conceitual do Legacy Doc analisando arquivos de codigo e gerando documentacao tecnica"
+        >
+          <div class="window-bar" aria-hidden="true">
+            <span></span><span></span><span></span>
+            <div class="address">/legacy-doc/report-preview</div>
+          </div>
+          <div class="mockup-grid">
+            <aside class="repo-tree" aria-hidden="true">
+              <p class="panel-label">Repository</p>
+              <ul>
+                <li class="active">src/auth</li>
+                <li>billing</li>
+                <li>legacy-api</li>
+                <li>jobs/sync</li>
+                <li>database</li>
+              </ul>
+            </aside>
+            <section class="analysis-panel" aria-hidden="true">
+              <div class="panel-head">
+                <p class="panel-label">Analysis</p>
+                <span class="badge">Scanning</span>
+              </div>
+              <div class="scan-card">
+                <div class="scan-line"></div>
+                <code>InvoiceService.process()</code>
+                <p>Dependency chain identified</p>
+              </div>
+              <div class="function-list">
+                <span>validateUser()</span>
+                <span>syncInvoice()</span>
+                <span>retryPayment()</span>
+              </div>
+              <div class="mini-graph">
+                <span>auth</span>
+                <i></i>
+                <span>billing</span>
+                <i></i>
+                <span>report</span>
+              </div>
+            </section>
+            <section class="report-panel" aria-hidden="true">
+              <div class="panel-head">
+                <p class="panel-label">Generated report</p>
+                <span class="badge badge-ready">Review</span>
+              </div>
+              <h2>Billing module</h2>
+              <p>
+                Handles invoice lifecycle, retry jobs and status synchronization.
+              </p>
+              <div class="finding">
+                <strong>Pending context</strong>
+                <span>Business rule not present in code comments.</span>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+
+      <section id="workflow" class="workflow" aria-labelledby="workflow-title">
+        <div class="section-head">
+          <p class="eyebrow">Visual narrative</p>
+          <h2 id="workflow-title">De codigo disperso a documentacao revisavel</h2>
+          <p>
+            A prova visual usa uma sequencia simples: localizar arquivos,
+            mapear relacoes, organizar achados e apresentar um relatorio para
+            revisao.
+          </p>
+        </div>
+        <div class="steps" aria-label="Etapas do fluxo visual">
+          <article>
+            <span>01</span>
+            <h3>Entrada</h3>
+            <p>Repositorio ou base de codigo selecionada para analise.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Analise</h3>
+            <p>Arquivos, funcoes e relacoes aparecem como achados tecnicos.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Estrutura</h3>
+            <p>O sistema agrupa modulos, fluxos e pontos de atencao.</p>
+          </article>
+          <article>
+            <span>04</span>
+            <h3>Relatorio</h3>
+            <p>A saida vira uma primeira documentacao para revisao humana.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="report" class="report-showcase" aria-labelledby="report-title">
+        <div class="section-head">
+          <p class="eyebrow">Secao de alto destaque</p>
+          <h2 id="report-title">Documentacao tecnica pronta para revisao</h2>
+          <p>
+            O relatorio deve parecer um entregavel operacional: organizado,
+            legivel, rastreavel e honesto sobre lacunas de contexto.
+          </p>
+        </div>
+
+        <div class="report-document">
+          <nav class="report-index" aria-label="Indice do relatorio demonstrativo">
+            <a href="#summary">Visao geral</a>
+            <a href="#modules">Modulos</a>
+            <a href="#risks">Pontos de atencao</a>
+            <a href="#evidence">Evidencias</a>
+          </nav>
+
+          <article class="report-content">
+            <div class="report-header">
+              <div>
+                <p class="panel-label">Legacy billing system</p>
+                <h3 id="summary">Visao geral do sistema</h3>
+              </div>
+              <span class="badge badge-ready">Ready for review</span>
+            </div>
+            <p>
+              Base demonstrativa com modulo de cobranca, filas de sincronizacao
+              e integracao com API legada. O conteudo abaixo e uma amostra visual,
+              nao um relatorio real validado.
+            </p>
+
+            <div class="report-grid">
+              <div class="report-card" id="modules">
+                <span class="metric">5</span>
+                <strong>Modulos mapeados</strong>
+                <p>auth, billing, legacy-api, sync jobs e database.</p>
+              </div>
+              <div class="report-card" id="risks">
+                <span class="metric warning">3</span>
+                <strong>Pontos de atencao</strong>
+                <p>Regras implicitas, retries e dependencias antigas.</p>
+              </div>
+            </div>
+
+            <div class="evidence-block" id="evidence">
+              <div class="code-header">
+                <span>src/billing/InvoiceService.ts</span>
+                <span class="badge">Evidence</span>
+              </div>
+              <pre><code>function processInvoice(invoice) {
+  validateAccount(invoice.accountId)
+  syncLegacyStatus(invoice.id)
+  scheduleRetry(invoice.id)
+}</code></pre>
+              <p>
+                Evidencia visual: o bloco conecta uma funcao identificada a um
+                insight do relatorio. Na landing final, isso deve usar material
+                real ou demonstrativo aprovado.
+              </p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section id="next" class="final-note" aria-labelledby="next-title">
+        <h2 id="next-title">Prototipo isolado</h2>
+        <p>
+          Este arquivo valida direcao visual, densidade, relatorio e motion leve.
+          Nao representa a landing completa nem confirma funcionalidades.
+        </p>
+      </section>
+    </main>
+  </body>
+</html>

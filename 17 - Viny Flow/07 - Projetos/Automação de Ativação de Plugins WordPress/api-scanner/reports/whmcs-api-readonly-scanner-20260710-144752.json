@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "generated_at": "20260710-144752",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "whmcs_api",
+    "redact_emails": false,
+    "gettickets_request": {
+      "params": {
+        "limitstart": 0,
+        "limitnum": 50,
+        "status": "Awaiting Reply"
+      },
+      "totalresults": 5
+    }
+  },
+  "summary": {
+    "listed": 5,
+    "returned": 5,
+    "active_analyzed": 5,
+    "opened": 1,
+    "pending_activation": 1,
+    "needs_review": 0,
+    "ignored": 4,
+    "historical_returned": 0
+  },
+  "tickets": [
+    {
+      "ticket_id": "15745",
+      "ticket_num": "QEY-565588",
+      "subject": "Solicitação de ativação de plugin(s): Elementor PRO, WP Rocket",
+      "subject_final": "#QEY-565588 - Solicitação de ativação de plugin(s): Elementor PRO, WP Rocket",
+      "status": "Open",
+      "department": "Suporte Técnico",
+      "plugins_detectados": [
+        "Elementor Pro",
+        "WP Rocket"
+      ],
+      "domain_detected": "providafisio.com.br",
+      "customer_authorization": "sim",
+      "completion_signal": false,
+      "missing_information": [],
+      "preflight_classification": "PRONTO PARA PRÉ-VALIDAÇÃO",
+      "next_action": "Validar cliente, serviço ativo, conta cPanel e instalação WordPress antes de qualquer ativação.",
+      "plugin": "Elementor Pro",
+      "plugin_slug": "elementor-pro",
+      "domain": "providafisio.com.br",
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "pending_activation",
+      "classification": "PRONTO PARA APROVAÇÃO",
+      "priority": "fila_ativacao",
+      "classification_reason": "pedido claro de ativação de plugin com plugin conhecido",
+      "score": 90,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "domain_detected",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "fields_used": {
+        "ticket_id": "id",
+        "ticket_num": "tid",
+        "subject": "subject",
+        "department": "deptname",
+        "status": "status",
+        "customer_email": "email",
+        "created_at": "date"
+      },
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail",
+      "debug_fields": {
+        "campos_encontrados_no_resumo": [
+          "admin",
+          "attachment",
+          "attachments",
+          "attachments_removed",
+          "c",
+          "cc",
+          "contactid",
+          "date",
+          "deptid",
+          "deptname",
+          "email",
+          "flag",
+          "id",
+          "lastreply",
+          "name",
+          "notes",
+          "owner_name",
+          "priority",
+          "replies",
+          "requestor_email",
+          "requestor_name",
+          "requestor_type",
+          "result",
+          "service",
+          "status",
+          "subject",
+          "ticketid",
+          "tid",
+          "userid"
+        ],
+        "raw_subject_fields": {
+          "subject": "Solicitação de ativação de plugin(s): Elementor PRO, WP Rocket",
+          "name": "Eduardo F."
+        },
+        "campo_subject_escolhido": "subject",
+        "keywords_encontradas": [
+          "ativacao",
+          "ativação",
+          "plugin",
+          "ativacao",
+          "ativação",
+          "solicitacao de ativacao",
+          "solicitação de ativação",
+          "plugin",
+          "plugin(s)"
+        ],
+        "plugins_encontrados": [
+          "Elementor Pro",
+          "WP Rocket"
+        ],
+        "motivo": "pedido claro de ativação de plugin com plugin conhecido",
+        "ignorado": false
+      }
+    }
+  ]
+}

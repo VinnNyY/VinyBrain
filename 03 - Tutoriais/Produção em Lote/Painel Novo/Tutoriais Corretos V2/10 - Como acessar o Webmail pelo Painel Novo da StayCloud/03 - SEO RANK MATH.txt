@@ -1,0 +1,50 @@
+Palavra-chave principal:
+Webmail StayCloud
+
+Palavra-chave secundária:
+Webmail StayCloud Painel Novo
+
+Título SEO:
+Webmail StayCloud: acessar pelo Painel Novo em 4 passos
+
+Slug:
+webmail-staycloud-painel-novo
+
+Meta description:
+Aprenda a acessar o Webmail StayCloud pelo Painel Novo, localizar a conta correta e abrir a caixa de e-mail pelo navegador com segurança.
+
+Categoria:
+Painel novo
+
+Tags:
+E-mail, Webmail, Painel Novo, StayCloud
+
+Resumo:
+Acesse o Webmail StayCloud pelo Painel Novo, localize a conta correta e abra a caixa pelo navegador sem alterar configurações.
+
+Social:
+Título: Como acessar o Webmail pelo Painel Novo
+Descrição: Veja como localizar a conta de e-mail no Painel Novo e abrir o Webmail StayCloud com segurança.
+
+ALT principal:
+Botão Abrir Webmail para acessar o Webmail StayCloud pelo Painel Novo.
+
+Links internos confirmados:
+- https://ajuda.staycloud.com.br/docs/alterar-senha-de-e-mail/
+- https://ajuda.staycloud.com.br/docs/como-criar-email-no-painel-novo/
+
+Link externo confirmado:
+- https://roundcube.net/
+
+Checklist Rank Math planejado:
+- Palavra-chave no título SEO: sim
+- Palavra-chave no slug: sim
+- Palavra-chave na meta description: sim
+- Palavra-chave no primeiro parágrafo: sim
+- Palavra-chave nas primeiras 100 palavras: sim
+- Palavra-chave no corpo: sim
+- Palavra-chave em H2/H3: sim
+- Palavra-chave em ALT: sim
+- Dois links internos: sim
+- Conteúdo acima de 600 palavras: sim
+- Status: SEO preparado localmente — aguardando conferência no Rank Math

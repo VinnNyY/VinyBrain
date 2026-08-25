@@ -1,0 +1,57 @@
+{
+  "modo": "lote_simples",
+  "tarefas": [
+    {
+      "nome": "Revisar prints do tutorial de acesso ao cPanel",
+      "descricao": "Registro rápido criado a partir do Viny Brain.",
+      "responsavel": "A definir",
+      "prioridade": "Média",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": ["viny-brain", "captura-rapida"],
+      "checklist": ["Revisar", "Executar ajuste se necessário", "Marcar como concluído"],
+      "criterio_conclusao": "Item revisado e marcado como concluído.",
+      "origem": "Viny Brain",
+      "observacoes_internas": "Demanda simples capturada em lote."
+    },
+    {
+      "nome": "Conferir tutorial de faturas no painel novo",
+      "descricao": "Registro rápido criado a partir do Viny Brain.",
+      "responsavel": "A definir",
+      "prioridade": "Média",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": ["viny-brain", "captura-rapida"],
+      "checklist": ["Revisar", "Executar ajuste se necessário", "Marcar como concluído"],
+      "criterio_conclusao": "Item revisado e marcado como concluído.",
+      "origem": "Viny Brain",
+      "observacoes_internas": "Demanda simples capturada em lote."
+    },
+    {
+      "nome": "Ajustar checklist final antes do WordPress",
+      "descricao": "Registro rápido criado a partir do Viny Brain.",
+      "responsavel": "A definir",
+      "prioridade": "Média",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": ["viny-brain", "captura-rapida"],
+      "checklist": ["Revisar", "Executar ajuste se necessário", "Marcar como concluído"],
+      "criterio_conclusao": "Item revisado e marcado como concluído.",
+      "origem": "Viny Brain",
+      "observacoes_internas": "Demanda simples capturada em lote."
+    },
+    {
+      "nome": "Revisar base de playbooks de e-mail",
+      "descricao": "Registro rápido criado a partir do Viny Brain.",
+      "responsavel": "A definir",
+      "prioridade": "Média",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": ["viny-brain", "captura-rapida"],
+      "checklist": ["Revisar", "Executar ajuste se necessário", "Marcar como concluído"],
+      "criterio_conclusao": "Item revisado e marcado como concluído.",
+      "origem": "Viny Brain",
+      "observacoes_internas": "Demanda simples capturada em lote."
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+# Projeto
+
+Encontrou um bug?
+Nos reporte aqui
+.
+build 9c3a12f · 05.2026
+staycloud
+[dado censurado]
+Buscar site, domínio, fatura ou chamado...
+⌘ K
+dark
+Cloud
+deploy de git
+CLOUD
+Visão geral
+Deployments
+Logs
+Domínios
+Integrações
+Plano
+edge global · São Paulo + CDN StayCloud
+
+~/cloud
+
+~/CLOUD
+
+Cloud
+
+Deploy de Git em produção. Build em São Paulo, edge global via CDN da StayCloud.
+
+Reportar bug
+atualizar
+Conectar GitHub
+Novo projeto
+Como fazer seu primeiro deploy
+O passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel.
+Assistir
+PROJETOS
+2
+ativos
+NO AR
+2
+servindo tráfego
+BUILDANDO
+0
+em fila ou rodando
+DEPLOYS · 30D
+4
+últimos 30 dias
+
+01
+PROJETOS
+
+Seus projetos
+Todos
+2
+No ar
+2
+Build
+0
+Falha
+0
+tutorial-deploy-cli-teste
+HTML estático ·
+main · - · -
+pronto
+há 3 dias
+domínio
+tutorial[dominio censurado]/
+Abrir
+tutorial-deploy-teste
+HTML estático ·
+main · - · -
+pronto
+há 5 dias
+domínio
+[dominio censurado]/
+Abrir
+
+
+# Area de dominios
+
+Encontrou um bug?
+Nos reporte aqui
+.
+build 9c3a12f · 05.2026
+staycloud
+[dado censurado]
+Buscar site, domínio, fatura ou chamado...
+⌘ K
+dark
+Cloud
+deploy de git
+CLOUD
+Visão geral
+Deployments
+Logs
+Domínios
+Integrações
+Plano
+edge global · São Paulo + CDN StayCloud
+
+~/CLOUD
+›
+domínios
+
+~/CLOUD/DOMINIOS
+
+Domínios
+
+Todos os domínios próprios conectados aos seus projetos. SSL automático via CDN global da StayCloud.
+
+sincronizar tudo
+Adicionar domínio
+TOTAL
+0
+domínios
+ATIVOS
+0
+SSL ok
+PENDENTES
+0
+aguardando
+ERRO
+0
+requer atenção
+SSL automático via CDN global
+ Aponte um CNAME para [dominio censurado] 
+ e o certificado é emitido em até 2 minutos.
+ver documentação
+todos projetos
+0
+
+Nenhum domínio cadastrado.
+
+Domínios · Cloud · StayCloud
+
+
+# Fluxo adicionar dominio
+
+Encontrou um bug?
+Nos reporte aqui
+.
+build 9c3a12f · 05.2026
+staycloud
+[dado censurado]
+Buscar site, domínio, fatura ou chamado...
+⌘ K
+dark
+Cloud
+deploy de git
+CLOUD
+Visão geral
+Deployments
+Logs
+Domínios
+Integrações
+Plano
+edge global · São Paulo + CDN StayCloud
+
+~/CLOUD
+›
+domínios
+
+~/CLOUD/DOMINIOS
+
+Domínios
+
+Todos os domínios próprios conectados aos seus projetos. SSL automático via CDN global da StayCloud.
+
+sincronizar tudo
+Adicionar domínio
+TOTAL
+0
+domínios
+ATIVOS
+0
+SSL ok
+PENDENTES
+0
+aguardando
+ERRO
+0
+requer atenção
+SSL automático via CDN global
+ Aponte um CNAME para [dominio censurado] 
+ e o certificado é emitido em até 2 minutos.
+ver documentação
+todos projetos
+0
+
+Nenhum domínio cadastrado.
+
+DOMÍNIOS
+
+Adicionar domínio
+
+Adicione o domínio à sua conta. Depois você pode vincular a qualquer projeto publicado.
+
+Domínio
+
+Sem protocolo, sem path. Apenas o nome do domínio.
+
+Cancelar
+Adicionar
+Domínios · Cloud · StayCloud
+
+
+# Depois de digitar exemplos sem salvar
+
+Encontrou um bug?
+Nos reporte aqui
+.
+build 9c3a12f · 05.2026
+staycloud
+[dado censurado]
+Buscar site, domínio, fatura ou chamado...
+⌘ K
+dark
+Cloud
+deploy de git
+CLOUD
+Visão geral
+Deployments
+Logs
+Domínios
+Integrações
+Plano
+edge global · São Paulo + CDN StayCloud
+
+~/CLOUD
+›
+domínios
+
+~/CLOUD/DOMINIOS
+
+Domínios
+
+Todos os domínios próprios conectados aos seus projetos. SSL automático via CDN global da StayCloud.
+
+sincronizar tudo
+Adicionar domínio
+TOTAL
+0
+domínios
+ATIVOS
+0
+SSL ok
+PENDENTES
+0
+aguardando
+ERRO
+0
+requer atenção
+SSL automático via CDN global
+ Aponte um CNAME para [dominio censurado] 
+ e o certificado é emitido em até 2 minutos.
+ver documentação
+todos projetos
+0
+
+Nenhum domínio cadastrado.
+
+DOMÍNIOS
+
+Adicionar domínio
+
+Adicione o domínio à sua conta. Depois você pode vincular a qualquer projeto publicado.
+
+Domínio
+
+Sem protocolo, sem path. Apenas o nome do domínio.
+
+Cancelar
+Adicionar
+Domínios · Cloud · StayCloud

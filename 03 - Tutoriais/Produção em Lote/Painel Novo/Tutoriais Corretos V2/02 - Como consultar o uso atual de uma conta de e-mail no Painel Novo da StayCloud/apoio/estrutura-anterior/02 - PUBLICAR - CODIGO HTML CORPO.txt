@@ -1,0 +1,39 @@
+<p>O Painel Novo da StayCloud mostra quanto espaço uma conta de e-mail utiliza e qual é a cota disponível. Este tutorial orienta apenas a consulta.</p>
+<h2>Quando usar</h2>
+<p>Use este caminho para verificar o uso de e-mail no Painel Novo ou confirmar o espaço disponível antes de pedir ajuda.</p>
+<h2>Antes de começar</h2>
+<ul>
+  <li>Entre no Painel Novo da StayCloud.</li>
+  <li>Identifique a hospedagem que contém a conta de e-mail.</li>
+  <li>Não altere a senha, a cota, a conta ou os encaminhamentos.</li>
+</ul>
+<h2>Passo a passo</h2>
+<h3>1. Acesse o serviço correto</h3>
+<p>No menu lateral, clique em <strong>Hospedagem</strong>. Selecione o serviço que contém a conta de e-mail que você deseja consultar.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/consultar-uso-email-painel-novo-staycloud-01-sanitizado-2.png" width="1440" height="1100" alt="Tela do Painel Novo da StayCloud mostrando a hospedagem selecionada para consultar uma conta de e-mail.">
+  <figcaption>Escolha a hospedagem que contém a conta de e-mail.</figcaption>
+</figure>
+<h3>2. Abra a área de e-mails</h3>
+<p>Na página da hospedagem, clique em <strong>E-mails</strong>. A tela apresenta as contas configuradas nesse serviço.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/consultar-uso-email-painel-novo-staycloud-02-sanitizado-1.png" width="1435" height="1096" alt="Tela do Painel Novo da StayCloud destacando a área de contas de e-mail.">
+  <figcaption>Abra E-mails para consultar as contas da hospedagem.</figcaption>
+</figure>
+<h3>3. Consulte o uso e a cota</h3>
+<p>Em <strong>Caixas de e-mail</strong>, localize a conta desejada. Confira o espaço usado e a cota exibidos na linha da conta.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/consultar-uso-email-painel-novo-staycloud-03-sanitizado-1.png" width="1416" height="1111" alt="Tela do Painel Novo da StayCloud destacando o uso atual e a cota da conta de e-mail.">
+  <figcaption>Consulte o uso atual e a cota sem alterar a conta.</figcaption>
+</figure>
+<h2>Erros comuns</h2>
+<ul>
+  <li>Abrir uma hospedagem diferente daquela que contém a conta.</li>
+  <li>Procurar o endereço de e-mail em outro domínio.</li>
+  <li>Confundir o uso atual com a cota total da conta.</li>
+  <li>Tentar alterar a cota durante uma consulta.</li>
+</ul>
+<h2>Quando abrir um chamado</h2>
+<p>Abra um chamado se a conta não aparecer, a área <strong>E-mails</strong> estiver indisponível ou o uso exibido parecer incorreto. Não envie senhas nem outros dados de acesso.</p>
+<h2>Conclusão</h2>
+<p>Você pode consultar o uso atual e a cota de uma conta de e-mail pelo Painel Novo da StayCloud sem alterar configurações.</p>

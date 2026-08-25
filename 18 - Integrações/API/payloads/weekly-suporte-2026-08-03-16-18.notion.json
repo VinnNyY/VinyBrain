@@ -1,0 +1,66 @@
+{
+  "titulo": "Weekly - Suporte - 2026-08-03 - 16:18",
+  "data": "2026-08-03",
+  "participantes": [
+    "Participante principal não identificado",
+    "Gabriel",
+    "Alves",
+    "Fael/Rafael",
+    "Matheus"
+  ],
+  "contexto": "Weekly de suporte sobre WHMCS Finder, escalada por níveis, Slack, escala de WhatsApp e KPIs.",
+  "resumo_executivo": "A reunião formalizou mudanças no processo de suporte, incluindo uso do WHMCS Finder, identificação por e-mail, escalada documentada, comunicação interna pelo Slack, escala de grupos de WhatsApp e acompanhamento por KPIs.",
+  "pontos_discutidos": [
+    "WHMCS Finder integrado ao Zendesk.",
+    "Substituição do PIN pelo e-mail como identificador principal.",
+    "Fluxo de suporte por N1, N2 e N3.",
+    "Campos obrigatórios para escalada de tickets.",
+    "Regras para devolver tickets à fila antes de sair ou pausar.",
+    "Uso do Slack para repasses internos.",
+    "Escala semanal para grupos de WhatsApp de clientes.",
+    "KPIs por nível e regra de 3 de 4 indicadores."
+  ],
+  "decisoes": [
+    "Usar WHMCS Finder no Zendesk.",
+    "Usar e-mail como identificador principal do cliente.",
+    "Escalar tickets com investigação documentada.",
+    "Não deixar tickets presos na fila individual ao encerrar dia ou pausa.",
+    "Usar Slack para repasses operacionais internos.",
+    "Adotar escala semanal para acompanhamento dos grupos de WhatsApp.",
+    "Validar metas mensais com pelo menos 3 de 4 KPIs."
+  ],
+  "pendencias": [
+    {
+      "descricao": "Confirmar nome do apresentador principal.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    },
+    {
+      "descricao": "Confirmar se Fael e Rafael são a mesma pessoa no contexto da escala.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    },
+    {
+      "descricao": "Confirmar KPIs em fonte escrita.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    },
+    {
+      "descricao": "Confirmar prazo de início obrigatório do novo fluxo.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    }
+  ],
+  "proximos_passos": [
+    "Enviar apresentação da Weekly.",
+    "Aceitar convites do dashboard.",
+    "Aplicar padrão de escalada documentada.",
+    "Monitorar grupos de WhatsApp conforme escala.",
+    "Levar dúvidas para o Slack."
+  ],
+  "links_relacionados": [
+    "19 - Reuniões/02 - Reuniões Formatadas/Weeklies/Weekly - Suporte - 2026-08-03 - 16-18.md",
+    "19 - Reuniões/03 - PDFs/Weeklies/Weekly - Suporte - 2026-08-03 - 16-18.pdf"
+  ],
+  "status": "Preparado para revisão manual"
+}

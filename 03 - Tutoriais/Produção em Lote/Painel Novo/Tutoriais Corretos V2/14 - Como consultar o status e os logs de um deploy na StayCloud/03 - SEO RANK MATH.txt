@@ -1,0 +1,59 @@
+Título nativo BetterDocs sugerido:
+LOGS DO DEPLOY STAYCLOUD
+
+Título do artigo:
+Como consultar os logs do Deploy StayCloud e acompanhar o status
+
+Palavra-chave principal:
+logs do Deploy StayCloud
+
+Título SEO:
+Logs do Deploy StayCloud: consulte em 5 passos
+
+Slug:
+logs-do-deploy-staycloud
+
+Meta description:
+Veja como consultar os logs do Deploy StayCloud, acompanhar o status da publicação e identificar se sua aplicação foi concluída ou apresentou erro.
+
+Excerpt:
+Aprenda a consultar o status e os logs do Deploy StayCloud, abrir o histórico de publicações e identificar sinais de sucesso ou falha no build.
+
+Categoria:
+Painel novo
+
+Tags:
+Deploy
+Logs
+Status
+Aplicações
+Desenvolvimento
+StayCloud
+
+Links internos validados:
+https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/
+https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/
+https://ajuda.staycloud.com.br/docs/cli-deploy-staycloud/
+
+ALT principal:
+Aplicação correta para consultar os logs do Deploy StayCloud
+
+Social title:
+Logs do Deploy StayCloud: consulte em 5 passos
+
+Social description:
+Veja onde acompanhar o status do deploy, abrir o histórico de publicações e consultar logs de build no Painel Novo.
+
+Gate Rank Math preparado:
+- Palavra-chave no título SEO: sim.
+- Palavra-chave no slug: sim.
+- Palavra-chave na meta description: sim.
+- Palavra-chave no primeiro parágrafo: sim.
+- Palavra-chave nas primeiras 100 palavras: sim.
+- Palavra-chave no corpo: sim.
+- Palavra-chave em H2: sim.
+- Variação em H3: sim.
+- Palavra-chave em ALT: sim.
+- Links internos reais: 3.
+- Imagens com ALT: 6.
+- Score real publicado: 80/100.

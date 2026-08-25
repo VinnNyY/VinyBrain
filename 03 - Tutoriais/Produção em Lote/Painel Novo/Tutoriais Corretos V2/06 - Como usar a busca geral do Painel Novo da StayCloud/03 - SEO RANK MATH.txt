@@ -1,0 +1,46 @@
+# SEO Rank Math
+
+- Título do tutorial: Como usar a busca geral do Painel Novo da StayCloud
+- Categoria BetterDocs: Painel novo
+- Tags: Painel Novo, Busca, Conta, StayCloud
+- Palavra-chave principal: busca do Painel Novo StayCloud
+- Título SEO: Busca do Painel Novo StayCloud: use em 3 passos
+- Slug: busca-do-painel-novo-staycloud
+- Meta description: Aprenda a usar a busca do Painel Novo StayCloud para localizar sites, domínios, faturas e chamados com rapidez, segurança e organização no painel.
+- Resumo: Use a busca do Painel Novo StayCloud para localizar sites, domínios, faturas ou chamados e abrir o resultado correto com segurança.
+- Título social: Busca do Painel Novo StayCloud
+- Descrição social: Veja como usar a busca do Painel Novo StayCloud para encontrar sites, domínios, faturas e chamados de forma rápida.
+
+## Gate obrigatório antes de publicar
+
+1. Abrir o Rank Math.
+2. Inserir a palavra-chave principal.
+3. Pressionar Enter.
+4. Confirmar que a palavra-chave virou chip ativo.
+5. Preencher título SEO, slug e meta description.
+6. Preencher resumo.
+7. Preencher social, se disponível.
+8. Selecionar a categoria Painel novo.
+9. Salvar como rascunho.
+10. Aguardar o Rank Math recalcular.
+11. Corrigir pendências reais até score mínimo 80/100.
+12. Publicar somente depois do gate aprovado.
+
+## ALT texts
+
+- 01-barra-busca-geral-sanitizado.png: Busca do Painel Novo StayCloud destacada no topo da tela inicial
+- 02-resultados-busca-geral-sanitizado.png: Resultados exibidos pela busca do Painel Novo StayCloud após digitar um termo
+- 03-resultado-correto-busca-sanitizado.png: Resultado correto destacado na busca do Painel Novo StayCloud
+
+## Links internos usados
+
+- https://ajuda.staycloud.com.br/docs/consultar-faturas-staycloud/
+- https://ajuda.staycloud.com.br/docs/acompanhar-chamados-staycloud/
+
+## Status
+
+- Score Rank Math real: 85/100.
+- Publicação: concluída em 2026-07-27.
+- ID BetterDocs: 2852.
+- URL pública: https://ajuda.staycloud.com.br/docs/busca-do-painel-novo-staycloud/
+- Observação: o conteúdo publicado usa URLs públicas das imagens e passou no Gate Rank Math.

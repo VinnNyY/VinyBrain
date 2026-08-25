@@ -1,0 +1,1 @@
+<!-- BLOQUEADO: não colar no WordPress. A refatoração depende de validação real no Painel Novo e prints sanitizados. -->

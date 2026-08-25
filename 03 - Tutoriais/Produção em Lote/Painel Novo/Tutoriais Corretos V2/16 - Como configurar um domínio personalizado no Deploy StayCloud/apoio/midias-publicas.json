@@ -1,0 +1,37 @@
+[
+  {
+    "file": "01-aplicacao-correta-sanitizado.png",
+    "id": 2957,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/01-aplicacao-correta-sanitizado.png",
+    "alt": "Aplicação correta para domínio personalizado Deploy StayCloud",
+    "title": "Aplicação correta no Cloud"
+  },
+  {
+    "file": "02-area-dominio-sanitizado.png",
+    "id": 2958,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/02-area-dominio-sanitizado.png",
+    "alt": "Área Domínios para domínio personalizado Deploy StayCloud",
+    "title": "Área Domínios no Cloud"
+  },
+  {
+    "file": "03-adicionar-dominio-sanitizado.png",
+    "id": 2959,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/03-adicionar-dominio-sanitizado.png",
+    "alt": "Campo para adicionar domínio personalizado Deploy StayCloud",
+    "title": "Campo para adicionar domínio"
+  },
+  {
+    "file": "04-instrucoes-dns-sanitizado.png",
+    "id": 2960,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/04-instrucoes-dns-sanitizado.png",
+    "alt": "Registro CNAME para domínio personalizado Deploy StayCloud",
+    "title": "Registro CNAME solicitado"
+  },
+  {
+    "file": "06-validacao-sanitizado.png",
+    "id": 2961,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/06-validacao-sanitizado.png",
+    "alt": "Status de validação do domínio personalizado Deploy StayCloud",
+    "title": "Status de validação do domínio"
+  }
+]

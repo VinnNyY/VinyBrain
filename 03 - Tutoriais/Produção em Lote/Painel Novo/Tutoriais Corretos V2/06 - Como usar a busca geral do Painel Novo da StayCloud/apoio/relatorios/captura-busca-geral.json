@@ -1,0 +1,23 @@
+{
+  "captured_at": "2026-07-27",
+  "status": "concluido",
+  "observations": [
+    "Barra superior identificada com o texto \"Buscar site, domínio, fatura ou chamado...\".",
+    "A busca abre um modal central.",
+    "A pesquisa pelo termo \"site\" exibiu resultados relacionados.",
+    "O primeiro resultado validado foi \"Meus sites\", com a descrição \"Lista de hospedagens ativas\".",
+    "Nenhuma ação foi executada dentro dos resultados."
+  ],
+  "prints": [
+    "prints-finais/01-barra-busca-geral-sanitizado.png",
+    "prints-finais/02-resultados-busca-geral-sanitizado.png",
+    "prints-finais/03-resultado-correto-busca-sanitizado.png"
+  ],
+  "security": {
+    "credentials_recorded": false,
+    "cookies_recorded": false,
+    "tokens_recorded": false,
+    "session_data_recorded": false,
+    "sensitive_visual_data_sanitized": true
+  }
+}

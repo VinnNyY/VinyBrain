@@ -1,0 +1,15 @@
+{
+  "data": "2026-07-27",
+  "acoes": "consulta e navegacao sem ativar cloud ou iniciar deploy",
+  "confirmado": [
+    "Menu Deploy existe",
+    "URL /dashboard/cloud abre Cloud",
+    "Abas Visão geral, Deployments, Logs, Domínios, Integrações e Plano aparecem",
+    "Conta mostra Cloud ainda não ativo"
+  ],
+  "negado": [
+    "nenhum deploy iniciado",
+    "nenhum projeto criado",
+    "nenhuma ativação executada"
+  ]
+}

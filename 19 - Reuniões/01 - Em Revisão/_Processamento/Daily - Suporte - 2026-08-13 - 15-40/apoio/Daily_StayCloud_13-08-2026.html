@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Relatório de Daily — Equipe de Suporte — 13/08/2026</title>
+<style>
+  /* As margens são definidas pelo Playwright em gerar_pdf_daily.py.
+     Declarar margin aqui sobrescreve as do gerador e cola o conteúdo na borda. */
+  @page { size: letter; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Liberation Sans", Arial, Helvetica, sans-serif;
+    font-size: 8.1pt;
+    line-height: 1.21;
+    color: #1a1a1a;
+  }
+
+  /* o título do molde é recuado em relação ao corpo do texto */
+  h1 {
+    font-size: 13.5pt;
+    font-weight: bold;
+    margin: 0 0 2pt 29pt;
+    letter-spacing: 0.2pt;
+  }
+
+  .data-extenso {
+    text-align: center;
+    font-size: 9.5pt;
+    margin: 0 0 9pt 0;
+  }
+
+  /* grade de metadados 3 x 2 */
+  table.meta {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 11pt;
+    background: #f4f4f4;
+  }
+  table.meta td {
+    padding: 3.2pt 8pt;
+    font-size: 8pt;
+    width: 33.33%;
+    vertical-align: top;
+  }
+  table.meta .rot { font-weight: bold; }
+
+  h2 {
+    font-size: 9.6pt;
+    font-weight: bold;
+    margin: 7.5pt 0 3pt 0;
+  }
+
+  p.corrido { margin: 0 0 6pt 0; text-align: justify; }
+
+  ul { margin: 0 0 4.5pt 0; padding-left: 12pt; }
+  li { margin-bottom: 1.2pt; text-align: justify; }
+
+  table.dados {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 6pt;
+    font-size: 7.9pt;
+  }
+  table.dados th {
+    text-align: left;
+    font-weight: bold;
+    padding: 4pt 7pt;
+    border-bottom: 0.8pt solid #999;
+    vertical-align: bottom;
+  }
+  table.dados td {
+    padding: 2.3pt 7pt;
+    vertical-align: top;
+    border-bottom: 0.4pt solid #d8d8d8;
+  }
+  table.dados tr { page-break-inside: avoid; }
+
+  /* larguras */
+  .t-part th:nth-child(1), .t-part td:nth-child(1) { width: 20%; }
+  .t-part th:nth-child(2), .t-part td:nth-child(2) { width: 30%; }
+
+  .t-acao th:nth-child(1), .t-acao td:nth-child(1) { width: 46%; }
+  .t-acao th:nth-child(2), .t-acao td:nth-child(2) { width: 17%; }
+  .t-acao th:nth-child(3), .t-acao td:nth-child(3) { width: 20%; }
+
+  .quebra { page-break-before: always; }
+
+  h3 {
+    font-size: 8.5pt;
+    font-weight: bold;
+    margin: 5pt 0 1.2pt 0;
+    page-break-after: avoid;
+  }
+
+  p.nota {
+    font-size: 8pt;
+    margin: 0 0 5pt 0;
+    text-align: justify;
+  }
+  p.confiabilidade {
+    font-size: 8pt;
+    margin: 3pt 0 0 0;
+    text-align: justify;
+  }
+  h2 + ul, h2 + p, h2 + table { page-break-before: avoid; }
+  h2 { page-break-after: avoid; }
+  .marcar { font-style: italic; }
+</style>
+</head>
+<body>
+
+<h1>RELATÓRIO DE DAILY - EQUIPE DE SUPORTE</h1>
+<p class="data-extenso">13 de agosto de 2026</p>
+
+<table class="meta">
+  <tr>
+    <td><span class="rot">Tipo:</span> Daily</td>
+    <td><span class="rot">Duração:</span> 3 min 31 s</td>
+    <td><span class="rot">Área:</span> Suporte</td>
+  </tr>
+  <tr>
+    <td><span class="rot">Objetivo:</span> Alinhamento operacional</td>
+    <td><span class="rot">Status:</span> Concluída</td>
+    <td><span class="rot">Público:</span> Coordenação</td>
+  </tr>
+</table>
+
+<h2>1. Resumo executivo</h2>
+<p class="corrido">A daily foi curta e concentrou-se no repasse de demandas individuais, sem incidentes ou bloqueios críticos reportados. Alves conduziu o alinhamento, repassou a Rafael a criação de playbook a partir de documento encaminhado por Naldo e conduziu a realocação de um ticket de e-mail durante a reunião. Rafael informou estar executando uma migração, assumiu um ticket de e-mail e segue construindo um prompt próprio para geração de playbooks. Gabryel manteve o foco na vinculação de VMs pendentes, com aproximadamente 25 registros restantes, e informou que não avançará no ticket de migração nesta semana. Matheus relatou cenário tranquilo, com atuação em chat.</p>
+
+<h2>2. Participantes e atuação</h2>
+<table class="dados t-part">
+  <tr>
+    <th>Participante</th>
+    <th>Atuação</th>
+    <th>Observação</th>
+  </tr>
+  <tr>
+    <td>Alves</td>
+    <td>Gestão operacional / suporte</td>
+    <td>Condução da daily, repasse da demanda de playbook e realocação de ticket de e-mail. Identificação feita por contexto: o áudio não nomeia o condutor <span class="marcar">[confirmar]</span>.</td>
+  </tr>
+  <tr>
+    <td>Rafael</td>
+    <td>Migração, tickets e playbooks</td>
+    <td>Migração em andamento, ticket de e-mail assumido e construção de prompt para geração de playbooks.</td>
+  </tr>
+  <tr>
+    <td>Gabryel</td>
+    <td>Demandas técnicas / infraestrutura</td>
+    <td>Vinculação de VMs pendentes, com cerca de 25 registros restantes. Ticket de migração sem avanço nesta semana.</td>
+  </tr>
+  <tr>
+    <td>Matheus</td>
+    <td>Chat</td>
+    <td>Cenário tranquilo, sem bloqueios reportados. Trecho da fala com baixa clareza no áudio <span class="marcar">[confirmar]</span>.</td>
+  </tr>
+</table>
+
+<h2>3. Atualizações da reunião</h2>
+<ul>
+  <li>Alves informou não ter novidades no próprio escopo e registrou que a única demanda adicional do dia é a criação de playbook, direcionada a Rafael.</li>
+  <li>A demanda de playbook tem origem em documento encaminhado por Naldo; Rafael confirmou que já havia iniciado a atividade.</li>
+  <li>Alves solicitou que Rafael reaja à mensagem correspondente ao iniciar a criação, de modo a manter a execução documentada.</li>
+  <li>Rafael informou estar executando uma migração no momento da reunião e confirmou ciência do ticket de migração atribuído a ele.</li>
+  <li>Rafael relatou ter assumido um ticket de e-mail e ter apoiado Gabryel, Danilo e Matheus mais cedo.</li>
+  <li>Rafael está construindo, em sua estação Windows, um prompt para geração de playbooks, complementar ao prompt de tutoriais que já possuía.</li>
+  <li>Gabryel informou cenário tranquilo e comunicou que não conseguirá avançar no ticket de migração nesta semana, em razão de pendência citada sem detalhamento <span class="marcar">[confirmar]</span>.</li>
+  <li>Gabryel estimou concluir o ticket na semana seguinte e apresentar seu funcionamento à equipe.</li>
+  <li>Gabryel está vinculando VMs que ainda não estavam vinculadas, restando aproximadamente 25 registros.</li>
+  <li>Alves verificou a fila e identificou um ticket de e-mail atribuído a Gabryel, conduzindo a realocação para quem já atuava no caso; o destinatário final não fica explícito no áudio <span class="marcar">[confirmar]</span>.</li>
+  <li>Matheus informou estar tranquilo, com atuação em chat e menção a maior autonomia nesse canal; o trecho apresenta baixa clareza no áudio.</li>
+  <li>Foi confirmada ausência prevista para o dia seguinte, atribuída a Gabryel pelo contexto da conversa <span class="marcar">[confirmar]</span>.</li>
+</ul>
+
+<h2>4. Decisões e alinhamentos</h2>
+<ul>
+  <li>Rafael dará continuidade à criação do playbook com base no documento encaminhado por Naldo.</li>
+  <li>Rafael deverá reagir à mensagem correspondente ao iniciar a criação, para deixar a execução registrada.</li>
+  <li>Gabryel manterá o foco na vinculação das VMs pendentes.</li>
+  <li>Gabryel apresentará o funcionamento do ticket de migração à equipe na semana seguinte.</li>
+  <li>O ticket de e-mail será transferido para o responsável que já estava atuando no caso.</li>
+  <li>A equipe deve acionar Alves diretamente caso surja necessidade de apoio.</li>
+</ul>
+
+<div class="quebra"></div>
+
+<h2>5. Plano de ação</h2>
+<table class="dados t-acao">
+  <tr>
+    <th>Ação</th>
+    <th>Responsável</th>
+    <th>Prazo</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Criar playbook a partir do documento encaminhado por Naldo.</td>
+    <td>Rafael</td>
+    <td>A definir</td>
+    <td>Em andamento</td>
+  </tr>
+  <tr>
+    <td>Registrar o início da criação do playbook por reação à mensagem.</td>
+    <td>Rafael</td>
+    <td>Ao iniciar</td>
+    <td>Pendente</td>
+  </tr>
+  <tr>
+    <td>Concluir a migração em andamento.</td>
+    <td>Rafael</td>
+    <td>A definir</td>
+    <td>Em andamento</td>
+  </tr>
+  <tr>
+    <td>Concluir o prompt para geração de playbooks.</td>
+    <td>Rafael</td>
+    <td>A definir</td>
+    <td>Em andamento</td>
+  </tr>
+  <tr>
+    <td>Concluir a vinculação das VMs pendentes, com cerca de 25 registros restantes.</td>
+    <td>Gabryel</td>
+    <td>A definir</td>
+    <td>Em andamento</td>
+  </tr>
+  <tr>
+    <td>Retomar e concluir o ticket de migração.</td>
+    <td>Gabryel</td>
+    <td>Semana de 17/08/2026</td>
+    <td>Pendente</td>
+  </tr>
+  <tr>
+    <td>Apresentar o funcionamento do ticket de migração à equipe.</td>
+    <td>Gabryel</td>
+    <td>Semana de 17/08/2026</td>
+    <td>Pendente</td>
+  </tr>
+  <tr>
+    <td>Transferir o ticket de e-mail ao responsável definido na reunião.</td>
+    <td>Alves</td>
+    <td>Imediato</td>
+    <td>Pendente</td>
+  </tr>
+  <tr>
+    <td>Sinalizar rapidamente aumento de volume ou impedimento.</td>
+    <td>Toda a equipe</td>
+    <td>Contínuo</td>
+    <td>Recorrente</td>
+  </tr>
+</table>
+
+<h2>6. Pontos de atenção para a coordenação</h2>
+<ul>
+  <li>O ticket de migração sob responsabilidade de Gabryel permanece sem avanço nesta semana por pendência não detalhada, o que posterga a apresentação à equipe.</li>
+  <li>A ausência prevista para o dia seguinte pode reduzir o ritmo da vinculação das VMs, que ainda soma cerca de 25 registros pendentes.</li>
+  <li>A criação do playbook depende de documento externo encaminhado por Naldo, cujo conteúdo não foi tratado na reunião.</li>
+  <li>A realocação do ticket de e-mail precisa de confirmação do responsável final, para evitar ticket sem dono definido.</li>
+  <li>O acompanhamento de Matheus segue como frente de desenvolvimento interno, com autonomia crescente observada no atendimento por chat.</li>
+</ul>
+
+<h2>ANEXO - Registro consolidado da daily</h2>
+<p class="nota">Observação: registro elaborado a partir de transcrição local do áudio da daily, gerada com faster-whisper no modelo large-v3-turbo, idioma português, sem envio a serviços externos. Não foi executada diarização; a atribuição de falas foi feita por contexto e ordem da conversa.</p>
+
+<h3>Atualização de Alves</h3>
+<ul>
+  <li>Sem novidades no próprio escopo.</li>
+  <li>Repassou a Rafael a demanda de criação de playbook, originada de documento de Naldo.</li>
+  <li>Verificou a fila de tickets e conduziu a realocação de um ticket de e-mail.</li>
+  <li>Colocou-se à disposição da equipe para apoio.</li>
+</ul>
+
+<h3>Atualização de Rafael</h3>
+<ul>
+  <li>Confirmou que a criação de playbook é uma de suas metas e que a atividade já estava iniciada.</li>
+  <li>Executando migração no momento da reunião e ciente do ticket correspondente.</li>
+  <li>Assumiu um ticket de e-mail.</li>
+  <li>Apoiou Gabryel, Danilo e Matheus mais cedo.</li>
+  <li>Construindo prompt para geração de playbooks, complementar ao de tutoriais.</li>
+</ul>
+
+<h3>Atualização de Gabryel</h3>
+<ul>
+  <li>Cenário tranquilo em relação ao volume de demandas.</li>
+  <li>Ticket de migração sem avanço nesta semana, por pendência não detalhada.</li>
+  <li>Conclusão e apresentação estimadas para a semana seguinte.</li>
+  <li>Vinculação de VMs em andamento, com cerca de 25 registros restantes.</li>
+  <li>Ausência prevista para o dia seguinte.</li>
+</ul>
+
+<h3>Atualização de Matheus</h3>
+<ul>
+  <li>Cenário tranquilo, sem bloqueios reportados.</li>
+  <li>Atuação em chat, com menção a maior autonomia no canal.</li>
+  <li>Trecho com baixa clareza no áudio; registrada apenas a parte compreensível.</li>
+</ul>
+
+<h3>Encerramento</h3>
+<ul>
+  <li>Sem incidentes relevantes registrados na daily.</li>
+  <li>Demanda adicional do dia limitada à criação do playbook por Rafael.</li>
+  <li>Equipe segue com foco em migração, vinculação de VMs e fila de tickets.</li>
+</ul>
+
+<h3>Nota de confiabilidade</h3>
+<p class="confiabilidade">Registro produzido a partir de transcrição literal do áudio da reunião. Não foram adicionados incidentes, decisões, responsáveis ou prazos que não constem na gravação. Trechos sem clareza suficiente foram marcados com [confirmar] e não foram interpretados.</p>
+
+</body>
+</html>

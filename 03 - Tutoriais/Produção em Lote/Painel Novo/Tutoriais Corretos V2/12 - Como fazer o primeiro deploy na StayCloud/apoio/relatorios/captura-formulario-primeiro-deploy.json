@@ -1,0 +1,13 @@
+{
+  "data": "2026-07-29T14:09:48.489Z",
+  "loginMode": "novo-login",
+  "status": "captura_formulario_sem_criar_novo_deploy",
+  "printsFinais": [
+    "01-iniciar-deploy-sanitizado.png",
+    "02-informar-projeto-sanitizado.png",
+    "03-executar-deploy-sanitizado.png",
+    "04-processamento-sanitizado.png",
+    "05-concluido-sanitizado.png",
+    "06-aplicacao-publicada-sanitizado.png"
+  ]
+}

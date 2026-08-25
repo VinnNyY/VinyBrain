@@ -1,0 +1,90 @@
+<h1>Como publicar nova versão StayCloud pelo Deploy em 5 passos</h1>
+
+<p><strong>Publicar nova versão StayCloud</strong> é o fluxo usado quando uma aplicação já está conectada ao Deploy e você precisa enviar uma alteração para produção. Neste tutorial, você vai ver como localizar o projeto publicado, fazer uma mudança simples no arquivo do projeto, executar o comando correto pelo terminal e confirmar que a nova versão ficou disponível.</p>
+
+<p>Este passo a passo usa um projeto descartável. Se você ainda não tem uma aplicação publicada, comece por <a href="https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/">como fazer o primeiro deploy na StayCloud</a>. Para entender o terminal, consulte <a href="https://ajuda.staycloud.com.br/docs/cli-deploy-staycloud/">como instalar e usar a CLI do Deploy StayCloud</a>. Para conferir o resultado, veja <a href="https://ajuda.staycloud.com.br/docs/logs-do-deploy-staycloud/">como consultar os logs do Deploy StayCloud</a>. Para conhecer a empresa, acesse o site da <a href="https://staycloud.com.br/">StayCloud</a>.</p>
+
+<h2>Quando publicar uma nova versão da aplicação</h2>
+
+<p>Publique uma nova versão quando o projeto já está no ar e você fez uma alteração que precisa aparecer na aplicação publicada. Pode ser uma troca de texto, ajuste visual, correção simples ou atualização de arquivo estático. O ponto principal é que o projeto já deve estar conectado ao Deploy StayCloud; caso contrário, o caminho correto ainda é o primeiro deploy.</p>
+
+<p>No painel validado, o produto aparece em <strong>Cloud</strong>. A listagem mostra o projeto, o status e a URL pública. O painel também orienta que, para atualizar produção, é necessário fazer um novo deploy.</p>
+
+<h2>O que acontece ao fazer um novo deploy</h2>
+
+<p>Ao executar o comando de deploy em um projeto já conectado, a CLI envia os arquivos atuais do projeto para a StayCloud. O retorno validado mostrou o envio dos arquivos, o deploy em andamento, a validação da fonte pelo painel, a preparação do pacote de publicação e a mensagem de ambiente de publicação atualizado. Depois disso, a aplicação continuou usando a mesma URL pública e passou a exibir o novo conteúdo.</p>
+
+<p>Esse comportamento foi confirmado em um projeto de teste. Não use este tutorial para alterar aplicações de clientes ou ambientes com variáveis sensíveis sem revisar o impacto antes.</p>
+
+<h2>Antes de atualizar o projeto</h2>
+
+<p>Antes de iniciar, use apenas um projeto que você reconhece e pode alterar. Revise os arquivos para garantir que não há tokens, chaves, dados pessoais ou integrações indevidas. Depois, salve a alteração local antes de executar o deploy.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-projeto-publicado-sanitizado.png" alt="Projeto publicado para publicar nova versão StayCloud"><figcaption>Projeto de teste localizado na área Cloud antes da atualização.</figcaption></figure>
+
+<h2>Como publicar nova versão StayCloud</h2>
+
+<h3>1. Abra o projeto publicado</h3>
+
+<p>No Painel Novo, acesse <strong>Cloud</strong> e localize a aplicação que já está publicada. No exemplo validado, o projeto de teste aparece com status <strong>pronto</strong>. Abra somente o projeto correto, principalmente se a conta tiver mais de uma aplicação na lista.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-versao-atual-sanitizado.png" alt="Versão atual antes de publicar nova versão StayCloud"><figcaption>Aplicação publicada antes da alteração.</figcaption></figure>
+
+<h3>2. Faça a alteração necessária</h3>
+
+<p>No computador, abra o projeto local e altere apenas o necessário. Na validação, foi trocado um texto da página de demonstração. A alteração não incluiu formulário, banco de dados, script externo, token ou variável de ambiente.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-alteracao-projeto-sanitizado.png" alt="Alteração local antes de publicar nova versão StayCloud"><figcaption>Trecho alterado no arquivo do projeto de teste.</figcaption></figure>
+
+<h3>3. Execute o comando de publicação</h3>
+
+<p>Dentro da pasta do projeto já conectado, execute o comando público da CLI:</p>
+
+<pre><code>npx @staysdev/setup deploy</code></pre>
+
+<p>Esse foi o método confirmado para atualizar um projeto já vinculado. O comando <code>deploy --new</code> retornou escopo insuficiente neste fluxo, por isso o tutorial usa <code>deploy</code>.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-nova-publicacao-sanitizado.png" alt="Comando para publicar nova versão StayCloud"><figcaption>Comando executado para enviar a nova versão do projeto.</figcaption></figure>
+
+<h3>4. Acompanhe o processamento</h3>
+
+<p>Aguarde as mensagens do processamento. No fluxo validado, a CLI informou envio dos arquivos, início do deploy, preparação do pacote e ambiente de publicação atualizado. Em seguida, retornou <strong>Deploy concluído</strong>.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-processamento-sanitizado.png" alt="Status após publicar nova versão StayCloud"><figcaption>Status do projeto após a nova publicação.</figcaption></figure>
+
+<h3>5. Confirme a nova versão</h3>
+
+<p>Volte ao painel e confira o status. A listagem mostrou o projeto como <strong>pronto</strong>, enquanto a CLI mostrou <strong>Status: live</strong>. Esses sinais indicam que a aplicação está no ar.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-conclusao-sanitizado.png" alt="Projeto pronto após publicar nova versão StayCloud"><figcaption>Status pronto depois da atualização do projeto.</figcaption></figure>
+
+<p>Por fim, abra a URL pública e confirme se a alteração apareceu. No teste, a página mostrou o texto novo sem alterar o endereço público do projeto descartável.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/07-nova-versao-publicada-sanitizado.png" alt="Nova versão publicada pelo Deploy StayCloud"><figcaption>Aplicação exibindo a versão atualizada.</figcaption></figure>
+
+<h2>Como saber se a atualização foi aplicada</h2>
+
+<p>A atualização foi aplicada quando o terminal conclui o deploy, o painel mostra a aplicação como pronta e a URL pública exibe o conteúdo novo. Se algum desses pontos não bater, confira primeiro se você executou o comando dentro da pasta certa e se salvou a alteração antes de publicar.</p>
+
+<h2>O que conferir quando a versão antiga continua aparecendo</h2>
+
+<p>Se a página continuar mostrando o conteúdo antigo, atualize o navegador e abra a URL novamente. Depois, confira o status do projeto e consulte os logs do Deploy StayCloud. Não execute várias tentativas seguidas sem olhar o resultado anterior.</p>
+
+<h2>Erros comuns ao publicar uma nova versão</h2>
+
+<p>Os erros mais comuns são executar o comando fora da pasta do projeto, tentar atualizar uma aplicação ainda não conectada ou publicar arquivos não revisados. Domínio personalizado, variáveis, rollback e exclusão exigem validações próprias.</p>
+
+<h2>Dúvidas frequentes</h2>
+
+<h3>Preciso gerar um novo projeto para atualizar a aplicação?</h3>
+<p>Não no fluxo validado. O projeto já estava conectado, então a atualização foi feita com <code>npx @staysdev/setup deploy</code>.</p>
+
+<h3>A URL pública muda depois do novo deploy?</h3>
+<p>No teste validado, a URL pública continuou a mesma e passou a exibir o conteúdo atualizado. Não use essa confirmação para domínios personalizados sem validar o seu caso.</p>
+
+<h3>Posso usar esse fluxo em projeto de cliente?</h3>
+<p>Não sem autorização e revisão. Para tutorial ou teste, use um projeto descartável, sem dados pessoais, segredos, banco de dados ou integração externa.</p>
+
+<h2>Conclusão</h2>
+
+<p>Para publicar nova versão StayCloud em uma aplicação já conectada, abra o projeto certo, faça uma alteração segura, execute <code>npx @staysdev/setup deploy</code>, acompanhe o processamento e confirme o resultado no painel e na URL pública. Assim, publicar nova versão StayCloud fica restrito ao fluxo básico validado, sem entrar em rollback, domínio, variáveis ou troubleshooting avançado.</p>

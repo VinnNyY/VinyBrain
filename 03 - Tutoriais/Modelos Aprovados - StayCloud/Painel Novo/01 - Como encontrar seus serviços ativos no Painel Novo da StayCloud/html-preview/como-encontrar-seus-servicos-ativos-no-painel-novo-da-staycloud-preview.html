@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Como encontrar seus serviços ativos no Painel Novo da StayCloud</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --card: #ffffff;
+      --text: #172033;
+      --muted: #5d6b84;
+      --line: #d8e0eb;
+      --accent: #1d4ed8;
+      --accent-soft: rgba(29, 78, 216, 0.08);
+      --ok: #0f7b49;
+      --warn: #b45309;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, #eef3fb 0%, var(--bg) 100%);
+      color: var(--text);
+    }
+    .wrap {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 40px 24px 64px;
+    }
+    .hero {
+      background: linear-gradient(135deg, #ffffff 0%, #f4f8ff 100%);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      padding: 28px;
+      box-shadow: 0 18px 50px rgba(17, 24, 39, 0.06);
+      margin-bottom: 22px;
+    }
+    .kicker {
+      text-transform: uppercase;
+      letter-spacing: .14em;
+      font-size: 12px;
+      color: var(--accent);
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+    h1 {
+      font-size: clamp(30px, 4vw, 46px);
+      line-height: 1.06;
+      margin: 0 0 12px;
+    }
+    .lead {
+      font-size: 18px;
+      line-height: 1.55;
+      color: var(--muted);
+      max-width: 860px;
+      margin: 0;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1.2fr .8fr;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 22px;
+      box-shadow: 0 10px 24px rgba(17, 24, 39, 0.04);
+    }
+    .panel h2 {
+      margin: 0 0 10px;
+      font-size: 22px;
+    }
+    .panel p, .panel li {
+      color: #31415f;
+      line-height: 1.7;
+      font-size: 16px;
+    }
+    .callout {
+      border-left: 5px solid var(--accent);
+      background: var(--accent-soft);
+      padding: 16px 18px;
+      border-radius: 16px;
+      margin: 16px 0 0;
+      color: #1d2c53;
+    }
+    .callout strong { color: #0f2560; }
+    .steps {
+      display: grid;
+      gap: 18px;
+    }
+    .step {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      padding: 22px;
+      box-shadow: 0 10px 24px rgba(17, 24, 39, 0.04);
+    }
+    .step h3 {
+      margin: 0 0 10px;
+      font-size: 20px;
+    }
+    .step .meta {
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+    figure {
+      margin: 18px 0 8px;
+      padding: 12px;
+      border-radius: 18px;
+      border: 1px solid var(--line);
+      background: #f8fbff;
+    }
+    figure img {
+      width: 100%;
+      height: auto;
+      border-radius: 14px;
+      display: block;
+      background: #fff;
+    }
+    figcaption {
+      margin-top: 10px;
+      font-size: 14px;
+      line-height: 1.5;
+      color: var(--muted);
+    }
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .chip {
+      border: 1px solid var(--line);
+      background: #fff;
+      color: #274066;
+      border-radius: 999px;
+      padding: 8px 12px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    .warning {
+      background: #fff8eb;
+      border-left: 5px solid #f59e0b;
+    }
+    .ok {
+      background: #edfdf4;
+      border-left: 5px solid #22c55e;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+    ul { margin: 10px 0 0 22px; }
+    .small {
+      font-size: 14px;
+      color: var(--muted);
+    }
+    @media (max-width: 900px) {
+      .grid, .footer-grid { grid-template-columns: 1fr; }
+      .wrap { padding: 20px 14px 48px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div class="kicker">Painel Novo · StayCloud</div>
+      <h1>Como encontrar seus serviços ativos no Painel Novo da StayCloud</h1>
+      <p class="lead">Veja como localizar seus serviços ativos no Painel Novo da StayCloud e abrir a hospedagem, domínio ou produto correto sem sair do fluxo principal.</p>
+      <div class="chips">
+        <span class="chip">Fluxo 100% Painel Novo</span>
+        <span class="chip">Cliente final</span>
+        <span class="chip">Sem cPanel</span>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="panel">
+        <h2>Objetivo</h2>
+        <p>Você vai aprender a entrar no Painel Novo e identificar os serviços ativos da sua conta com segurança.</p>
+        <div class="callout ok"><strong>Boa prática:</strong> se você tiver mais de um serviço ativo, confira o nome do domínio antes de clicar.</div>
+      </article>
+      <aside class="panel">
+        <h2>Quando usar</h2>
+        <ul>
+          <li>Para ver quais serviços estão ativos na sua conta</li>
+          <li>Para encontrar a hospedagem correta antes de seguir</li>
+          <li>Para conferir o nome do domínio vinculado ao serviço</li>
+          <li>Para abrir os detalhes de um serviço ativo</li>
+        </ul>
+      </aside>
+    </section>
+
+    <section class="steps">
+      <article class="step">
+        <div class="meta">Passo 1</div>
+        <h3>Acesse o Painel Novo</h3>
+        <p>Entre no Painel Novo da StayCloud e confira a tela inicial. É nela que você começa a navegação da sua conta.</p>
+        <figure>
+          <img src="../prints/como-encontrar-seus-servicos-ativos-no-painel-novo-da-staycloud/01-dashboard-marcado.png" alt="Tela inicial do Painel Novo com a área de Hospedagem destacada" />
+          <figcaption>Acesse a área de Hospedagem no menu lateral e comece por ali.</figcaption>
+        </figure>
+      </article>
+
+      <article class="step">
+        <div class="meta">Passo 2</div>
+        <h3>Abra a área de hospedagem</h3>
+        <p>No menu lateral, clique em <strong>Hospedagem</strong>. Essa área mostra os serviços contratados da sua conta.</p>
+        <figure>
+          <img src="../prints/como-encontrar-seus-servicos-ativos-no-painel-novo-da-staycloud/02-meus-sites-marcado.png" alt="Área de Hospedagem com os serviços da conta em destaque" />
+          <figcaption>Na página Meus sites, veja o resumo dos serviços e localize a hospedagem ativa.</figcaption>
+        </figure>
+      </article>
+
+      <article class="step">
+        <div class="meta">Passo 3</div>
+        <h3>Localize o serviço ativo correto</h3>
+        <p>Procure o cartão do serviço com status <strong>ativo</strong>. Confirme o nome do domínio e, se quiser abrir os detalhes, clique no cartão do serviço para continuar.</p>
+        <figure>
+          <img src="../prints/como-encontrar-seus-servicos-ativos-no-painel-novo-da-staycloud/03-servico-ativo-marcado.png" alt="Serviço ativo aberto com o nome do domínio e a ação do serviço destacados" />
+          <figcaption>Aqui você confirma que abriu o serviço certo antes de seguir para qualquer ajuste.</figcaption>
+        </figure>
+      </article>
+    </section>
+
+    <section class="footer-grid">
+      <article class="panel warning">
+        <h2>Erros comuns</h2>
+        <ul>
+          <li>Abrir o serviço errado quando há mais de um produto ativo</li>
+          <li>Confundir a hospedagem com a VPS ou outro serviço</li>
+          <li>Não conferir o nome do domínio antes de seguir</li>
+          <li>Procurar o caminho em outra área do painel sem olhar a seção de Hospedagem</li>
+        </ul>
+      </article>
+      <article class="panel">
+        <h2>Quando abrir ticket</h2>
+        <ul>
+          <li>Se você não encontrar seu serviço ativo na conta</li>
+          <li>Se o status do serviço aparecer diferente do esperado</li>
+          <li>Se o nome do domínio não bater com o que você procura</li>
+          <li>Se a área de Hospedagem não carregar corretamente</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="panel" style="margin-top:20px;">
+      <h2>Conclusão</h2>
+      <p>Agora você sabe como localizar seus serviços ativos no Painel Novo da StayCloud e abrir o serviço correto com mais segurança.</p>
+      <div class="callout"><strong>SEO:</strong> palavra-chave: serviços ativos painel novo staycloud · slug: como-encontrar-servicos-ativos-painel-novo-staycloud · meta description pronta para publicação.</div>
+    </section>
+  </main>
+</body>
+</html>

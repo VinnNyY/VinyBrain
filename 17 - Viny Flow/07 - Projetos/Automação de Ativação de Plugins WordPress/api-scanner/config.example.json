@@ -1,0 +1,91 @@
+{
+  "env_path": "/home/vinicius-alves/.config/viny-integrations/.env",
+  "report_dir": "reports",
+  "whmcs_provider": "browser-ui",
+  "browser_session": "persistent",
+  "browser_login_timeout_seconds": 300,
+  "browser_bootstrap_timeout_seconds": 900,
+  "browser_profile_dir": "/home/vinicius-alves/.config/viny-integrations/browser-profiles/whmcs-automation",
+  "mock_payload": "../payloads/whmcs_tickets_sample.json",
+  "api": {
+    "url_key": "WHMCS_API_URL",
+    "identifier_key": "WHMCS_API_IDENTIFIER",
+    "secret_key": "WHMCS_API_SECRET",
+    "access_key_key": "WHMCS_API_ACCESS_KEY",
+    "allowed_actions": [
+      "GetTickets",
+      "GetTicket",
+      "GetClientsProducts"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "timeout_seconds": 30
+  },
+  "detection": {
+    "pending_statuses": [
+      "Open",
+      "Customer-Reply",
+      "In Progress",
+      "Answered"
+    ],
+    "ignore_statuses": [
+      "Closed",
+      "Resolved"
+    ],
+    "activation_keywords": [
+      "ativar",
+      "ativacao",
+      "ativação",
+      "liberar",
+      "habilitar",
+      "plugin"
+    ],
+    "wordpress_keywords": [
+      "wordpress",
+      "wp",
+      "site",
+      "dominio",
+      "domínio"
+    ],
+    "authorization_keywords": [
+      "autorizo",
+      "autorizado",
+      "pode ativar",
+      "pode liberar",
+      "pode seguir",
+      "liberado",
+      "aprovado"
+    ],
+    "completion_keywords": [
+      "ativado com sucesso",
+      "plugin ativado",
+      "ja esta ativo",
+      "já está ativo",
+      "ja ativamos",
+      "já ativamos",
+      "considerar resolvido",
+      "resolvido",
+      "concluido",
+      "concluído"
+    ],
+    "non_related_topics": [
+      "ssl",
+      "dns",
+      "email",
+      "e-mail",
+      "financeiro",
+      "fatura",
+      "boleto",
+      "vps",
+      "migracao",
+      "migração"
+    ],
+    "candidate_threshold": 70,
+    "review_threshold": 40
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-31",
+  "method": "npx @staysdev/setup deploy",
+  "project": "tutorial-deploy-cli-teste",
+  "updated": true,
+  "officialTerms": {
+    "panelArea": "Cloud",
+    "panelTerm": "Novo deploy",
+    "panelStatus": "pronto",
+    "cliStatus": "live"
+  },
+  "screenshots": [
+    {
+      "file": "01-projeto-publicado-sanitizado.png",
+      "target": "card/nome do projeto de teste"
+    },
+    {
+      "file": "02-versao-atual-sanitizado.png",
+      "target": "conteudo publico antes da alteracao"
+    },
+    {
+      "file": "03-alteracao-projeto-sanitizado.png",
+      "target": "trecho alterado no index.html"
+    },
+    {
+      "file": "04-nova-publicacao-sanitizado.png",
+      "target": "comando npx @staysdev/setup deploy"
+    },
+    {
+      "file": "05-processamento-sanitizado.png",
+      "target": "Status: live / Deploys recentes"
+    },
+    {
+      "file": "06-conclusao-sanitizado.png",
+      "target": "status pronto no painel"
+    },
+    {
+      "file": "07-nova-versao-publicada-sanitizado.png",
+      "target": "Versao 3 - atualizacao final de demonstracao"
+    }
+  ],
+  "safety": {
+    "secretsSaved": false,
+    "localConnectionRemoved": true,
+    "customerDataUsed": false
+  }
+}

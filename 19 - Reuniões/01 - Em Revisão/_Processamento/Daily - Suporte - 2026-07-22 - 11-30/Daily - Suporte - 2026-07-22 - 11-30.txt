@@ -1,0 +1,231 @@
+SPEAKER_00: Boa tropa, vamos lá, dailyzinha do dia, daily of the day Do meu lado, não sei se eu... deixa eu ver, acho que eu não tenho nada de novo pra passar pra vocês A única coisa que eu tenho que passar hoje pra vocês é que Ficarei um pouco inativo dos tickets, então eu vou ficar mais monitorando os tickets Vou ficar mais... um pouco mais ativo no chat aqui, principalmente junto com o Matheus Estou ajudando ele aqui mais na frente Eu não sei se foi te passado aí, mas você pode...
+
+SPEAKER_00: Não?
+
+SPEAKER_01: Pode passar Pode passar?
+
+SPEAKER_00: Você pode colocar um line pra ticket aí, tá?
+
+SPEAKER_03: Pra ticket?
+
+SPEAKER_00: Pra ticket.
+
+SPEAKER_00: Só não chora de alegria.
+
+SPEAKER_00: Aí, pode colocar um.
+
+SPEAKER_00: Ficarei mais à frente aqui junto com o Matheus no chat.
+
+SPEAKER_00: Beleza?
+
+SPEAKER_00: Então, aí eu vou ficar monitorando a fila aqui com vocês também.
+
+SPEAKER_00: Então, se eu precisar de algum follow.
+
+SPEAKER_00: Tanto que eu até mandei no chat.
+
+SPEAKER_00: Depois, se alguém quiser ver no chat do Slack.
+
+SPEAKER_00: Preciso que alguém dê uma focada numa migraçãozinha que o Chapa abriu.
+
+SPEAKER_00: Que ela nem tá como novo não, ela já foi como em aberto.
+
+SPEAKER_00: Não sei se ela foi escalada pra alguém ou se ela só... Porque o cliente respondeu duas vezes, ela já foi como em aberto.
+
+SPEAKER_00: Aí alguém pega essa migraçãozinha, por favor.
+
+SPEAKER_00: Vai ser uma migraçãozinha mais puxada, então talvez consome um pouco mais de tempo.
+
+SPEAKER_00: De resto...
+
+SPEAKER_00: Não tem nenhum ticket tão crítico não.
+
+SPEAKER_00: Alguns eu já passei pra quem tem que fazer.
+
+SPEAKER_00: Já passei pro Gabriel responder um aí, que ele tá validando.
+
+SPEAKER_00: E é isso.
+
+SPEAKER_00: Mas acho que do meu lado é isso.
+
+SPEAKER_00: Quem quiser já passar para o próximo.
+
+SPEAKER_00: As novidades do dia pode passar também.
+
+SPEAKER_03: Aí eu vou falar um pouquinho do meu aqui.
+
+SPEAKER_03: Ontem foi bem tranquilo.
+
+SPEAKER_03: Não teve muitos chats não.
+
+SPEAKER_03: Consegui duas, acho que uma ou duas avaliações no Google ontem com o cliente.
+
+SPEAKER_03: Subi uma lá, vou subir outra agora.
+
+SPEAKER_03: Não mexi, depois que eu saí ontem para a academia, nem mexi no passado, então não subi os editoriais no arquivo ainda, mas eu vou subir tudo já direto hoje para o... Como é que fala?
+
+SPEAKER_03: Vou subir direto para a ajuda já.
+
+SPEAKER_00: A notícia boa é que essa base nossa de ajuda, ela vai mudar.
+
+SPEAKER_00: Acho que eles estão desenvolvendo uma nova, depois eu vou pegar mais informações.
+
+SPEAKER_00: Mas aí até o jeito da gente subir o tutorial vai ser muito mais tranquilo depois, velho.
+
+SPEAKER_01: É, vai ser melhor mesmo.
+
+SPEAKER_00: Porque a gente tá com o tutorial muito defasado aí também, né?
+
+SPEAKER_00: A gente tá criando agora dos painéis novos, mas a maioria é tudo do antigo.
+
+SPEAKER_00: Aí eles acham que vão criar um painel novo de ajuda e vai ser até mais fácil da gente subir também.
+
+SPEAKER_03: Eu tô criando até uns tutoriais com base em dúvida dos clientes mesmo, bem específico.
+
+SPEAKER_03: Não, isso aí é perigoso, isso aí é ótimo.
+
+SPEAKER_03: Tipo assim, específico, como abrir ticket de migração, como abrir ticket disso.
+
+SPEAKER_03: É bem específico, já que a gente já tem direcionamento direto do que é que eles têm dúvida e não...
+
+SPEAKER_03: caminho pra ele achar, sabe?
+
+SPEAKER_00: É bom, é bom, é bom.
+
+SPEAKER_00: Beleza, então.
+
+SPEAKER_00: Mais algo?
+
+SPEAKER_03: Não, só.
+
+SPEAKER_00: Perfeito.
+
+SPEAKER_00: Gabriel, algo de novo pra passar pra gente?
+
+SPEAKER_00: Como tá do seu lado?
+
+SPEAKER_02: Que tá bem corrido, na real.
+
+SPEAKER_02: Eu tenho que agilizar minha demanda no meio, mas tá com bastante ticket de VPS nessa merda.
+
+SPEAKER_02: Eu acho que isso eu tô com um BO também, velho, que talvez eu vou precisar do Tunico.
+
+SPEAKER_02: De uma VPS que...
+
+SPEAKER_02: Não sei porquê, velho.
+
+SPEAKER_02: Quando eu peguei o ticket dela, esse da segunda-feira, que a gente vai responder agora há pouco.
+
+SPEAKER_02: Quando eu peguei a VPS dele, ele tava sem placa de rede.
+
+SPEAKER_02: Eu subi a placa de rede nela.
+
+SPEAKER_02: Aí ela estartou como se fosse uma VPS nova.
+
+SPEAKER_02: Como se fosse do Rebuild.
+
+SPEAKER_02: Aí eu fui subir o último backup dela.
+
+SPEAKER_02: Que é do dia 15 de julho.
+
+SPEAKER_02: E também estava sem placa de rede.
+
+SPEAKER_02: Eu subi a placa de rede.
+
+SPEAKER_02: E está com a solução do EPS 9.
+
+SPEAKER_02: Então, tipo...
+
+SPEAKER_02: O cara perdeu os dados.
+
+SPEAKER_00: Tá, isso aí.
+
+SPEAKER_02: Eu estava esperando o Paulo responder.
+
+SPEAKER_02: Só que ele não...
+
+SPEAKER_02: Não me respondeu.
+
+SPEAKER_00: Não, eu dou um toque nele.
+
+SPEAKER_00: Ah, não sei.
+
+SPEAKER_00: Eu acho que o cara... Você já falou com ele?
+
+SPEAKER_00: Eu dou um toque nele.
+
+SPEAKER_02: Eu tinha passado e ele falou pra eu restaurar o backup.
+
+SPEAKER_02: Eu restaurei, mas não adiantou não, velho.
+
+SPEAKER_00: Tá, eu aviso ele aqui também.
+
+SPEAKER_02: Só não tem que me avisar mais.
+
+SPEAKER_00: Tá, eu já deixo avisado.
+
+SPEAKER_02: E a VPS dele é antigaça.
+
+SPEAKER_00: É, eu vi pela data aqui.
+
+SPEAKER_02: A Spike e o Tunico vai ter que entrar nesse aí, porque... Vai ter que falar com o cliente se pá, né?
+
+SPEAKER_02: É.
+
+SPEAKER_02: É, porque não tem nada, velho.
+
+SPEAKER_02: Pelo menos eu não consegui recuperar.
+
+SPEAKER_02: Porque, tipo, quando eu subo a VPS dele, a VPS sobe fechada.
+
+SPEAKER_02: Aí, quando eu subo a placa de rede, ela roda como se fosse uma VPS não aprovisionada, tá ligado?
+
+SPEAKER_01: O Naldo, que tem mais VPS, só valida com ele essa parte técnica, que ele tem que entrar em contato.
+
+SPEAKER_01: Dependendo, ele toca pra outro lado do que eu faria.
+
+SPEAKER_01: VPS ainda eu tô pegando.
+
+SPEAKER_02: Beleza, mas acho que esse caso aí mesmo vai ser só tentar consolar o cliente porque ele perdeu os dados.
+
+SPEAKER_01: Só falar, irmão.
+
+SPEAKER_01: Perdeu.
+
+SPEAKER_02: Só lamento, velho.
+
+SPEAKER_00: Boa.
+
+SPEAKER_00: Demais.
+
+SPEAKER_00: Tem algo a mais pra passar?
+
+SPEAKER_02: Acho que eu vou ficar um pouquinho off dos tickets também pra tocar minhas demandas aqui, mas se precisar, só dá um toque que eu pulo.
+
+SPEAKER_00: Tá.
+
+SPEAKER_02: Eu vou antes responder aquele do Melo pular.
+
+SPEAKER_02: Tô elaborando a resposta aqui.
+
+SPEAKER_01: Eu vou dar uma ajudada então nos tickets, mano.
+
+SPEAKER_01: Já que o Vini desceu pro chat e o Gabriel tá agarrado, eu vou ver o que eu posso matar aqui.
+
+SPEAKER_01: E file zero.
+
+SPEAKER_00: Boa, beleza, então.
+
+SPEAKER_00: Qualquer coisa, vocês me dão salve.
+
+SPEAKER_00: Eu tô no chat, mas também eu posso voltar sem B.A.
+
+SPEAKER_00: nenhum, ok?
+
+SPEAKER_01: Bora, bora.
+
+SPEAKER_01: É, estrapo.
+
+SPEAKER_01: Qualquer coisa, vocês me dão salve aí.
+
+SPEAKER_01: Vou ficar montadinhos aqui.

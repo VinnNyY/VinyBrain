@@ -1,0 +1,54 @@
+TÍTULO NATIVO:
+PUBLICAR NOVA VERSÃO STAYCLOUD
+
+H1:
+Como publicar nova versão StayCloud pelo Deploy em 5 passos
+
+PALAVRA-CHAVE PRINCIPAL:
+publicar nova versão StayCloud
+
+TÍTULO SEO:
+Publicar nova versão StayCloud em 5 passos
+
+SLUG:
+publicar-nova-versao-staycloud
+
+META DESCRIPTION:
+Veja como publicar nova versão StayCloud pelo Deploy, executar o comando correto, acompanhar o status e confirmar a aplicação atualizada.
+
+EXCERPT:
+Aprenda a publicar uma nova versão pelo Deploy StayCloud usando o projeto já conectado, o comando correto da CLI e a validação do status no painel.
+
+CATEGORIA:
+Painel novo
+
+TAGS:
+Deploy; Atualização; Aplicações; Nova Versão; Desenvolvimento; StayCloud.
+
+LINKS INTERNOS VALIDADOS:
+https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/
+https://ajuda.staycloud.com.br/docs/cli-deploy-staycloud/
+https://ajuda.staycloud.com.br/docs/logs-do-deploy-staycloud/
+
+ALT PRINCIPAL:
+Projeto publicado para publicar nova versão StayCloud
+
+SOCIAL TITLE:
+Publicar nova versão StayCloud em 5 passos
+
+SOCIAL DESCRIPTION:
+Veja como atualizar um projeto já conectado ao Deploy StayCloud, executar o comando de publicação e confirmar a nova versão no ar.
+
+GATE RANK MATH:
+- Palavra-chave no título SEO: sim.
+- Palavra-chave no slug: sim.
+- Palavra-chave na meta description: sim.
+- Palavra-chave no primeiro parágrafo: sim.
+- Palavra-chave no corpo: sim.
+- Palavra-chave em H2: sim.
+- Variação em H3: sim.
+- Palavra-chave em ALT: sim.
+- Links internos reais: 3.
+- Score real: 80/100.
+- Status: publicado e validado em 2026-07-31.
+- URL pública: https://ajuda.staycloud.com.br/docs/publicar-nova-versao-staycloud/

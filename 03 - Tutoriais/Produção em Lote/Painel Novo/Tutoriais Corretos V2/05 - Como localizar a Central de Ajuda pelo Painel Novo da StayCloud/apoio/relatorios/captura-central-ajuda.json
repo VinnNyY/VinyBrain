@@ -1,0 +1,494 @@
+{
+  "captured_at": "2026-07-27T13:37:40.865Z",
+  "flow": [
+    "Menu Suporte localizado no painel.",
+    "Opcao Central de ajuda localizada na area de Suporte.",
+    "Base de Conhecimento aberta com campo de pesquisa disponivel."
+  ],
+  "observations": [],
+  "support_page_elements": [
+    {
+      "tag": "A",
+      "text": "Nos reporte aqui",
+      "href": "https://beta.staycloud.com/dashboard/suporte/reportar-bug"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Fechar aviso",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Abrir menu",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "staycloud",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "A",
+      "text": "staycloud",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Conta exemplo",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Buscar site, domínio, fatura ou chamado... ⌘ K",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "dark",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "Ajuda · reportar bug",
+      "href": "https://beta.staycloud.com/dashboard/suporte/reportar-bug"
+    },
+    {
+      "tag": "A",
+      "text": "Home",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "A",
+      "text": "Hospedagem",
+      "href": "https://beta.staycloud.com/dashboard/hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "WordPress",
+      "href": "https://beta.staycloud.com/dashboard/wordpress"
+    },
+    {
+      "tag": "A",
+      "text": "VPS",
+      "href": "https://beta.staycloud.com/dashboard/vps"
+    },
+    {
+      "tag": "A",
+      "text": "Deploy",
+      "href": "https://beta.staycloud.com/dashboard/cloud"
+    },
+    {
+      "tag": "A",
+      "text": "Loja",
+      "href": "https://beta.staycloud.com/dashboard/loja"
+    },
+    {
+      "tag": "A",
+      "text": "Domínios",
+      "href": "https://beta.staycloud.com/dashboard/dominios"
+    },
+    {
+      "tag": "A",
+      "text": "Faturas",
+      "href": "https://beta.staycloud.com/dashboard/faturas"
+    },
+    {
+      "tag": "A",
+      "text": "Suporte",
+      "href": "https://beta.staycloud.com/dashboard/suporte"
+    },
+    {
+      "tag": "A",
+      "text": "Ferramentas",
+      "href": "https://beta.staycloud.com/dashboard/ferramentas"
+    },
+    {
+      "tag": "A",
+      "text": "StayFast Novo",
+      "href": "https://beta.staycloud.com/api/panel-sso-redirect?goto=stayfast"
+    },
+    {
+      "tag": "A",
+      "text": "StayAcademy",
+      "href": "https://beta.staycloud.com/api/panel-sso-redirect?goto=stayacademy"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Conta exemplo",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Minimizar sidebar",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "~/painel",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "H1",
+      "text": "Como podemos ajudar?",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "Início",
+      "href": "https://beta.staycloud.com/dashboard/suporte"
+    },
+    {
+      "tag": "A",
+      "text": "Meus chamados",
+      "href": "https://beta.staycloud.com/dashboard/suporte/meus"
+    },
+    {
+      "tag": "A",
+      "text": "Solicitar plugin",
+      "href": "https://beta.staycloud.com/dashboard/suporte/plugin"
+    },
+    {
+      "tag": "A",
+      "text": "Reportar bug",
+      "href": "https://beta.staycloud.com/dashboard/suporte/reportar-bug"
+    },
+    {
+      "tag": "A",
+      "text": "Central de ajuda",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda"
+    },
+    {
+      "tag": "A",
+      "text": "Suporte técnico Site fora do ar, e-mail não funciona, lentidão, erro de configuração. Abrir chamado",
+      "href": "https://beta.staycloud.com/dashboard/suporte/novo?cat=tecnico"
+    },
+    {
+      "tag": "A",
+      "text": "Pedido de plugin Instalar plugin premium incluído no seu plano (Elementor PRO, WP Rocket, Yoast). Abrir chamado",
+      "href": "https://beta.staycloud.com/dashboard/suporte/plugin"
+    },
+    {
+      "tag": "A",
+      "text": "Migração Migrar site de outro provedor pra StayCloud. Gratuita, feita pela equipe. Abrir chamado",
+      "href": "https://beta.staycloud.com/dashboard/suporte/novo?cat=migracao"
+    },
+    {
+      "tag": "A",
+      "text": "Financeiro Fatura, pagamento, cobrança, reembolso, cancelamento, troca de método. Abrir chamado",
+      "href": "https://beta.staycloud.com/dashboard/suporte/novo?cat=financeiro"
+    },
+    {
+      "tag": "A",
+      "text": "Ver meus chamados",
+      "href": "https://beta.staycloud.com/dashboard/suporte/meus"
+    },
+    {
+      "tag": "A",
+      "text": "WhatsApp Atendimento rápido pelo WhatsApp para dúvidas urgentes. Abrir conversa",
+      "href": "https://wa.me/5511990000109"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Chat online Converse em tempo real com nosso time de suporte. Iniciar chat",
+      "href": ""
+    }
+  ],
+  "central_help_click": {
+    "ok": true,
+    "href": "https://beta.staycloud.com/dashboard/suporte/ajuda"
+  },
+  "destination_url": "https://beta.staycloud.com/dashboard/suporte/ajuda",
+  "destination_title": "Ajuda · StayCloud",
+  "destination_elements": [
+    {
+      "tag": "A",
+      "text": "Nos reporte aqui",
+      "href": "https://beta.staycloud.com/dashboard/suporte/reportar-bug"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Fechar aviso",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Abrir menu",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "staycloud",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "A",
+      "text": "staycloud",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Conta exemplo",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Buscar site, domínio, fatura ou chamado... ⌘ K",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "dark",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "Ajuda · reportar bug",
+      "href": "https://beta.staycloud.com/dashboard/suporte/reportar-bug"
+    },
+    {
+      "tag": "A",
+      "text": "Home",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "A",
+      "text": "Hospedagem",
+      "href": "https://beta.staycloud.com/dashboard/hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "WordPress",
+      "href": "https://beta.staycloud.com/dashboard/wordpress"
+    },
+    {
+      "tag": "A",
+      "text": "VPS",
+      "href": "https://beta.staycloud.com/dashboard/vps"
+    },
+    {
+      "tag": "A",
+      "text": "Deploy",
+      "href": "https://beta.staycloud.com/dashboard/cloud"
+    },
+    {
+      "tag": "A",
+      "text": "Loja",
+      "href": "https://beta.staycloud.com/dashboard/loja"
+    },
+    {
+      "tag": "A",
+      "text": "Domínios",
+      "href": "https://beta.staycloud.com/dashboard/dominios"
+    },
+    {
+      "tag": "A",
+      "text": "Faturas",
+      "href": "https://beta.staycloud.com/dashboard/faturas"
+    },
+    {
+      "tag": "A",
+      "text": "Suporte",
+      "href": "https://beta.staycloud.com/dashboard/suporte"
+    },
+    {
+      "tag": "A",
+      "text": "Ferramentas",
+      "href": "https://beta.staycloud.com/dashboard/ferramentas"
+    },
+    {
+      "tag": "A",
+      "text": "StayFast Novo",
+      "href": "https://beta.staycloud.com/api/panel-sso-redirect?goto=stayfast"
+    },
+    {
+      "tag": "A",
+      "text": "StayAcademy",
+      "href": "https://beta.staycloud.com/api/panel-sso-redirect?goto=stayacademy"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Conta exemplo",
+      "href": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Minimizar sidebar",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "~/painel",
+      "href": "https://beta.staycloud.com/dashboard"
+    },
+    {
+      "tag": "H1",
+      "text": "Central de ajuda",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "Início",
+      "href": "https://beta.staycloud.com/dashboard/suporte"
+    },
+    {
+      "tag": "A",
+      "text": "Meus chamados",
+      "href": "https://beta.staycloud.com/dashboard/suporte/meus"
+    },
+    {
+      "tag": "A",
+      "text": "Solicitar plugin",
+      "href": "https://beta.staycloud.com/dashboard/suporte/plugin"
+    },
+    {
+      "tag": "A",
+      "text": "Reportar bug",
+      "href": "https://beta.staycloud.com/dashboard/suporte/reportar-bug"
+    },
+    {
+      "tag": "A",
+      "text": "Central de ajuda",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda"
+    },
+    {
+      "tag": "H2",
+      "text": "Tutoriais do painel",
+      "href": ""
+    },
+    {
+      "tag": "INPUT",
+      "text": "Buscar tutorial: fatura, hospedagem, chamado...",
+      "href": ""
+    },
+    {
+      "tag": "A",
+      "text": "Como entender a tela inicial do painel Conheça os principais blocos da tela inicial: serviços, alertas, busca, menu lateral e atalhos. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/entender-tela-inicial-painel"
+    },
+    {
+      "tag": "A",
+      "text": "Como trocar ou confirmar a conta ativa no painel Veja onde conferir qual conta está em uso antes de gerenciar serviços, faturas ou chamados. 3 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/trocar-confirmar-conta-ativa"
+    },
+    {
+      "tag": "A",
+      "text": "Como usar a busca global para encontrar sites, faturas e chamados Use a busca do topo para chegar rapidamente em páginas e ações do painel sem navegar pelo menu. 3 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/usar-busca-global"
+    },
+    {
+      "tag": "A",
+      "text": "Como entender alertas e pendências da tela inicial Aprenda a priorizar avisos de vencimento, faturas e chamados que aparecem no painel. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/entender-alertas-pendencias"
+    },
+    {
+      "tag": "A",
+      "text": "Como encontrar e gerenciar uma hospedagem Aprenda a localizar uma hospedagem ativa e abrir a área onde ficam domínio, e-mail, backup, DNS e WordPress. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/encontrar-gerenciar-hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "Como adicionar um novo site ao painel Veja como sair da lista de sites, abrir a loja de hospedagem e escolher um plano para um novo site. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/adicionar-novo-site"
+    },
+    {
+      "tag": "A",
+      "text": "Como acessar o gerenciamento de WordPress de uma hospedagem Encontre a hospedagem correta e use a aba WordPress para abrir ações do site instalado. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/acessar-wordpress-hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "Como criar e gerenciar contas de e-mail da hospedagem Use a área de e-mail da hospedagem para revisar contas, limites e ações disponíveis. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/criar-gerenciar-contas-email-hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "Como acessar arquivos de uma hospedagem Encontre a área de arquivos para abrir o gerenciador, conferir pastas e localizar arquivos do site. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/acessar-arquivos-hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "Como configurar DNS de uma hospedagem Aprenda onde revisar registros DNS da hospedagem e quais cuidados tomar antes de alterar apontamentos. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/configurar-dns-hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "Como verificar backups de uma hospedagem Veja onde ficam informações de backup e como decidir o próximo passo antes de restaurar arquivos ou banco. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/verificar-backups-hospedagem"
+    },
+    {
+      "tag": "A",
+      "text": "Como acompanhar desempenho e métricas de um site Use a área de desempenho da hospedagem para observar consumo, tendências e possíveis gargalos. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/acompanhar-desempenho-metricas-site"
+    },
+    {
+      "tag": "A",
+      "text": "Como entender a tela inicial de um VPS Conheça a lista de VPS, o detalhe da máquina e as abas usadas para console, métricas, snapshots e firewall. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/entender-tela-inicial-vps"
+    },
+    {
+      "tag": "A",
+      "text": "Como reiniciar ou controlar um VPS pelo painel Entenda onde ficam console e ações de sistema antes de reiniciar, desligar ou reinstalar um VPS. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/reiniciar-controlar-vps"
+    },
+    {
+      "tag": "A",
+      "text": "Como visualizar métricas de CPU, memória e disco do VPS Use a aba Métricas para acompanhar consumo do VPS e investigar picos de uso. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/visualizar-metricas-vps"
+    },
+    {
+      "tag": "A",
+      "text": "Como usar snapshots de um VPS Entenda quando criar snapshot, onde visualizar pontos existentes e quais cuidados tomar antes de restaurar. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/usar-snapshots-vps"
+    },
+    {
+      "tag": "A",
+      "text": "Como configurar regras de firewall do VPS Veja onde revisar firewall, regras existentes e cuidados antes de liberar ou bloquear portas. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/configurar-firewall-vps"
+    },
+    {
+      "tag": "A",
+      "text": "Como visualizar domínios e datas de renovação Encontre domínios registrados, confira status e veja datas importantes de expiração e renovação. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/visualizar-dominios-renovacao"
+    },
+    {
+      "tag": "A",
+      "text": "Como gerenciar a renovação de um domínio Veja onde ficam auto-renovação, próxima cobrança, nameservers e ações sensíveis do domínio. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/gerenciar-renovacao-dominio"
+    },
+    {
+      "tag": "A",
+      "text": "Como abrir um chamado de suporte Veja como escolher o tipo de atendimento, preencher as informações necessárias e enviar um chamado para a equipe técnica. 3 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/abrir-chamado-suporte"
+    },
+    {
+      "tag": "A",
+      "text": "Como acompanhar chamados abertos Entenda onde ficam seus chamados, como ler os status e como responder a equipe de suporte pelo painel. 3 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/acompanhar-chamados-abertos"
+    },
+    {
+      "tag": "A",
+      "text": "Como abrir um chamado financeiro sobre fatura ou pagamento Use a categoria Financeiro para pedir revisão de fatura, pagamento, reembolso ou troca de método. 3 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/abrir-chamado-financeiro-fatura-pagamento"
+    },
+    {
+      "tag": "A",
+      "text": "Como visualizar e pagar faturas Aprenda a encontrar faturas abertas, conferir vencimento e acessar as opções de pagamento disponíveis. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/visualizar-pagar-faturas"
+    },
+    {
+      "tag": "A",
+      "text": "Como alterar ou revisar formas de pagamento Encontre faturas, abra formas de pagamento e revise opções disponíveis para cobranças futuras. 4 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/alterar-revisar-formas-pagamento"
+    },
+    {
+      "tag": "A",
+      "text": "Como baixar PDF ou comprovante de uma fatura Abra a fatura correta e use as ações disponíveis para baixar PDF, boleto ou comprovante quando existirem. 3 min 25 mai 2026",
+      "href": "https://beta.staycloud.com/dashboard/suporte/ajuda/baixar-pdf-comprovante-fatura"
+    },
+    {
+      "tag": "A",
+      "text": "Abrir chamado",
+      "href": "https://beta.staycloud.com/dashboard/suporte/novo"
+    }
+  ]
+}

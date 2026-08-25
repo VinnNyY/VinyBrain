@@ -1,0 +1,13 @@
+{
+  "data": "2026-07-27",
+  "acoes": "consulta e navegacao sem alteracao",
+  "confirmado": [
+    "Hospedagem > Meus sites",
+    "Gerenciar abre detalhe do serviço",
+    "Detalhe da hospedagem exibe DISCO, CPU e MEMÓRIA",
+    "Detalhe do VPS exibe CPU, MEMÓRIA e DISCO"
+  ],
+  "negado": [
+    "nenhuma conta, dominio, chamado, cobranca, usuario, deploy, servico ou DNS criado"
+  ]
+}

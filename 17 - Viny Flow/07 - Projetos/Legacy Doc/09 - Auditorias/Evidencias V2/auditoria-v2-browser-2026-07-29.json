@@ -1,0 +1,1844 @@
+[
+  {
+    "viewport": {
+      "name": "v2-1440",
+      "width": 1440,
+      "height": 1400,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT",
+          "RGAAv4",
+          "RGAA-3.2.1"
+        ],
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Tipo</dt>",
+            "target": [
+              "div:nth-child(1) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Parâmetros</dt>",
+            "target": [
+              "div:nth-child(2) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Retorno</dt>",
+            "target": [
+              "div:nth-child(3) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Descrição</dt>",
+            "target": [
+              "div:nth-child(4) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#111827",
+                  "contrastRatio": 3.72,
+                  "fontSize": "9.8pt (13px)",
+                  "fontWeight": "normal",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"product-showcase\">",
+                    "target": [
+                      ".product-showcase"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<span>Screenshot extraído do material oficial do Legacy Doc.</span>",
+            "target": [
+              ".product-panel-copy > span"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "nested-interactive",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "RGAAv4",
+          "RGAA-7.1.1"
+        ],
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "help": "Interactive controls must not be nested",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "no-focusable-content",
+                "data": {
+                  "messageKey": "notHidden"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<button type=\"button\" tabindex=\"-1\">Analisar</button>",
+                    "target": [
+                      ".demo-topbar > button"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+            "target": [
+              ".hero-demo"
+            ],
+            "failureSummary": "Fix any of the following:\n  Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+          }
+        ]
+      }
+    ],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "forms": 0,
+      "images": 5,
+      "brokenAnchors": [],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": true,
+        "metrics": true
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-1280",
+      "width": 1280,
+      "height": 1000,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT",
+          "RGAAv4",
+          "RGAA-3.2.1"
+        ],
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Tipo</dt>",
+            "target": [
+              "div:nth-child(1) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Parâmetros</dt>",
+            "target": [
+              "div:nth-child(2) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Retorno</dt>",
+            "target": [
+              "div:nth-child(3) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Descrição</dt>",
+            "target": [
+              "div:nth-child(4) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#111827",
+                  "contrastRatio": 3.72,
+                  "fontSize": "9.8pt (13px)",
+                  "fontWeight": "normal",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"product-showcase\">",
+                    "target": [
+                      ".product-showcase"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<span>Screenshot extraído do material oficial do Legacy Doc.</span>",
+            "target": [
+              ".product-panel-copy > span"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "nested-interactive",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "RGAAv4",
+          "RGAA-7.1.1"
+        ],
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "help": "Interactive controls must not be nested",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "no-focusable-content",
+                "data": {
+                  "messageKey": "notHidden"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<button type=\"button\" tabindex=\"-1\">Analisar</button>",
+                    "target": [
+                      ".demo-topbar > button"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+            "target": [
+              ".hero-demo"
+            ],
+            "failureSummary": "Fix any of the following:\n  Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+          }
+        ]
+      }
+    ],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "forms": 0,
+      "images": 5,
+      "brokenAnchors": [],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": true,
+        "metrics": true
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-1024",
+      "width": 1024,
+      "height": 1200,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT",
+          "RGAAv4",
+          "RGAA-3.2.1"
+        ],
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Parâmetros</dt>",
+            "target": [
+              "div:nth-child(2) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Retorno</dt>",
+            "target": [
+              "div:nth-child(3) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Descrição</dt>",
+            "target": [
+              "div:nth-child(4) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#111827",
+                  "contrastRatio": 3.72,
+                  "fontSize": "9.8pt (13px)",
+                  "fontWeight": "normal",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"product-showcase\">",
+                    "target": [
+                      ".product-showcase"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<span>Screenshot extraído do material oficial do Legacy Doc.</span>",
+            "target": [
+              ".product-panel-copy > span"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "nested-interactive",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "RGAAv4",
+          "RGAA-7.1.1"
+        ],
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "help": "Interactive controls must not be nested",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "no-focusable-content",
+                "data": {
+                  "messageKey": "notHidden"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<button type=\"button\" tabindex=\"-1\">Analisar</button>",
+                    "target": [
+                      ".demo-topbar > button"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+            "target": [
+              ".hero-demo"
+            ],
+            "failureSummary": "Fix any of the following:\n  Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+          }
+        ]
+      }
+    ],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "forms": 0,
+      "images": 5,
+      "brokenAnchors": [],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": true,
+        "metrics": true
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-768",
+      "width": 768,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT",
+          "RGAAv4",
+          "RGAA-3.2.1"
+        ],
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Tipo</dt>",
+            "target": [
+              "div:nth-child(1) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Parâmetros</dt>",
+            "target": [
+              "div:nth-child(2) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Retorno</dt>",
+            "target": [
+              "div:nth-child(3) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Descrição</dt>",
+            "target": [
+              "div:nth-child(4) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#111827",
+                  "contrastRatio": 3.72,
+                  "fontSize": "9.8pt (13px)",
+                  "fontWeight": "normal",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"product-showcase\">",
+                    "target": [
+                      ".product-showcase"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<span>Screenshot extraído do material oficial do Legacy Doc.</span>",
+            "target": [
+              ".product-panel-copy > span"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "nested-interactive",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "RGAAv4",
+          "RGAA-7.1.1"
+        ],
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "help": "Interactive controls must not be nested",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "no-focusable-content",
+                "data": {
+                  "messageKey": "notHidden"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<button type=\"button\" tabindex=\"-1\">Analisar</button>",
+                    "target": [
+                      ".demo-topbar > button"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+            "target": [
+              ".hero-demo"
+            ],
+            "failureSummary": "Fix any of the following:\n  Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+          }
+        ]
+      }
+    ],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "forms": 0,
+      "images": 5,
+      "brokenAnchors": [],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": true,
+        "metrics": true
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-430",
+      "width": 430,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT",
+          "RGAAv4",
+          "RGAA-3.2.1"
+        ],
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Tipo</dt>",
+            "target": [
+              "div:nth-child(1) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Parâmetros</dt>",
+            "target": [
+              "div:nth-child(2) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Retorno</dt>",
+            "target": [
+              "div:nth-child(3) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Descrição</dt>",
+            "target": [
+              "div:nth-child(4) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#111827",
+                  "contrastRatio": 3.72,
+                  "fontSize": "9.8pt (13px)",
+                  "fontWeight": "normal",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"product-showcase\">",
+                    "target": [
+                      ".product-showcase"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<span>Screenshot extraído do material oficial do Legacy Doc.</span>",
+            "target": [
+              ".product-panel-copy > span"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "nested-interactive",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "RGAAv4",
+          "RGAA-7.1.1"
+        ],
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "help": "Interactive controls must not be nested",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "no-focusable-content",
+                "data": {
+                  "messageKey": "notHidden"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<button type=\"button\" tabindex=\"-1\">Analisar</button>",
+                    "target": [
+                      ".demo-topbar > button"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+            "target": [
+              ".hero-demo"
+            ],
+            "failureSummary": "Fix any of the following:\n  Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+          }
+        ]
+      }
+    ],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 430,
+      "clientWidth": 430,
+      "forms": 0,
+      "images": 5,
+      "brokenAnchors": [],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": true,
+        "metrics": true
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-390",
+      "width": 390,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT",
+          "RGAAv4",
+          "RGAA-3.2.1"
+        ],
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Tipo</dt>",
+            "target": [
+              "div:nth-child(1) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Parâmetros</dt>",
+            "target": [
+              "div:nth-child(2) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Retorno</dt>",
+            "target": [
+              "div:nth-child(3) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Descrição</dt>",
+            "target": [
+              "div:nth-child(4) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#111827",
+                  "contrastRatio": 3.72,
+                  "fontSize": "9.8pt (13px)",
+                  "fontWeight": "normal",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"product-showcase\">",
+                    "target": [
+                      ".product-showcase"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<span>Screenshot extraído do material oficial do Legacy Doc.</span>",
+            "target": [
+              ".product-panel-copy > span"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "nested-interactive",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "RGAAv4",
+          "RGAA-7.1.1"
+        ],
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "help": "Interactive controls must not be nested",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "no-focusable-content",
+                "data": {
+                  "messageKey": "notHidden"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<button type=\"button\" tabindex=\"-1\">Analisar</button>",
+                    "target": [
+                      ".demo-topbar > button"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+            "target": [
+              ".hero-demo"
+            ],
+            "failureSummary": "Fix any of the following:\n  Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+          }
+        ]
+      }
+    ],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "forms": 0,
+      "images": 5,
+      "brokenAnchors": [],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": true,
+        "metrics": true
+      }
+    }
+  },
+  {
+    "viewport": {
+      "name": "v2-360",
+      "width": 360,
+      "height": 1200,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [
+      {
+        "id": "color-contrast",
+        "impact": "serious",
+        "tags": [
+          "cat.color",
+          "wcag2aa",
+          "wcag143",
+          "TTv5",
+          "TT13.c",
+          "EN-301-549",
+          "EN-9.1.4.3",
+          "ACT",
+          "RGAAv4",
+          "RGAA-3.2.1"
+        ],
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "help": "Elements must meet minimum color contrast ratio thresholds",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Tipo</dt>",
+            "target": [
+              "div:nth-child(1) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Parâmetros</dt>",
+            "target": [
+              "div:nth-child(2) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Retorno</dt>",
+            "target": [
+              "div:nth-child(3) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#090d15",
+                  "contrastRatio": 4.08,
+                  "fontSize": "9.0pt (12px)",
+                  "fontWeight": "bold",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+                    "target": [
+                      ".hero-demo"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<dt>Descrição</dt>",
+            "target": [
+              "div:nth-child(4) > dt"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.08 (foreground color: #64748b, background color: #090d15, font size: 9.0pt (12px), font weight: bold). Expected contrast ratio of 4.5:1"
+          },
+          {
+            "any": [
+              {
+                "id": "color-contrast",
+                "data": {
+                  "fgColor": "#64748b",
+                  "bgColor": "#111827",
+                  "contrastRatio": 3.72,
+                  "fontSize": "9.8pt (13px)",
+                  "fontWeight": "normal",
+                  "messageKey": null,
+                  "expectedContrastRatio": "4.5:1"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<div class=\"product-showcase\">",
+                    "target": [
+                      ".product-showcase"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<span>Screenshot extraído do material oficial do Legacy Doc.</span>",
+            "target": [
+              ".product-panel-copy > span"
+            ],
+            "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.72 (foreground color: #64748b, background color: #111827, font size: 9.8pt (13px), font weight: normal). Expected contrast ratio of 4.5:1"
+          }
+        ]
+      },
+      {
+        "id": "nested-interactive",
+        "impact": "serious",
+        "tags": [
+          "cat.keyboard",
+          "wcag2a",
+          "wcag412",
+          "TTv5",
+          "TT6.a",
+          "EN-301-549",
+          "EN-9.4.1.2",
+          "RGAAv4",
+          "RGAA-7.1.1"
+        ],
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "help": "Interactive controls must not be nested",
+        "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/nested-interactive?application=axeAPI",
+        "nodes": [
+          {
+            "any": [
+              {
+                "id": "no-focusable-content",
+                "data": {
+                  "messageKey": "notHidden"
+                },
+                "relatedNodes": [
+                  {
+                    "html": "<button type=\"button\" tabindex=\"-1\">Analisar</button>",
+                    "target": [
+                      ".demo-topbar > button"
+                    ]
+                  }
+                ],
+                "impact": "serious",
+                "message": "Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+              }
+            ],
+            "all": [],
+            "none": [],
+            "impact": "serious",
+            "html": "<div class=\"hero-demo\" role=\"img\" aria-label=\"Demonstração visual do Legacy Doc transformando arquivos de repositório em documentação técnica revisável\">",
+            "target": [
+              ".hero-demo"
+            ],
+            "failureSummary": "Fix any of the following:\n  Using a negative tabindex on an element inside an interactive control does not prevent assistive technologies from focusing the element (even with aria-hidden=\"true\")"
+          }
+        ]
+      }
+    ],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h2Count": 12,
+      "scrollWidth": 360,
+      "clientWidth": 360,
+      "forms": 0,
+      "images": 5,
+      "brokenAnchors": [],
+      "forbidden": {
+        "staycloud": false,
+        "tccHero": false,
+        "testimonials": false,
+        "discounts": true,
+        "metrics": true
+      }
+    }
+  }
+]

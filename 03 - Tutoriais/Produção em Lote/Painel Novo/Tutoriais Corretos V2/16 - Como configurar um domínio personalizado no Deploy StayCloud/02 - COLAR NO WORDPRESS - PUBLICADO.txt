@@ -1,0 +1,92 @@
+<h1>Como configurar um domínio personalizado no Deploy StayCloud</h1>
+
+<p><strong>Domínio personalizado Deploy StayCloud</strong> é o recurso usado para ligar um endereço próprio, como um domínio ou subdomínio, a uma aplicação publicada pelo Cloud do Painel Novo. Neste tutorial sobre domínio personalizado Deploy StayCloud, você vai ver onde fica a área de domínios, como adicionar o endereço, qual registro DNS o painel solicita e o que conferir enquanto a validação aparece como pendente.</p>
+
+<p>Antes de começar, confirme que a aplicação já está publicada. Se ainda estiver criando o primeiro projeto, veja primeiro <a href="https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/">como fazer o primeiro deploy na StayCloud</a>. Para acompanhar o resultado depois da alteração, consulte também <a href="https://ajuda.staycloud.com.br/docs/logs-do-deploy-staycloud/">como consultar os logs do Deploy StayCloud</a> e <a href="https://ajuda.staycloud.com.br/docs/publicar-nova-versao-staycloud/">como publicar nova versão pelo Deploy</a>.</p>
+
+<h2>O que é domínio personalizado Deploy StayCloud</h2>
+
+<p>O domínio personalizado permite que a aplicação deixe de depender apenas do endereço temporário gerado pelo Deploy e passe a responder por um endereço escolhido por você. No painel validado, esse recurso aparece dentro de <strong>Cloud</strong>, na área <strong>Domínios</strong>. A tela informa que os domínios próprios podem ser conectados aos projetos publicados e mostra a orientação de apontar um registro <strong>CNAME</strong>.</p>
+
+<h2>Antes de conectar o domínio personalizado Deploy StayCloud</h2>
+
+<p>Use apenas uma aplicação que você reconhece e pode administrar. Tenha acesso ao DNS antes de iniciar, porque a etapa externa será feita no provedor onde a zona está hospedada. Não altere nameservers, registros de e-mail ou registros em uso sem revisar o impacto.</p>
+
+<p>No fluxo validado, nenhum DNS externo foi alterado. O painel mostrou a instrução necessária, mas a configuração real do registro depende de autorização e acesso ao gerenciador DNS do domínio.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/01-aplicacao-correta-sanitizado.png" alt="Aplicação correta para domínio personalizado Deploy StayCloud"><figcaption>Abra somente a aplicação correta antes de configurar o domínio.</figcaption></figure>
+
+<h2>Como adicionar um domínio ao Deploy StayCloud</h2>
+
+<h3>1. Abra a aplicação publicada</h3>
+
+<p>No Painel Novo, acesse <strong>Deploy</strong> e entre em <strong>Cloud</strong>. Localize a aplicação publicada que receberá o domínio. Se houver mais de um projeto, confira o nome, o status e a URL temporária antes de continuar.</p>
+
+<h3>2. Acesse a área de domínios</h3>
+
+<p>Dentro do Cloud, clique em <strong>Domínios</strong>. Essa é a área oficial observada no painel para gerenciar os domínios próprios conectados aos projetos. A tela mostra contadores de domínios totais, ativos, pendentes e com erro.</p>
+
+<p>Essa etapa é o ponto central do fluxo de domínio personalizado Deploy StayCloud, porque concentra o cadastro do endereço e o acompanhamento do status.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/02-area-dominio-sanitizado.png" alt="Área Domínios para domínio personalizado Deploy StayCloud"><figcaption>A aba Domínios reúne os endereços conectados ao Cloud.</figcaption></figure>
+
+<h3>3. Informe o domínio ou subdomínio</h3>
+
+<p>Clique em <strong>Adicionar domínio</strong>. O painel abre um modal com o campo <strong>Domínio</strong> e a orientação de informar apenas o nome do domínio, sem protocolo e sem path. Portanto, não inclua <code>https://</code>, <code>http://</code> nem caminhos como <code>/app</code>.</p>
+
+<p>Exemplos de formato correto são <code>app.exemplo.com.br</code> para subdomínio ou <code>exemplo.com.br</code> para domínio raiz.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/03-adicionar-dominio-sanitizado.png" alt="Campo para adicionar domínio personalizado Deploy StayCloud"><figcaption>Informe somente o nome do domínio ou subdomínio.</figcaption></figure>
+
+<h3>4. Configure o registro DNS solicitado</h3>
+
+<p>Na área de Domínios, o painel informa que é necessário apontar um <strong>CNAME</strong> para o destino exibido pelo Deploy. Esse registro deve ser criado no gerenciador DNS do domínio, não necessariamente dentro da StayCloud. Copie o destino exatamente como exibido e crie apenas o registro relacionado ao endereço que você está conectando.</p>
+
+<p>Se o domínio usa outro provedor de DNS, faça a alteração nesse provedor. Se usa DNS da StayCloud, altere somente o registro necessário. Não troque nameservers nem remova registros de e-mail para cumprir este passo.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/04-instrucoes-dns-sanitizado.png" alt="Registro CNAME para domínio personalizado Deploy StayCloud"><figcaption>O painel orienta apontar um CNAME para o destino informado.</figcaption></figure>
+
+<h3>5. Aguarde e confira a validação</h3>
+
+<p>Depois de salvar o registro DNS no provedor correto, volte à área <strong>Domínios</strong> e acompanhe o status. A tela validada mostra os grupos <strong>ATIVOS</strong>, <strong>PENDENTES</strong> e <strong>ERRO</strong>. Enquanto o domínio estiver pendente, confira se o CNAME foi criado no host correto.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/06-validacao-sanitizado.png" alt="Status de validação do domínio personalizado Deploy StayCloud"><figcaption>Use os status da área Domínios para acompanhar a validação.</figcaption></figure>
+
+<h3>6. Abra a aplicação pelo novo endereço</h3>
+
+<p>Quando o domínio aparecer como ativo, abra o endereço no navegador e confira se ele carrega a aplicação esperada. Se ainda não estiver ativo, não force várias alterações seguidas. Primeiro compare o valor do CNAME no painel com o registro criado no DNS.</p>
+
+<h2>Como saber se o domínio foi validado</h2>
+
+<p>A validação deve aparecer na própria área <strong>Domínios</strong>. O painel também apresenta a seção de SSL automático via CDN global. No teste, a emissão final não foi concluída porque nenhum DNS externo foi alterado, então não trate este tutorial como prova de validação de um domínio real.</p>
+
+<p>Para confirmar o domínio personalizado Deploy StayCloud, use sempre o status mostrado no painel e o acesso real ao endereço configurado.</p>
+
+<h2>O que conferir quando o domínio permanece pendente</h2>
+
+<p>Confira se o endereço foi digitado sem protocolo, se o CNAME foi criado no DNS correto e se o host usado no registro corresponde ao domínio ou subdomínio informado no painel. Também verifique se já existe registro A, AAAA ou CNAME conflitante para o mesmo host.</p>
+
+<h2>Erros comuns</h2>
+
+<ul>
+  <li>Informar a URL completa com <code>https://</code> em vez de apenas o domínio.</li>
+  <li>Criar o CNAME no provedor DNS errado.</li>
+  <li>Alterar nameservers sem necessidade.</li>
+  <li>Mexer em registros de e-mail durante a configuração do site.</li>
+  <li>Conectar domínio de cliente sem autorização.</li>
+</ul>
+
+<h2>Dúvidas frequentes</h2>
+
+<h3>Preciso remover a URL temporária?</h3>
+<p>Não foi validada remoção da URL temporária neste fluxo. Use a URL temporária como referência enquanto confirma o domínio próprio.</p>
+
+<h3>O painel usa CNAME?</h3>
+<p>Sim. Na tela validada, a instrução exibida foi apontar um <strong>CNAME</strong> para o destino informado pelo Deploy.</p>
+
+<h3>Posso configurar e-mail nesse mesmo fluxo?</h3>
+<p>Não. Este tutorial trata apenas do endereço da aplicação no Deploy. E-mail, MX, SPF, DKIM e DMARC devem ser tratados em outro procedimento.</p>
+
+<h2>Conclusão</h2>
+
+<p>Para configurar um domínio personalizado Deploy StayCloud, abra a aplicação certa no Cloud, acesse <strong>Domínios</strong>, clique em <strong>Adicionar domínio</strong>, informe o endereço sem protocolo, crie o CNAME solicitado no DNS autorizado e acompanhe os status da tela. A configuração só deve avançar até a validação final quando você tiver permissão para alterar o DNS do domínio.</p>

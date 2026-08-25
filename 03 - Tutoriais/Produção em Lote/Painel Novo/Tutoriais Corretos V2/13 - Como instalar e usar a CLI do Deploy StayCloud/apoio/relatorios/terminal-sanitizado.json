@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-07-29T18:52:53.286Z",
+  "projectName": "tutorial-deploy-cli-teste",
+  "projectUrl": "https://tutorial-deploy-cli-teste.stayai.space/",
+  "source": "Saídas sanitizadas a partir de execução real da CLI e validação HTTP 200/painel.",
+  "files": [
+    "03-confirmacao-instalacao-sanitizado.png",
+    "04-autenticacao-conexao-sanitizado.png",
+    "05-comando-deploy-sanitizado.png",
+    "06-resultado-cli-sanitizado.png"
+  ]
+}

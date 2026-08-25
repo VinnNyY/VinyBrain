@@ -1,0 +1,255 @@
+[
+  {
+    "ticket_id": "12345",
+    "status": "Open",
+    "customer_email": "cliente@example.com",
+    "subject": "Ativacao de plugin",
+    "domain_detected": "exemplo.com.br",
+    "plugin_detected": "Elementor Pro",
+    "tipo_solicitacao": "ativacao_plugin",
+    "score_original": 100,
+    "score_final": 100,
+    "classification": "ALTA CONFIANCA",
+    "reason": "score alto com sinais consistentes de ativacao; plugin detectado: Elementor Pro",
+    "missing_info": [],
+    "gates_aplicados": [],
+    "prioridade_operacional": "fila_ativacao",
+    "next_action": "Enviar para fila de aprovacao humana."
+  },
+  {
+    "ticket_id": "12346",
+    "status": "Answered",
+    "customer_email": "cliente2@example.com",
+    "subject": "Liberar WP Rocket",
+    "domain_detected": "loja.exemplo.com.br",
+    "plugin_detected": "WP Rocket",
+    "tipo_solicitacao": "ativacao_plugin",
+    "score_original": 100,
+    "score_final": 100,
+    "classification": "ALTA CONFIANCA",
+    "reason": "score alto com sinais consistentes de ativacao; plugin detectado: WP Rocket",
+    "missing_info": [],
+    "gates_aplicados": [],
+    "prioridade_operacional": "fila_ativacao",
+    "next_action": "Enviar para fila de aprovacao humana."
+  },
+  {
+    "ticket_id": "12347",
+    "status": "Open",
+    "customer_email": "cliente3@example.com",
+    "subject": "Ativacao pendente",
+    "domain_detected": "",
+    "plugin_detected": "",
+    "tipo_solicitacao": "pedido_generico_plugin",
+    "score_original": 65,
+    "score_final": 59,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: pedido_generico_plugin.",
+    "missing_info": [
+      "domínio não informado",
+      "plugin não identificado"
+    ],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: pedido_generico_plugin.",
+      "plugin não identificado",
+      "domínio não informado"
+    ],
+    "prioridade_operacional": "revisar_pedido_generico",
+    "next_action": "Confirmar plugin, domínio e autorização."
+  },
+  {
+    "ticket_id": "12352",
+    "status": "Open",
+    "customer_email": "cliente8@example.com",
+    "subject": "Plugin não permitido",
+    "domain_detected": "exemplo.com.br",
+    "plugin_detected": "",
+    "tipo_solicitacao": "instalacao_plugin",
+    "score_original": 75,
+    "score_final": 59,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: instalacao_plugin.",
+    "missing_info": [
+      "plugin não identificado"
+    ],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: instalacao_plugin.",
+      "instalação exige validação de origem/licença antes de qualquer ação",
+      "plugin não identificado"
+    ],
+    "prioridade_operacional": "revisar_instalacao",
+    "next_action": "Revisar manualmente. Instalação exige validação de origem/licença antes de qualquer ação."
+  },
+  {
+    "ticket_id": "12353",
+    "status": "Answered",
+    "customer_email": "cliente9@example.com",
+    "subject": "Licenca do plugin",
+    "domain_detected": "",
+    "plugin_detected": "",
+    "tipo_solicitacao": "licenca_plugin",
+    "score_original": 65,
+    "score_final": 59,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: licenca_plugin.",
+    "missing_info": [
+      "domínio não informado",
+      "plugin não identificado",
+      "domínio necessário para validar licença"
+    ],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: licenca_plugin.",
+      "pedido de licença não deve virar ativação automática",
+      "plugin não identificado",
+      "domínio não informado"
+    ],
+    "prioridade_operacional": "revisar_licenca",
+    "next_action": "Revisar manualmente. Pedido de licença não deve virar ativação automática."
+  },
+  {
+    "ticket_id": "12354",
+    "status": "Open",
+    "customer_email": "cliente10@example.com",
+    "subject": "Rank Math no dominio principal",
+    "domain_detected": "cliente10.com.br",
+    "plugin_detected": "Rank Math SEO Pro",
+    "tipo_solicitacao": "ativacao_plugin",
+    "score_original": 100,
+    "score_final": 100,
+    "classification": "ALTA CONFIANCA",
+    "reason": "score alto com sinais consistentes de ativacao; plugin detectado: Rank Math SEO Pro",
+    "missing_info": [],
+    "gates_aplicados": [],
+    "prioridade_operacional": "fila_ativacao",
+    "next_action": "Enviar para fila de aprovacao humana."
+  },
+  {
+    "ticket_id": "12355",
+    "status": "Open",
+    "customer_email": "cliente11@example.com",
+    "subject": "Instalacao de plugin",
+    "domain_detected": "cliente11.com.br",
+    "plugin_detected": "JetEngine",
+    "tipo_solicitacao": "instalacao_plugin",
+    "score_original": 100,
+    "score_final": 69,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: instalacao_plugin.",
+    "missing_info": [],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: instalacao_plugin.",
+      "instalação exige validação de origem/licença antes de qualquer ação"
+    ],
+    "prioridade_operacional": "revisar_instalacao",
+    "next_action": "Revisar manualmente. Instalação exige validação de origem/licença antes de qualquer ação."
+  },
+  {
+    "ticket_id": "12356",
+    "status": "Answered",
+    "customer_email": "cliente12@example.com",
+    "subject": "Licenca do plugin",
+    "domain_detected": "",
+    "plugin_detected": "Elementor Pro",
+    "tipo_solicitacao": "licenca_plugin",
+    "score_original": 90,
+    "score_final": 69,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: licenca_plugin.",
+    "missing_info": [
+      "domínio não informado",
+      "domínio necessário para validar licença"
+    ],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: licenca_plugin.",
+      "pedido de licença não deve virar ativação automática",
+      "domínio não informado"
+    ],
+    "prioridade_operacional": "revisar_licenca",
+    "next_action": "Revisar manualmente. Pedido de licença não deve virar ativação automática."
+  },
+  {
+    "ticket_id": "12357",
+    "status": "Open",
+    "customer_email": "cliente13@example.com",
+    "subject": "Erro no Elementor",
+    "domain_detected": "loja12.com.br",
+    "plugin_detected": "Elementor Pro",
+    "tipo_solicitacao": "erro_plugin",
+    "score_original": 75,
+    "score_final": 69,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: erro_plugin.",
+    "missing_info": [],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: erro_plugin.",
+      "pode ser incidente, conflito ou erro no site"
+    ],
+    "prioridade_operacional": "revisar_erro_plugin",
+    "next_action": "Revisar manualmente. Pode ser incidente, conflito ou erro no site."
+  },
+  {
+    "ticket_id": "12358",
+    "status": "Open",
+    "customer_email": "cliente14@example.com",
+    "subject": "Ativar plugin sem dominio",
+    "domain_detected": "",
+    "plugin_detected": "WP Rocket",
+    "tipo_solicitacao": "ativacao_plugin",
+    "score_original": 90,
+    "score_final": 69,
+    "classification": "PRECISA REVISAR",
+    "reason": "score intermediario ou informacao incompleta",
+    "missing_info": [
+      "domínio não informado"
+    ],
+    "gates_aplicados": [
+      "domínio não informado"
+    ],
+    "prioridade_operacional": "revisar_pedido_generico",
+    "next_action": "Confirmar plugin, domínio e autorização."
+  },
+  {
+    "ticket_id": "12359",
+    "status": "Open",
+    "customer_email": "cliente15@example.com",
+    "subject": "Plugin novo",
+    "domain_detected": "cliente15.com.br",
+    "plugin_detected": "",
+    "tipo_solicitacao": "pedido_generico_plugin",
+    "score_original": 75,
+    "score_final": 59,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: pedido_generico_plugin.",
+    "missing_info": [
+      "plugin não identificado"
+    ],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: pedido_generico_plugin.",
+      "plugin não identificado"
+    ],
+    "prioridade_operacional": "revisar_pedido_generico",
+    "next_action": "Confirmar plugin, domínio e autorização."
+  },
+  {
+    "ticket_id": "12360",
+    "status": "Open",
+    "customer_email": "cliente16@example.com",
+    "subject": "Pode ativar?",
+    "domain_detected": "cliente16.com.br",
+    "plugin_detected": "",
+    "tipo_solicitacao": "pedido_generico_plugin",
+    "score_original": 75,
+    "score_final": 59,
+    "classification": "PRECISA REVISAR",
+    "reason": "Não é ativação clara. Tipo detectado: pedido_generico_plugin.",
+    "missing_info": [
+      "plugin não identificado"
+    ],
+    "gates_aplicados": [
+      "Não é ativação clara. Tipo detectado: pedido_generico_plugin.",
+      "plugin não identificado"
+    ],
+    "prioridade_operacional": "revisar_pedido_generico",
+    "next_action": "Confirmar plugin, domínio e autorização."
+  }
+]

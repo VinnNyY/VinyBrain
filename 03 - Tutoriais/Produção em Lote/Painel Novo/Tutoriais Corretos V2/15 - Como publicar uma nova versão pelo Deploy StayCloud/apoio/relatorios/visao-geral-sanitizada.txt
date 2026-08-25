@@ -1,0 +1,122 @@
+Encontrou um bug?
+Nos reporte aqui
+.
+build 9c3a12f · 05.2026
+staycloud
+[dado censurado]
+Buscar site, domínio, fatura ou chamado...
+⌘ K
+dark
+Cloud
+deploy de git
+Todos projetos
+PROJETO · [ID censurado]
+Visão geral
+Deploys
+Recursos
+Logs
+Domínios
+Variáveis
+edge global · São Paulo + CDN StayCloud
+
+~/CLOUD
+›
+tutorial-deploy-cli-teste
+
+tutorial-deploy-cli-teste
+online
+
+blank · sao-1 · tutorial-deploy-cli-teste.stayai.space
+
+Abrir
+
+~/CLOUD/TUTORIAL-DEPLOY-CLI-TESTE
+
+Visão geral
+
+Estado atual da implantação de produção, checklist do projeto e métricas de borda.
+
+copiar URL
+tutorial-deploy-cli-teste.stayai.space
+IMPLANTAÇÃO DE PRODUÇÃO
+abrir
+status
+pronto
+domínio
+tutorial-deploy-cli-teste.stayai.space
+deploy
+79fac4f6-
+autor
+- ·
+há 1 min
+duração
+29s
+fase
+live
+Para atualizar produção, faça um novo deploy.
+ver todos os deploys
+
+01
+CONSUMO
+
+Consumo de recursos
+Fazer upgrade
+0%
+CPU
+0% / 100%
+4%
+Memória
+46MB / 1GB
+CPU
+0%
+Memória
+46 MB/ 1 GB
+CPU
+Memória
+24h
+7 dias
+30 dias
+14h
+20h
+02h
+08h
+12h
+
+02
+CHECKLIST
+
+Checklist de produção
+0 de 3
+Conectar repositório do GitHub
+Importe o repositório e publique sob demanda. Deploy automático por push em breve.
+Conectar
+Adicionar domínio próprio
+SSL automático via CDN global da StayCloud.
+Adicionar
+Configurar variáveis de produção
+Secrets criptografados em repouso e em trânsito.
+Adicionar
+
+03
+BRANCHES
+
+Branches ativas
+ver todos os deploys
+main
+sem branch detectada.
+Visão geral · tutorial-deploy-cli-teste · Cloud · StayCloud
+×
+Em uma escala de 0 a 10, o quanto você recomendaria a StayCloud a um amigo ou colega?
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Nada provável
+Muito provável

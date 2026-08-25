@@ -1,0 +1,779 @@
+{
+  "data": "2026-07-29T13:54:32.037Z",
+  "loginMode": "novo-login",
+  "billingRiskBeforeClick": false,
+  "clickedStart": true,
+  "initial": {
+    "url": "https://beta.staycloud.com/dashboard/cloud",
+    "bodySample": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git CLOUD Visão geral Deployments Logs Domínios Integrações Plano edge global · São Paulo + CDN StayCloud ~/cloud cloud ainda não ativo Criou um site ou SaaS com IA? Coloque no ar em minutos Fez uma página, um site ou um sistema com Claude, GPT ou v0? O Cloud coloca no ar pra você — com endereço próprio, segurança e velocidade. Sem servidor pra configurar e sem precisar saber programar. Começar grátis Falar com vendas Em contas com equipe, o titular também pode liberar a permissão Cloud para subusuários. Criou com IA? A gente publica pra você Funciona com Claude, GPT, v0 e outras IAs npx @staysdev/setup init Publique com um comando, sem configurar nada Traga do GitHub, envie um .zip ou comece do zero A gente coloca no ar automaticamente, seja site ou SaaS Endereço próprio, cadeado de segurança e velocidade global Acompanhe tudo: erros, ajustes e cada publicação staycloud deploy ▶ TUTORIAL Como fazer seu primeiro deploy O passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel. Assistir o tutorial Do Claude ou GPT direto pro ar Criou ou ajustou o projeto com IA? Copie o comando que ela te dá, cole no terminal e pronto — seu projeto sobe pra StayCloud. Traga de onde quiser Importe do GitHub, envie um arquivo .zip ou comece um projeto do zero. Você escolhe por onde começar. Rápido e seguro, sem esforço Seu projeto entra no ar com endereço próprio, cadeado de segurança e uma rede global que deixa tudo mais rápido pra quem acessa. Serve pra qualquer projeto Página de vendas, site, painel, MVP ou sistema pequeno: publique em poucos cliques e acompanhe tudo pelo painel. 01 VISÃO GERAL O que acontece quando você ativa Do primeiro arquivo até o site no ar, o Cloud cuida de cada passo — você não precisa montar nada por conta própria. 01 Escolha por onde começar Importe do GitHub, envie um arquivo .zip ou inicie pelo comando no terminal da sua IA. 02 A StayCloud monta tudo O Cloud reconhece o tipo do seu projeto, prepara tudo sozinho e aplica os limites do seu plano. 03 Publique e acompanhe Assim que sobe, você vê o endereço, o domínio, os erros, as configurações e as métricas — tudo no mesmo painel. 02 PRÓXIMO PASSO Ative o Cloud e coloque seu primeiro projeto no ar Ver tela de novo projeto × Em uma escala de 0 a 10, o quanto você recomendaria a StayCloud a um amigo ou colega? 0 1 2 3 4 5 6 7 8 9 10 Nada provável Muito provável",
+    "buttons": [
+      {
+        "text": "Nos reporte aqui Nos reporte aqui",
+        "x": 143,
+        "y": 8,
+        "width": 91,
+        "height": 17
+      },
+      {
+        "text": "Fechar aviso",
+        "x": 1402,
+        "y": 6,
+        "width": 22,
+        "height": 22
+      },
+      {
+        "text": "staycloud staycloud Ir para o início",
+        "x": 24,
+        "y": 50,
+        "width": 114,
+        "height": 26
+      },
+      {
+        "text": "[dado censurado] [dado censurado]",
+        "x": 167,
+        "y": 47,
+        "width": 142,
+        "height": 32
+      },
+      {
+        "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+        "x": 602,
+        "y": 47,
+        "width": 360,
+        "height": 32
+      },
+      {
+        "text": "dark dark Alternar tema",
+        "x": 1255,
+        "y": 48,
+        "width": 69,
+        "height": 30
+      },
+      {
+        "text": "Notificações",
+        "x": 1338,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Ajuda · reportar bug",
+        "x": 1384,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Home Home Home",
+        "x": 8,
+        "y": 105,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Hospedagem Hospedagem Hospedagem",
+        "x": 8,
+        "y": 143,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "WordPress WordPress WordPress",
+        "x": 8,
+        "y": 181,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "VPS VPS VPS",
+        "x": 8,
+        "y": 219,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Deploy Deploy Deploy",
+        "x": 8,
+        "y": 257,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Loja Loja Loja",
+        "x": 8,
+        "y": 314,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Domínios Domínios Domínios",
+        "x": 8,
+        "y": 352,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Faturas Faturas Faturas",
+        "x": 8,
+        "y": 390,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Suporte Suporte Suporte",
+        "x": 8,
+        "y": 447,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Ferramentas Ferramentas Ferramentas",
+        "x": 8,
+        "y": 485,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayFast Novo StayFast StayFast",
+        "x": 8,
+        "y": 523,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayAcademy StayAcademy StayAcademy",
+        "x": 8,
+        "y": 561,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+        "x": 16,
+        "y": 954,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Visão geral Visão geral",
+        "x": 78,
+        "y": 208,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Deployments Deployments",
+        "x": 78,
+        "y": 242,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Logs Logs",
+        "x": 78,
+        "y": 276,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Domínios Domínios",
+        "x": 78,
+        "y": 309,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Integrações Integrações",
+        "x": 78,
+        "y": 343,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Plano Plano",
+        "x": 78,
+        "y": 377,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "~/cloud ~/cloud",
+        "x": 328,
+        "y": 123,
+        "width": 44,
+        "height": 18
+      },
+      {
+        "text": "Começar grátis Começar grátis",
+        "x": 359,
+        "y": 434,
+        "width": 176,
+        "height": 40
+      },
+      {
+        "text": "Falar com vendas Falar com vendas",
+        "x": 543,
+        "y": 434,
+        "width": 169,
+        "height": 40
+      },
+      {
+        "text": "staycloud deploy staycloud deploy Assistir tutorial de deploy",
+        "x": 351,
+        "y": 680,
+        "width": 452,
+        "height": 254
+      },
+      {
+        "text": "Assistir o tutorial Assistir o tutorial",
+        "x": 825,
+        "y": 846,
+        "width": 160,
+        "height": 36
+      },
+      {
+        "text": "Ver tela de novo projeto Ver tela de novo projeto",
+        "x": 1165,
+        "y": 1461,
+        "width": 210,
+        "height": 40
+      },
+      {
+        "text": "× × Fechar",
+        "x": 1417,
+        "y": 921,
+        "width": 11,
+        "height": 20
+      },
+      {
+        "text": "0 0",
+        "x": 746,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "1 1",
+        "x": 786,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "2 2",
+        "x": 826,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "3 3",
+        "x": 866,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "4 4",
+        "x": 906,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "5 5",
+        "x": 946,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "6 6",
+        "x": 986,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "7 7",
+        "x": 1026,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "8 8",
+        "x": 1066,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "9 9",
+        "x": 1106,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      },
+      {
+        "text": "10 10",
+        "x": 1146,
+        "y": 929,
+        "width": 34,
+        "height": 34
+      }
+    ]
+  },
+  "afterStart": {
+    "url": "https://beta.staycloud.com/dashboard/cloud",
+    "bodySample": "staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git CLOUD Visão geral Deployments Logs Domínios Integrações Plano edge global · São Paulo + CDN StayCloud ~/cloud cloud ainda não ativo Criou um site ou SaaS com IA? Coloque no ar em minutos Fez uma página, um site ou um sistema com Claude, GPT ou v0? O Cloud coloca no ar pra você — com endereço próprio, segurança e velocidade. Sem servidor pra configurar e sem precisar saber programar. Começar grátis Falar com vendas Em contas com equipe, o titular também pode liberar a permissão Cloud para subusuários. Criou com IA? A gente publica pra você Funciona com Claude, GPT, v0 e outras IAs npx @staysdev/setup init Publique com um comando, sem configurar nada Traga do GitHub, envie um .zip ou comece do zero A gente coloca no ar automaticamente, seja site ou SaaS Endereço próprio, cadeado de segurança e velocidade global Acompanhe tudo: erros, ajustes e cada publicação staycloud deploy ▶ TUTORIAL Como fazer seu primeiro deploy O passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel. Assistir o tutorial Do Claude ou GPT direto pro ar Criou ou ajustou o projeto com IA? Copie o comando que ela te dá, cole no terminal e pronto — seu projeto sobe pra StayCloud. Traga de onde quiser Importe do GitHub, envie um arquivo .zip ou comece um projeto do zero. Você escolhe por onde começar. Rápido e seguro, sem esforço Seu projeto entra no ar com endereço próprio, cadeado de segurança e uma rede global que deixa tudo mais rápido pra quem acessa. Serve pra qualquer projeto Página de vendas, site, painel, MVP ou sistema pequeno: publique em poucos cliques e acompanhe tudo pelo painel. 01 VISÃO GERAL O que acontece quando você ativa Do primeiro arquivo até o site no ar, o Cloud cuida de cada passo — você não precisa montar nada por conta própria. 01 Escolha por onde começar Importe do GitHub, envie um arquivo .zip ou inicie pelo comando no terminal da sua IA. 02 A StayCloud monta tudo O Cloud reconhece o tipo do seu projeto, prepara tudo sozinho e aplica os limites do seu plano. 03 Publique e acompanhe Assim que sobe, você vê o endereço, o domínio, os erros, as configurações e as métricas — tudo no mesmo painel. 02 PRÓXIMO PASSO Ative o Cloud e coloque seu primeiro projeto no ar Ver tela de novo projeto",
+    "buttons": [
+      {
+        "text": "staycloud staycloud Ir para o início",
+        "x": 24,
+        "y": 15,
+        "width": 114,
+        "height": 26
+      },
+      {
+        "text": "[dado censurado] [dado censurado]",
+        "x": 167,
+        "y": 12,
+        "width": 178,
+        "height": 32
+      },
+      {
+        "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+        "x": 620,
+        "y": 12,
+        "width": 360,
+        "height": 32
+      },
+      {
+        "text": "dark dark Alternar tema",
+        "x": 1255,
+        "y": 13,
+        "width": 69,
+        "height": 30
+      },
+      {
+        "text": "Notificações",
+        "x": 1338,
+        "y": 12,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Ajuda · reportar bug",
+        "x": 1384,
+        "y": 12,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Home Home Home",
+        "x": 8,
+        "y": 70,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Hospedagem Hospedagem Hospedagem",
+        "x": 8,
+        "y": 108,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "WordPress WordPress WordPress",
+        "x": 8,
+        "y": 146,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "VPS VPS VPS",
+        "x": 8,
+        "y": 184,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Deploy Deploy Deploy",
+        "x": 8,
+        "y": 222,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Loja Loja Loja",
+        "x": 8,
+        "y": 279,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Domínios Domínios Domínios",
+        "x": 8,
+        "y": 317,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Faturas Faturas Faturas",
+        "x": 8,
+        "y": 355,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Suporte Suporte",
+        "x": 8,
+        "y": 412,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Ferramentas Ferramentas Ferramentas",
+        "x": 8,
+        "y": 450,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayFast Novo StayFast StayFast",
+        "x": 8,
+        "y": 488,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayAcademy StayAcademy StayAcademy",
+        "x": 8,
+        "y": 526,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+        "x": 16,
+        "y": 954,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Visão geral Visão geral",
+        "x": 78,
+        "y": 173,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Deployments Deployments",
+        "x": 78,
+        "y": 207,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Logs Logs",
+        "x": 78,
+        "y": 241,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Domínios Domínios",
+        "x": 78,
+        "y": 274,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Integrações Integrações",
+        "x": 78,
+        "y": 308,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Plano Plano",
+        "x": 78,
+        "y": 342,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "~/cloud ~/cloud",
+        "x": 328,
+        "y": 88,
+        "width": 44,
+        "height": 18
+      },
+      {
+        "text": "Começar grátis Começar grátis",
+        "x": 359,
+        "y": 399,
+        "width": 154,
+        "height": 40
+      },
+      {
+        "text": "Falar com vendas Falar com vendas",
+        "x": 521,
+        "y": 399,
+        "width": 169,
+        "height": 40
+      },
+      {
+        "text": "staycloud deploy staycloud deploy Assistir tutorial de deploy",
+        "x": 351,
+        "y": 645,
+        "width": 452,
+        "height": 254
+      },
+      {
+        "text": "Assistir o tutorial Assistir o tutorial",
+        "x": 825,
+        "y": 811,
+        "width": 160,
+        "height": 36
+      },
+      {
+        "text": "Ver tela de novo projeto Ver tela de novo projeto",
+        "x": 1165,
+        "y": 1426,
+        "width": 210,
+        "height": 40
+      }
+    ]
+  },
+  "finalState": {
+    "url": "https://beta.staycloud.com/dashboard/cloud",
+    "bodySample": "staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git CLOUD Visão geral Deployments Logs Domínios Integrações Plano edge global · São Paulo + CDN StayCloud ~/cloud cloud ainda não ativo Criou um site ou SaaS com IA? Coloque no ar em minutos Fez uma página, um site ou um sistema com Claude, GPT ou v0? O Cloud coloca no ar pra você — com endereço próprio, segurança e velocidade. Sem servidor pra configurar e sem precisar saber programar. Começar grátis Falar com vendas Em contas com equipe, o titular também pode liberar a permissão Cloud para subusuários. Criou com IA? A gente publica pra você Funciona com Claude, GPT, v0 e outras IAs npx @staysdev/setup init Publique com um comando, sem configurar nada Traga do GitHub, envie um .zip ou comece do zero A gente coloca no ar automaticamente, seja site ou SaaS Endereço próprio, cadeado de segurança e velocidade global Acompanhe tudo: erros, ajustes e cada publicação staycloud deploy ▶ TUTORIAL Como fazer seu primeiro deploy O passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel. Assistir o tutorial Do Claude ou GPT direto pro ar Criou ou ajustou o projeto com IA? Copie o comando que ela te dá, cole no terminal e pronto — seu projeto sobe pra StayCloud. Traga de onde quiser Importe do GitHub, envie um arquivo .zip ou comece um projeto do zero. Você escolhe por onde começar. Rápido e seguro, sem esforço Seu projeto entra no ar com endereço próprio, cadeado de segurança e uma rede global que deixa tudo mais rápido pra quem acessa. Serve pra qualquer projeto Página de vendas, site, painel, MVP ou sistema pequeno: publique em poucos cliques e acompanhe tudo pelo painel. 01 VISÃO GERAL O que acontece quando você ativa Do primeiro arquivo até o site no ar, o Cloud cuida de cada passo — você não precisa montar nada por conta própria. 01 Escolha por onde começar Importe do GitHub, envie um arquivo .zip ou inicie pelo comando no terminal da sua IA. 02 A StayCloud monta tudo O Cloud reconhece o tipo do seu projeto, prepara tudo sozinho e aplica os limites do seu plano. 03 Publique e acompanhe Assim que sobe, você vê o endereço, o domínio, os erros, as configurações e as métricas — tudo no mesmo painel. 02 PRÓXIMO PASSO Ative o Cloud e coloque seu primeiro projeto no ar Ver tela de novo projeto",
+    "buttons": [
+      {
+        "text": "staycloud staycloud Ir para o início",
+        "x": 24,
+        "y": 15,
+        "width": 114,
+        "height": 26
+      },
+      {
+        "text": "[dado censurado] [dado censurado]",
+        "x": 167,
+        "y": 12,
+        "width": 178,
+        "height": 32
+      },
+      {
+        "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+        "x": 620,
+        "y": 12,
+        "width": 360,
+        "height": 32
+      },
+      {
+        "text": "dark dark Alternar tema",
+        "x": 1255,
+        "y": 13,
+        "width": 69,
+        "height": 30
+      },
+      {
+        "text": "Notificações",
+        "x": 1338,
+        "y": 12,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Ajuda · reportar bug",
+        "x": 1384,
+        "y": 12,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Home Home Home",
+        "x": 8,
+        "y": 70,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Hospedagem Hospedagem Hospedagem",
+        "x": 8,
+        "y": 108,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "WordPress WordPress WordPress",
+        "x": 8,
+        "y": 146,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "VPS VPS VPS",
+        "x": 8,
+        "y": 184,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Deploy Deploy Deploy",
+        "x": 8,
+        "y": 222,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Loja Loja Loja",
+        "x": 8,
+        "y": 279,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Domínios Domínios Domínios",
+        "x": 8,
+        "y": 317,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Faturas Faturas Faturas",
+        "x": 8,
+        "y": 355,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Suporte Suporte",
+        "x": 8,
+        "y": 412,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Ferramentas Ferramentas Ferramentas",
+        "x": 8,
+        "y": 450,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayFast Novo StayFast StayFast",
+        "x": 8,
+        "y": 488,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayAcademy StayAcademy StayAcademy",
+        "x": 8,
+        "y": 526,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+        "x": 16,
+        "y": 954,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Visão geral Visão geral",
+        "x": 78,
+        "y": 173,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Deployments Deployments",
+        "x": 78,
+        "y": 207,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Logs Logs",
+        "x": 78,
+        "y": 241,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Domínios Domínios",
+        "x": 78,
+        "y": 274,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Integrações Integrações",
+        "x": 78,
+        "y": 308,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Plano Plano",
+        "x": 78,
+        "y": 342,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "~/cloud ~/cloud",
+        "x": 328,
+        "y": 88,
+        "width": 44,
+        "height": 18
+      },
+      {
+        "text": "Começar grátis Começar grátis",
+        "x": 359,
+        "y": 399,
+        "width": 154,
+        "height": 40
+      },
+      {
+        "text": "Falar com vendas Falar com vendas",
+        "x": 521,
+        "y": 399,
+        "width": 169,
+        "height": 40
+      },
+      {
+        "text": "staycloud deploy staycloud deploy Assistir tutorial de deploy",
+        "x": 351,
+        "y": 645,
+        "width": 452,
+        "height": 254
+      },
+      {
+        "text": "Assistir o tutorial Assistir o tutorial",
+        "x": 825,
+        "y": 811,
+        "width": 160,
+        "height": 36
+      },
+      {
+        "text": "Ver tela de novo projeto Ver tela de novo projeto",
+        "x": 1165,
+        "y": 1426,
+        "width": 210,
+        "height": 40
+      }
+    ]
+  },
+  "commandFoundSanitized": "npx @staysdev/setup init",
+  "commandHasToken": false,
+  "printsFinais": [
+    "01-iniciar-deploy-sanitizado.png",
+    "02-informar-projeto-sanitizado.png"
+  ]
+}

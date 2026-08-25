@@ -1,0 +1,66 @@
+{
+  "documentId": 2099,
+  "editUrl": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2099&action=edit",
+  "publicUrl": "https://ajuda.staycloud.com.br/docs/alterar-senha-de-e-mail/",
+  "slugBefore": "alterar-senha-de-e-mail",
+  "slugAfter": "alterar-senha-de-e-mail",
+  "statusBefore": "publish",
+  "statusAfter": "publish",
+  "titleBefore": "Como alterar a senha de uma conta de e-mail no Painel Novo da StayCloud",
+  "titleAfter": "Como alterar a senha de uma conta de e-mail no Painel Novo da StayCloud",
+  "categoriesBefore": [
+    17
+  ],
+  "categoriesAfter": [
+    17
+  ],
+  "tagsAfter": [
+    28,
+    20,
+    30,
+    29,
+    22
+  ],
+  "uploaded": [
+    {
+      "file": "passo-01-gerenciar-servico.png",
+      "id": 2868,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/passo-01-gerenciar-servico.png",
+      "alt": "Alterar senha de e-mail StayCloud começando pelo botão Gerenciar do serviço correto"
+    },
+    {
+      "file": "passo-02-contas-email.png",
+      "id": 2869,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/passo-02-contas-email.png",
+      "alt": "Área de E-mails no Painel Novo da StayCloud para gerenciar contas"
+    },
+    {
+      "file": "passo-03-acao-alterar-senha.png",
+      "id": 2870,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/passo-03-acao-alterar-senha.png",
+      "alt": "Ação Resetar senha em uma conta de e-mail StayCloud no Painel Novo"
+    },
+    {
+      "file": "passo-04-nova-senha.png",
+      "id": 2871,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/passo-04-nova-senha.png",
+      "alt": "Alterar senha de e-mail StayCloud no modal de Resetar senha do Painel Novo"
+    }
+  ],
+  "rankMathResponse": {
+    "slug": true,
+    "schemas": []
+  },
+  "seo": {
+    "focusKeyword": "alterar senha de e-mail",
+    "seoTitle": "Alterar senha de e-mail StayCloud em 4 passos",
+    "metaDescription": "Aprenda a alterar senha de e-mail StayCloud pelo Painel Novo, localizar a conta correta e definir uma nova senha com segurança.",
+    "excerpt": "Veja como alterar a senha de uma conta de e-mail StayCloud pelo Painel Novo, conferindo o serviço correto e usando a ação Resetar senha com segurança.",
+    "socialTitle": "Alterar senha de e-mail StayCloud pelo Painel Novo",
+    "socialDescription": "Aprenda a localizar uma conta de e-mail no Painel Novo da StayCloud e redefinir a senha com segurança."
+  },
+  "updatedAt": "2026-07-28T13:05:52.041Z",
+  "rankMathScoreBefore": 70,
+  "rankMathScoreAfter": 87,
+  "rankMathRemaining": "Adicional 1 erro: recomendação editorial não crítica; gate aprovado com 87/100."
+}

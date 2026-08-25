@@ -1,0 +1,42 @@
+{
+  "tutorial": "Como localizar a Central de Ajuda pelo Painel Novo da StayCloud",
+  "origem": "Upload autorizado por Vinicius em 2026-07-27. Publicacao autorizada.",
+  "midias": [
+    {
+      "etapa": 1,
+      "file": "prints-finais/01-menu-suporte-sanitizado.png",
+      "title": "Central de Ajuda StayCloud - Menu Suporte",
+      "alt": "Menu Suporte destacado para acessar a Central de Ajuda StayCloud.",
+      "caption": "Comece pelo menu Suporte no Painel Novo.",
+      "filename": "01-menu-suporte-sanitizado.png",
+      "media_id": 2838,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-menu-suporte-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 2,
+      "file": "prints-finais/02-central-ajuda-sanitizado.png",
+      "title": "Central de Ajuda StayCloud - Opcao Central de ajuda",
+      "alt": "Opcao Central de ajuda destacada na area de Suporte do Painel Novo.",
+      "caption": "A opcao Central de ajuda abre a area de tutoriais do painel.",
+      "filename": "02-central-ajuda-sanitizado.png",
+      "media_id": 2839,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-central-ajuda-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 3,
+      "file": "prints-finais/03-base-conhecimento-sanitizado.png",
+      "title": "Central de Ajuda StayCloud - Campo de pesquisa",
+      "alt": "Central de Ajuda StayCloud aberta com o campo de pesquisa de tutoriais destacado.",
+      "caption": "Use o campo de pesquisa para localizar tutoriais dentro da Central de Ajuda.",
+      "filename": "03-base-conhecimento-sanitizado.png",
+      "media_id": 2840,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-base-conhecimento-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    }
+  ]
+}

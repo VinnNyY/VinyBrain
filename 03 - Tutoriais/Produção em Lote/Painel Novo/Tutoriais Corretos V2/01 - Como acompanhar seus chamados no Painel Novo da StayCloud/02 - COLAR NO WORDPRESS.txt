@@ -1,0 +1,56 @@
+<h1>Como acompanhar seus chamados no Painel Novo da StayCloud</h1>
+<p>Para acompanhar chamados StayCloud pelo Painel Novo, acesse a área de Suporte e consulte o histórico do atendimento antes de abrir uma nova solicitação. Esse caminho ajuda a verificar se o chamado está em andamento, se aguarda alguma resposta sua ou se já foi resolvido pela equipe.</p>
+<p>O acompanhamento evita mensagens duplicadas e mantém as informações do atendimento no mesmo histórico. Sempre que precisar conferir o andamento de uma solicitação, revise primeiro a lista de chamados e os filtros disponíveis no painel.</p>
+<h2>Quando usar para acompanhar chamados StayCloud</h2>
+<p>Use este tutorial quando você já abriu um atendimento e quer consultar o status, revisar a última resposta ou confirmar se existe alguma pendência. Ele também ajuda quando você recebeu uma notificação por e-mail e deseja localizar o chamado dentro do Painel Novo.</p>
+<p>Se o seu objetivo for registrar uma nova solicitação, o caminho correto é outro. Nesse caso, consulte o tutorial <a href="https://ajuda.staycloud.com.br/docs/abrir-ticket-no-painel-staycloud/">Como abrir ticket no painel StayCloud</a> antes de criar um novo atendimento.</p>
+<h2>Antes de começar</h2>
+<ul>
+  <li>Entre no Painel Novo usando a conta vinculada ao atendimento.</li>
+  <li>Confira se você está no ambiente correto antes de consultar o suporte.</li>
+  <li>Tenha em mente o assunto do chamado para localizar o atendimento com mais facilidade.</li>
+  <li>Não abra outro chamado sobre o mesmo problema antes de verificar o histórico existente.</li>
+</ul>
+<h2>Como consultar chamados no Painel Novo</h2>
+<p>O Painel Novo organiza os atendimentos dentro da área de Suporte. Ao abrir essa seção, você encontra as opções para iniciar solicitações, reportar problemas e acompanhar chamados já registrados. A sequência abaixo mostra apenas a consulta de chamados existentes.</p>
+<h3>1. Abra o Suporte para acompanhar chamados StayCloud</h3>
+<p>No menu lateral do painel, clique em <strong>Suporte</strong>. Essa área reúne as opções de atendimento e acompanhamento. Observe se o menu lateral está visível e se a conta exibida no painel corresponde à conta usada para abrir o chamado.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/acompanhar-chamados-painel-novo-staycloud-01-sanitizado-4.png" alt="Menu Suporte para acompanhar chamados StayCloud no Painel Novo.">
+  <figcaption>Comece pela opção Suporte no menu lateral do painel.</figcaption>
+</figure>
+<h3>2. Selecione Meus chamados no Suporte</h3>
+<p>Na área de <strong>Suporte</strong>, clique em <strong>Meus chamados</strong>. Essa opção mostra os atendimentos registrados em sua conta e permite consultar o histórico sem iniciar uma nova conversa com a equipe.</p>
+<p>Se você não encontrar o chamado esperado, confira se está usando o login correto. Também vale revisar se o atendimento foi aberto por outro usuário autorizado da mesma conta.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/acompanhar-chamados-painel-novo-staycloud-02-sanitizado-4.png" alt="Opção Meus chamados na área de Suporte da StayCloud.">
+  <figcaption>Use Meus chamados para consultar atendimentos já registrados em sua conta.</figcaption>
+</figure>
+<h3>3. Confira o status do chamado</h3>
+<p>Use os filtros acima da lista para localizar chamados abertos, em andamento, aguardando você ou resolvidos. Ao consultar o status do chamado, leia a última atualização e veja se existe alguma ação pendente da sua parte.</p>
+<p>Quando a lista parecer vazia, o motivo mais comum é um filtro selecionado. Altere o filtro de status e procure novamente antes de concluir que o atendimento não existe.</p>
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/acompanhar-chamados-painel-novo-staycloud-03-sanitizado-4.png" alt="Lista e filtros de status dos chamados no Painel Novo da StayCloud.">
+  <figcaption>Use os filtros para localizar o atendimento que deseja acompanhar.</figcaption>
+</figure>
+<h2>Erros comuns ao consultar chamados</h2>
+<ul>
+  <li>Entrar em uma conta diferente daquela usada para abrir o atendimento.</li>
+  <li>Procurar o histórico fora da área <strong>Suporte</strong>.</li>
+  <li>Selecionar um filtro que não corresponde ao status atual do chamado.</li>
+  <li>Abrir uma nova solicitação sobre o mesmo assunto sem revisar o histórico.</li>
+  <li>Confundir um chamado de suporte com um reporte de bug do painel.</li>
+</ul>
+<p>Quando o problema for falha visual, erro de tela ou comportamento inesperado do painel, o artigo <a href="https://ajuda.staycloud.com.br/docs/reportar-bug-staycloud/">Como reportar um bug no Painel StayCloud</a> pode ser mais adequado do que abrir um chamado comum.</p>
+<h2>Quando abrir um novo chamado</h2>
+<p>Abra um novo chamado somente quando o assunto for diferente ou quando não houver atendimento anterior sobre o mesmo problema. Para continuar uma conversa já iniciada, use <strong>Meus chamados</strong> e responda no histórico existente.</p>
+<p>Essa prática facilita a análise da equipe, evita perda de contexto e reduz o risco de respostas duplicadas. Se precisar complementar informações, envie detalhes objetivos, como domínio afetado, serviço relacionado, horário aproximado do erro e mensagem exibida na tela.</p>
+<h2>Dúvidas frequentes sobre chamados StayCloud</h2>
+<h3>Por que meu chamado não aparece?</h3>
+<p>O chamado pode estar em outro filtro de status ou pode ter sido aberto por outro usuário da conta. Verifique os filtros e confirme se você entrou com o login correto.</p>
+<h3>Posso abrir outro chamado sobre o mesmo problema?</h3>
+<p>Evite abrir outro chamado sobre o mesmo problema. O ideal é acompanhar chamados StayCloud pelo histórico já existente e responder nele quando houver novas informações.</p>
+<h3>Como verificar se o chamado aguarda minha resposta?</h3>
+<p>Abra <strong>Meus chamados</strong>, revise o status exibido na lista e leia a última mensagem do atendimento. Se houver solicitação de dados ou confirmação, responda no próprio chamado.</p>
+<h2>Conclusão</h2>
+<p>Você pode acompanhar chamados StayCloud pelo Painel Novo sempre que precisar revisar o histórico, consultar o status ou confirmar se existe alguma pendência. Antes de abrir uma nova solicitação, consulte <strong>Meus chamados</strong> e mantenha cada atendimento no histórico correto.</p>

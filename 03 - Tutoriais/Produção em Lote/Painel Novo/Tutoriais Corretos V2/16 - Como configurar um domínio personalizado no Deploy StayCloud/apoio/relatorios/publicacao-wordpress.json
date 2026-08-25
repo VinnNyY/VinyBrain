@@ -1,0 +1,72 @@
+{
+  "documentId": 2962,
+  "editUrl": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2962&action=edit",
+  "publicUrl": "https://ajuda.staycloud.com.br/docs/dominio-personalizado-deploy-staycloud/",
+  "slug": "dominio-personalizado-deploy-staycloud",
+  "status": "publish",
+  "title": "DOMÍNIO PERSONALIZADO DEPLOY STAYCLOUD EM 6 PASSOS",
+  "categories": [
+    17
+  ],
+  "tags": [
+    45,
+    44,
+    32,
+    43,
+    42,
+    20,
+    22
+  ],
+  "uploaded": [
+    {
+      "file": "01-aplicacao-correta-sanitizado.png",
+      "id": 2957,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/01-aplicacao-correta-sanitizado.png",
+      "alt": "Aplicação correta para domínio personalizado Deploy StayCloud",
+      "title": "Aplicação correta no Cloud"
+    },
+    {
+      "file": "02-area-dominio-sanitizado.png",
+      "id": 2958,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/02-area-dominio-sanitizado.png",
+      "alt": "Área Domínios para domínio personalizado Deploy StayCloud",
+      "title": "Área Domínios no Cloud"
+    },
+    {
+      "file": "03-adicionar-dominio-sanitizado.png",
+      "id": 2959,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/03-adicionar-dominio-sanitizado.png",
+      "alt": "Campo para adicionar domínio personalizado Deploy StayCloud",
+      "title": "Campo para adicionar domínio"
+    },
+    {
+      "file": "04-instrucoes-dns-sanitizado.png",
+      "id": 2960,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/04-instrucoes-dns-sanitizado.png",
+      "alt": "Registro CNAME para domínio personalizado Deploy StayCloud",
+      "title": "Registro CNAME solicitado"
+    },
+    {
+      "file": "06-validacao-sanitizado.png",
+      "id": 2961,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/08/06-validacao-sanitizado.png",
+      "alt": "Status de validação do domínio personalizado Deploy StayCloud",
+      "title": "Status de validação do domínio"
+    }
+  ],
+  "rankMathResponse": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankMathScoreBeforePublish": 80,
+  "rankMathScoreAfterPublish": 80,
+  "seo": {
+    "focusKeyword": "domínio personalizado Deploy StayCloud",
+    "seoTitle": "Domínio personalizado Deploy StayCloud em 6 passos",
+    "metaDescription": "Domínio personalizado Deploy StayCloud: aprenda a adicionar o registro DNS e validar o endereço da aplicação.",
+    "excerpt": "Veja como acessar a área Domínios do Deploy StayCloud, adicionar um domínio, identificar o CNAME solicitado e acompanhar a validação.",
+    "socialTitle": "Domínio personalizado Deploy StayCloud em 6 passos",
+    "socialDescription": "Configure domínio personalizado Deploy StayCloud, entenda o CNAME solicitado e acompanhe o status na área Domínios."
+  },
+  "publishedAt": "2026-08-03T16:48:37.583Z"
+}

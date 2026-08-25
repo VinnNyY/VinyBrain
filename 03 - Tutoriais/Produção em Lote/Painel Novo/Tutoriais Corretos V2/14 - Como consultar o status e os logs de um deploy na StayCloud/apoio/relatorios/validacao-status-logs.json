@@ -1,0 +1,1280 @@
+{
+  "loginStatus": "novo-login",
+  "projectName": "tutorial-deploy-cli-teste",
+  "steps": [
+    {
+      "label": "cloud-overview",
+      "url": "https://beta.staycloud.com/dashboard/cloud",
+      "title": "Cloud · StayCloud",
+      "bodySample": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git CLOUD Visão geral Deployments Logs Domínios Integrações Plano edge global · São Paulo + CDN StayCloud ~/cloud ~/CLOUD Cloud Deploy de Git em produção. Build em São Paulo, edge global via CDN da StayCloud. Reportar bug atualizar Conectar GitHub Novo projeto Como fazer seu primeiro deploy O passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel. Assistir PROJETOS 2 ativos NO AR 2 servindo tráfego BUILDANDO 0 em fila ou rodando DEPLOYS · 30D 2 últimos 30 dias 01 PROJETOS Seus projetos Todos 2 No ar 2 Build 0 Falha 0 tutorial-deploy-cli-teste HTML estático · main · - · - pronto há 17 horas domínio [dominio censurado]/ Abrir tutorial-deploy-teste HTML estático · main · - · - pronto há 21 horas domínio [dominio censurado]/ Abrir",
+      "controls": [
+        {
+          "text": "Nos reporte aqui Nos reporte aqui",
+          "x": 143,
+          "y": 8,
+          "width": 91,
+          "height": 17
+        },
+        {
+          "text": "Fechar aviso",
+          "x": 1402,
+          "y": 6,
+          "width": 22,
+          "height": 22
+        },
+        {
+          "text": "staycloud staycloud Ir para o início",
+          "x": 24,
+          "y": 50,
+          "width": 114,
+          "height": 26
+        },
+        {
+          "text": "[dado censurado] [dado censurado]",
+          "x": 167,
+          "y": 47,
+          "width": 142,
+          "height": 32
+        },
+        {
+          "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+          "x": 602,
+          "y": 47,
+          "width": 360,
+          "height": 32
+        },
+        {
+          "text": "dark dark Alternar tema",
+          "x": 1255,
+          "y": 48,
+          "width": 69,
+          "height": 30
+        },
+        {
+          "text": "Notificações",
+          "x": 1338,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Ajuda · reportar bug",
+          "x": 1384,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Home Home Home",
+          "x": 8,
+          "y": 105,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Hospedagem Hospedagem Hospedagem",
+          "x": 8,
+          "y": 143,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "WordPress WordPress WordPress",
+          "x": 8,
+          "y": 181,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "VPS VPS VPS",
+          "x": 8,
+          "y": 219,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Deploy Deploy Deploy",
+          "x": 8,
+          "y": 257,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Loja Loja Loja",
+          "x": 8,
+          "y": 314,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Domínios Domínios Domínios",
+          "x": 8,
+          "y": 352,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Faturas Faturas Faturas",
+          "x": 8,
+          "y": 390,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Suporte Suporte Suporte",
+          "x": 8,
+          "y": 447,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Ferramentas Ferramentas Ferramentas",
+          "x": 8,
+          "y": 485,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayFast Novo StayFast StayFast",
+          "x": 8,
+          "y": 523,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayAcademy StayAcademy StayAcademy",
+          "x": 8,
+          "y": 561,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+          "x": 16,
+          "y": 1154,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Visão geral Visão geral",
+          "x": 78,
+          "y": 208,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Deployments Deployments",
+          "x": 78,
+          "y": 242,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Logs Logs",
+          "x": 78,
+          "y": 276,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Domínios Domínios",
+          "x": 78,
+          "y": 309,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Integrações Integrações",
+          "x": 78,
+          "y": 343,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Plano Plano",
+          "x": 78,
+          "y": 377,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "~/cloud ~/cloud",
+          "x": 328,
+          "y": 123,
+          "width": 44,
+          "height": 18
+        },
+        {
+          "text": "Reportar bug Reportar bug",
+          "x": 880,
+          "y": 236,
+          "width": 125,
+          "height": 32
+        },
+        {
+          "text": "atualizar atualizar",
+          "x": 1013,
+          "y": 237,
+          "width": 97,
+          "height": 30
+        },
+        {
+          "text": "Conectar GitHub Conectar GitHub",
+          "x": 1118,
+          "y": 237,
+          "width": 143,
+          "height": 30
+        },
+        {
+          "text": "Novo projeto Novo projeto",
+          "x": 1269,
+          "y": 234,
+          "width": 131,
+          "height": 36
+        },
+        {
+          "text": "Assistir Assistir",
+          "x": 1246,
+          "y": 310,
+          "width": 97,
+          "height": 32
+        },
+        {
+          "text": "Dispensar tutorial",
+          "x": 1357,
+          "y": 312,
+          "width": 28,
+          "height": 28
+        },
+        {
+          "text": "Ajuda: Status do deploy",
+          "x": 975,
+          "y": 401,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "Ajuda: O que é deploy",
+          "x": 1259,
+          "y": 401,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "Todos 2 Todos 2",
+          "x": 1114,
+          "y": 536,
+          "width": 66,
+          "height": 24
+        },
+        {
+          "text": "No ar 2 No ar 2",
+          "x": 1181,
+          "y": 536,
+          "width": 62,
+          "height": 24
+        },
+        {
+          "text": "Build 0 Build 0",
+          "x": 1245,
+          "y": 536,
+          "width": 61,
+          "height": 24
+        },
+        {
+          "text": "Falha 0 Falha 0",
+          "x": 1308,
+          "y": 536,
+          "width": 63,
+          "height": 24
+        },
+        {
+          "text": "tutorial-deploy-cli-teste HTML estático · main · - · - pronto há 17 horas domínio [dominio censurado]/ Abrir tutorial-deploy-cli-teste HTML estático · main · - · - pronto há 17 hor",
+          "x": 329,
+          "y": 582,
+          "width": 1070,
+          "height": 97
+        },
+        {
+          "text": "tutorial-deploy-teste HTML estático · main · - · - pronto há 21 horas domínio [dominio censurado]/ Abrir tutorial-deploy-teste HTML estático · main · - · - pronto há 21 horas domín",
+          "x": 329,
+          "y": 678,
+          "width": 1070,
+          "height": 98
+        }
+      ]
+    },
+    {
+      "label": "project-or-overview-after-click",
+      "url": "https://beta.staycloud.com/dashboard/cloud/[ID CENSURADO]",
+      "title": "Visão geral · tutorial-deploy-cli-teste · Cloud · StayCloud",
+      "bodySample": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git Todos projetos PROJETO · [ID censurado] Visão geral Deploys Logs Domínios Variáveis edge global · São Paulo + CDN StayCloud ~/CLOUD › tutorial-deploy-cli-teste tutorial-deploy-cli-teste online blank · sao-1 · [dominio censurado] Abrir ~/CLOUD/TUTORIAL-DEPLOY-CLI-TESTE Visão geral Estado atual da implantação de produção, checklist do projeto e métricas de borda. copiar URL [dominio censurado] IMPLANTAÇÃO DE PRODUÇÃO abrir status pronto domínio [dominio censurado] deploy [ID CENSURADO] autor - · há 16 h duração 23s fase live Para atualizar produção, faça um novo deploy. ver todos os deploys 01 CONSUMO Consumo de recursos 0% CPU 0% / 100% 4% Memória 19MB / 512MB CPU 0% Memória 19 MB/ 512 MB CPU Memória 24h 7 dias 30 dias 15h 19h 23h 03h 07h 08h 02 CHECKLIST Checklist de produção 0 de 3 Conectar repositório do GitHub Importe o repositório e publique sob demanda. Deploy automático por push em breve. Conectar Adicionar domínio próprio SSL automático via CDN global da StayCloud. Adicionar Configurar variáveis de produção Secrets criptografados em repouso e em trânsito. Adicionar 03 BRANCHES Branches ativas ver todos os deploys main sem branch detectada. Visão geral · tutorial-deploy-cli-teste · Cloud · StayCloud",
+      "controls": [
+        {
+          "text": "Nos reporte aqui Nos reporte aqui",
+          "x": 143,
+          "y": 8,
+          "width": 91,
+          "height": 17
+        },
+        {
+          "text": "Fechar aviso",
+          "x": 1402,
+          "y": 6,
+          "width": 22,
+          "height": 22
+        },
+        {
+          "text": "staycloud staycloud Ir para o início",
+          "x": 24,
+          "y": 50,
+          "width": 114,
+          "height": 26
+        },
+        {
+          "text": "[dado censurado] [dado censurado]",
+          "x": 167,
+          "y": 47,
+          "width": 178,
+          "height": 32
+        },
+        {
+          "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+          "x": 620,
+          "y": 47,
+          "width": 360,
+          "height": 32
+        },
+        {
+          "text": "dark dark Alternar tema",
+          "x": 1255,
+          "y": 48,
+          "width": 69,
+          "height": 30
+        },
+        {
+          "text": "Notificações",
+          "x": 1338,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Ajuda · reportar bug",
+          "x": 1384,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Home Home Home",
+          "x": 8,
+          "y": 105,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Hospedagem Hospedagem Hospedagem",
+          "x": 8,
+          "y": 143,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "WordPress WordPress WordPress",
+          "x": 8,
+          "y": 181,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "VPS VPS VPS",
+          "x": 8,
+          "y": 219,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Deploy Deploy Deploy",
+          "x": 8,
+          "y": 257,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Loja Loja Loja",
+          "x": 8,
+          "y": 314,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Domínios Domínios Domínios",
+          "x": 8,
+          "y": 352,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Faturas Faturas Faturas",
+          "x": 8,
+          "y": 390,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Suporte Suporte Suporte",
+          "x": 8,
+          "y": 447,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Ferramentas Ferramentas Ferramentas",
+          "x": 8,
+          "y": 485,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayFast Novo StayFast StayFast",
+          "x": 8,
+          "y": 523,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayAcademy StayAcademy StayAcademy",
+          "x": 8,
+          "y": 561,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+          "x": 16,
+          "y": 1154,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Todos projetos Todos projetos",
+          "x": 82,
+          "y": 187,
+          "width": 112,
+          "height": 25
+        },
+        {
+          "text": "Visão geral Visão geral",
+          "x": 78,
+          "y": 252,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Deploys Deploys",
+          "x": 78,
+          "y": 285,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Logs Logs",
+          "x": 78,
+          "y": 319,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Domínios Domínios",
+          "x": 78,
+          "y": 353,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Variáveis Variáveis",
+          "x": 78,
+          "y": 387,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "~/CLOUD ~/cloud",
+          "x": 328,
+          "y": 124,
+          "width": 53,
+          "height": 17
+        },
+        {
+          "text": "Abrir Abrir",
+          "x": 1273,
+          "y": 202,
+          "width": 85,
+          "height": 40
+        },
+        {
+          "text": "Mais opções do projeto",
+          "x": 1366,
+          "y": 205,
+          "width": 34,
+          "height": 34
+        },
+        {
+          "text": "copiar URL copiar URL",
+          "x": 1292,
+          "y": 376,
+          "width": 108,
+          "height": 30
+        },
+        {
+          "text": "Ajuda: Deploy de produção",
+          "x": 1109,
+          "y": 462,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "abrir abrir",
+          "x": 1310,
+          "y": 453,
+          "width": 65,
+          "height": 30
+        },
+        {
+          "text": "Ajuda: Status do deploy",
+          "x": 965,
+          "y": 681,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "ver todos os deploys ver todos os deploys",
+          "x": 1246,
+          "y": 736,
+          "width": 129,
+          "height": 17
+        },
+        {
+          "text": "CPU CPU",
+          "x": 354,
+          "y": 1207,
+          "width": 46,
+          "height": 28
+        },
+        {
+          "text": "Memória Memória",
+          "x": 400,
+          "y": 1207,
+          "width": 69,
+          "height": 28
+        },
+        {
+          "text": "24h 24h",
+          "x": 1216,
+          "y": 1207,
+          "width": 43,
+          "height": 28
+        },
+        {
+          "text": "7 dias 7 dias",
+          "x": 1259,
+          "y": 1207,
+          "width": 53,
+          "height": 28
+        },
+        {
+          "text": "30 dias 30 dias",
+          "x": 1312,
+          "y": 1207,
+          "width": 62,
+          "height": 28
+        },
+        {
+          "text": "Conectar Conectar",
+          "x": 747,
+          "y": 1558,
+          "width": 83,
+          "height": 27
+        },
+        {
+          "text": "Adicionar Adicionar",
+          "x": 746,
+          "y": 1636,
+          "width": 84,
+          "height": 27
+        },
+        {
+          "text": "Adicionar Adicionar",
+          "x": 746,
+          "y": 1698,
+          "width": 84,
+          "height": 27
+        },
+        {
+          "text": "ver todos os deploys ver todos os deploys",
+          "x": 1246,
+          "y": 1853,
+          "width": 129,
+          "height": 17
+        }
+      ]
+    },
+    {
+      "label": "deployments-tab",
+      "url": "https://beta.staycloud.com/dashboard/cloud/[ID CENSURADO]",
+      "title": "Visão geral · tutorial-deploy-cli-teste · Cloud · StayCloud",
+      "bodySample": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git Todos projetos PROJETO · [ID CENSURADO] Visão geral Deploys Logs Domínios Variáveis edge global · São Paulo + CDN StayCloud ~/CLOUD › tutorial-deploy-cli-teste tutorial-deploy-cli-teste online blank · sao-1 · [dominio censurado] Abrir ~/CLOUD/TUTORIAL-DEPLOY-CLI-TESTE Visão geral Estado atual da implantação de produção, checklist do projeto e métricas de borda. copiar URL [dominio censurado] IMPLANTAÇÃO DE PRODUÇÃO abrir status pronto domínio [dominio censurado] deploy [ID CENSURADO] autor - · há 16 h duração 23s fase live Para atualizar produção, faça um novo deploy. ver todos os deploys 01 CONSUMO Consumo de recursos 0% CPU 0% / 100% 4% Memória 19MB / 512MB CPU 0% Memória 19 MB/ 512 MB CPU Memória 24h 7 dias 30 dias 15h 19h 23h 03h 07h 08h 02 CHECKLIST Checklist de produção 0 de 3 Conectar repositório do GitHub Importe o repositório e publique sob demanda. Deploy automático por push em breve. Conectar Adicionar domínio próprio SSL automático via CDN global da StayCloud. Adicionar Configurar variáveis de produção Secrets criptografados em repouso e em trânsito. Adicionar 03 BRANCHES Branches ativas ver todos os deploys main sem branch detectada. Visão geral · tutorial-deploy-cli-teste · Cloud · StayCloud",
+      "controls": [
+        {
+          "text": "Nos reporte aqui Nos reporte aqui",
+          "x": 143,
+          "y": 8,
+          "width": 91,
+          "height": 17
+        },
+        {
+          "text": "Fechar aviso",
+          "x": 1402,
+          "y": 6,
+          "width": 22,
+          "height": 22
+        },
+        {
+          "text": "staycloud staycloud Ir para o início",
+          "x": 24,
+          "y": 50,
+          "width": 114,
+          "height": 26
+        },
+        {
+          "text": "[dado censurado] [dado censurado]",
+          "x": 167,
+          "y": 47,
+          "width": 178,
+          "height": 32
+        },
+        {
+          "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+          "x": 620,
+          "y": 47,
+          "width": 360,
+          "height": 32
+        },
+        {
+          "text": "dark dark Alternar tema",
+          "x": 1255,
+          "y": 48,
+          "width": 69,
+          "height": 30
+        },
+        {
+          "text": "Notificações",
+          "x": 1338,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Ajuda · reportar bug",
+          "x": 1384,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Home Home Home",
+          "x": 8,
+          "y": 105,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Hospedagem Hospedagem Hospedagem",
+          "x": 8,
+          "y": 143,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "WordPress WordPress WordPress",
+          "x": 8,
+          "y": 181,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "VPS VPS VPS",
+          "x": 8,
+          "y": 219,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Deploy Deploy Deploy",
+          "x": 8,
+          "y": 257,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Loja Loja Loja",
+          "x": 8,
+          "y": 314,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Domínios Domínios Domínios",
+          "x": 8,
+          "y": 352,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Faturas Faturas Faturas",
+          "x": 8,
+          "y": 390,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Suporte Suporte Suporte",
+          "x": 8,
+          "y": 447,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Ferramentas Ferramentas Ferramentas",
+          "x": 8,
+          "y": 485,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayFast Novo StayFast StayFast",
+          "x": 8,
+          "y": 523,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayAcademy StayAcademy StayAcademy",
+          "x": 8,
+          "y": 561,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+          "x": 16,
+          "y": 1154,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Todos projetos Todos projetos",
+          "x": 82,
+          "y": 187,
+          "width": 112,
+          "height": 25
+        },
+        {
+          "text": "Visão geral Visão geral",
+          "x": 78,
+          "y": 252,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Deploys Deploys",
+          "x": 78,
+          "y": 285,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Logs Logs",
+          "x": 78,
+          "y": 319,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Domínios Domínios",
+          "x": 78,
+          "y": 353,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Variáveis Variáveis",
+          "x": 78,
+          "y": 387,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "~/CLOUD ~/cloud",
+          "x": 328,
+          "y": 124,
+          "width": 53,
+          "height": 17
+        },
+        {
+          "text": "Abrir Abrir",
+          "x": 1273,
+          "y": 202,
+          "width": 85,
+          "height": 40
+        },
+        {
+          "text": "Mais opções do projeto",
+          "x": 1366,
+          "y": 205,
+          "width": 34,
+          "height": 34
+        },
+        {
+          "text": "copiar URL copiar URL",
+          "x": 1292,
+          "y": 376,
+          "width": 108,
+          "height": 30
+        },
+        {
+          "text": "Ajuda: Deploy de produção",
+          "x": 1109,
+          "y": 462,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "abrir abrir",
+          "x": 1310,
+          "y": 453,
+          "width": 65,
+          "height": 30
+        },
+        {
+          "text": "Ajuda: Status do deploy",
+          "x": 965,
+          "y": 681,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "ver todos os deploys ver todos os deploys",
+          "x": 1246,
+          "y": 736,
+          "width": 129,
+          "height": 17
+        },
+        {
+          "text": "CPU CPU",
+          "x": 354,
+          "y": 1207,
+          "width": 46,
+          "height": 28
+        },
+        {
+          "text": "Memória Memória",
+          "x": 400,
+          "y": 1207,
+          "width": 69,
+          "height": 28
+        },
+        {
+          "text": "24h 24h",
+          "x": 1216,
+          "y": 1207,
+          "width": 43,
+          "height": 28
+        },
+        {
+          "text": "7 dias 7 dias",
+          "x": 1259,
+          "y": 1207,
+          "width": 53,
+          "height": 28
+        },
+        {
+          "text": "30 dias 30 dias",
+          "x": 1312,
+          "y": 1207,
+          "width": 62,
+          "height": 28
+        },
+        {
+          "text": "Conectar Conectar",
+          "x": 747,
+          "y": 1558,
+          "width": 83,
+          "height": 27
+        },
+        {
+          "text": "Adicionar Adicionar",
+          "x": 746,
+          "y": 1636,
+          "width": 84,
+          "height": 27
+        },
+        {
+          "text": "Adicionar Adicionar",
+          "x": 746,
+          "y": 1698,
+          "width": 84,
+          "height": 27
+        },
+        {
+          "text": "ver todos os deploys ver todos os deploys",
+          "x": 1246,
+          "y": 1853,
+          "width": 129,
+          "height": 17
+        }
+      ]
+    },
+    {
+      "label": "logs-tab",
+      "url": "https://beta.staycloud.com/dashboard/cloud/[ID CENSURADO]",
+      "title": "Visão geral · tutorial-deploy-cli-teste · Cloud · StayCloud",
+      "bodySample": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado censurado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git Todos projetos PROJETO · [ID CENSURADO] Visão geral Deploys Logs Domínios Variáveis edge global · São Paulo + CDN StayCloud ~/CLOUD › tutorial-deploy-cli-teste tutorial-deploy-cli-teste online blank · sao-1 · [dominio censurado] Abrir ~/CLOUD/TUTORIAL-DEPLOY-CLI-TESTE Visão geral Estado atual da implantação de produção, checklist do projeto e métricas de borda. copiar URL [dominio censurado] IMPLANTAÇÃO DE PRODUÇÃO abrir status pronto domínio [dominio censurado] deploy [ID CENSURADO] autor - · há 16 h duração 23s fase live Para atualizar produção, faça um novo deploy. ver todos os deploys 01 CONSUMO Consumo de recursos 0% CPU 0% / 100% 4% Memória 19MB / 512MB CPU 0% Memória 19 MB/ 512 MB CPU Memória 24h 7 dias 30 dias 15h 19h 23h 03h 07h 08h 02 CHECKLIST Checklist de produção 0 de 3 Conectar repositório do GitHub Importe o repositório e publique sob demanda. Deploy automático por push em breve. Conectar Adicionar domínio próprio SSL automático via CDN global da StayCloud. Adicionar Configurar variáveis de produção Secrets criptografados em repouso e em trânsito. Adicionar 03 BRANCHES Branches ativas ver todos os deploys main sem branch detectada. Visão geral · tutorial-deploy-cli-teste · Cloud · StayCloud",
+      "controls": [
+        {
+          "text": "Nos reporte aqui Nos reporte aqui",
+          "x": 143,
+          "y": 8,
+          "width": 91,
+          "height": 17
+        },
+        {
+          "text": "Fechar aviso",
+          "x": 1402,
+          "y": 6,
+          "width": 22,
+          "height": 22
+        },
+        {
+          "text": "staycloud staycloud Ir para o início",
+          "x": 24,
+          "y": 50,
+          "width": 114,
+          "height": 26
+        },
+        {
+          "text": "[dado censurado] [dado censurado]",
+          "x": 167,
+          "y": 47,
+          "width": 178,
+          "height": 32
+        },
+        {
+          "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+          "x": 620,
+          "y": 47,
+          "width": 360,
+          "height": 32
+        },
+        {
+          "text": "dark dark Alternar tema",
+          "x": 1255,
+          "y": 48,
+          "width": 69,
+          "height": 30
+        },
+        {
+          "text": "Notificações",
+          "x": 1338,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Ajuda · reportar bug",
+          "x": 1384,
+          "y": 47,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Home Home Home",
+          "x": 8,
+          "y": 105,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Hospedagem Hospedagem Hospedagem",
+          "x": 8,
+          "y": 143,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "WordPress WordPress WordPress",
+          "x": 8,
+          "y": 181,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "VPS VPS VPS",
+          "x": 8,
+          "y": 219,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Deploy Deploy Deploy",
+          "x": 8,
+          "y": 257,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Loja Loja Loja",
+          "x": 8,
+          "y": 314,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Domínios Domínios Domínios",
+          "x": 8,
+          "y": 352,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Faturas Faturas Faturas",
+          "x": 8,
+          "y": 390,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Suporte Suporte Suporte",
+          "x": 8,
+          "y": 447,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "Ferramentas Ferramentas Ferramentas",
+          "x": 8,
+          "y": 485,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayFast Novo StayFast StayFast",
+          "x": 8,
+          "y": 523,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "StayAcademy StayAcademy StayAcademy",
+          "x": 8,
+          "y": 561,
+          "width": 47,
+          "height": 36
+        },
+        {
+          "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+          "x": 16,
+          "y": 1154,
+          "width": 32,
+          "height": 32
+        },
+        {
+          "text": "Todos projetos Todos projetos",
+          "x": 82,
+          "y": 187,
+          "width": 112,
+          "height": 25
+        },
+        {
+          "text": "Visão geral Visão geral",
+          "x": 78,
+          "y": 252,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Deploys Deploys",
+          "x": 78,
+          "y": 285,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Logs Logs",
+          "x": 78,
+          "y": 319,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Domínios Domínios",
+          "x": 78,
+          "y": 353,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "Variáveis Variáveis",
+          "x": 78,
+          "y": 387,
+          "width": 195,
+          "height": 33
+        },
+        {
+          "text": "~/CLOUD ~/cloud",
+          "x": 328,
+          "y": 124,
+          "width": 53,
+          "height": 17
+        },
+        {
+          "text": "Abrir Abrir",
+          "x": 1273,
+          "y": 202,
+          "width": 85,
+          "height": 40
+        },
+        {
+          "text": "Mais opções do projeto",
+          "x": 1366,
+          "y": 205,
+          "width": 34,
+          "height": 34
+        },
+        {
+          "text": "copiar URL copiar URL",
+          "x": 1292,
+          "y": 376,
+          "width": 108,
+          "height": 30
+        },
+        {
+          "text": "Ajuda: Deploy de produção",
+          "x": 1109,
+          "y": 462,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "abrir abrir",
+          "x": 1310,
+          "y": 453,
+          "width": 65,
+          "height": 30
+        },
+        {
+          "text": "Ajuda: Status do deploy",
+          "x": 965,
+          "y": 681,
+          "width": 13,
+          "height": 13
+        },
+        {
+          "text": "ver todos os deploys ver todos os deploys",
+          "x": 1246,
+          "y": 736,
+          "width": 129,
+          "height": 17
+        },
+        {
+          "text": "CPU CPU",
+          "x": 354,
+          "y": 1207,
+          "width": 46,
+          "height": 28
+        },
+        {
+          "text": "Memória Memória",
+          "x": 400,
+          "y": 1207,
+          "width": 69,
+          "height": 28
+        },
+        {
+          "text": "24h 24h",
+          "x": 1216,
+          "y": 1207,
+          "width": 43,
+          "height": 28
+        },
+        {
+          "text": "7 dias 7 dias",
+          "x": 1259,
+          "y": 1207,
+          "width": 53,
+          "height": 28
+        },
+        {
+          "text": "30 dias 30 dias",
+          "x": 1312,
+          "y": 1207,
+          "width": 62,
+          "height": 28
+        },
+        {
+          "text": "Conectar Conectar",
+          "x": 747,
+          "y": 1558,
+          "width": 83,
+          "height": 27
+        },
+        {
+          "text": "Adicionar Adicionar",
+          "x": 746,
+          "y": 1636,
+          "width": 84,
+          "height": 27
+        },
+        {
+          "text": "Adicionar Adicionar",
+          "x": 746,
+          "y": 1698,
+          "width": 84,
+          "height": 27
+        },
+        {
+          "text": "ver todos os deploys ver todos os deploys",
+          "x": 1246,
+          "y": 1853,
+          "width": 129,
+          "height": 17
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "01-aplicacao-correta-sanitizado.png",
+      "target": "tutorial-deploy-cli-teste"
+    },
+    {
+      "file": "02-status-deploy-sanitizado.png",
+      "target": "status real"
+    },
+    {
+      "file": "03-historico-execucao-sanitizado.png",
+      "target": "registro de deploy/build"
+    },
+    {
+      "file": "05-conteudo-logs-sanitizado.png",
+      "target": "linha segura do log"
+    },
+    {
+      "file": "06-aplicacao-disponivel-sanitizado.png",
+      "target": "acesso público da aplicação"
+    }
+  ],
+  "deploymentsClicked": false,
+  "logsClicked": false
+}

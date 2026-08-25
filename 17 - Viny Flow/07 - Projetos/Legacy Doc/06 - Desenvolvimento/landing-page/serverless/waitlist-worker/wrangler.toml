@@ -1,0 +1,18 @@
+name = "legacy-doc-waitlist"
+main = "src/index.ts"
+compatibility_date = "2026-08-14"
+
+# WAITLIST_GOAL precisa espelhar src/lib/mvp-config.ts na landing.
+# ALLOWED_ORIGINS recebe a origem publicada, sem curinga.
+[vars]
+WAITLIST_GOAL = "100"
+ALLOWED_ORIGINS = "https://legacy-doc.stayai.space"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "legacy-doc-waitlist"
+database_id = "1a347b4e-49c8-450d-9a4f-4a462884654d"
+
+# Segredos, definidos por `wrangler secret put` e nunca neste arquivo:
+#   ADMIN_TOKEN   -> protege GET /export
+#   IP_HASH_SALT  -> salt do hash de IP do rate limit

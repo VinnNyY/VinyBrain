@@ -1,0 +1,566 @@
+[
+  {
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 1800,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h1": "Documentação técnica gerada a partir do seu código",
+      "h2Count": 14,
+      "scrollWidth": 1440,
+      "clientWidth": 1440,
+      "bodyTextHasTcc": false,
+      "bodyTextHasStayCloud": false,
+      "bodyTextHasPrice": false,
+      "forms": 0,
+      "anchors": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#conteudo"
+        },
+        {
+          "text": "Legacy Doc",
+          "href": "#topo"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista",
+          "href": "#lista"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Ver como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Visão geral do sistema",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Arquitetura e módulos",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Fluxos principais",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Dependências",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Pontos de atenção",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Glossário técnico",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        }
+      ],
+      "internalBroken": [],
+      "imgs": [
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=48&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=48&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        }
+      ],
+      "canonical": "https://seudominio.com/documentacao-codigo-legado",
+      "robots": "noindex, nofollow",
+      "ogTitle": "Legacy Doc | Documentação de código legado com IA",
+      "ogImage": "https://seudominio.com/og/legacy-doc.svg",
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "SoftwareApplication",
+        "FAQPage"
+      ]
+    }
+  },
+  {
+    "viewport": {
+      "name": "notebook",
+      "width": 1280,
+      "height": 900,
+      "isMobile": false
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h1": "Documentação técnica gerada a partir do seu código",
+      "h2Count": 14,
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "bodyTextHasTcc": false,
+      "bodyTextHasStayCloud": false,
+      "bodyTextHasPrice": false,
+      "forms": 0,
+      "anchors": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#conteudo"
+        },
+        {
+          "text": "Legacy Doc",
+          "href": "#topo"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista",
+          "href": "#lista"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Ver como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Visão geral do sistema",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Arquitetura e módulos",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Fluxos principais",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Dependências",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Pontos de atenção",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Glossário técnico",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        }
+      ],
+      "internalBroken": [],
+      "imgs": [
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=48&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=48&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        }
+      ],
+      "canonical": "https://seudominio.com/documentacao-codigo-legado",
+      "robots": "noindex, nofollow",
+      "ogTitle": "Legacy Doc | Documentação de código legado com IA",
+      "ogImage": "https://seudominio.com/og/legacy-doc.svg",
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "SoftwareApplication",
+        "FAQPage"
+      ]
+    }
+  },
+  {
+    "viewport": {
+      "name": "tablet",
+      "width": 820,
+      "height": 1180,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h1": "Documentação técnica gerada a partir do seu código",
+      "h2Count": 14,
+      "scrollWidth": 820,
+      "clientWidth": 820,
+      "bodyTextHasTcc": false,
+      "bodyTextHasStayCloud": false,
+      "bodyTextHasPrice": false,
+      "forms": 0,
+      "anchors": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#conteudo"
+        },
+        {
+          "text": "Legacy Doc",
+          "href": "#topo"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista",
+          "href": "#lista"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Ver como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Visão geral do sistema",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Arquitetura e módulos",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Fluxos principais",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Dependências",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Pontos de atenção",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Glossário técnico",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        }
+      ],
+      "internalBroken": [],
+      "imgs": [
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=96&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=96&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        }
+      ],
+      "canonical": "https://seudominio.com/documentacao-codigo-legado",
+      "robots": "noindex, nofollow",
+      "ogTitle": "Legacy Doc | Documentação de código legado com IA",
+      "ogImage": "https://seudominio.com/og/legacy-doc.svg",
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "SoftwareApplication",
+        "FAQPage"
+      ]
+    }
+  },
+  {
+    "viewport": {
+      "name": "mobile",
+      "width": 390,
+      "height": 1400,
+      "isMobile": true
+    },
+    "consoleMessages": [],
+    "failedRequests": [],
+    "axeViolations": [],
+    "data": {
+      "title": "Legacy Doc | Documentação de código legado com IA",
+      "h1Count": 1,
+      "h1": "Documentação técnica gerada a partir do seu código",
+      "h2Count": 14,
+      "scrollWidth": 390,
+      "clientWidth": 390,
+      "bodyTextHasTcc": false,
+      "bodyTextHasStayCloud": false,
+      "bodyTextHasPrice": false,
+      "forms": 0,
+      "anchors": [
+        {
+          "text": "Ir para o conteúdo",
+          "href": "#conteudo"
+        },
+        {
+          "text": "Legacy Doc",
+          "href": "#topo"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista",
+          "href": "#lista"
+        },
+        {
+          "text": "Como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Produto",
+          "href": "#produto"
+        },
+        {
+          "text": "Aplicações",
+          "href": "#aplicacoes"
+        },
+        {
+          "text": "Roadmap",
+          "href": "#roadmap"
+        },
+        {
+          "text": "FAQ",
+          "href": "#faq"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        },
+        {
+          "text": "Ver como funciona",
+          "href": "#como-funciona"
+        },
+        {
+          "text": "Visão geral do sistema",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Arquitetura e módulos",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Fluxos principais",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Dependências",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Pontos de atenção",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Glossário técnico",
+          "href": "#relatorio"
+        },
+        {
+          "text": "Entrar na lista de interesse",
+          "href": "#lista"
+        }
+      ],
+      "internalBroken": [],
+      "imgs": [
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=96&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        },
+        {
+          "src": "http://localhost:3001/_next/image?url=%2Fassets%2Fpdf-extracted%2Flegacy-doc-001.png&w=96&q=75",
+          "alt": "Logo Legacy Doc",
+          "width": 48,
+          "height": 48
+        }
+      ],
+      "canonical": "https://seudominio.com/documentacao-codigo-legado",
+      "robots": "noindex, nofollow",
+      "ogTitle": "Legacy Doc | Documentação de código legado com IA",
+      "ogImage": "https://seudominio.com/og/legacy-doc.svg",
+      "twitterCard": "summary_large_image",
+      "jsonLdTypes": [
+        "SoftwareApplication",
+        "FAQPage"
+      ]
+    }
+  }
+]

@@ -1,0 +1,116 @@
+SCORE MÍNIMO PARA APROVAÇÃO:
+80/100
+
+STATUS:
+Publicado e validado
+
+SCORE ESTIMADO LOCAL:
+86/100
+
+SCORE REAL ANTES DA CORREÇÃO:
+77/100; depois 79/100; publicação bloqueada até ajuste.
+
+SCORE REAL DEPOIS DA CORREÇÃO:
+85/100
+
+CHIP DA PALAVRA-CHAVE ATIVO:
+Rank Math aplicado com palavra-chave `primeiro deploy StayCloud`.
+
+TÍTULO DO ARTIGO:
+Como fazer o primeiro deploy na StayCloud
+
+TÍTULO NATIVO BETTERDOCS:
+PRIMEIRO DEPLOY STAYCLOUD
+
+PALAVRA-CHAVE PRINCIPAL:
+primeiro deploy StayCloud
+
+PALAVRA-CHAVE SECUNDÁRIA:
+como fazer deploy na StayCloud
+
+TÍTULO SEO:
+Primeiro deploy StayCloud: veja como publicar
+
+CARACTERES DO TÍTULO SEO:
+46
+
+SLUG:
+primeiro-deploy-staycloud
+
+META DESCRIPTION:
+Aprenda a fazer o primeiro deploy StayCloud, publicar um projeto de teste, acompanhar o processamento e abrir a aplicação gerada.
+
+CARACTERES DA META DESCRIPTION:
+127
+
+EXCERPT:
+Veja como fazer o primeiro deploy StayCloud pelo Painel Novo usando upload de .zip, acompanhar o processamento e abrir a aplicação publicada.
+
+CATEGORIA:
+Painel novo
+
+TAGS:
+Deploy, Primeiro Deploy, Aplicações, Desenvolvimento, Painel Novo, StayCloud
+
+DENSIDADE ESTIMADA:
+Palavra-chave principal usada no título, introdução, H2/H3, corpo, ALT e conclusão.
+
+QUANTIDADE DE PALAVRAS:
+930
+
+H2 COM PALAVRA-CHAVE:
+Como funciona o primeiro deploy na StayCloud
+
+H3 COM PALAVRA-CHAVE OU VARIAÇÃO:
+3. Inicie o primeiro deploy StayCloud
+
+IMAGEM COM PALAVRA-CHAVE NO ALT:
+PRINT 01: Primeiro deploy StayCloud pela opção Upload de zip no Painel Novo
+
+LINKS INTERNOS:
+https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/
+https://ajuda.staycloud.com.br/ajuda-category/painel-novo/
+
+LINKS EXTERNOS:
+https://github.com/
+
+TÍTULO SOCIAL:
+Como fazer o primeiro deploy na StayCloud
+
+DESCRIÇÃO SOCIAL:
+Publique um projeto de teste pelo Deploy StayCloud, acompanhe o processamento e confira a aplicação no ar.
+
+CHECKLIST RANK MATH:
+
+- palavra-chave de foco preenchida;
+- palavra-chave confirmada como etiqueta/chip ativa;
+- título SEO salvo;
+- slug salvo;
+- meta description salva;
+- resumo preenchido;
+- categoria Painel novo selecionada;
+- tags adicionadas;
+- social preenchido quando disponível;
+- imagens com ALT revisado após upload;
+- links internos confirmados com HTTP 200;
+- Rank Math recalculado;
+- score real mínimo 80/100 antes de publicar.
+
+GATE RANK MATH ANTES DE PUBLICAR:
+
+Antes de clicar em Publicar, confirmar visualmente:
+
+1. A palavra-chave de foco foi preenchida.
+2. A palavra-chave aparece como etiqueta/chip ativa.
+3. O campo não contém somente texto ainda não confirmado.
+4. O título SEO foi salvo.
+5. O slug foi salvo.
+6. A meta description foi salva.
+7. O resumo foi preenchido.
+8. A categoria foi selecionada.
+9. O Rank Math recalculou.
+10. O score real é no mínimo 80/100.
+
+PENDÊNCIAS:
+
+- Nenhuma pendência de publicação.

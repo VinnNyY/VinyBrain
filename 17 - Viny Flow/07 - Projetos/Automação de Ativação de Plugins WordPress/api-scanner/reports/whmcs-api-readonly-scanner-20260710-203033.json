@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "generated_at": "20260710-203033",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "whmcs_api",
+    "redact_emails": false,
+    "wp_validator": "browser",
+    "inspect_requested_plugins": true,
+    "debug_plugin_table": false,
+    "prepare_installation_plan": true,
+    "prepare_execution": true,
+    "execute_installation_plan": false,
+    "apply": false,
+    "gettickets_request": {
+      "params": {
+        "limitstart": 0,
+        "limitnum": 30,
+        "status": "Awaiting Reply"
+      },
+      "totalresults": 10
+    }
+  },
+  "summary": {
+    "listed": 1,
+    "returned": 1,
+    "active_analyzed": 1,
+    "opened": 1,
+    "pending_activation": 0,
+    "needs_review": 0,
+    "ignored": 1,
+    "historical_returned": 0
+  },
+  "tickets": [
+    {
+      "ticket_id": "QEY-565588",
+      "ticket_num": "QEY-565588",
+      "subject": "",
+      "subject_final": "",
+      "status": "",
+      "department": "",
+      "plugins_detectados": [],
+      "requested_plugins": [],
+      "plugin_inventory": [],
+      "installation_plan": [],
+      "installation_plan_status": "READY_FOR_HUMAN_APPROVAL",
+      "execution_preparation": {
+        "overall_execution_state": "BLOCKED",
+        "blocking_reasons": [
+          "pré-condições do ticket não atendidas"
+        ],
+        "plugins": [],
+        "installation_executed": false,
+        "activation_executed": false,
+        "rollback_needed": false,
+        "final_result": "BLOCKED",
+        "next_action": "Bloquear e revisar validacoes"
+      },
+      "execution_preparation_status": "BLOCKED",
+      "domain_detected": "",
+      "customer_authorization": "incerto",
+      "completion_signal": false,
+      "missing_information": [
+        "domínio não encontrado",
+        "autorização não confirmada",
+        "plugin não identificado",
+        "link de acesso WordPress não encontrado"
+      ],
+      "preflight_classification": "FALTAM DADOS",
+      "next_action": "Revisar o ticket ou solicitar as informações faltantes.",
+      "wp_access_link_present": false,
+      "wp_access_link_type": "",
+      "wp_access_link_host": "",
+      "wp_access_link_matches_domain": "incerto",
+      "wp_access_validation_executed": false,
+      "wp_access_link_status": "NOT_TESTED",
+      "wp_admin_accessible": false,
+      "plugins_page_accessible": false,
+      "wp_access_validation_reason": "link de acesso não encontrado",
+      "wp_access_diagnostics": {
+        "initial_http_status": "",
+        "initial_final_path": "",
+        "redirect_count": 0,
+        "hosts_involved": [],
+        "cookie_count": 0,
+        "plugins_http_status": "",
+        "plugins_final_path": "",
+        "redirected_to_wp_login": false,
+        "plugins_returned_403": false,
+        "wordpress_markers_found": [],
+        "plugins_markers_found": [],
+        "technical_reason": "",
+        "browser_started": false,
+        "dependency_install_command": ""
+      },
+      "wp_access_validator": "",
+      "execution_state_before": "",
+      "installation_executed": false,
+      "activation_executed": false,
+      "state_after": "",
+      "health_checks": [],
+      "rollback_needed": false,
+      "final_result": "BLOCKED",
+      "execution_next_action": "Bloquear e revisar validacoes",
+      "plugin": null,
+      "plugin_slug": null,
+      "domain": null,
+      "activation_requested": false,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": false,
+      "decision": "ignored",
+      "classification": "IGNORAR",
+      "priority": "ignorar",
+      "classification_reason": "sem sinais suficientes de ativação de plugin",
+      "score": 0,
+      "signals": [],
+      "fields_used": {
+        "message": "message"
+      },
+      "blocked_actions": [],
+      "is_candidate": false,
+      "source": "detail",
+      "debug_fields": {
+        "campos_encontrados_no_resumo": [
+          "message",
+          "result"
+        ],
+        "raw_subject_fields": {},
+        "campo_subject_escolhido": "nenhum",
+        "keywords_encontradas": [],
+        "plugins_encontrados": [],
+        "motivo": "sem sinais suficientes de ativação de plugin",
+        "ignorado": true
+      }
+    }
+  ]
+}

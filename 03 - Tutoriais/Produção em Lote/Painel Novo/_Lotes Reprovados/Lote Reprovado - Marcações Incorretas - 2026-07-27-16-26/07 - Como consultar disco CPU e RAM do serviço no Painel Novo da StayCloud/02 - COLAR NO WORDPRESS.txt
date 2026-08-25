@@ -1,0 +1,62 @@
+<p>Consultar disco, CPU e RAM no Painel Novo StayCloud ajuda você a entender o uso atual do serviço antes de abrir um chamado, avaliar uma lentidão ou contratar qualquer ajuste. Este tutorial mostra apenas onde ver os indicadores já exibidos no painel. Nenhuma configuração será alterada.</p>
+
+<h2>Quando consultar disco, CPU e RAM no Painel Novo StayCloud</h2>
+<p>Use este caminho quando quiser conferir se o serviço está consumindo muitos recursos, se há algum alerta visual ou se os números parecem diferentes do normal. A consulta é útil antes de pedir suporte, mas não substitui uma análise técnica completa quando o site está fora do ar, lento ou apresentando erro.</p>
+<p>O Painel Novo pode mostrar os recursos de forma diferente conforme o tipo de serviço. Em hospedagens, os indicadores aparecem na visão geral do serviço. Em VPS, a área de métricas pode exibir CPU, memória, disco e rede. Siga apenas o que estiver disponível na sua tela.</p>
+
+<h2>Antes de começar</h2>
+<ul>
+  <li>Tenha acesso ao Painel Novo da StayCloud.</li>
+  <li>Confirme que está na conta correta.</li>
+  <li>Não clique em ações de alteração, como mudança de plano, reinicialização ou reinstalação.</li>
+  <li>Se houver mais de um serviço, confira o nome antes de abrir o gerenciamento.</li>
+</ul>
+
+<h2>Como consultar os recursos do serviço</h2>
+
+<h3>1. Abra o serviço correto</h3>
+<p>No menu lateral, entre em <strong>Hospedagem</strong> ou na área do tipo de serviço que deseja consultar. Na lista, confira o nome do serviço, o plano, o status e clique em <strong>Gerenciar</strong> apenas no item correto.</p>
+<figure>
+  <img src="prints-finais/01-servico-hospedagem-sanitizado.png" alt="Serviço correto selecionado antes de consultar disco, CPU e RAM no Painel Novo StayCloud.">
+  <figcaption>Confira o serviço antes de abrir os detalhes. A consulta deve começar no item correto.</figcaption>
+</figure>
+
+<h3>2. Veja os indicadores de hospedagem</h3>
+<p>Na visão geral da hospedagem, procure os cartões de <strong>DISCO</strong>, <strong>CPU</strong> e <strong>MEMÓRIA</strong>. Eles mostram o consumo atual e, quando disponível, o limite do recurso. Leia esses números como referência de consulta, sem fazer alterações na tela.</p>
+<figure>
+  <img src="prints-finais/02-indicadores-hospedagem-sanitizado.png" alt="Painel Novo StayCloud mostrando indicadores de disco, CPU e memória da hospedagem.">
+  <figcaption>Os indicadores aparecem na visão geral do serviço e ajudam a entender o consumo atual.</figcaption>
+</figure>
+
+<h3>3. Confira métricas em serviços VPS, quando houver</h3>
+<p>Em serviços VPS, o painel pode mostrar CPU, memória, disco e rede na área de métricas ou na visão geral da máquina. O objetivo é o mesmo: identificar o uso atual e verificar se existe algum comportamento fora do esperado.</p>
+<figure>
+  <img src="prints-finais/03-indicadores-vps-sanitizado.png" alt="Painel Novo StayCloud com CPU, memória e disco exibidos no serviço VPS.">
+  <figcaption>Em VPS, os indicadores aparecem com nomes parecidos, mas podem incluir dados adicionais.</figcaption>
+</figure>
+
+<h2>Como interpretar os indicadores</h2>
+<p>O disco mostra quanto espaço está em uso. A CPU indica processamento naquele momento ou no período exibido. A memória mostra quanto da RAM está sendo consumida. Percentuais baixos costumam indicar uso normal. Percentuais muito altos por muito tempo podem justificar uma investigação, principalmente se o site também estiver lento.</p>
+<p>Evite tirar conclusão por uma medição isolada. Um pico rápido pode acontecer durante backup, atualização, acesso intenso ou rotina do próprio site. Se o painel mostrar valores altos repetidamente, registre o horário e o serviço afetado antes de falar com o suporte.</p>
+
+<h2>O que não fazer nesta tela</h2>
+<ul>
+  <li>Não reinicie VPS apenas porque a CPU subiu por alguns segundos.</li>
+  <li>Não altere plano sem confirmar a necessidade real.</li>
+  <li>Não abra ferramentas técnicas se a dúvida é apenas de consulta.</li>
+  <li>Não compare hospedagem e VPS como se fossem o mesmo tipo de serviço.</li>
+</ul>
+
+<h2>Links úteis</h2>
+<p>Se a sua dúvida for acessar ferramentas técnicas, consulte <a href="https://ajuda.staycloud.com.br/docs/como-acessar-o-cpanel-painel-novo/">como acessar o cPanel pelo Painel Novo</a>. Se precisar localizar tutoriais relacionados, veja <a href="https://ajuda.staycloud.com.br/docs/central-de-ajuda-staycloud/">como localizar a Central de Ajuda StayCloud</a>.</p>
+
+<h2>Dúvidas frequentes</h2>
+<h3>CPU alta significa erro?</h3>
+<p>Não necessariamente. CPU alta pode ser temporária. O ideal é observar se o pico continua e se existe impacto real no site ou serviço.</p>
+<h3>Memória alta exige troca de plano?</h3>
+<p>Nem sempre. Primeiro confirme se o consumo é recorrente, se o serviço está lento e se há algum alerta no painel.</p>
+<h3>Disco cheio pode afetar o serviço?</h3>
+<p>Sim. Quando o espaço fica muito próximo do limite, o serviço pode ter falhas de gravação, e-mails ou atualizações.</p>
+
+<h2>Conclusão</h2>
+<p>Você pode consultar disco, CPU e RAM no Painel Novo StayCloud abrindo o serviço correto e verificando os indicadores exibidos na visão geral. Use essas informações como apoio para entender o consumo antes de abrir suporte ou avaliar uma mudança de plano.</p>

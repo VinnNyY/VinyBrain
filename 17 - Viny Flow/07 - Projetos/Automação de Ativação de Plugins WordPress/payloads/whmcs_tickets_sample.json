@@ -1,0 +1,189 @@
+[
+  {
+    "ticket_id": "12345",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Ativacao de plugin",
+    "message": "Ola, preciso ativar o Elementor Pro no dominio exemplo.com.br.",
+    "customer_email": "cliente@example.com",
+    "customer": "Cliente 1",
+    "created_at": "2026-07-07 10:30:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12346",
+    "status": "Answered",
+    "department": "Suporte",
+    "subject": "Liberar WP Rocket",
+    "message": "Pode liberar o WP Rocket para o site loja.exemplo.com.br?",
+    "customer_email": "cliente2@example.com",
+    "customer": "Cliente 2",
+    "created_at": "2026-07-07 10:45:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12347",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Ativacao pendente",
+    "message": "Preciso ativar um plugin no WordPress, mas nao lembro o nome agora.",
+    "customer_email": "cliente3@example.com",
+    "customer": "Cliente 3",
+    "created_at": "2026-07-07 11:00:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12348",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Problema SSL",
+    "message": "Meu SSL nao esta funcionando no dominio ssl-exemplo.com.",
+    "customer_email": "cliente4@example.com",
+    "customer": "Cliente 4",
+    "created_at": "2026-07-07 11:10:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12349",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Problema de e-mail",
+    "message": "Nao estou recebendo e-mails na caixa principal.",
+    "customer_email": "cliente5@example.com",
+    "customer": "Cliente 5",
+    "created_at": "2026-07-07 11:20:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12350",
+    "status": "Closed",
+    "department": "Suporte",
+    "subject": "Instalacao de plugin",
+    "message": "Solicitei instalacao do Rank Math SEO Pro, ja foi concluido.",
+    "customer_email": "cliente6@example.com",
+    "customer": "Cliente 6",
+    "created_at": "2026-07-07 11:30:00",
+    "last_reply_by": "staff"
+  },
+  {
+    "ticket_id": "12351",
+    "status": "Resolved",
+    "department": "Suporte",
+    "subject": "Plugin ativado com sucesso",
+    "message": "O plugin foi ativado com sucesso ontem.",
+    "customer_email": "cliente7@example.com",
+    "customer": "Cliente 7",
+    "created_at": "2026-07-07 11:40:00",
+    "last_reply_by": "staff"
+  },
+  {
+    "ticket_id": "12352",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Plugin não permitido",
+    "message": "Quero instalar um plugin de backup nao listado aqui no meu site exemplo.com.br.",
+    "customer_email": "cliente8@example.com",
+    "customer": "Cliente 8",
+    "created_at": "2026-07-07 11:50:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12353",
+    "status": "Answered",
+    "department": "Suporte",
+    "subject": "Licenca do plugin",
+    "message": "Preciso de uma licenca para usar o plugin, mas ainda nao enviei o dominio.",
+    "customer_email": "cliente9@example.com",
+    "customer": "Cliente 9",
+    "created_at": "2026-07-07 12:00:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12354",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Rank Math no dominio principal",
+    "message": "Ativar Rank Math SEO Pro no dominio principal cliente10.com.br",
+    "customer_email": "cliente10@example.com",
+    "customer": "Cliente 10",
+    "created_at": "2026-07-07 12:10:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12355",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Instalacao de plugin",
+    "message": "Preciso instalar o JetEngine no site cliente11.com.br, pode verificar?",
+    "customer_email": "cliente11@example.com",
+    "customer": "Cliente 11",
+    "created_at": "2026-07-07 12:20:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12356",
+    "status": "Answered",
+    "department": "Suporte",
+    "subject": "Licenca do plugin",
+    "message": "Quero a licenca do Elementor Pro, sem dominio ainda.",
+    "customer_email": "cliente12@example.com",
+    "customer": "Cliente 12",
+    "created_at": "2026-07-07 12:25:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12357",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Erro no Elementor",
+    "message": "O Elementor está com erro na pagina inicial do site loja12.com.br.",
+    "customer_email": "cliente13@example.com",
+    "customer": "Cliente 13",
+    "created_at": "2026-07-07 12:30:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12358",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Ativar plugin sem dominio",
+    "message": "Pode ativar o WP Rocket, por favor?",
+    "customer_email": "cliente14@example.com",
+    "customer": "Cliente 14",
+    "created_at": "2026-07-07 12:35:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12359",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Plugin novo",
+    "message": "Quero ativar o plugin Backup Master no site cliente15.com.br.",
+    "customer_email": "cliente15@example.com",
+    "customer": "Cliente 15",
+    "created_at": "2026-07-07 12:40:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12360",
+    "status": "Open",
+    "department": "Suporte",
+    "subject": "Pode ativar?",
+    "message": "Pode ativar para mim no dominio cliente16.com.br.",
+    "customer_email": "cliente16@example.com",
+    "customer": "Cliente 16",
+    "created_at": "2026-07-07 12:45:00",
+    "last_reply_by": "client"
+  },
+  {
+    "ticket_id": "12361",
+    "status": "Answered",
+    "department": "Suporte",
+    "subject": "Ativado pelo suporte",
+    "message": "Pode considerar resolvido, ja ativamos o plugin ontem.",
+    "customer_email": "cliente17@example.com",
+    "customer": "Cliente 17",
+    "created_at": "2026-07-07 12:50:00",
+    "last_reply_by": "staff"
+  }
+]

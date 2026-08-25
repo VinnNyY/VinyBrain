@@ -1,0 +1,60 @@
+{
+  "titulo": "Weekly - Suporte - 2026-08-10 - 14:46",
+  "data": "2026-08-10",
+  "participantes": [
+    "Participante principal não identificado",
+    "Fael/Rafael",
+    "Gabriel/Gaby",
+    "Matheus"
+  ],
+  "contexto": "Weekly curta de suporte sobre demandas da semana, caso financeiro, renovação de domínio, bug em script e mudança de atuação para gerenciamento/escalada.",
+  "resumo_executivo": "A reunião acompanhou demandas pendentes e definiu orientação para um caso de contratação anual com pagamento pendente: liberar conta quando aplicável, ajustar vencimentos para 11/08/2026 e verificar pagamento no dia seguinte. A renovação de domínio não deve ser executada sem pagamento confirmado.",
+  "pontos_discutidos": [
+    "Demandas no chat e pendências da semana anterior.",
+    "Caso financeiro com contratação anual pendente.",
+    "Ajuste de vencimento para 11/08/2026.",
+    "Renovação de domínio sem pagamento confirmado.",
+    "Bug em script desenvolvido citado por Gabriel/Gaby.",
+    "Mudança de atuação do participante principal para gerenciamento e escalada de tickets."
+  ],
+  "decisoes": [
+    "Não manter o cliente preso no chat no caso de contratação anual pendente.",
+    "Criar/liberar a conta quando aplicável e ajustar vencimento para 11/08/2026.",
+    "Verificar pagamento no dia seguinte antes de ajustar vencimento definitivo.",
+    "Não renovar domínio sem pagamento confirmado.",
+    "Participante principal passará a atuar mais em gerenciamento e escalada de tickets."
+  ],
+  "pendencias": [
+    {
+      "descricao": "Confirmar nome do participante principal.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    },
+    {
+      "descricao": "Confirmar responsáveis finais pelo caso financeiro e pela renovação de domínio.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    },
+    {
+      "descricao": "Confirmar números e escopo das metas ou entregas citadas.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    },
+    {
+      "descricao": "Confirmar nome e impacto do bug em script citado por Gabriel/Gaby.",
+      "responsavel": "A definir",
+      "prazo": "A definir"
+    }
+  ],
+  "proximos_passos": [
+    "Acompanhar pagamento em 11/08/2026.",
+    "Não renovar domínio sem confirmação financeira.",
+    "Verificar bug em script desenvolvido.",
+    "Confirmar metas citadas em fonte escrita."
+  ],
+  "links_relacionados": [
+    "19 - Reuniões/02 - Reuniões Formatadas/Weeklies/Weekly - Suporte - 2026-08-10 - 14-46.md",
+    "19 - Reuniões/03 - PDFs/Weeklies/Weekly - Suporte - 2026-08-10 - 14-46.pdf"
+  ],
+  "status": "Preparado para revisão manual"
+}

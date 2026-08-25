@@ -1,0 +1,5 @@
+Arquivo: index.html
+Estado anterior: pagina de demonstracao sem versao exibida.
+Estado final: Versao 3 - atualizacao final de demonstracao.
+Tamanho anterior: 1161 caracteres.
+Tamanho final: 1167 caracteres.

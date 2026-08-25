@@ -1,0 +1,53 @@
+{
+  "status": "publicado",
+  "published_at": "2026-07-27T15:24:15.883Z",
+  "id": 2852,
+  "edit_url": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2852&action=edit",
+  "link": "https://ajuda.staycloud.com.br/docs/busca-do-painel-novo-staycloud/",
+  "slug": "busca-do-painel-novo-staycloud",
+  "score": 85,
+  "focus_chip_confirmed": true,
+  "focus_visible": true,
+  "snippet_confirmed": true,
+  "social_available": true,
+  "category_confirmed": true,
+  "category": "Painel novo",
+  "midias": [
+    {
+      "etapa": 1,
+      "file": "prints-finais/01-barra-busca-geral-sanitizado.png",
+      "title": "Busca do Painel Novo StayCloud - Barra superior",
+      "alt": "Busca do Painel Novo StayCloud destacada no topo da tela inicial",
+      "caption": "Barra de busca geral destacada no topo do Painel Novo.",
+      "filename": "01-barra-busca-geral-sanitizado.png",
+      "media_id": 2848,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-barra-busca-geral-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 2,
+      "file": "prints-finais/02-resultados-busca-geral-sanitizado.png",
+      "title": "Busca do Painel Novo StayCloud - Resultados",
+      "alt": "Resultados exibidos pela busca do Painel Novo StayCloud após digitar um termo",
+      "caption": "Resultados exibidos depois de digitar um termo na busca.",
+      "filename": "02-resultados-busca-geral-sanitizado.png",
+      "media_id": 2849,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-resultados-busca-geral-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    },
+    {
+      "etapa": 3,
+      "file": "prints-finais/03-resultado-correto-busca-sanitizado.png",
+      "title": "Busca do Painel Novo StayCloud - Resultado correto",
+      "alt": "Resultado correto destacado na busca do Painel Novo StayCloud",
+      "caption": "Resultado correto destacado antes de abrir a página correspondente.",
+      "filename": "03-resultado-correto-busca-sanitizado.png",
+      "media_id": 2850,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-resultado-correto-busca-sanitizado.png",
+      "sanitizada": true,
+      "status": "enviada"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "01-iniciar-deploy-sanitizado.png",
+    "id": 2890,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-iniciar-deploy-sanitizado.png",
+    "alt": "Primeiro deploy StayCloud pela opção Upload de zip no Painel Novo",
+    "title": "Upload de zip para primeiro deploy StayCloud"
+  },
+  {
+    "file": "02-informar-projeto-sanitizado.png",
+    "id": 2891,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-informar-projeto-sanitizado.png",
+    "alt": "Arquivo zip selecionado para o primeiro deploy StayCloud",
+    "title": "Arquivo zip selecionado para deploy"
+  },
+  {
+    "file": "03-executar-deploy-sanitizado.png",
+    "id": 2892,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-executar-deploy-sanitizado.png",
+    "alt": "Botão criar e implantar para fazer o primeiro deploy StayCloud",
+    "title": "Botão criar e implantar no Deploy StayCloud"
+  },
+  {
+    "file": "04-processamento-sanitizado.png",
+    "id": 2893,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-processamento-sanitizado.png",
+    "alt": "Status publicando durante o primeiro deploy StayCloud",
+    "title": "Status publicando no Deploy StayCloud"
+  },
+  {
+    "file": "05-concluido-sanitizado.png",
+    "id": 2894,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-concluido-sanitizado.png",
+    "alt": "Projeto pronto e no ar depois do primeiro deploy StayCloud",
+    "title": "Projeto pronto e no ar"
+  },
+  {
+    "file": "06-aplicacao-publicada-sanitizado.png",
+    "id": 2895,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-aplicacao-publicada-sanitizado.png",
+    "alt": "Aplicação publicada após o primeiro deploy StayCloud",
+    "title": "Aplicação publicada pelo Deploy StayCloud"
+  }
+]

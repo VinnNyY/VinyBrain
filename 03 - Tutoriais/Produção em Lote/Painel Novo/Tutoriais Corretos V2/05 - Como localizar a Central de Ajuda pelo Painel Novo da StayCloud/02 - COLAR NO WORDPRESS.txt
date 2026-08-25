@@ -1,0 +1,93 @@
+<h1>Como localizar a Central de Ajuda pelo Painel Novo da StayCloud</h1>
+
+<p>A <strong>Central de Ajuda StayCloud</strong> fica dentro da área de Suporte do Painel Novo e reúne tutoriais para orientar tarefas comuns da conta. Use este caminho quando quiser pesquisar uma dúvida antes de abrir um chamado ou quando precisar encontrar rapidamente uma orientação sobre painel, hospedagem, e-mail, domínios ou atendimento.</p>
+
+<p>Neste tutorial, você vai ver onde acessar o menu Suporte, como selecionar a opção Central de ajuda e onde pesquisar um assunto dentro da base de tutoriais do painel.</p>
+
+<h2>Quando usar a Central de Ajuda StayCloud</h2>
+
+<p>Use a Central de Ajuda StayCloud quando quiser consultar uma orientação antes de acionar a equipe de suporte. Ela ajuda principalmente em dúvidas de navegação, localização de recursos e entendimento de áreas do Painel Novo.</p>
+
+<p>Esse caminho é útil quando você sabe o assunto que deseja pesquisar, mas ainda não sabe qual tutorial pode ajudar. Se a orientação disponível não resolver a necessidade, você ainda pode abrir um chamado pelo painel.</p>
+
+<h2>Antes de começar</h2>
+
+<ul>
+  <li>Acesse o Painel Novo da StayCloud.</li>
+  <li>Confirme que está na conta correta antes de pesquisar.</li>
+  <li>Identifique o assunto que deseja localizar, como fatura, hospedagem, chamado, domínio ou e-mail.</li>
+  <li>Não envie senha, token, documento ou dado sensível em pesquisas.</li>
+</ul>
+
+<h2>Como localizar a Central de Ajuda StayCloud</h2>
+
+<h3>1. Abra a área de Suporte</h3>
+
+<p>No menu lateral esquerdo do Painel Novo, localize a opção <strong>Suporte</strong>. É nessa área que ficam os caminhos de atendimento, acompanhamento de chamados e consulta à base de tutoriais.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-menu-suporte-sanitizado.png" alt="Menu Suporte destacado para acessar a Central de Ajuda StayCloud.">
+  <figcaption>Comece pelo menu Suporte no Painel Novo.</figcaption>
+</figure>
+
+<h3>2. Selecione Central de ajuda</h3>
+
+<p>Na tela de Suporte, procure a opção <strong>Central de ajuda</strong>. Ela aparece junto de outras opções, como Meus chamados, Solicitar plugin e Reportar bug. Para este tutorial, use somente a opção Central de ajuda.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-central-ajuda-sanitizado.png" alt="Opção Central de ajuda destacada na área de Suporte do Painel Novo.">
+  <figcaption>A opção Central de ajuda abre a área de tutoriais do painel.</figcaption>
+</figure>
+
+<h3>3. Pesquise o assunto desejado</h3>
+
+<p>Depois de abrir a Central de ajuda, use o campo de busca para digitar o assunto que você quer encontrar. Você pode pesquisar por termos como fatura, hospedagem, chamado, domínio, e-mail ou outra palavra relacionada à sua dúvida.</p>
+
+<figure>
+  <img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-base-conhecimento-sanitizado.png" alt="Central de Ajuda StayCloud aberta com o campo de pesquisa de tutoriais destacado.">
+  <figcaption>Use o campo de pesquisa para localizar tutoriais dentro da Central de Ajuda.</figcaption>
+</figure>
+
+<h2>O que você encontra na Central de Ajuda</h2>
+
+<p>A Central de Ajuda reúne tutoriais curtos para orientar tarefas comuns no painel. Na tela validada, a base mostra tutoriais do painel e organiza conteúdos sobre primeiros passos, hospedagem, chamados, faturas e outras áreas de uso frequente.</p>
+
+<p>Alguns temas também possuem artigos públicos relacionados na base da StayCloud, como o tutorial de <a href="https://ajuda.staycloud.com.br/docs/abrir-ticket-no-painel-staycloud/">como abrir ticket no painel StayCloud</a> e o guia para <a href="https://ajuda.staycloud.com.br/docs/acompanhar-chamados-staycloud/">acompanhar chamados StayCloud pelo painel</a>.</p>
+
+<p>Para conhecer a empresa e seus serviços fora da base de tutoriais, acesse também o <a href="https://staycloud.com/">site oficial da StayCloud</a>.</p>
+
+<h2>O que fazer quando não encontrar uma resposta</h2>
+
+<p>Se a pesquisa não trouxer uma orientação adequada, tente usar termos mais específicos. Em vez de pesquisar apenas por suporte, por exemplo, pesquise por chamado, fatura, e-mail ou hospedagem.</p>
+
+<p>Quando o conteúdo disponível não resolver a necessidade, abra um chamado com a equipe. Antes disso, confira se já existe atendimento em andamento para evitar solicitações duplicadas.</p>
+
+<h2>Erros comuns ao localizar a Central de Ajuda</h2>
+
+<ul>
+  <li>Procurar a Central de Ajuda fora da área de Suporte.</li>
+  <li>Clicar em <strong>Meus chamados</strong> em vez de <strong>Central de ajuda</strong>.</li>
+  <li>Pesquisar usando termos muito genéricos.</li>
+  <li>Estar em outra conta e não encontrar o contexto esperado.</li>
+  <li>Não aguardar a página carregar antes de usar o campo de busca.</li>
+</ul>
+
+<h2>Dúvidas frequentes sobre a Central de Ajuda StayCloud</h2>
+
+<h3>Preciso abrir um chamado para acessar os tutoriais?</h3>
+
+<p>Não. Você pode acessar a Central de Ajuda StayCloud pelo Painel Novo e pesquisar os tutoriais disponíveis sem abrir um chamado.</p>
+
+<h3>A Central de Ajuda altera alguma configuração da minha conta?</h3>
+
+<p>Não. A Central de Ajuda é uma área de consulta. Pesquisar ou abrir um tutorial não altera hospedagem, domínio, fatura, e-mail ou qualquer configuração da conta.</p>
+
+<h3>O que fazer quando não encontro o assunto desejado?</h3>
+
+<p>Tente pesquisar com uma palavra mais específica. Se mesmo assim não encontrar a orientação, use a área de Suporte para abrir um chamado e explicar o que precisa resolver.</p>
+
+<h2>Conclusão</h2>
+
+<p>Agora você sabe como localizar a Central de Ajuda StayCloud pelo Painel Novo. Acesse Suporte, selecione Central de ajuda e use o campo de pesquisa para encontrar tutoriais antes de abrir um chamado.</p>
+
+<p>Para conhecer outras áreas do painel, veja também o tutorial sobre <a href="https://ajuda.staycloud.com.br/docs/ferramentas-painel-staycloud/">como encontrar as ferramentas no Painel StayCloud</a>.</p>

@@ -1,0 +1,355 @@
+{
+  "clicked": true,
+  "url": "https://beta.staycloud.com/dashboard/cloud/novo",
+  "bodySample": "Encontrou um bug? Nos reporte aqui . build 9c3a12f · 05.2026 staycloud [dado] Buscar site, domínio, fatura ou chamado... ⌘ K dark Cloud deploy de git CLOUD Visão geral Deployments Logs Domínios Integrações Plano edge global · São Paulo + CDN StayCloud ~/CLOUD › novo voltar Vamos criar algo novo Importe um repositório do GitHub, crie um projeto vazio e use o CLI, ou comece com um template. Build em São Paulo, deploy em segundos. Importar repositório do Git Publique sob demanda com detecção do framework por padrão. GitHub · desconectado gerenciar Conectar GitHub Conecte sua conta do GitHub Importe repositórios privados e públicos. Deploys sob demanda; automático por push em breve. Conectar GitHub Upload de .zip Envie um build estático pronto direto do computador. selecionar arquivo .zip apenas .zip · máximo 32 MB Deploy via CLI Conecte a sua IA favorita e coloque suas criações no ar. como usar npx @staysdev/setup init [TOKEN_CENSURADO] [URL_DA_API] gerar comando Código de conexão válido por 1 hora. O CLI cria o projeto na primeira execução. Depois de conectado, ele renova com o uso e não expira. Novo projeto · Cloud · StayCloud × Em uma escala de 0 a 10, o quanto você recomendaria a StayCloud a um amigo ou colega? 0 1 2 3 4 5 6 7 8 9 10 Nada provável Muito provável",
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "type": "file",
+      "name": "",
+      "id": "",
+      "placeholder": "",
+      "value": "",
+      "aria": null,
+      "text": ""
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Nos reporte aqui",
+      "x": 142.59375,
+      "y": 8.375,
+      "w": 91.234375,
+      "h": 17.25
+    },
+    {
+      "text": "Fechar aviso",
+      "x": 1402,
+      "y": 6,
+      "w": 22,
+      "h": 22
+    },
+    {
+      "text": "staycloud",
+      "x": 24,
+      "y": 49.75,
+      "w": 114.125,
+      "h": 25.5
+    },
+    {
+      "text": "[dado]",
+      "x": 167.125,
+      "y": 46.5,
+      "w": 141.828125,
+      "h": 32
+    },
+    {
+      "text": "Buscar site, domínio, fatura ou chamado... ⌘ K",
+      "x": 601.734375,
+      "y": 46.5,
+      "w": 360,
+      "h": 32
+    },
+    {
+      "text": "dark",
+      "x": 1254.515625,
+      "y": 47.5,
+      "w": 69.484375,
+      "h": 30
+    },
+    {
+      "text": "Ajuda · reportar bug",
+      "x": 1384,
+      "y": 46.5,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "text": "Home",
+      "x": 8,
+      "y": 105,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Hospedagem",
+      "x": 8,
+      "y": 143,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "WordPress",
+      "x": 8,
+      "y": 181,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "VPS",
+      "x": 8,
+      "y": 219,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Deploy",
+      "x": 8,
+      "y": 257,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Loja",
+      "x": 8,
+      "y": 314,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Domínios",
+      "x": 8,
+      "y": 352,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Faturas",
+      "x": 8,
+      "y": 390,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Suporte",
+      "x": 8,
+      "y": 447,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "Ferramentas",
+      "x": 8,
+      "y": 485,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "StayFast Novo",
+      "x": 8,
+      "y": 523,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "StayAcademy",
+      "x": 8,
+      "y": 561,
+      "w": 47,
+      "h": 36
+    },
+    {
+      "text": "[dado]",
+      "x": 15.5,
+      "y": 954,
+      "w": 32,
+      "h": 32
+    },
+    {
+      "text": "Visão geral",
+      "x": 78,
+      "y": 208,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Deployments",
+      "x": 78,
+      "y": 241.75,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Logs",
+      "x": 78,
+      "y": 275.5,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Domínios",
+      "x": 78,
+      "y": 309.25,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Integrações",
+      "x": 78,
+      "y": 343,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "Plano",
+      "x": 78,
+      "y": 376.75,
+      "w": 195,
+      "h": 32.75
+    },
+    {
+      "text": "~/CLOUD",
+      "x": 328,
+      "y": 123.75,
+      "w": 52.828125,
+      "h": 16.5
+    },
+    {
+      "text": "voltar",
+      "x": 328,
+      "y": 187,
+      "w": 50.515625,
+      "h": 17.25
+    },
+    {
+      "text": "Ajuda: Conectar GitHub",
+      "x": 596.890625,
+      "y": 369.71875,
+      "w": 13,
+      "h": 13
+    },
+    {
+      "text": "gerenciar",
+      "x": 689.109375,
+      "y": 426.96875,
+      "w": 99.828125,
+      "h": 30
+    },
+    {
+      "text": "Conectar GitHub",
+      "x": 794.9375,
+      "y": 426.96875,
+      "w": 142.453125,
+      "h": 30
+    },
+    {
+      "text": "Conectar GitHub",
+      "x": 764.953125,
+      "y": 503.21875,
+      "w": 153.4375,
+      "h": 36
+    },
+    {
+      "text": "Ajuda: Publique com sua IA",
+      "x": 1145.453125,
+      "y": 566.21875,
+      "w": 13,
+      "h": 13
+    },
+    {
+      "text": "como usar",
+      "x": 1271.40625,
+      "y": 576.96875,
+      "w": 105.59375,
+      "h": 30
+    },
+    {
+      "text": "gerar comando",
+      "x": 1231.859375,
+      "y": 650.71875,
+      "w": 132.140625,
+      "h": 30
+    },
+    {
+      "text": "Ajuda: Token de configuração",
+      "x": 1195.921875,
+      "y": 710.34375,
+      "w": 12,
+      "h": 12
+    },
+    {
+      "text": "×",
+      "x": 1416.546875,
+      "y": 920.609375,
+      "w": 11.453125,
+      "h": 20
+    },
+    {
+      "text": "0",
+      "x": 746,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "1",
+      "x": 786,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "2",
+      "x": 826,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "3",
+      "x": 866,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "4",
+      "x": 906,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "5",
+      "x": 946,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "6",
+      "x": 986,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "7",
+      "x": 1026,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "8",
+      "x": 1066,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "9",
+      "x": 1106,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    },
+    {
+      "text": "10",
+      "x": 1146,
+      "y": 928.609375,
+      "w": 34,
+      "h": 34
+    }
+  ]
+}

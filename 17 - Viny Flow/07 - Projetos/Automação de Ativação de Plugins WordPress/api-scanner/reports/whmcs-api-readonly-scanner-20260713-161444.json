@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "generated_at": "20260713-161444",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket",
+      "GetClientsProducts"
+    ],
+    "whmcs_provider": "browser-ui",
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "browser-ui",
+    "redact_emails": false,
+    "wp_validator": "browser",
+    "inspect_requested_plugins": false,
+    "debug_plugin_table": false,
+    "browser_session": "persistent",
+    "browser_bootstrap_timeout": 900,
+    "browser_bootstrap_manual_confirm": false,
+    "browser_bootstrap_login": false,
+    "prepare_installation_plan": false,
+    "prepare_execution": false,
+    "execute_installation_plan": false,
+    "apply": false,
+    "gettickets_request": {
+      "provider": "browser-ui",
+      "status": "Awaiting Reply",
+      "limitstart": 0,
+      "limitnum": 20,
+      "totalresults": 5
+    },
+    "browser_ui_debug": {
+      "browser_started": true,
+      "logged_in": true,
+      "current_page": "https://painel.staycloud.com.br/gestor/supporttickets.php",
+      "current_path": "/gestor/supporttickets.php",
+      "page_title": "WHMCS - Tickets de Suporte",
+      "visible_tickets": 5,
+      "candidates": [
+        "QXA-923065"
+      ],
+      "persistent_profile_configured": true,
+      "browser_ui_status": "OK",
+      "browser_ui_reason": "",
+      "queue_filter_found": true,
+      "awaiting_reply_option_found": true,
+      "filter_applied": true,
+      "items_found_text": "Itens encontrados",
+      "visible_tables": 1,
+      "candidate_tables": 1,
+      "headers_found": [
+        [
+          "departamento",
+          "assunto",
+          "solicitante",
+          "status",
+          "ltima_resposta"
+        ]
+      ],
+      "chosen_table_rows": 8,
+      "ticket_link_count": 7,
+      "normalized_ticket_count": 5,
+      "failure_reason": "",
+      "rows_analyzed": 8,
+      "rows_accepted": 5,
+      "rows_rejected": 3,
+      "rejection_stats": {
+        "TICKET_NUMBER_NOT_EXTRACTED": 1,
+        "SUBJECT_EMPTY": 0,
+        "ROW_COLUMN_COUNT_MISMATCH": 0,
+        "DEPARTMENT_EMPTY": 0,
+        "STATUS_EMPTY": 2,
+        "UNSAFE_TICKET_HREF": 0,
+        "DUPLICATE_TICKET": 0
+      },
+      "rejection_samples": [
+        {
+          "ticket_num": "",
+          "department_present": true,
+          "subject_present": true,
+          "status_present": true,
+          "href_safe": false,
+          "reason": "TICKET_NUMBER_NOT_EXTRACTED",
+          "column_count": 7,
+          "header_count": 7
+        },
+        {
+          "ticket_num": "JWR-633054",
+          "department_present": true,
+          "subject_present": true,
+          "status_present": true,
+          "href_safe": true,
+          "reason": "STATUS_EMPTY",
+          "column_count": 7,
+          "header_count": 7
+        },
+        {
+          "ticket_num": "RFQ-920767",
+          "department_present": true,
+          "subject_present": true,
+          "status_present": true,
+          "href_safe": true,
+          "reason": "STATUS_EMPTY",
+          "column_count": 7,
+          "header_count": 7
+        }
+      ],
+      "ticket_index_count": 5,
+      "queue_filter_applications": 0,
+      "listings_executed": 1,
+      "navigation_count": 1,
+      "loop_detected": false,
+      "opened_candidate": false,
+      "open_origin": "vazio",
+      "returned_to_list": false
+    },
+    "browser_ui_status": "OK",
+    "browser_ui_reason": ""
+  },
+  "summary": {
+    "listed": 0,
+    "returned": 0,
+    "active_analyzed": 0,
+    "opened": 0,
+    "pending_activation": 0,
+    "needs_review": 0,
+    "ignored": 0,
+    "historical_returned": 0
+  },
+  "tickets": []
+}

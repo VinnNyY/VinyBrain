@@ -1,0 +1,115 @@
+{
+  "modo": "lote_simples",
+  "dry_run": true,
+  "origem": "Weekly - Suporte - 2026-08-03 - 16-18",
+  "tarefas": [
+    {
+      "nome": "Enviar apresentação da Weekly de suporte",
+      "descricao": "Enviar para a equipe a apresentação usada na Weekly de 03/08/2026.",
+      "responsavel": "Participante principal não identificado",
+      "prioridade": "Alta",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "suporte"
+      ],
+      "checklist": [
+        "Localizar apresentação",
+        "Enviar para a equipe",
+        "Confirmar recebimento"
+      ],
+      "criterio_conclusao": "Apresentação enviada e disponível para consulta da equipe.",
+      "origem": "Weekly Suporte 2026-08-03",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    },
+    {
+      "nome": "Aceitar convites do dashboard de KPIs",
+      "descricao": "Equipe deve aceitar os convites enviados por e-mail para acompanhar KPIs individuais.",
+      "responsavel": "Equipe de Suporte",
+      "prioridade": "Alta",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "kpi"
+      ],
+      "checklist": [
+        "Abrir e-mail corporativo",
+        "Aceitar convite",
+        "Validar acesso ao dashboard"
+      ],
+      "criterio_conclusao": "Equipe com acesso ao dashboard de KPIs.",
+      "origem": "Weekly Suporte 2026-08-03",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    },
+    {
+      "nome": "Padronizar escalada de tickets com investigação completa",
+      "descricao": "Aplicar o padrão de escalada com produto, tipo de demanda, IP/domínio quando aplicável, serviço, título, investigação, testes, anexos e logs.",
+      "responsavel": "Equipe de Suporte",
+      "prioridade": "Alta",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "suporte",
+        "processo"
+      ],
+      "checklist": [
+        "Revisar campos obrigatórios",
+        "Aplicar em escaladas",
+        "Revisar qualidade dos tickets escalados"
+      ],
+      "criterio_conclusao": "Tickets escalados com informação suficiente para N2/N3.",
+      "origem": "Weekly Suporte 2026-08-03",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    },
+    {
+      "nome": "Implantar escala de acompanhamento dos grupos de WhatsApp",
+      "descricao": "Acompanhar grupos de suporte por dia da semana conforme definido na Weekly.",
+      "responsavel": "Equipe de Suporte",
+      "prioridade": "Alta",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "whatsapp",
+        "suporte"
+      ],
+      "checklist": [
+        "Confirmar escala",
+        "Monitorar grupos no dia atribuído",
+        "Acionar apoio quando estiver com muita demanda"
+      ],
+      "criterio_conclusao": "Grupos de clientes monitorados sem longos períodos sem resposta.",
+      "origem": "Weekly Suporte 2026-08-03",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    },
+    {
+      "nome": "Usar Slack para repasses operacionais internos",
+      "descricao": "Migrar repasses e acionamentos internos de demanda para o Slack, mantendo WhatsApp para clientes e conversas informais.",
+      "responsavel": "Equipe de Suporte",
+      "prioridade": "Média",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "slack",
+        "suporte"
+      ],
+      "checklist": [
+        "Confirmar sala de suporte",
+        "Fazer repasses no Slack",
+        "Evitar repasses operacionais pelo WhatsApp interno"
+      ],
+      "criterio_conclusao": "Repasses operacionais concentrados no Slack.",
+      "origem": "Weekly Suporte 2026-08-03",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    }
+  ]
+}

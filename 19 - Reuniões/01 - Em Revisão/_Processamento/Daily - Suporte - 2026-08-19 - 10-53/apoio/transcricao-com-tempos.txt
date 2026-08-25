@@ -1,0 +1,157 @@
+[00:00:00.000 - 00:00:05.520] Enfim, tropa, tenho um negocinho novo pra apresentar pra vocês aqui, deixa eu compartilhar a tela
+[00:00:05.520 - 00:00:11.360] Uma atualizaçãozinha nova do Zen Desk, mano, que tava fuçando aqui e apareceu
+[00:00:11.360 - 00:00:16.280] Hã? Calma que eu tô procurando qual janela que tá
+[00:00:16.280 - 00:00:25.120] Ei moço, ei moço, cuida dessas coisas aí
+[00:00:25.120 - 00:00:32.420] Ai não tá aparecendo pra compartilhar, olha que merda desse aplicativo, mano, vamos pro Discord, mano, por favor
+[00:00:32.420 - 00:00:37.820] Pô, sim, os caras barraram pra compartilhar a tela até no Slack, mano
+[00:00:37.820 - 00:00:43.970] Acabou tudo, cara
+[00:00:43.970 - 00:00:49.140] Enfim, não mais pode ir passando aí, ô, como que estão suas demandinhas, como foi o seu dia
+[00:00:49.140 - 00:00:51.700] Ai alá, achei o que é
+[00:00:51.700 - 00:00:56.520] Não, pode falar aí como são suas demandinhas, do dia de ontem, de hoje
+[00:00:56.520 - 00:01:01.740] Pô, ontem eu fiquei por conta dessa mulherzinha, que ela até voltou hoje
+[00:01:01.740 - 00:01:06.140] Que a migraçãozinha dela, que ela tá sabendo, mexendo, dar petróleo, se não
+[00:01:06.140 - 00:01:08.910] E nem nessa instalação dos softwares
+[00:01:08.910 - 00:01:16.150] Eu tô fazendo um documento bem redondinho pra ela, pra aprender a mexer
+[00:01:16.150 - 00:01:18.970] Boa
+[00:01:18.970 - 00:01:24.950] Tem um chatzinho, e só, não tem nada muito diferente do novo volume
+[00:01:24.950 - 00:01:26.800] Boa, safe
+[00:01:26.800 - 00:01:30.130] Como estão as suas coisas?
+[00:01:30.130 - 00:01:31.130] Fala pra naís
+[00:01:31.130 - 00:01:34.610] Tem que fazer antes do dia, mais ou menos, e virar um mês
+[00:01:34.610 - 00:01:35.610] Falei
+[00:01:35.610 - 00:01:38.610] Bom, ontem e hoje, praticamente eu tô ralindo
+[00:01:38.610 - 00:01:41.270] A demanda dos games de DPS, né
+[00:01:41.270 - 00:01:43.090] Tá lá, não tem um bastante bug
+[00:01:43.090 - 00:01:47.140] Agora eu tô vendo ali o do Thiago Matos
+[00:01:47.140 - 00:01:49.580] A gente não esqueço
+[00:01:49.580 - 00:01:53.980] Boa, eu vi que vocês estavam mandando mensagem no Slack aí, tá de boa, galera? O que que tá rolando?
+[00:01:53.980 - 00:01:55.700] Vocês já estão...
+[00:01:55.700 - 00:02:05.370] É só um, um, uma instalação da mulher aqui que não tá aparecendo da Petocrit, lá no posto de prédio de manejo?
+[00:02:05.370 - 00:02:18.010] Mano, esse, eu vi esse caso aí, velho, não faço a nenhuma ideia, porque é, por erro, dá erro que, que o Tocrit não conseguiu refazer o cache
+[00:02:18.010 - 00:02:20.720] Eu não acho um motivo
+[00:02:20.720 - 00:02:21.720] Por favor, as duas horas vão...
+[00:02:21.720 - 00:02:26.720] Por que que eu não apagar a instalação que não tem arquivo, que tá aqui? Vou tentar de novo
+[00:02:26.720 - 00:02:27.720] Se der certo...
+[00:02:27.720 - 00:02:30.320] Bom, se não der...
+[00:02:30.320 - 00:02:36.930] Mas, é o que eu te falei, ó, depois sei, é o visual só, por exemplo, no Toolkit
+[00:02:36.930 - 00:02:38.930] As aplicações estão lá e funcionais
+[00:02:38.930 - 00:02:39.930] Boa, Tocrit
+[00:02:39.930 - 00:02:46.080] É só o próprio Toolkit que não tá conseguindo o negócio, mas tá por favor
+[00:02:46.080 - 00:02:48.080] A coisa vai mandar nos ali, tá lá pra nós
+[00:02:48.080 - 00:02:49.080] Boa, galera
+[00:02:49.080 - 00:02:50.080] Então, safe
+[00:02:50.080 - 00:02:54.110] Ó, só pra vocês a novidade, tá dando pra ver minha tela aí?
+[00:02:54.110 - 00:02:55.110] Uhum
+[00:02:55.110 - 00:02:56.110] Boa, vamo lá
+[00:02:56.110 - 00:02:58.110] Dizem 10 que atualizou, mano, se liga
+[00:02:58.110 - 00:03:01.140] Apareceu aqui embaixo um bagulho que agora tem pra gravar áudio
+[00:03:01.140 - 00:03:03.140] Então dá pra gravar áudio e mandar pro chat
+[00:03:03.140 - 00:03:04.140] Ok?
+[00:03:04.140 - 00:03:07.140] A gente, eu na auto fez o teste, então o áudio sai de boinha pro cliente
+[00:03:07.140 - 00:03:09.140] Isso aqui é muito bom
+[00:03:09.140 - 00:03:11.140] É, uma que eu tava conversando com na auto aqui também
+[00:03:11.140 - 00:03:15.140] As vezes quando a gente abre o ticite interno, por mais que a gente coloque muitas já anotações internas e tudo mais
+[00:03:15.140 - 00:03:18.140] As vezes vocês quiserem uma explicação mais rápida
+[00:03:18.140 - 00:03:21.140] Dá pra gravar áudio também e mandar como nota interna
+[00:03:21.140 - 00:03:24.140] Pra depois o amiguinho escutar e...
+[00:03:24.140 - 00:03:26.140] Consiga entender o que que rolou
+[00:03:26.140 - 00:03:27.400] Beleza?
+[00:03:27.400 - 00:03:29.400] Isso aqui é uma das atualizações
+[00:03:29.400 - 00:03:31.400] E tem uma outra ferramentinha do Zen Desk aqui, mano
+[00:03:31.400 - 00:03:33.400] Que é a que vocês usem, mano
+[00:03:33.400 - 00:03:36.400] Que é essa aqui ó, essa que já tava há mais tempo, só que eu entendi como que usa hoje
+[00:03:36.400 - 00:03:37.400] A primeiramente escrita
+[00:03:37.400 - 00:03:39.400] Então, por exemplo
+[00:03:39.400 - 00:03:40.400] Dá pra gente pegar...
+[00:03:40.400 - 00:03:41.400] Vou pegar...
+[00:03:41.400 - 00:03:43.970] Essa resposta do Tonico aqui de exemplo
+[00:03:43.970 - 00:03:48.530] Cês vão...
+[00:03:48.530 - 00:03:50.530] Cês digitam a resposta, às vezes nem precisa de A, tá ligado?
+[00:03:50.530 - 00:03:53.530] Cês só digitam a resposta e aqui cês conseguem identificar como que cês querem
+[00:03:53.530 - 00:03:55.530] Então tipo, sei lá
+[00:03:55.530 - 00:03:56.530] Vamos lá
+[00:03:56.530 - 00:03:57.530] Mais amigável
+[00:03:57.530 - 00:04:00.530] Ele já marca toda e ele já redefine a mensagem inteira
+[00:04:00.530 - 00:04:02.530] Óbvio, lêem a resposta inteira
+[00:04:02.530 - 00:04:04.530] Vê se ela não falou merda nenhuma
+[00:04:04.530 - 00:04:06.530] Porque a gente não sabe ainda como que tá sendo essa IA do Zen Desk
+[00:04:06.530 - 00:04:08.530] Então dêem uma lida, vê se ela não falou nada
+[00:04:08.530 - 00:04:12.530] Mas aparentemente com poucos testes que eu fiz aqui até agora
+[00:04:12.530 - 00:04:13.530] Ela tá entregando legal
+[00:04:13.530 - 00:04:15.530] Então tipo, tem como a gente pegar aqui, sei lá
+[00:04:15.530 - 00:04:16.530] É...
+[00:04:16.530 - 00:04:17.530] Mais formal
+[00:04:17.530 - 00:04:19.530] Então tem como deixar o texto mais formalizado
+[00:04:19.530 - 00:04:21.530] Ou também...
+[00:04:21.530 - 00:04:22.530] Isso aí
+[00:04:22.530 - 00:04:27.530] Ou também tem como vocês escreverem como vocês querem que ele melhore a resposta, tá ligado?
+[00:04:27.530 - 00:04:31.110] Então isso aqui pode matar muito tempo pra gente, mano
+[00:04:31.110 - 00:04:32.110] Então...
+[00:04:32.110 - 00:04:33.110] É legal usar
+[00:04:33.110 - 00:04:34.110] Principalmente no chat
+[00:04:34.110 - 00:04:35.110] Eu passei pro Matheusão
+[00:04:35.110 - 00:04:37.110] Ou quando cê pega de manhã no chat
+[00:04:37.110 - 00:04:39.110] Sempre que a gente usa a macro de...
+[00:04:39.110 - 00:04:41.360] Mensagem inicial
+[00:04:41.360 - 00:04:43.360] Nessa aqui, tipo, sei lá
+[00:04:43.360 - 00:04:45.360] Com essa IA já integrada aqui, tipo assim
+[00:04:45.360 - 00:04:47.360] É muito mais fácil de...
+[00:04:47.360 - 00:04:49.360] Sempre fazer uma nova, tá ligado?
+[00:04:49.360 - 00:04:50.360] Fazer várias palavras
+[00:04:50.360 - 00:04:51.430] Aham, então tipo...
+[00:04:51.430 - 00:04:52.430] Pronto aí, tipo
+[00:04:52.430 - 00:04:55.430] Já foi uma mensagem nova rapidão, tá ligado?
+[00:04:55.430 - 00:04:57.430] Ela é bem rápida pra responder, então...
+[00:04:57.430 - 00:04:58.430] Porra, é muito legal isso, velho
+[00:04:58.430 - 00:05:00.800] Bele?
+[00:05:00.800 - 00:05:02.800] O processo que fechou
+[00:05:02.800 - 00:05:03.800] E esse do áudio também achei legal
+[00:05:03.800 - 00:05:05.800] Então as vezes pra explicar as coisas pros clientes
+[00:05:05.800 - 00:05:06.800] Quando vem aqui esse cliente muito leigo, mano
+[00:05:06.800 - 00:05:08.800] Que nem digitando os cara entende
+[00:05:08.800 - 00:05:10.800] As vezes por áudio o cara consegue pegar um pouco...
+[00:05:10.800 - 00:05:12.800] Consegue pegar muito mais rápido a explicação
+[00:05:12.800 - 00:05:15.800] Então as vezes é legal usar também
+[00:05:15.800 - 00:05:16.930] Bele?
+[00:05:16.930 - 00:05:18.440] Fechou
+[00:05:18.440 - 00:05:20.440] Bom, tropa, não mais...
+[00:05:20.440 - 00:05:21.440] Mas é isso
+[00:05:21.440 - 00:05:22.440] Era só mais...
+[00:05:22.440 - 00:05:24.440] Delizinho pra saber como que vocês estão
+[00:05:24.440 - 00:05:25.440] É...
+[00:05:25.440 - 00:05:26.440] Matheusão, você tem alguma coisa pra passar?
+[00:05:26.440 - 00:05:27.440] Alguma coisa do seu lado?
+[00:05:27.440 - 00:05:28.440] Como que tá?
+[00:05:28.440 - 00:05:29.440] Tudo de boa?
+[00:05:29.440 - 00:05:30.670] Agora...
+[00:05:30.670 - 00:05:31.670] Agora...
+[00:05:31.670 - 00:05:32.670] No máximo eu acho que...
+[00:05:32.670 - 00:05:33.670] Eu acho que...
+[00:05:33.670 - 00:05:34.670] Não muitos não conseguem desenvolver
+[00:05:34.670 - 00:05:35.670] Né?
+[00:05:35.670 - 00:05:36.670] Assim...
+[00:05:36.670 - 00:05:37.670] Agora...
+[00:05:37.670 - 00:05:39.670] Se for questão de conversar aqui no Ciro
+[00:05:39.670 - 00:05:40.670] Eu não sei...
+[00:05:40.670 - 00:05:41.670] Não sei...
+[00:05:41.670 - 00:05:42.670] Não sei...
+[00:05:42.670 - 00:05:43.670] Com alguém...
+[00:05:43.670 - 00:05:44.670] E...
+[00:05:44.670 - 00:05:45.670] Não dá pra ser isso
+[00:05:45.670 - 00:05:46.670] É...
+[00:05:46.670 - 00:05:47.670] Mesmo...
+[00:05:47.670 - 00:05:51.140] Depois tem que ver qual mic
+[00:05:51.140 - 00:05:52.140] Que tá no teu Slack
+[00:05:52.140 - 00:05:54.140] Mano, tá pegando mais som externo
+[00:05:54.140 - 00:05:55.140] Do seu mic
+[00:05:55.140 - 00:05:56.140] É de boa
+[00:05:56.140 - 00:05:57.780] Enfim...
+[00:05:57.780 - 00:05:58.780] Mas era isso, galera
+[00:05:58.780 - 00:05:59.780] Só queria passar essa novidade pra vocês
+[00:05:59.780 - 00:06:00.780] Pra ver como que estão
+[00:06:00.780 - 00:06:01.780] As demandinhas
+[00:06:01.780 - 00:06:02.780] Podem focar aí
+[00:06:02.780 - 00:06:03.780] Qualquer coisa...
+[00:06:03.780 - 00:06:04.780] Vocês podem me avisar
+[00:06:04.780 - 00:06:06.040] Bele?
+[00:06:06.040 - 00:06:07.040] Fechou

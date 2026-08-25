@@ -1,0 +1,11 @@
+{
+  "updated_at": "2026-07-27T14:22:20.735Z",
+  "post_id": 2843,
+  "external_link_added": "https://staycloud.com/",
+  "result": {
+    "postStatus": 200,
+    "postText": "{\"id\":2843,\"date\":\"2026-07-27T10:50:30\",\"date_gmt\":\"2026-07-27T13:50:30\",\"guid\":{\"rendered\":\"https:\\/\\/ajuda.staycloud.com.br\\/docs\\/central-de-ajuda-staycloud\\/\",\"raw\":\"https:\\/\\/ajuda.staycloud.com.br\\/docs\\/central-de-ajuda-staycloud\\/\"},\"modified\":\"2026-07-27T11:22:18\",\"modified_gmt\":\"2026-07-27T14:22:18\",\"password\":\"\",\"slug\":\"central-de-ajuda-staycloud\",\"status\":\"publish\",\"type\":\"docs\",\"link\":\"https:\\/\\/ajuda.staycloud.com.br\\/docs\\/central-de-ajuda-staycloud\\/\",\"title\":{\"raw\":\"Como localiz",
+    "rankStatus": 200,
+    "rankText": "{\"slug\":true,\"schemas\":[]}"
+  }
+}

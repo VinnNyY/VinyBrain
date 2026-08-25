@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Como localizar os registros DNS no Painel Novo da StayCloud</title>
+  <style>
+    :root{color-scheme:light;--text:#111827;--muted:#4b5563;--line:#dbe3ef;--soft:#f8fafc;--brand:#334155;--blue:#2563eb}
+    body{margin:0;font-family:Arial,sans-serif;color:var(--text);background:#fff;line-height:1.65}
+    main{width:min(980px,calc(100% - 32px));margin:42px auto 72px}.native-title{margin:0 0 28px;color:var(--brand);font-size:32px;line-height:1.2;text-transform:uppercase;letter-spacing:0}
+    article{border-top:1px solid var(--line);padding-top:30px}h1{margin:0 0 18px;font-size:34px;line-height:1.2}h2{margin:42px 0 12px;font-size:25px;line-height:1.25}h3{margin:30px 0 10px;font-size:20px;line-height:1.35}p,li{font-size:17px}p{margin:0 0 18px}a{color:var(--blue);font-weight:700}figure{margin:26px 0 34px;border:1px solid var(--line);background:var(--soft);padding:14px}img{display:block;width:100%;height:auto;border:1px solid var(--line);background:#fff}figcaption{margin-top:10px;color:var(--muted);font-size:14px}code{font-family:Consolas,monospace}.seo{margin-top:48px;padding:22px;border:1px solid var(--line);background:var(--soft);white-space:pre-wrap;font:14px/1.55 Consolas,monospace;color:#334155}
+  </style>
+</head>
+<body>
+  <main>
+    <div class="native-title">REGISTROS DNS STAYCLOUD</div>
+    <article>
+      <h1>Como localizar os registros DNS no Painel Novo da StayCloud</h1>
+
+      <p><strong>Registros DNS StayCloud</strong> são as informações usadas para direcionar um domínio para os serviços corretos, como site, e-mail ou outro destino técnico. No Painel Novo, a área DNS da hospedagem ajuda você a consultar esses dados antes de usar uma plataforma externa, como Cloudflare, Registro.br ou outro provedor que administra a zona DNS do domínio.</p>
+
+      <p>Este tutorial é apenas de localização e consulta. Ele não ensina a criar registros DNS, trocar nameservers, comprar domínio, adicionar domínio ou configurar a Cloudflare por completo. A ideia é ajudar você a encontrar os dados da hospedagem e entender o que observar antes de fazer qualquer alteração no provedor responsável pelo DNS.</p>
+
+      <h2>Quando você precisa consultar os registros DNS</h2>
+
+      <p>Você pode precisar consultar os registros DNS quando o domínio usa uma plataforma externa para gerenciar a zona DNS. Isso acontece, por exemplo, quando os nameservers apontam para a Cloudflare, para o Registro.br ou para outro provedor. Nesses casos, as alterações ativas dos registros normalmente são feitas nessa plataforma externa.</p>
+
+      <p>A consulta no Painel Novo serve como referência para identificar informações da hospedagem. Não copie todos os registros automaticamente: site, e-mail e validações usam registros diferentes, e cada domínio pode ter uma configuração própria.</p>
+
+      <h2>Como localizar os registros DNS StayCloud no Painel Novo</h2>
+
+      <h3>1. Abra a hospedagem correta</h3>
+
+      <p>Acesse o Painel Novo da StayCloud e entre na hospedagem que corresponde ao domínio que você deseja consultar. Se houver mais de um serviço na conta, confirme o nome da hospedagem antes de continuar. Essa conferência evita usar dados de outro site por engano.</p>
+
+      <h3>2. Clique na aba DNS</h3>
+
+      <p>Dentro da hospedagem, use a navegação superior e clique em <strong>DNS</strong>. Essa aba reúne as informações relacionadas ao DNS do serviço.</p>
+
+      <figure>
+        <img src="prints-finais/print-01-aba-dns-sanitizado.png" alt="Aba DNS para localizar registros DNS StayCloud no Painel Novo">
+        <figcaption>Na hospedagem correta, clique somente na aba DNS.</figcaption>
+      </figure>
+
+      <h3>3. Consulte os registros disponíveis</h3>
+
+      <p>Depois de abrir a área DNS, observe quais informações aparecem na tela. O painel pode exibir registros organizados por tipo e destino, ou dados técnicos necessários para apontamento. Use somente os campos exibidos para a sua hospedagem.</p>
+
+      <h3>4. Identifique o registro necessário</h3>
+
+      <p>Antes de copiar qualquer informação, identifique qual serviço você quer direcionar. Para site, normalmente a análise envolve registros como A ou CNAME. Para e-mail, podem existir registros MX e TXT relacionados a SPF, DKIM ou DMARC. Esses registros não devem ser copiados sem revisar a necessidade real do domínio.</p>
+
+      <h2>O que observar em um registro DNS</h2>
+
+      <p>Quando a tela exibir uma lista de registros, observe primeiro o <strong>Tipo</strong>. Ele indica a função do registro, como A, CNAME, MX ou TXT. Depois confira o <strong>Nome</strong> ou <strong>Host</strong>, que representa o domínio, subdomínio ou identificador do registro.</p>
+
+      <p>Também confira o <strong>Valor</strong> ou <strong>Destino</strong>, que indica para onde o registro aponta. Quando existir <strong>TTL</strong>, ele representa o tempo de cache informado para aquele registro. A presença e o nome exato desses campos dependem da tela atual do painel.</p>
+
+      <h2>Como usar essas informações na Cloudflare ou em outra plataforma</h2>
+
+      <p>Primeiro, confirme onde o DNS autoritativo do domínio está sendo administrado. Se os nameservers do domínio apontam para a Cloudflare, as alterações de registros devem ser feitas na Cloudflare. Se a zona está em outro provedor, use o painel desse provedor.</p>
+
+      <p>Depois, cadastre ou revise apenas os registros necessários para o serviço desejado. Não altere registros de e-mail ao ajustar um site, e não remova registros antigos sem entender o impacto. Quando houver dúvida, compare tipo, nome e destino com atenção antes de salvar.</p>
+
+      <p>Se o que você precisa é um procedimento mais amplo de direcionamento do domínio, veja também o tutorial sobre <a href="https://ajuda.staycloud.com.br/docs/como-apontar-dominio-para-staycloud/">como apontar domínio para a StayCloud</a>. Se a dúvida for sobre servidores responsáveis pela zona DNS, consulte o conteúdo específico sobre <a href="https://ajuda.staycloud.com.br/docs/alterar-nameservers-staycloud/">alteração de nameservers</a>.</p>
+
+      <h2>Importante para quem utiliza Cloudflare</h2>
+
+      <p>Quando o domínio utiliza nameservers da Cloudflare, os registros DNS ativos são gerenciados no painel da Cloudflare. A aba DNS da StayCloud pode servir como referência para localizar dados da hospedagem, mas isso não significa que todos os registros exibidos precisam ser copiados.</p>
+
+      <p>Use a informação consultada de forma seletiva. Um apontamento de site pode exigir um registro diferente de uma configuração de e-mail, validação de domínio ou subdomínio. Este artigo não substitui um procedimento completo de migração de DNS.</p>
+
+      <h2>Dúvidas frequentes</h2>
+
+      <h3>Onde encontro o IP da hospedagem?</h3>
+      <p>O IP pode aparecer nas informações da hospedagem ou em registros do tipo A, conforme a tela do serviço. Use sempre o dado exibido para a hospedagem correta.</p>
+
+      <h3>Preciso alterar o DNS na StayCloud se uso Cloudflare?</h3>
+      <p>Não necessariamente. Se o domínio usa nameservers da Cloudflare, as alterações dos registros ativos devem ser feitas na Cloudflare.</p>
+
+      <h3>Posso usar esses dados no Registro.br?</h3>
+      <p>Sim, desde que o Registro.br seja a plataforma responsável pelo DNS do domínio ou que a configuração desejada dependa dele. O campo usado depende do tipo de registro necessário.</p>
+
+      <h3>Qual registro preciso copiar?</h3>
+      <p>Depende do serviço que você quer configurar. Site, e-mail e verificações externas usam registros diferentes. Copie apenas o dado necessário para a finalidade confirmada.</p>
+
+      <h2>Conclusão</h2>
+
+      <p>Para localizar os registros DNS StayCloud, abra a hospedagem correta no Painel Novo, acesse a aba <strong>DNS</strong>, consulte os registros ou dados disponíveis e identifique tipo, nome e destino antes de usar a informação em outro provedor. Se o domínio usa Cloudflare ou outra plataforma externa, faça as alterações somente no local que administra o DNS autoritativo.</p>
+
+    </article>
+    <section class="seo">TÍTULO NATIVO:
+REGISTROS DNS STAYCLOUD
+
+H1:
+Como localizar os registros DNS no Painel Novo da StayCloud
+
+PALAVRA-CHAVE PRINCIPAL:
+registros DNS StayCloud
+
+TÍTULO SEO:
+Registros DNS StayCloud: como localizar no painel
+
+SLUG:
+registros-dns-staycloud
+
+META DESCRIPTION:
+Veja como localizar os registros DNS StayCloud no Painel Novo e consultar os dados necessários para apontar seu domínio na Cloudflare ou em outra plataforma.
+
+EXCERPT:
+Aprenda a localizar os registros DNS no Painel Novo da StayCloud e consultar os dados da hospedagem para usar em Cloudflare, Registro.br ou outro provedor DNS.
+
+CATEGORIA:
+Painel novo
+
+TAGS:
+DNS; Painel Novo; Cloudflare; Domínios; StayCloud.
+
+LINKS INTERNOS PLANEJADOS:
+https://ajuda.staycloud.com.br/docs/dados-servidor-staycloud/
+https://ajuda.staycloud.com.br/docs/como-apontar-dominio-para-staycloud/
+https://ajuda.staycloud.com.br/docs/alterar-nameservers-staycloud/
+
+STATUS:
+Prévia local preparada. Publicação bloqueada até abertura do rascunho 2999, validação real da aba DNS e substituição das imagens de apoio por prints atuais.</section>
+  </main>
+</body>
+</html>

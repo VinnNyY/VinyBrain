@@ -1,0 +1,145 @@
+SPEAKER_00: Inicialmente, antes da gente só ir para as metinhas, como que estão a fazer de vocês, só passar algumas notícias, que é, Luiz pegou para validar hoje a quantidade de análises da Cláudia.
+
+SPEAKER_00: E eu volto a dizer que ele não ficou nem um pouco feliz, mano.
+
+SPEAKER_00: Porque tem nada.
+
+SPEAKER_00: Era pra gente estar comendo com a Cláudia e não tem nada lá.
+
+SPEAKER_00: Tem muito pouco.
+
+SPEAKER_00: Então, essa semana é a última semana que dá pra gente testar ela.
+
+SPEAKER_00: Era pra mandar sexta-feira passada, a gente ainda segurou por essa semana.
+
+SPEAKER_00: A gente vai mandar sexta-feira pra eles a análise completa.
+
+SPEAKER_00: Pra eles poderem reestruturar ela, deixar ela filé pra gente.
+
+SPEAKER_00: Então eu preciso que seja utilizado 100% da Cláudia.
+
+SPEAKER_00: Tipo assim, 100% dos chats eu preciso que seja com ela.
+
+SPEAKER_00: Ela falou merda, desliga e atua, véi.
+
+SPEAKER_00: Não tem mais justificativa.
+
+SPEAKER_00: Então, tipo assim, eu preciso 100% que seja utilizado com ela e que seja documentado.
+
+SPEAKER_00: Essa é a última semana que a gente tem pra ela, ok?
+
+SPEAKER_00: Luiz não tá nem, eu vou falar isso abertamente, Luiz não tá nem um pouco feliz.
+
+SPEAKER_00: Ele foi ver isso aí, ele viu a quantidade que tem lá, ele não ficou nem um pouco feliz.
+
+SPEAKER_00: Então eu acho que se a gente não conseguir bater isso aí de uma forma só conversando, infelizmente a gente vai ter que ir para outros meios.
+
+SPEAKER_00: Então só para deixar avisado a todos que eu estou precisando da ajuda de todo mundo.
+
+SPEAKER_00: A gente está com pouca documentação, quem não sabe como faz documentação ainda me avisa que tem o PDF no grupo, mas eu reenvio.
+
+SPEAKER_00: Ok?
+
+SPEAKER_00: No mais é isso Outras novidades que eu tenho que passar Só relacionado aos tickets Vamos tentar dar uma adiantada Tô tentando adiantar o masque daqui Tentando ver esse pagamento Vi que tá com bastante de VPS Creio que tu esteja mexendo, né Gabriel?
+
+SPEAKER_00: Em algum desses de VPS
+
+SPEAKER_00: Boa.
+
+SPEAKER_00: Esses VPS estão aparecendo bastante agora com as últimas semanas.
+
+SPEAKER_00: Tem um depois que eu acho que vou precisar de ajuda, Gabriel, mas eu vou deixar você focar nesses aí de VPS primeiro, que é um de migração.
+
+SPEAKER_00: Eu vou tentar migrar de novo, porque a migração do cara está extremamente grande, e não está migrando de jeito nenhum.
+
+SPEAKER_02: Ele está corrompendo quando tu extrai no CP, né?
+
+SPEAKER_00: Perdão, não entendi.
+
+SPEAKER_02: Ele corrompe quando tu extrai pelo CP?
+
+SPEAKER_00: Sim, sim.
+
+SPEAKER_02: Chegou a terminal e ele via terminal?
+
+SPEAKER_00: Hummmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
+SPEAKER_02: Beleza.
+
+SPEAKER_00: Mas é isso.
+
+SPEAKER_00: Ah é, e Fael, pra tu ter uma missãozinha depois mais tarde, assim que o chat ficar de boa, se tu for fazer algum plug, alguma coisa, você compartilha a sua tela pra mostrar pro Matheus, ok?
+
+SPEAKER_00: Ok.
+
+SPEAKER_00: Depois como que é feito, como que é feito por padrão, pra gente poder, depois ele poder já começar a atuar nisso aí.
+
+SPEAKER_00: Tá, no mais, acho que do meu lado é isso.
+
+SPEAKER_00: Galera que tiver algo a falar agora, pode passar da...
+
+SPEAKER_00: Como estão as metinhas de vocês?
+
+SPEAKER_00: Como que estão o dia a dia?
+
+SPEAKER_00: O que vocês estão responsáveis hoje, por favor?
+
+SPEAKER_01: Eu começo falando, então, óbvio, né?
+
+SPEAKER_01: Tipo, só chat mesmo.
+
+SPEAKER_01: As metinhas, tá?
+
+SPEAKER_01: Outro vídeo mais, acho que três tutoriais de coisas que os clientes pediam antes do dia.
+
+SPEAKER_01: Eu sei que dá pra fazer um tutorial, inclusive eu vou subir todos hoje à noite, porque não tem nada pra fazer mais à noite.
+
+SPEAKER_01: Aí eu vou subir todos lá no drivers industriais.
+
+SPEAKER_01: Só avaliação que não tá muito fácil de enxergar, mas eu vou tentar um jeito de fazer.
+
+SPEAKER_01: Pedir aqui em Diamantina, alguma coisa assim, porque...
+
+SPEAKER_00: O cara vai sair na rua distribuindo planta pela fleta.
+
+SPEAKER_00: É o jeito, tem que mandar a comunidade, esses doentes, avaliá-la.
+
+SPEAKER_01: Mas nós temos que sair na rua pedindo.
+
+SPEAKER_01: Mas o mais é isso.
+
+SPEAKER_01: Não é nada de mais não.
+
+SPEAKER_02: Ok.
+
+SPEAKER_02: Gabriel?
+
+SPEAKER_02: Por aí tá de boa.
+
+SPEAKER_02: Às 12h eu vou fazer um cálculo aberto pra ver o rolê lá do Buster.
+
+SPEAKER_02: Eu tenho que correr atrás das metas, né?
+
+SPEAKER_02: Porque tá com bastante ticket e eu não tô conseguindo fazer os negócios que o Ronaldo pediu pra eu fazer.
+
+SPEAKER_02: Mas o resto tá de boa.
+
+SPEAKER_00: Ok, então, tranquilo, galera.
+
+SPEAKER_00: Vamos tentar dar um gajo nisso aí.
+
+SPEAKER_00: Focar no que eu falei.
+
+SPEAKER_00: Às vezes o chat pega muito, mas, mano, coloca a Cláudia pra funcionar, Rafael.
+
+SPEAKER_00: Eu sei que tá mais à frente.
+
+SPEAKER_00: Coloca a Cláudia pra funcionar.
+
+SPEAKER_00: Não sei, acho que não.
+
+SPEAKER_00: Enfim, vamos focar agora só, né?
+
+SPEAKER_00: Vamos focar e tentar melhorar isso aí.
+
+SPEAKER_00: No mais, qualquer coisa que vocês precisarem, vocês me avisem.

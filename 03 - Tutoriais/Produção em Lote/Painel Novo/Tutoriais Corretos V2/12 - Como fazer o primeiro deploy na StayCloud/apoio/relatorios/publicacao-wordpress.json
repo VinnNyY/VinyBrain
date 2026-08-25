@@ -1,0 +1,78 @@
+{
+  "documentId": 2896,
+  "editUrl": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2896&action=edit",
+  "publicUrl": "https://ajuda.staycloud.com.br/docs/primeiro-deploy-staycloud/",
+  "slug": "primeiro-deploy-staycloud",
+  "status": "publish",
+  "title": "Como fazer o primeiro deploy na StayCloud",
+  "categories": [
+    17
+  ],
+  "tags": [
+    33,
+    32,
+    34,
+    20,
+    35,
+    22
+  ],
+  "uploaded": [
+    {
+      "file": "01-iniciar-deploy-sanitizado.png",
+      "id": 2890,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-iniciar-deploy-sanitizado.png",
+      "alt": "Primeiro deploy StayCloud pela opção Upload de zip no Painel Novo",
+      "title": "Upload de zip para primeiro deploy StayCloud"
+    },
+    {
+      "file": "02-informar-projeto-sanitizado.png",
+      "id": 2891,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-informar-projeto-sanitizado.png",
+      "alt": "Arquivo zip selecionado para o primeiro deploy StayCloud",
+      "title": "Arquivo zip selecionado para deploy"
+    },
+    {
+      "file": "03-executar-deploy-sanitizado.png",
+      "id": 2892,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-executar-deploy-sanitizado.png",
+      "alt": "Botão criar e implantar para fazer o primeiro deploy StayCloud",
+      "title": "Botão criar e implantar no Deploy StayCloud"
+    },
+    {
+      "file": "04-processamento-sanitizado.png",
+      "id": 2893,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-processamento-sanitizado.png",
+      "alt": "Status publicando durante o primeiro deploy StayCloud",
+      "title": "Status publicando no Deploy StayCloud"
+    },
+    {
+      "file": "05-concluido-sanitizado.png",
+      "id": 2894,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-concluido-sanitizado.png",
+      "alt": "Projeto pronto e no ar depois do primeiro deploy StayCloud",
+      "title": "Projeto pronto e no ar"
+    },
+    {
+      "file": "06-aplicacao-publicada-sanitizado.png",
+      "id": 2895,
+      "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-aplicacao-publicada-sanitizado.png",
+      "alt": "Aplicação publicada após o primeiro deploy StayCloud",
+      "title": "Aplicação publicada pelo Deploy StayCloud"
+    }
+  ],
+  "rankMathResponse": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankMathScoreBeforePublish": 86,
+  "rankMathScoreAfterPublish": 85,
+  "seo": {
+    "focusKeyword": "primeiro deploy StayCloud",
+    "seoTitle": "Primeiro deploy StayCloud: veja como publicar",
+    "metaDescription": "Aprenda a fazer o primeiro deploy StayCloud, publicar um projeto de teste, acompanhar o processamento e abrir a aplicação gerada.",
+    "excerpt": "Veja como fazer o primeiro deploy StayCloud pelo Painel Novo usando upload de .zip, acompanhar o processamento e abrir a aplicação publicada.",
+    "socialTitle": "Como fazer o primeiro deploy na StayCloud",
+    "socialDescription": "Publique um projeto de teste pelo Deploy StayCloud, acompanhe o processamento e confira a aplicação no ar."
+  },
+  "publishedAt": "2026-07-29T14:40:38.089Z"
+}

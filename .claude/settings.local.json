@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -oE '^#+ */[a-z-]+|/[a-z-]{4,}' \"17 - Viny Flow/03 - Comandos/Comandos Reutilizáveis.md\")",
+      "Bash(git --version)",
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(awk -F'\\\\t' '{printf \"%.1f MB\\\\t%s\\\\n\", $1/1048576, $2}')"
+    ]
+  }
+}

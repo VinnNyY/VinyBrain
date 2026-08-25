@@ -1,0 +1,188 @@
+[
+  {
+    "ticket_id": "12345",
+    "status": "Open",
+    "customer_email": "cliente@example.com",
+    "subject": "Ativacao de plugin",
+    "domain_detected": "exemplo.com.br",
+    "plugin_detected": "Elementor Pro",
+    "tipo_solicitacao": "ativacao_plugin",
+    "confidence_score": 100,
+    "classification": "ALTA CONFIANCA",
+    "reason": "score alto com sinais consistentes de ativacao; plugin detectado: Elementor Pro",
+    "missing_info": [],
+    "next_action": "Enviar para fila de aprovacao humana."
+  },
+  {
+    "ticket_id": "12346",
+    "status": "Answered",
+    "customer_email": "cliente2@example.com",
+    "subject": "Liberar WP Rocket",
+    "domain_detected": "loja.exemplo.com.br",
+    "plugin_detected": "WP Rocket",
+    "tipo_solicitacao": "ativacao_plugin",
+    "confidence_score": 100,
+    "classification": "ALTA CONFIANCA",
+    "reason": "score alto com sinais consistentes de ativacao; plugin detectado: WP Rocket",
+    "missing_info": [],
+    "next_action": "Enviar para fila de aprovacao humana."
+  },
+  {
+    "ticket_id": "12347",
+    "status": "Open",
+    "customer_email": "cliente3@example.com",
+    "subject": "Ativacao pendente",
+    "domain_detected": "",
+    "plugin_detected": "",
+    "tipo_solicitacao": "pedido_generico_plugin",
+    "confidence_score": 65,
+    "classification": "PRECISA REVISAR",
+    "reason": "fala de plugin, mas nao esta claro ou nao esta autorizado na whitelist",
+    "missing_info": [
+      "dominio nao informado",
+      "plugin nao identificado"
+    ],
+    "next_action": "Revisar manualmente e completar dados faltantes."
+  },
+  {
+    "ticket_id": "12352",
+    "status": "Open",
+    "customer_email": "cliente8@example.com",
+    "subject": "Plugin não permitido",
+    "domain_detected": "exemplo.com.br",
+    "plugin_detected": "",
+    "tipo_solicitacao": "instalacao_plugin",
+    "confidence_score": 75,
+    "classification": "PRECISA REVISAR",
+    "reason": "pedido parece ser de instalacao e nao ativacao",
+    "missing_info": [
+      "plugin nao identificado"
+    ],
+    "next_action": "Revisar manualmente e completar dados faltantes."
+  },
+  {
+    "ticket_id": "12353",
+    "status": "Answered",
+    "customer_email": "cliente9@example.com",
+    "subject": "Licenca do plugin",
+    "domain_detected": "",
+    "plugin_detected": "",
+    "tipo_solicitacao": "licenca_plugin",
+    "confidence_score": 65,
+    "classification": "PRECISA REVISAR",
+    "reason": "pedido parece ser de licenca",
+    "missing_info": [
+      "dominio nao informado",
+      "plugin nao identificado",
+      "dominio necessario para validar licenca"
+    ],
+    "next_action": "Revisar manualmente e completar dados faltantes."
+  },
+  {
+    "ticket_id": "12354",
+    "status": "Open",
+    "customer_email": "cliente10@example.com",
+    "subject": "Rank Math no dominio principal",
+    "domain_detected": "cliente10.com.br",
+    "plugin_detected": "Rank Math SEO Pro",
+    "tipo_solicitacao": "ativacao_plugin",
+    "confidence_score": 100,
+    "classification": "ALTA CONFIANCA",
+    "reason": "score alto com sinais consistentes de ativacao; plugin detectado: Rank Math SEO Pro",
+    "missing_info": [],
+    "next_action": "Enviar para fila de aprovacao humana."
+  },
+  {
+    "ticket_id": "12355",
+    "status": "Open",
+    "customer_email": "cliente11@example.com",
+    "subject": "Instalacao de plugin",
+    "domain_detected": "cliente11.com.br",
+    "plugin_detected": "JetEngine",
+    "tipo_solicitacao": "instalacao_plugin",
+    "confidence_score": 100,
+    "classification": "PRECISA REVISAR",
+    "reason": "pedido parece ser de instalacao e nao ativacao",
+    "missing_info": [],
+    "next_action": "Revisar manualmente e completar dados faltantes."
+  },
+  {
+    "ticket_id": "12356",
+    "status": "Answered",
+    "customer_email": "cliente12@example.com",
+    "subject": "Licenca do plugin",
+    "domain_detected": "",
+    "plugin_detected": "Elementor Pro",
+    "tipo_solicitacao": "licenca_plugin",
+    "confidence_score": 90,
+    "classification": "PRECISA REVISAR",
+    "reason": "pedido parece ser de licenca",
+    "missing_info": [
+      "dominio nao informado",
+      "dominio necessario para validar licenca"
+    ],
+    "next_action": "Revisar manualmente e completar dados faltantes."
+  },
+  {
+    "ticket_id": "12357",
+    "status": "Open",
+    "customer_email": "cliente13@example.com",
+    "subject": "Erro no Elementor",
+    "domain_detected": "loja12.com.br",
+    "plugin_detected": "Elementor Pro",
+    "tipo_solicitacao": "erro_plugin",
+    "confidence_score": 75,
+    "classification": "PRECISA REVISAR",
+    "reason": "pedido parece ser de erro ou problema em plugin",
+    "missing_info": [],
+    "next_action": "Revisar manualmente e completar dados faltantes."
+  },
+  {
+    "ticket_id": "12358",
+    "status": "Open",
+    "customer_email": "cliente14@example.com",
+    "subject": "Ativar plugin sem dominio",
+    "domain_detected": "",
+    "plugin_detected": "WP Rocket",
+    "tipo_solicitacao": "ativacao_plugin",
+    "confidence_score": 90,
+    "classification": "PRECISA REVISAR",
+    "reason": "falta clareza para confirmar ativacao",
+    "missing_info": [
+      "dominio nao informado"
+    ],
+    "next_action": "Confirmar plugin, dominio e autorizacao."
+  },
+  {
+    "ticket_id": "12359",
+    "status": "Open",
+    "customer_email": "cliente15@example.com",
+    "subject": "Plugin novo",
+    "domain_detected": "cliente15.com.br",
+    "plugin_detected": "",
+    "tipo_solicitacao": "pedido_generico_plugin",
+    "confidence_score": 75,
+    "classification": "PRECISA REVISAR",
+    "reason": "falta clareza para confirmar ativacao",
+    "missing_info": [
+      "plugin nao identificado"
+    ],
+    "next_action": "Confirmar plugin, dominio e autorizacao."
+  },
+  {
+    "ticket_id": "12360",
+    "status": "Open",
+    "customer_email": "cliente16@example.com",
+    "subject": "Pode ativar?",
+    "domain_detected": "cliente16.com.br",
+    "plugin_detected": "",
+    "tipo_solicitacao": "pedido_generico_plugin",
+    "confidence_score": 75,
+    "classification": "PRECISA REVISAR",
+    "reason": "falta clareza para confirmar ativacao",
+    "missing_info": [
+      "plugin nao identificado"
+    ],
+    "next_action": "Confirmar plugin, dominio e autorizacao."
+  }
+]

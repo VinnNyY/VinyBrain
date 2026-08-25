@@ -1,0 +1,77 @@
+<h1>Como usar a busca geral do Painel Novo da StayCloud</h1>
+
+<p><strong>Busca do Painel Novo StayCloud</strong> é o recurso que ajuda você a encontrar rapidamente áreas, serviços e informações da sua conta sem precisar navegar por todos os menus. Pelo campo superior do painel, é possível pesquisar por site, domínio, fatura ou chamado e abrir o resultado correto para continuar a consulta.</p>
+
+<p>Este tutorial mostra apenas como localizar informações pela busca geral. Nenhuma alteração, pagamento, configuração ou ação dentro dos resultados deve ser executada durante esse processo.</p>
+
+<h2>Quando usar a busca do Painel Novo</h2>
+
+<p>Use a <strong>busca do Painel Novo StayCloud</strong> quando você já sabe o que deseja encontrar, mas não quer percorrer o menu lateral até chegar na área correta. Ela é útil para localizar um site hospedado, acessar a lista de domínios, encontrar a área de faturas ou ir para uma página relacionada a chamados e suporte.</p>
+
+<p>A busca também ajuda quando a conta possui vários itens cadastrados. Em vez de abrir cada seção manualmente, você pode digitar um termo simples e conferir quais resultados aparecem.</p>
+
+<h2>Antes de começar</h2>
+
+<p>Entre no Painel Novo da StayCloud com sua conta. Como a busca mostra informações relacionadas ao seu cadastro, os resultados podem variar conforme os serviços, domínios, faturas ou chamados existentes na sua conta. Se precisar acessar sua conta primeiro, use o <a href="https://staycloud.com.br/">site oficial da StayCloud</a>.</p>
+
+<p><strong>Atenção:</strong> antes de abrir qualquer resultado, confira se ele corresponde ao item que você deseja consultar. Se estiver em dúvida, volte e refine a pesquisa.</p>
+
+<h2>Como usar a busca do Painel Novo StayCloud</h2>
+
+<h3>1. Localize a barra de busca</h3>
+
+<p>No topo do Painel Novo, localize o campo com o texto <strong>Buscar site, domínio, fatura ou chamado</strong>. Esse é o campo da busca geral. Ele aparece na parte superior da tela e pode ser usado a partir da área inicial do painel.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-barra-busca-geral-sanitizado.png" alt="Busca do Painel Novo StayCloud destacada no topo da tela inicial"><figcaption>Barra de busca geral destacada no topo do Painel Novo.</figcaption></figure>
+
+<h3>2. Digite o que deseja encontrar</h3>
+
+<p>Clique na barra de busca e digite uma palavra relacionada ao que você procura. Você pode usar termos simples, como o nome de um site, parte de um domínio, uma palavra relacionada a faturas ou um termo ligado a chamados.</p>
+
+<p>Conforme o termo é digitado, o painel exibe resultados disponíveis. No fluxo validado, a busca mostrou páginas e ações relacionadas ao termo pesquisado, como áreas de sites e opções ligadas à hospedagem.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-resultados-busca-geral-sanitizado.png" alt="Resultados exibidos pela busca do Painel Novo StayCloud após digitar um termo"><figcaption>Resultados exibidos depois de digitar um termo na busca.</figcaption></figure>
+
+<h3>3. Confira e abra o resultado correto</h3>
+
+<p>Antes de abrir o resultado, leia o título e a descrição exibidos na lista. Escolha o item que corresponde ao que você precisa consultar. No exemplo, o resultado <strong>Meus sites</strong> leva para a lista de hospedagens ativas.</p>
+
+<p>Depois de abrir o resultado, continue apenas com a consulta desejada. Não altere configurações, não confirme ações e não execute pagamentos sem revisar cuidadosamente a página aberta.</p>
+
+<figure><img src="https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-resultado-correto-busca-sanitizado.png" alt="Resultado correto destacado na busca do Painel Novo StayCloud"><figcaption>Resultado correto destacado antes de abrir a página correspondente.</figcaption></figure>
+
+<h2>O que pode ser localizado pela busca</h2>
+
+<p>O campo validado no Painel Novo informa que a busca pode localizar <strong>site, domínio, fatura ou chamado</strong>. Na prática, os resultados dependem do que existe na sua conta e das páginas disponíveis para o seu perfil. A <strong>busca do Painel Novo StayCloud</strong> deve ser usada como apoio para chegar mais rápido à área correta.</p>
+
+<p>Para temas relacionados, você também pode consultar os tutoriais sobre <a href="https://ajuda.staycloud.com.br/docs/consultar-faturas-staycloud/">como consultar faturas no Painel Novo</a> e <a href="https://ajuda.staycloud.com.br/docs/acompanhar-chamados-staycloud/">como acompanhar seus chamados</a>.</p>
+
+<h2>O que fazer quando nenhum resultado aparece</h2>
+
+<p>Se nenhum resultado aparecer na <strong>busca do Painel Novo StayCloud</strong>, revise o termo digitado. Tente pesquisar por uma palavra mais curta, por parte do domínio ou por uma categoria mais ampla, como site, domínio, fatura ou chamado.</p>
+
+<p>Também pode acontecer de o item não existir na conta, estar vinculado a outro usuário ou pertencer a uma área que precisa ser acessada pelo menu lateral. Nesses casos, use o menu do painel para navegar manualmente até a seção desejada. Para uma conferência pública de domínio .br fora da sua conta StayCloud, consulte o <a href="https://registro.br/">Registro.br</a>.</p>
+
+<h2>Erros comuns ao pesquisar no painel</h2>
+
+<ul>
+<li>Digitar o domínio completo com erro de escrita.</li>
+<li>Abrir o primeiro resultado sem conferir a descrição.</li>
+<li>Pesquisar por um chamado, fatura ou domínio que não pertence à conta atual.</li>
+<li>Executar uma ação dentro do resultado antes de confirmar se a página está correta.</li>
+</ul>
+
+<h2>Dúvidas frequentes</h2>
+
+<h3>A busca altera alguma configuração?</h3>
+<p>Não. A <strong>busca do Painel Novo StayCloud</strong> apenas localiza resultados e páginas do painel. Qualquer alteração só acontece se você executar uma ação dentro da página aberta.</p>
+
+<h3>Posso pesquisar por domínio completo?</h3>
+<p>Sim, você pode tentar pesquisar pelo domínio completo ou por parte dele. Se não aparecer resultado, confira se o domínio está vinculado à conta acessada.</p>
+
+<h3>A busca mostra faturas e chamados?</h3>
+<p>O campo da interface informa que aceita site, domínio, fatura ou chamado. A exibição depende dos dados disponíveis na sua conta e das permissões do seu acesso.</p>
+
+<h2>Conclusão</h2>
+
+<p>A busca do Painel Novo StayCloud é um caminho rápido para encontrar sites, domínios, faturas ou chamados sem percorrer todas as áreas do menu. Ao usar a <strong>busca do Painel Novo StayCloud</strong>, digite termos simples, confira os resultados com atenção e abra somente o item que corresponde ao que você precisa consultar.</p>

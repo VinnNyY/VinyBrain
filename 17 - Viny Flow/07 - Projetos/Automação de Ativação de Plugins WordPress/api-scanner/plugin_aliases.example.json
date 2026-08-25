@@ -1,0 +1,33 @@
+{
+  "Elementor Pro": {
+    "aliases": [
+      "Elementor Pro",
+      "elementor-pro",
+      "elementor-pro/elementor-pro.php"
+    ]
+  },
+  "WP Rocket": {
+    "aliases": [
+      "WP Rocket",
+      "wp-rocket",
+      "wp-rocket/wp-rocket.php"
+    ]
+  },
+  "Essential Addons": {
+    "aliases": [
+      "Essential Addons",
+      "Essentials Addons",
+      "essential-addons",
+      "essential-addons/essential-addons.php",
+      "essential-addons-for-elementor-lite",
+      "essential-addons-for-elementor"
+    ]
+  },
+  "Rank Math Pro": {
+    "aliases": [
+      "Rank Math SEO PRO",
+      "Rank Math Pro",
+      "seo-by-rank-math-pro"
+    ]
+  }
+}

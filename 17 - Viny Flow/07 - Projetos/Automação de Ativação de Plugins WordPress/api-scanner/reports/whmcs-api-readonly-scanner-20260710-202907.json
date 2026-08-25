@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "generated_at": "20260710-202907",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "whmcs_api",
+    "redact_emails": false,
+    "wp_validator": "browser",
+    "inspect_requested_plugins": true,
+    "debug_plugin_table": false,
+    "prepare_installation_plan": true,
+    "prepare_execution": true,
+    "execute_installation_plan": false,
+    "apply": false,
+    "gettickets_request": {
+      "params": {
+        "limitstart": 0,
+        "limitnum": 30,
+        "status": "Awaiting Reply"
+      },
+      "totalresults": 10
+    }
+  },
+  "summary": {
+    "listed": 0,
+    "returned": 0,
+    "active_analyzed": 0,
+    "opened": 0,
+    "pending_activation": 0,
+    "needs_review": 0,
+    "ignored": 0,
+    "historical_returned": 0
+  },
+  "tickets": []
+}

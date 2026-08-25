@@ -1,0 +1,18 @@
+{
+  "modo": "detalhado",
+  "nome": "[TESTE] Demanda operacional de exemplo",
+  "descricao": "Demanda fictícia para validar fluxo operacional.",
+  "responsavel": "Vinicius",
+  "prioridade": "Média",
+  "status_inicial": "Pendente",
+  "prazo": "A definir",
+  "tags": ["teste", "viny-brain"],
+  "checklist": [
+    "Validar payload",
+    "Criar tarefa",
+    "Conferir no ClickUp"
+  ],
+  "criterio_conclusao": "Tarefa criada corretamente no ClickUp.",
+  "origem": "Viny Brain",
+  "observacoes_internas": "Sem dados reais."
+}

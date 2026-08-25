@@ -1,0 +1,1269 @@
+{
+  "language": "pt",
+  "language_probability": 1,
+  "duration": 366.9333125,
+  "duration_after_vad": 332.4373125,
+  "model": "mobiuslabsgmbh/faster-whisper-large-v3-turbo",
+  "device": "cpu",
+  "compute_type": "int8",
+  "alignment": "not_run",
+  "diarization": "not_run",
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.52,
+      "text": "Enfim, tropa, tenho um negocinho novo pra apresentar pra vocês aqui, deixa eu compartilhar a tela",
+      "avg_logprob": -0.23432573624726,
+      "no_speech_prob": 1.4803366865656642e-11
+    },
+    {
+      "id": 2,
+      "start": 5.52,
+      "end": 11.36,
+      "text": "Uma atualizaçãozinha nova do Zen Desk, mano, que tava fuçando aqui e apareceu",
+      "avg_logprob": -0.23432573624726,
+      "no_speech_prob": 1.4803366865656642e-11
+    },
+    {
+      "id": 3,
+      "start": 11.36,
+      "end": 16.28,
+      "text": "Hã? Calma que eu tô procurando qual janela que tá",
+      "avg_logprob": -0.23432573624726,
+      "no_speech_prob": 1.4803366865656642e-11
+    },
+    {
+      "id": 4,
+      "start": 16.28,
+      "end": 25.12,
+      "text": "Ei moço, ei moço, cuida dessas coisas aí",
+      "avg_logprob": -0.23432573624726,
+      "no_speech_prob": 1.4803366865656642e-11
+    },
+    {
+      "id": 5,
+      "start": 25.12,
+      "end": 32.42,
+      "text": "Ai não tá aparecendo pra compartilhar, olha que merda desse aplicativo, mano, vamos pro Discord, mano, por favor",
+      "avg_logprob": -0.23432573624726,
+      "no_speech_prob": 1.4803366865656642e-11
+    },
+    {
+      "id": 6,
+      "start": 32.42,
+      "end": 37.82,
+      "text": "Pô, sim, os caras barraram pra compartilhar a tela até no Slack, mano",
+      "avg_logprob": -0.296070425425257,
+      "no_speech_prob": 3.934617822526354e-12
+    },
+    {
+      "id": 7,
+      "start": 37.82,
+      "end": 43.97,
+      "text": "Acabou tudo, cara",
+      "avg_logprob": -0.296070425425257,
+      "no_speech_prob": 3.934617822526354e-12
+    },
+    {
+      "id": 8,
+      "start": 43.97,
+      "end": 49.14,
+      "text": "Enfim, não mais pode ir passando aí, ô, como que estão suas demandinhas, como foi o seu dia",
+      "avg_logprob": -0.296070425425257,
+      "no_speech_prob": 3.934617822526354e-12
+    },
+    {
+      "id": 9,
+      "start": 49.14,
+      "end": 51.7,
+      "text": "Ai alá, achei o que é",
+      "avg_logprob": -0.296070425425257,
+      "no_speech_prob": 3.934617822526354e-12
+    },
+    {
+      "id": 10,
+      "start": 51.7,
+      "end": 56.52,
+      "text": "Não, pode falar aí como são suas demandinhas, do dia de ontem, de hoje",
+      "avg_logprob": -0.296070425425257,
+      "no_speech_prob": 3.934617822526354e-12
+    },
+    {
+      "id": 11,
+      "start": 56.52,
+      "end": 61.74,
+      "text": "Pô, ontem eu fiquei por conta dessa mulherzinha, que ela até voltou hoje",
+      "avg_logprob": -0.296070425425257,
+      "no_speech_prob": 3.934617822526354e-12
+    },
+    {
+      "id": 12,
+      "start": 61.74,
+      "end": 66.14,
+      "text": "Que a migraçãozinha dela, que ela tá sabendo, mexendo, dar petróleo, se não",
+      "avg_logprob": -0.296070425425257,
+      "no_speech_prob": 3.934617822526354e-12
+    },
+    {
+      "id": 13,
+      "start": 66.14,
+      "end": 68.91,
+      "text": "E nem nessa instalação dos softwares",
+      "avg_logprob": -0.4423088470062652,
+      "no_speech_prob": 9.819528003218725e-12
+    },
+    {
+      "id": 14,
+      "start": 68.91,
+      "end": 76.15,
+      "text": "Eu tô fazendo um documento bem redondinho pra ela, pra aprender a mexer",
+      "avg_logprob": -0.4423088470062652,
+      "no_speech_prob": 9.819528003218725e-12
+    },
+    {
+      "id": 15,
+      "start": 76.15,
+      "end": 78.97,
+      "text": "Boa",
+      "avg_logprob": -0.4423088470062652,
+      "no_speech_prob": 9.819528003218725e-12
+    },
+    {
+      "id": 16,
+      "start": 78.97,
+      "end": 84.95,
+      "text": "Tem um chatzinho, e só, não tem nada muito diferente do novo volume",
+      "avg_logprob": -0.4423088470062652,
+      "no_speech_prob": 9.819528003218725e-12
+    },
+    {
+      "id": 17,
+      "start": 84.95,
+      "end": 86.8,
+      "text": "Boa, safe",
+      "avg_logprob": -0.4423088470062652,
+      "no_speech_prob": 9.819528003218725e-12
+    },
+    {
+      "id": 18,
+      "start": 86.8,
+      "end": 90.13,
+      "text": "Como estão as suas coisas?",
+      "avg_logprob": -0.4423088470062652,
+      "no_speech_prob": 9.819528003218725e-12
+    },
+    {
+      "id": 19,
+      "start": 90.13,
+      "end": 91.13,
+      "text": "Fala pra naís",
+      "avg_logprob": -0.4423088470062652,
+      "no_speech_prob": 9.819528003218725e-12
+    },
+    {
+      "id": 20,
+      "start": 91.13,
+      "end": 94.61,
+      "text": "Tem que fazer antes do dia, mais ou menos, e virar um mês",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 21,
+      "start": 94.61,
+      "end": 95.61,
+      "text": "Falei",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 22,
+      "start": 95.61,
+      "end": 98.61,
+      "text": "Bom, ontem e hoje, praticamente eu tô ralindo",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 23,
+      "start": 98.61,
+      "end": 101.27,
+      "text": "A demanda dos games de DPS, né",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 24,
+      "start": 101.27,
+      "end": 103.09,
+      "text": "Tá lá, não tem um bastante bug",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 25,
+      "start": 103.09,
+      "end": 107.14,
+      "text": "Agora eu tô vendo ali o do Thiago Matos",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 26,
+      "start": 107.14,
+      "end": 109.58,
+      "text": "A gente não esqueço",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 27,
+      "start": 109.58,
+      "end": 113.98,
+      "text": "Boa, eu vi que vocês estavam mandando mensagem no Slack aí, tá de boa, galera? O que que tá rolando?",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 28,
+      "start": 113.98,
+      "end": 115.7,
+      "text": "Vocês já estão...",
+      "avg_logprob": -0.40986215367036705,
+      "no_speech_prob": 7.277912647540852e-12
+    },
+    {
+      "id": 29,
+      "start": 115.7,
+      "end": 125.37,
+      "text": "É só um, um, uma instalação da mulher aqui que não tá aparecendo da Petocrit, lá no posto de prédio de manejo?",
+      "avg_logprob": -0.40968205708832967,
+      "no_speech_prob": 6.616530240366458e-12
+    },
+    {
+      "id": 30,
+      "start": 125.37,
+      "end": 138.01,
+      "text": "Mano, esse, eu vi esse caso aí, velho, não faço a nenhuma ideia, porque é, por erro, dá erro que, que o Tocrit não conseguiu refazer o cache",
+      "avg_logprob": -0.40968205708832967,
+      "no_speech_prob": 6.616530240366458e-12
+    },
+    {
+      "id": 31,
+      "start": 138.01,
+      "end": 140.72,
+      "text": "Eu não acho um motivo",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 32,
+      "start": 140.72,
+      "end": 141.72,
+      "text": "Por favor, as duas horas vão...",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 33,
+      "start": 141.72,
+      "end": 146.72,
+      "text": "Por que que eu não apagar a instalação que não tem arquivo, que tá aqui? Vou tentar de novo",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 34,
+      "start": 146.72,
+      "end": 147.72,
+      "text": "Se der certo...",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 35,
+      "start": 147.72,
+      "end": 150.32,
+      "text": "Bom, se não der...",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 36,
+      "start": 150.32,
+      "end": 156.93,
+      "text": "Mas, é o que eu te falei, ó, depois sei, é o visual só, por exemplo, no Toolkit",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 37,
+      "start": 156.93,
+      "end": 158.93,
+      "text": "As aplicações estão lá e funcionais",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 38,
+      "start": 158.93,
+      "end": 159.93,
+      "text": "Boa, Tocrit",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 39,
+      "start": 159.93,
+      "end": 166.08,
+      "text": "É só o próprio Toolkit que não tá conseguindo o negócio, mas tá por favor",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 40,
+      "start": 166.08,
+      "end": 168.08,
+      "text": "A coisa vai mandar nos ali, tá lá pra nós",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 41,
+      "start": 168.08,
+      "end": 169.08,
+      "text": "Boa, galera",
+      "avg_logprob": -0.4569160296999175,
+      "no_speech_prob": 6.1169615379885744e-12
+    },
+    {
+      "id": 42,
+      "start": 169.08,
+      "end": 170.08,
+      "text": "Então, safe",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 43,
+      "start": 170.08,
+      "end": 174.11,
+      "text": "Ó, só pra vocês a novidade, tá dando pra ver minha tela aí?",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 44,
+      "start": 174.11,
+      "end": 175.11,
+      "text": "Uhum",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 45,
+      "start": 175.11,
+      "end": 176.11,
+      "text": "Boa, vamo lá",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 46,
+      "start": 176.11,
+      "end": 178.11,
+      "text": "Dizem 10 que atualizou, mano, se liga",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 47,
+      "start": 178.11,
+      "end": 181.14,
+      "text": "Apareceu aqui embaixo um bagulho que agora tem pra gravar áudio",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 48,
+      "start": 181.14,
+      "end": 183.14,
+      "text": "Então dá pra gravar áudio e mandar pro chat",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 49,
+      "start": 183.14,
+      "end": 184.14,
+      "text": "Ok?",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 50,
+      "start": 184.14,
+      "end": 187.14,
+      "text": "A gente, eu na auto fez o teste, então o áudio sai de boinha pro cliente",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 51,
+      "start": 187.14,
+      "end": 189.14,
+      "text": "Isso aqui é muito bom",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 52,
+      "start": 189.14,
+      "end": 191.14,
+      "text": "É, uma que eu tava conversando com na auto aqui também",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 53,
+      "start": 191.14,
+      "end": 195.14,
+      "text": "As vezes quando a gente abre o ticite interno, por mais que a gente coloque muitas já anotações internas e tudo mais",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 54,
+      "start": 195.14,
+      "end": 198.14,
+      "text": "As vezes vocês quiserem uma explicação mais rápida",
+      "avg_logprob": -0.20347607526622835,
+      "no_speech_prob": 5.079425595411191e-12
+    },
+    {
+      "id": 55,
+      "start": 198.14,
+      "end": 201.14,
+      "text": "Dá pra gravar áudio também e mandar como nota interna",
+      "avg_logprob": -0.16431559363137122,
+      "no_speech_prob": 9.737803445541982e-12
+    },
+    {
+      "id": 56,
+      "start": 201.14,
+      "end": 204.14,
+      "text": "Pra depois o amiguinho escutar e...",
+      "avg_logprob": -0.16431559363137122,
+      "no_speech_prob": 9.737803445541982e-12
+    },
+    {
+      "id": 57,
+      "start": 204.14,
+      "end": 206.14,
+      "text": "Consiga entender o que que rolou",
+      "avg_logprob": -0.16431559363137122,
+      "no_speech_prob": 9.737803445541982e-12
+    },
+    {
+      "id": 58,
+      "start": 206.14,
+      "end": 207.4,
+      "text": "Beleza?",
+      "avg_logprob": -0.16431559363137122,
+      "no_speech_prob": 9.737803445541982e-12
+    },
+    {
+      "id": 59,
+      "start": 207.4,
+      "end": 209.4,
+      "text": "Isso aqui é uma das atualizações",
+      "avg_logprob": -0.2230647982408603,
+      "no_speech_prob": 7.239817252646663e-12
+    },
+    {
+      "id": 60,
+      "start": 209.4,
+      "end": 211.4,
+      "text": "E tem uma outra ferramentinha do Zen Desk aqui, mano",
+      "avg_logprob": -0.2230647982408603,
+      "no_speech_prob": 7.239817252646663e-12
+    },
+    {
+      "id": 61,
+      "start": 211.4,
+      "end": 213.4,
+      "text": "Que é a que vocês usem, mano",
+      "avg_logprob": -0.2230647982408603,
+      "no_speech_prob": 7.239817252646663e-12
+    },
+    {
+      "id": 62,
+      "start": 213.4,
+      "end": 216.4,
+      "text": "Que é essa aqui ó, essa que já tava há mais tempo, só que eu entendi como que usa hoje",
+      "avg_logprob": -0.2230647982408603,
+      "no_speech_prob": 7.239817252646663e-12
+    },
+    {
+      "id": 63,
+      "start": 216.4,
+      "end": 217.4,
+      "text": "A primeiramente escrita",
+      "avg_logprob": -0.2230647982408603,
+      "no_speech_prob": 7.239817252646663e-12
+    },
+    {
+      "id": 64,
+      "start": 217.4,
+      "end": 219.4,
+      "text": "Então, por exemplo",
+      "avg_logprob": -0.24238501066043053,
+      "no_speech_prob": 9.133372877445645e-12
+    },
+    {
+      "id": 65,
+      "start": 219.4,
+      "end": 220.4,
+      "text": "Dá pra gente pegar...",
+      "avg_logprob": -0.24238501066043053,
+      "no_speech_prob": 9.133372877445645e-12
+    },
+    {
+      "id": 66,
+      "start": 220.4,
+      "end": 221.4,
+      "text": "Vou pegar...",
+      "avg_logprob": -0.24238501066043053,
+      "no_speech_prob": 9.133372877445645e-12
+    },
+    {
+      "id": 67,
+      "start": 221.4,
+      "end": 223.97,
+      "text": "Essa resposta do Tonico aqui de exemplo",
+      "avg_logprob": -0.24238501066043053,
+      "no_speech_prob": 9.133372877445645e-12
+    },
+    {
+      "id": 68,
+      "start": 223.97,
+      "end": 228.53,
+      "text": "Cês vão...",
+      "avg_logprob": -0.24238501066043053,
+      "no_speech_prob": 9.133372877445645e-12
+    },
+    {
+      "id": 69,
+      "start": 228.53,
+      "end": 230.53,
+      "text": "Cês digitam a resposta, às vezes nem precisa de A, tá ligado?",
+      "avg_logprob": -0.24238501066043053,
+      "no_speech_prob": 9.133372877445645e-12
+    },
+    {
+      "id": 70,
+      "start": 230.53,
+      "end": 233.53,
+      "text": "Cês só digitam a resposta e aqui cês conseguem identificar como que cês querem",
+      "avg_logprob": -0.24238501066043053,
+      "no_speech_prob": 9.133372877445645e-12
+    },
+    {
+      "id": 71,
+      "start": 233.53,
+      "end": 235.53,
+      "text": "Então tipo, sei lá",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 72,
+      "start": 235.53,
+      "end": 236.53,
+      "text": "Vamos lá",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 73,
+      "start": 236.53,
+      "end": 237.53,
+      "text": "Mais amigável",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 74,
+      "start": 237.53,
+      "end": 240.53,
+      "text": "Ele já marca toda e ele já redefine a mensagem inteira",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 75,
+      "start": 240.53,
+      "end": 242.53,
+      "text": "Óbvio, lêem a resposta inteira",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 76,
+      "start": 242.53,
+      "end": 244.53,
+      "text": "Vê se ela não falou merda nenhuma",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 77,
+      "start": 244.53,
+      "end": 246.53,
+      "text": "Porque a gente não sabe ainda como que tá sendo essa IA do Zen Desk",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 78,
+      "start": 246.53,
+      "end": 248.53,
+      "text": "Então dêem uma lida, vê se ela não falou nada",
+      "avg_logprob": -0.18090154706163608,
+      "no_speech_prob": 7.602410020957073e-12
+    },
+    {
+      "id": 79,
+      "start": 248.53,
+      "end": 252.53,
+      "text": "Mas aparentemente com poucos testes que eu fiz aqui até agora",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 80,
+      "start": 252.53,
+      "end": 253.53,
+      "text": "Ela tá entregando legal",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 81,
+      "start": 253.53,
+      "end": 255.53,
+      "text": "Então tipo, tem como a gente pegar aqui, sei lá",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 82,
+      "start": 255.53,
+      "end": 256.53,
+      "text": "É...",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 83,
+      "start": 256.53,
+      "end": 257.53,
+      "text": "Mais formal",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 84,
+      "start": 257.53,
+      "end": 259.53,
+      "text": "Então tem como deixar o texto mais formalizado",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 85,
+      "start": 259.53,
+      "end": 261.53,
+      "text": "Ou também...",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 86,
+      "start": 261.53,
+      "end": 262.53,
+      "text": "Isso aí",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 87,
+      "start": 262.53,
+      "end": 267.53,
+      "text": "Ou também tem como vocês escreverem como vocês querem que ele melhore a resposta, tá ligado?",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 88,
+      "start": 267.53,
+      "end": 271.11,
+      "text": "Então isso aqui pode matar muito tempo pra gente, mano",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 89,
+      "start": 271.11,
+      "end": 272.11,
+      "text": "Então...",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 90,
+      "start": 272.11,
+      "end": 273.11,
+      "text": "É legal usar",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 91,
+      "start": 273.11,
+      "end": 274.11,
+      "text": "Principalmente no chat",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 92,
+      "start": 274.11,
+      "end": 275.11,
+      "text": "Eu passei pro Matheusão",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 93,
+      "start": 275.11,
+      "end": 277.11,
+      "text": "Ou quando cê pega de manhã no chat",
+      "avg_logprob": -0.14842309943445914,
+      "no_speech_prob": 9.072168363766231e-12
+    },
+    {
+      "id": 94,
+      "start": 277.11,
+      "end": 279.11,
+      "text": "Sempre que a gente usa a macro de...",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 95,
+      "start": 279.11,
+      "end": 281.36,
+      "text": "Mensagem inicial",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 96,
+      "start": 281.36,
+      "end": 283.36,
+      "text": "Nessa aqui, tipo, sei lá",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 97,
+      "start": 283.36,
+      "end": 285.36,
+      "text": "Com essa IA já integrada aqui, tipo assim",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 98,
+      "start": 285.36,
+      "end": 287.36,
+      "text": "É muito mais fácil de...",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 99,
+      "start": 287.36,
+      "end": 289.36,
+      "text": "Sempre fazer uma nova, tá ligado?",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 100,
+      "start": 289.36,
+      "end": 290.36,
+      "text": "Fazer várias palavras",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 101,
+      "start": 290.36,
+      "end": 291.43,
+      "text": "Aham, então tipo...",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 102,
+      "start": 291.43,
+      "end": 292.43,
+      "text": "Pronto aí, tipo",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 103,
+      "start": 292.43,
+      "end": 295.43,
+      "text": "Já foi uma mensagem nova rapidão, tá ligado?",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 104,
+      "start": 295.43,
+      "end": 297.43,
+      "text": "Ela é bem rápida pra responder, então...",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 105,
+      "start": 297.43,
+      "end": 298.43,
+      "text": "Porra, é muito legal isso, velho",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 106,
+      "start": 298.43,
+      "end": 300.8,
+      "text": "Bele?",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 107,
+      "start": 300.8,
+      "end": 302.8,
+      "text": "O processo que fechou",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 108,
+      "start": 302.8,
+      "end": 303.8,
+      "text": "E esse do áudio também achei legal",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 109,
+      "start": 303.8,
+      "end": 305.8,
+      "text": "Então as vezes pra explicar as coisas pros clientes",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 110,
+      "start": 305.8,
+      "end": 306.8,
+      "text": "Quando vem aqui esse cliente muito leigo, mano",
+      "avg_logprob": -0.20413036036068166,
+      "no_speech_prob": 9.345404658467338e-12
+    },
+    {
+      "id": 111,
+      "start": 306.8,
+      "end": 308.8,
+      "text": "Que nem digitando os cara entende",
+      "avg_logprob": -0.13940509787777014,
+      "no_speech_prob": 8.862785505492354e-12
+    },
+    {
+      "id": 112,
+      "start": 308.8,
+      "end": 310.8,
+      "text": "As vezes por áudio o cara consegue pegar um pouco...",
+      "avg_logprob": -0.13940509787777014,
+      "no_speech_prob": 8.862785505492354e-12
+    },
+    {
+      "id": 113,
+      "start": 310.8,
+      "end": 312.8,
+      "text": "Consegue pegar muito mais rápido a explicação",
+      "avg_logprob": -0.13940509787777014,
+      "no_speech_prob": 8.862785505492354e-12
+    },
+    {
+      "id": 114,
+      "start": 312.8,
+      "end": 315.8,
+      "text": "Então as vezes é legal usar também",
+      "avg_logprob": -0.13940509787777014,
+      "no_speech_prob": 8.862785505492354e-12
+    },
+    {
+      "id": 115,
+      "start": 315.8,
+      "end": 316.93,
+      "text": "Bele?",
+      "avg_logprob": -0.13940509787777014,
+      "no_speech_prob": 8.862785505492354e-12
+    },
+    {
+      "id": 116,
+      "start": 316.93,
+      "end": 318.44,
+      "text": "Fechou",
+      "avg_logprob": -0.13940509787777014,
+      "no_speech_prob": 8.862785505492354e-12
+    },
+    {
+      "id": 117,
+      "start": 318.44,
+      "end": 320.44,
+      "text": "Bom, tropa, não mais...",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 118,
+      "start": 320.44,
+      "end": 321.44,
+      "text": "Mas é isso",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 119,
+      "start": 321.44,
+      "end": 322.44,
+      "text": "Era só mais...",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 120,
+      "start": 322.44,
+      "end": 324.44,
+      "text": "Delizinho pra saber como que vocês estão",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 121,
+      "start": 324.44,
+      "end": 325.44,
+      "text": "É...",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 122,
+      "start": 325.44,
+      "end": 326.44,
+      "text": "Matheusão, você tem alguma coisa pra passar?",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 123,
+      "start": 326.44,
+      "end": 327.44,
+      "text": "Alguma coisa do seu lado?",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 124,
+      "start": 327.44,
+      "end": 328.44,
+      "text": "Como que tá?",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 125,
+      "start": 328.44,
+      "end": 329.44,
+      "text": "Tudo de boa?",
+      "avg_logprob": -0.2704087632397811,
+      "no_speech_prob": 5.641942642242714e-12
+    },
+    {
+      "id": 126,
+      "start": 329.44,
+      "end": 330.67,
+      "text": "Agora...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 127,
+      "start": 330.67,
+      "end": 331.67,
+      "text": "Agora...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 128,
+      "start": 331.67,
+      "end": 332.67,
+      "text": "No máximo eu acho que...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 129,
+      "start": 332.67,
+      "end": 333.67,
+      "text": "Eu acho que...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 130,
+      "start": 333.67,
+      "end": 334.67,
+      "text": "Não muitos não conseguem desenvolver",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 131,
+      "start": 334.67,
+      "end": 335.67,
+      "text": "Né?",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 132,
+      "start": 335.67,
+      "end": 336.67,
+      "text": "Assim...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 133,
+      "start": 336.67,
+      "end": 337.67,
+      "text": "Agora...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 134,
+      "start": 337.67,
+      "end": 339.67,
+      "text": "Se for questão de conversar aqui no Ciro",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 135,
+      "start": 339.67,
+      "end": 340.67,
+      "text": "Eu não sei...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 136,
+      "start": 340.67,
+      "end": 341.67,
+      "text": "Não sei...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 137,
+      "start": 341.67,
+      "end": 342.67,
+      "text": "Não sei...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 138,
+      "start": 342.67,
+      "end": 343.67,
+      "text": "Com alguém...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 139,
+      "start": 343.67,
+      "end": 344.67,
+      "text": "E...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 140,
+      "start": 344.67,
+      "end": 345.67,
+      "text": "Não dá pra ser isso",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 141,
+      "start": 345.67,
+      "end": 346.67,
+      "text": "É...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 142,
+      "start": 346.67,
+      "end": 347.67,
+      "text": "Mesmo...",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 143,
+      "start": 347.67,
+      "end": 351.14,
+      "text": "Depois tem que ver qual mic",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 144,
+      "start": 351.14,
+      "end": 352.14,
+      "text": "Que tá no teu Slack",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 145,
+      "start": 352.14,
+      "end": 354.14,
+      "text": "Mano, tá pegando mais som externo",
+      "avg_logprob": -0.4508583001264437,
+      "no_speech_prob": 7.219831937160803e-12
+    },
+    {
+      "id": 146,
+      "start": 354.14,
+      "end": 355.14,
+      "text": "Do seu mic",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 147,
+      "start": 355.14,
+      "end": 356.14,
+      "text": "É de boa",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 148,
+      "start": 356.14,
+      "end": 357.78,
+      "text": "Enfim...",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 149,
+      "start": 357.78,
+      "end": 358.78,
+      "text": "Mas era isso, galera",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 150,
+      "start": 358.78,
+      "end": 359.78,
+      "text": "Só queria passar essa novidade pra vocês",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 151,
+      "start": 359.78,
+      "end": 360.78,
+      "text": "Pra ver como que estão",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 152,
+      "start": 360.78,
+      "end": 361.78,
+      "text": "As demandinhas",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 153,
+      "start": 361.78,
+      "end": 362.78,
+      "text": "Podem focar aí",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 154,
+      "start": 362.78,
+      "end": 363.78,
+      "text": "Qualquer coisa...",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 155,
+      "start": 363.78,
+      "end": 364.78,
+      "text": "Vocês podem me avisar",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 156,
+      "start": 364.78,
+      "end": 366.04,
+      "text": "Bele?",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    },
+    {
+      "id": 157,
+      "start": 366.04,
+      "end": 367.04,
+      "text": "Fechou",
+      "avg_logprob": -0.14766447344108632,
+      "no_speech_prob": 6.698875395366732e-12
+    }
+  ]
+}

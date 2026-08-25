@@ -1,0 +1,66 @@
+# ==========================================================
+# Viny Brain — .gitignore
+# Objetivo: versionar conhecimento, nunca segredo nem binário pesado.
+# ==========================================================
+
+# ---------- SEGREDOS (nunca versionar) ----------
+.env
+.env.*
+!env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials.json
+.staycloud/
+*secret*
+*token*
+*credential*
+
+# ---------- LOGS BRUTOS (1,1 GB, contêm segredo) ----------
+14 - Histórico Codex/Logs Brutos/
+*.log
+
+# ---------- MÍDIA PESADA (gravações de reunião, 702 MB) ----------
+*.mkv
+*.mp4
+*.avi
+*.mov
+*.webm
+*.wav
+*.m4a
+*.mp3
+
+# ---------- DEPENDÊNCIAS E BUILDS ----------
+node_modules/
+.next/
+.next-stale*/
+out/
+dist/
+build/
+17 - Viny Flow/07 - Projetos/Legacy Doc/06 - Desenvolvimento/Backups/build-stale/
+.turbo/
+.cache/
+*.tsbuildinfo
+
+# ---------- PYTHON ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# ---------- OBSIDIAN (estado local, muda a cada clique) ----------
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# ---------- SISTEMA ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp

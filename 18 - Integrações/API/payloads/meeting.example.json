@@ -1,0 +1,26 @@
+{
+  "titulo": "[TESTE] Reunião semanal de exemplo",
+  "data": "2026-07-03",
+  "participantes": ["Vinicius", "Equipe Suporte"],
+  "contexto": "Reunião fictícia para validar fluxo operacional.",
+  "resumo_executivo": "Resumo fictício da reunião.",
+  "pontos_discutidos": [
+    "Ponto fictício 1",
+    "Ponto fictício 2"
+  ],
+  "decisoes": [
+    "Decisão fictícia 1"
+  ],
+  "pendencias": [
+    {
+      "descricao": "Pendência fictícia",
+      "responsavel": "Vinicius",
+      "prazo": "A definir"
+    }
+  ],
+  "proximos_passos": [
+    "Próximo passo fictício"
+  ],
+  "links_relacionados": [],
+  "status": "Teste"
+}

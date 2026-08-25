@@ -1,0 +1,51 @@
+{
+  "action_keywords": [
+    "ativar",
+    "ativação",
+    "liberar",
+    "habilitar",
+    "instalar",
+    "plugin",
+    "licença",
+    "licenca"
+  ],
+  "pending_statuses": [
+    "Open",
+    "Customer-Reply",
+    "In Progress",
+    "Answered"
+  ],
+  "ignore_statuses": [
+    "Closed",
+    "Resolved"
+  ],
+  "wordpress_keywords": [
+    "wordpress",
+    "wp",
+    "site",
+    "domínio",
+    "dominio"
+  ],
+  "high_confidence_keywords": [
+    "elementor pro",
+    "wp rocket",
+    "rank math",
+    "crocoblock",
+    "jetengine",
+    "jetformbuilder",
+    "premium addons",
+    "essential addons"
+  ],
+  "done_keywords": [
+    "ativado com sucesso",
+    "plugin ativado",
+    "já está ativo",
+    "ja esta ativo",
+    "já ativamos",
+    "ja ativamos",
+    "considerar resolvido",
+    "resolvido",
+    "concluído",
+    "concluido"
+  ]
+}

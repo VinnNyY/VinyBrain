@@ -1,0 +1,84 @@
+SCORE MÍNIMO PARA APROVAÇÃO:
+80/100
+
+STATUS:
+SEO preparado localmente — aguardando conferência no Rank Math.
+
+SCORE ESTIMADO LOCAL:
+84/100
+
+TÍTULO DO ARTIGO:
+Como acompanhar seus chamados no Painel Novo da StayCloud
+
+PALAVRA-CHAVE PRINCIPAL:
+acompanhar chamados StayCloud
+
+PALAVRAS-CHAVE SECUNDÁRIAS:
+acompanhar chamados no Painel Novo; consultar chamados StayCloud; status de chamado StayCloud; suporte no Painel Novo; acompanhar ticket StayCloud
+
+TÍTULO SEO:
+Acompanhar chamados StayCloud pelo Painel Novo
+
+CARACTERES DO TÍTULO SEO:
+46
+
+SLUG:
+acompanhar-chamados-staycloud
+
+META DESCRIPTION:
+Aprenda a acompanhar chamados StayCloud, consultar o histórico e verificar o status dos atendimentos pelo Painel Novo, sem abrir outro chamado.
+
+CARACTERES DA META DESCRIPTION:
+143
+
+EXCERPT:
+Para acompanhar chamados StayCloud, consulte o histórico e veja o status dos atendimentos no Painel Novo sem abrir nova solicitação.
+
+CATEGORIA:
+Painel Novo
+
+TAGS:
+Suporte; Chamados; Painel Novo; StayCloud
+
+DENSIDADE ESTIMADA:
+6 ocorrências em 801 palavras, aproximadamente 0,75%.
+
+QUANTIDADE DE PALAVRAS:
+801
+
+H2 COM PALAVRA-CHAVE:
+Quando usar para acompanhar chamados StayCloud
+
+H3 COM PALAVRA-CHAVE OU VARIAÇÃO:
+1. Abra o Suporte para acompanhar chamados StayCloud
+
+IMAGEM COM PALAVRA-CHAVE NO ALT:
+Mídia 2812 — Menu Suporte para acompanhar chamados StayCloud no Painel Novo.
+
+LINKS INTERNOS:
+Como abrir ticket no painel StayCloud: https://ajuda.staycloud.com.br/docs/abrir-ticket-no-painel-staycloud/
+Como reportar um bug no Painel StayCloud: https://ajuda.staycloud.com.br/docs/reportar-bug-staycloud/
+
+LINKS EXTERNOS:
+Nenhum link externo adicionado. Exceção editorial: não há fonte externa necessária para executar este procedimento dentro do Painel Novo, e inserir link externo apenas para pontuação reduziria a utilidade do artigo.
+
+TÍTULO SOCIAL:
+Acompanhar chamados StayCloud pelo Painel Novo
+
+DESCRIÇÃO SOCIAL:
+Veja como acompanhar chamados StayCloud, consultar o histórico e conferir o status dos atendimentos pelo Painel Novo.
+
+CHECKLIST RANK MATH:
+Palavra-chave principal no início do título SEO.
+Palavra-chave principal na meta description.
+Palavra-chave principal compatível com o slug preservado.
+Palavra-chave principal nas primeiras 100 palavras e no primeiro parágrafo.
+Palavra-chave principal no corpo, em H2, em H3 e no ALT da mídia 2812.
+Conteúdo ampliado para mais de 600 palavras.
+Dois links internos úteis adicionados com URLs registradas localmente como publicadas ou estudadas.
+Título SEO legível e curto.
+Meta description dentro da faixa recomendada.
+Sem keyword stuffing.
+
+PENDÊNCIAS:
+Validar score real no Rank Math dentro do WordPress antes de marcar como SEO validado.

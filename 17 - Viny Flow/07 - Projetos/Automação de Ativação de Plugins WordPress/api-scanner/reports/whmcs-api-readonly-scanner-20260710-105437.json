@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "generated_at": "20260710-105437",
+    "mode": "mock",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "mock"
+  },
+  "summary": {
+    "listed": 11,
+    "opened": 11,
+    "pending_activation": 2,
+    "needs_review": 9,
+    "ignored": 0
+  },
+  "tickets": [
+    {
+      "ticket_id": "12345",
+      "status": "Open",
+      "subject": "Ativacao de plugin",
+      "message": "Ola, preciso ativar o Elementor Pro no dominio exemplo.com.br.",
+      "plugin": "Elementor Pro",
+      "plugin_slug": "elementor-pro",
+      "domain": "exemplo.com.br",
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 90,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "domain_detected",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12346",
+      "status": "Answered",
+      "subject": "Liberar WP Rocket",
+      "message": "Pode liberar o WP Rocket para o site loja.exemplo.com.br?",
+      "plugin": "WP Rocket",
+      "plugin_slug": "wp-rocket",
+      "domain": "loja.exemplo.com.br",
+      "activation_requested": true,
+      "authorization_detected": true,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "pending_activation",
+      "classification": "ALTA CONFIANCA",
+      "score": 100,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "domain_detected",
+        "authorization_detected",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12347",
+      "status": "Open",
+      "subject": "Ativacao pendente",
+      "message": "Preciso ativar um plugin no WordPress, mas nao lembro o nome agora.",
+      "plugin": null,
+      "plugin_slug": null,
+      "domain": null,
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 45,
+      "signals": [
+        "activation_keyword",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12352",
+      "status": "Open",
+      "subject": "Plugin não permitido",
+      "message": "Quero instalar um plugin de backup nao listado aqui no meu site exemplo.com.br.",
+      "plugin": null,
+      "plugin_slug": null,
+      "domain": "exemplo.com.br",
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 50,
+      "signals": [
+        "activation_keyword",
+        "domain_detected",
+        "wordpress_context",
+        "pending_status",
+        "installation_language"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12354",
+      "status": "Open",
+      "subject": "Rank Math no dominio principal",
+      "message": "Ativar Rank Math SEO Pro no dominio principal cliente10.com.br",
+      "plugin": "Rank Math SEO Pro",
+      "plugin_slug": "rank-math-seo-pro",
+      "domain": "cliente10.com.br",
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 90,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "domain_detected",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12355",
+      "status": "Open",
+      "subject": "Instalacao de plugin",
+      "message": "Preciso instalar o JetEngine no site cliente11.com.br, pode verificar?",
+      "plugin": "JetEngine",
+      "plugin_slug": "jetengine",
+      "domain": "cliente11.com.br",
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 80,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "domain_detected",
+        "wordpress_context",
+        "pending_status",
+        "installation_language"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12356",
+      "status": "Answered",
+      "subject": "Licenca do plugin",
+      "message": "Quero a licenca do Elementor Pro, sem dominio ainda.",
+      "plugin": "Elementor Pro",
+      "plugin_slug": "elementor-pro",
+      "domain": null,
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 65,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "wordpress_context",
+        "pending_status",
+        "license_language"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12357",
+      "status": "Open",
+      "subject": "Erro no Elementor",
+      "message": "O Elementor está com erro na pagina inicial do site loja12.com.br.",
+      "plugin": "Elementor Pro",
+      "plugin_slug": "elementor-pro",
+      "domain": "loja12.com.br",
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 55,
+      "signals": [
+        "plugin_whitelist_match",
+        "domain_detected",
+        "wordpress_context",
+        "pending_status",
+        "error_language"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12358",
+      "status": "Open",
+      "subject": "Ativar plugin sem dominio",
+      "message": "Pode ativar o WP Rocket, por favor?",
+      "plugin": "WP Rocket",
+      "plugin_slug": "wp-rocket",
+      "domain": null,
+      "activation_requested": true,
+      "authorization_detected": true,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 90,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "authorization_detected",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12359",
+      "status": "Open",
+      "subject": "Plugin novo",
+      "message": "Quero ativar o plugin Backup Master no site cliente15.com.br.",
+      "plugin": null,
+      "plugin_slug": null,
+      "domain": "cliente15.com.br",
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "needs_review",
+      "classification": "REVISAR",
+      "score": 60,
+      "signals": [
+        "activation_keyword",
+        "domain_detected",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    },
+    {
+      "ticket_id": "12360",
+      "status": "Open",
+      "subject": "Pode ativar?",
+      "message": "Pode ativar para mim no dominio cliente16.com.br.",
+      "plugin": null,
+      "plugin_slug": null,
+      "domain": "cliente16.com.br",
+      "activation_requested": true,
+      "authorization_detected": true,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "pending_activation",
+      "classification": "ALTA CONFIANCA",
+      "score": 75,
+      "signals": [
+        "activation_keyword",
+        "domain_detected",
+        "authorization_detected",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail"
+    }
+  ]
+}

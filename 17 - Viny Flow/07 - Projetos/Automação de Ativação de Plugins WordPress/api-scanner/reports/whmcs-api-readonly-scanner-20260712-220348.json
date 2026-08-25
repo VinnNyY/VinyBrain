@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "generated_at": "20260712-220348",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket",
+      "GetClientsProducts"
+    ],
+    "whmcs_provider": "browser-ui",
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "browser-ui",
+    "redact_emails": false,
+    "wp_validator": "browser",
+    "inspect_requested_plugins": false,
+    "debug_plugin_table": false,
+    "prepare_installation_plan": false,
+    "prepare_execution": false,
+    "execute_installation_plan": false,
+    "apply": false,
+    "gettickets_request": {
+      "provider": "browser-ui",
+      "status": "Awaiting Reply",
+      "limitstart": 0,
+      "limitnum": 20,
+      "totalresults": 0
+    },
+    "browser_ui_debug": {
+      "browser_started": true,
+      "logged_in": true,
+      "current_page": "https://sourei.cloudflareaccess.com/cdn-cgi/access/verify-code/painel.staycloud.com.br?kid=096c811d8d51114c6e0e94c01b4fc768aed643615f267079f0624675dd0b771f&meta=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFjZmFiMjVlZWIyNjY5NjQyZDNiY2E4Y2E3ZWNjODU1MzMwZWNmZjUzY2QwZTljOTU2NTk4ZjJiYzFmNDUzZWQifQ.eyJ0eXBlIjoibWV0YSIsImF1ZCI6IjA5NmM4MTFkOGQ1MTExNGM2ZTBlOTRjMDFiNGZjNzY4YWVkNjQzNjE1ZjI2NzA3OWYwNjI0Njc1ZGQwYjc3MWYiLCJob3N0bmFtZSI6InBhaW5lbC5zdGF5Y2xvdWQuY29tLmJyIiwicmVkaXJlY3RfdXJsIjoiL2dlc3Rvci9zdXBwb3J0dGlja2V0cy5waHAiLCJzZXJ2aWNlX3Rva2VuX3N0YXR1cyI6ZmFsc2UsImlzX3dhcnAiOmZhbHNlLCJpc19nYXRld2F5IjpmYWxzZSwiZXhwIjoxNzgzODk0MTQyLCJuYmYiOjE3ODM4OTM4NDIsImlhdCI6MTc4Mzg5Mzg0MiwiYXV0aF9zdGF0dXMiOiJOT05FIiwibXRsc19hdXRoIjp7ImNlcnRfaXNzdWVyX2RuIjoiIiwiY2VydF9zZXJpYWwiOiIiLCJjZXJ0X2lzc3Vlcl9za2kiOiIiLCJjZXJ0X3ByZXNlbnRlZCI6ZmFsc2UsImNvbW1vbl9uYW1lIjoiIiwiYXV0aF9zdGF0dXMiOiJOT05FIn0sInJlYWxfY291bnRyeSI6IkJSIiwiYXBwX3Nlc3Npb25faGFzaCI6IjgzZjM4NzM0YzI1ZjY2ZTdiYzlkOTI1ZTY2MGE1ZTA0NWI2NGVhZDgwNWUzZjgzNTI2NGZmMTg1MDllM2Y5MTkifQ.HZVvK_pghTMAffGoN8qSHM4r7kdvqKlItypQTM-aYB2oN3IykomDcw95vQCU6ZTwncipGnC-wGfTB-9xUpXcdb_Hf8qbYjiToNEQVASQxtu-SSba1kyEOs0c5FjXHb_-fuii8Fe5y-gCPH_0BR4pmj_9rwIwshV3Mq1OV-8qUIu4-_NnH1qd_IWl5YoPWPRWyiLP6QbmER4dBAvrZADyUK1yOq4Vx18crB9scbA3qc7g4MLLuQmFqTTCebEbptvEBItmk3D1k_ciTp2wSRiraFd6UpaQdzjWlOSyIyCq0Qaja8ykJyfno2C2u-nsMMmCkg-A0TvSLBEcsnTUl7yBTA&redirect_url=%2Fgestor%2Fsupporttickets.php&nonce=uqaPC6Mn5M9PXemYBjcEkHzK43VcMTc4Mzg5Mzg0MQ",
+      "visible_tickets": 0,
+      "candidates": []
+    }
+  },
+  "summary": {
+    "listed": 0,
+    "returned": 0,
+    "active_analyzed": 0,
+    "opened": 0,
+    "pending_activation": 0,
+    "needs_review": 0,
+    "ignored": 0,
+    "historical_returned": 0
+  },
+  "tickets": []
+}

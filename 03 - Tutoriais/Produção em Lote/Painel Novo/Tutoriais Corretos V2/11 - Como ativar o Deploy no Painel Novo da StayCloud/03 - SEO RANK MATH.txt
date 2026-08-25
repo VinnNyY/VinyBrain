@@ -1,0 +1,69 @@
+# SEO Rank Math
+
+Status: publicado e validado no Rank Math.
+
+## Palavra-chave principal
+
+Deploy StayCloud
+
+## Título SEO sugerido
+
+Ativar Deploy StayCloud pelo Painel Novo em 4 passos
+
+## Título nativo BetterDocs
+
+DEPLOY STAYCLOUD NO PAINEL NOVO
+
+## Slug sugerido
+
+ativar-deploy-staycloud
+
+## Meta description sugerida
+
+Veja como ativar o Deploy StayCloud pelo Painel Novo, conferir os pré-requisitos e preparar sua conta para publicar aplicações.
+
+## Categoria
+
+Painel novo
+
+## Tags
+
+- Deploy
+- Painel Novo
+- Aplicações
+- Desenvolvimento
+- StayCloud
+
+## Excerpt sugerido
+
+Aprenda onde localizar o Deploy StayCloud no Painel Novo, conferir o status Cloud e identificar o botão Começar grátis antes da ativação.
+
+## Social title
+
+Como ativar o Deploy StayCloud pelo Painel Novo
+
+## Social description
+
+Veja o caminho seguro para localizar o Deploy, conferir o status Cloud e iniciar a ativação somente com autorização.
+
+## Critérios Rank Math Preparados
+
+- Palavra-chave no H1: sim.
+- Palavra-chave no primeiro parágrafo: sim.
+- Palavra-chave em H2/H3: sim, em `Como ativar Deploy StayCloud pelo Painel Novo`.
+- Palavra-chave em ALT: sim.
+- Palavra-chave no slug: sim.
+- Palavra-chave na meta description: sim.
+- Tamanho do conteúdo: 861 palavras no arquivo WordPress.
+- Links internos sugeridos após publicação:
+  - `https://ajuda.staycloud.com.br/docs/como-acessar-o-cpanel-painel-novo/`
+  - `https://ajuda.staycloud.com.br/docs/disco-cpu-ram-painel-novo-staycloud/`
+- Score final: 86/100.
+
+## Publicação
+
+- URL pública: https://ajuda.staycloud.com.br/docs/ativar-deploy-staycloud/
+- BetterDocs ID: 2885.
+- Mídias públicas: 2881, 2882, 2883, 2884.
+- Ativação real do Cloud não foi executada; o tutorial documenta o fluxo até o botão `Começar grátis`.
+- Ajuste visual em 2026-07-30: título nativo diferente do H1 interno para evitar repetição.

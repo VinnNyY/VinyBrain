@@ -1,0 +1,40 @@
+{
+  "documentId": 2877,
+  "editUrl": "https://ajuda.staycloud.com.br/wp-admin/post.php?post=2877&action=edit",
+  "publicUrl": "https://ajuda.staycloud.com.br/docs/webmail-staycloud-painel-novo/",
+  "slugBefore": "webmail-staycloud-painel-novo",
+  "slugAfter": "webmail-staycloud-painel-novo",
+  "statusBefore": "draft",
+  "statusAfter": "publish",
+  "titleBefore": "Webmail StayCloud: como acessar pelo Painel Novo",
+  "titleAfter": "Webmail StayCloud: como acessar pelo Painel Novo em 4 passos",
+  "categoriesAfter": [
+    17
+  ],
+  "mediaUrls": [
+    "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/passo-01-gerenciar-servico-1.png",
+    "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/passo-02-area-e-mails.png",
+    "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/passo-03-abrir-webmail.png"
+  ],
+  "mediaIds": [
+    2874,
+    2875,
+    2876
+  ],
+  "rankMathResponse": {
+    "slug": true,
+    "schemas": []
+  },
+  "rankMathScoreBeforeCorrection": 70,
+  "rankMathScoreBeforePublish": 88,
+  "rankMathScoreAfterPublish": 88,
+  "seo": {
+    "focusKeyword": "Webmail StayCloud",
+    "seoTitle": "Webmail StayCloud: acessar pelo Painel Novo em 4 passos",
+    "metaDescription": "Aprenda a acessar o Webmail StayCloud pelo Painel Novo, localizar a conta correta e abrir a caixa de e-mail pelo navegador com segurança.",
+    "excerpt": "Acesse o Webmail StayCloud pelo Painel Novo, localize a conta correta e abra a caixa pelo navegador sem alterar configurações.",
+    "socialTitle": "Webmail StayCloud pelo Painel Novo",
+    "socialDescription": "Veja como localizar a conta de e-mail no Painel Novo e abrir o Webmail StayCloud com segurança."
+  },
+  "publishedAt": "2026-07-28T14:54:08.247Z"
+}

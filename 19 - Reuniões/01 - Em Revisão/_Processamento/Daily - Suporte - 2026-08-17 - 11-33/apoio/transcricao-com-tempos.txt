@@ -1,0 +1,219 @@
+[00:00:00.590 - 00:00:08.590] Enfim, inicialmente, como os senhores estão, quem quiser falar aí, como o passado de final de semana, todos bem?
+[00:00:08.590 - 00:00:11.700] Andou, andou.
+[00:00:11.700 - 00:00:12.700] Salve.
+[00:00:12.700 - 00:00:17.760] Estou bem, final de semana foi de boa, estou descansando um pouco.
+[00:00:17.760 - 00:00:22.210] Estão chamando de tira de notar dentro dos tutoriais, na semana.
+[00:00:22.210 - 00:00:24.210] Tudo já o que vai acontecer na gente.
+[00:00:24.210 - 00:00:26.210] Boa.
+[00:00:26.210 - 00:00:27.210] Estou.
+[00:00:27.210 - 00:00:28.590] Boa.
+[00:00:28.590 - 00:00:31.590] E como que foi de semana passada?
+[00:00:31.590 - 00:00:34.590] Finalzinho da semana, já como que foi o início?
+[00:00:34.590 - 00:00:39.590] Inclusive, só isso, a migração desse tamanho, está enchendo o saco, tudo fazendo a conferência de novo.
+[00:00:39.590 - 00:00:42.590] Inclusive, o que deu aí, você me mandou aqui, mas eu não vi ao certo, não.
+[00:00:42.590 - 00:00:50.590] Ela mandou, falou assim, e teve o sistema que ela fez instalar as coisas que estão com conexão no banco de dados, e não veio.
+[00:00:50.590 - 00:00:52.590] Não veio o banco de dados?
+[00:00:52.590 - 00:00:56.690] Não, e não veio a instalação, mas eu estou cobrando aqui.
+[00:00:56.690 - 00:00:58.690] Vê esse cara, pô, já tive.
+[00:00:58.690 - 00:01:00.690] Você tinha testado, viu?
+[00:01:00.690 - 00:01:01.690] Você tinha testado?
+[00:01:01.690 - 00:01:02.690] Você tinha testado?
+[00:01:02.690 - 00:01:03.690] Eu tentei ver, apostou e estou fazendo tudo de novo.
+[00:01:03.690 - 00:01:06.690] Só que agora eu estou tirando a print e vou subir no arquivo HPV e vou contratar.
+[00:01:06.690 - 00:01:07.690] Boa.
+[00:01:07.690 - 00:01:09.690] Mas você tinha testado outra vez e não tinha dado sorte também?
+[00:01:09.690 - 00:01:11.690] Tinha, eu testei tudo aí.
+[00:01:11.690 - 00:01:13.690] Só que na cabeça dela, eu não sei nem que deu lá, não.
+[00:01:13.690 - 00:01:15.690] Porque ela estava lá de novo, não vi nenhum.
+[00:01:15.690 - 00:01:17.690] Vi todos que até vou viajar agora.
+[00:01:17.690 - 00:01:19.690] Veio só uns dois que estão sendo antes dela.
+[00:01:19.690 - 00:01:20.690] Boa.
+[00:01:20.690 - 00:01:21.690] Outro ponto.
+[00:01:21.690 - 00:01:24.690] Você fez aquele playbookzinho lá que você estava fazendo?
+[00:01:24.690 - 00:01:25.910] Fiz.
+[00:01:25.910 - 00:01:29.910] Já não sei se falei da cornal, então eu falei para alocar para o Gabriel.
+[00:01:29.910 - 00:01:31.910] É, eu estou ali para validar, né?
+[00:01:31.910 - 00:01:32.910] Olhar.
+[00:01:32.910 - 00:01:33.910] É.
+[00:01:33.910 - 00:01:34.910] Ah, então...
+[00:01:34.910 - 00:01:36.940] Já estava lá no geral, é que sei lá no...
+[00:01:36.940 - 00:01:37.940] Coelhos de Gaterain.
+[00:01:37.940 - 00:01:38.940] Perfeito, mano.
+[00:01:38.940 - 00:01:42.940] Qualquer coisa depois, na hora que tiver validado as coisas e tal, você monta um textinho
+[00:01:42.940 - 00:01:47.940] ou para o Gabriel, não sei e tal, e manda ali no grupo do N1 mesmo, para geral dar uma lida.
+[00:01:47.940 - 00:01:48.940] Beleza?
+[00:01:48.940 - 00:01:49.940] Fechilão.
+[00:01:49.940 - 00:01:50.940] Fechilão.
+[00:01:50.940 - 00:01:51.940] Boa.
+[00:01:51.940 - 00:01:52.940] Você está com alguma coisa travada aí?
+[00:01:52.940 - 00:01:55.940] Alguma coisa precisando de mim ou de alguém por fora?
+[00:01:55.940 - 00:01:56.940] Eu não.
+[00:01:56.940 - 00:01:57.940] Tá não?
+[00:01:57.940 - 00:01:58.940] Beleza.
+[00:01:58.940 - 00:02:00.940] Eu não souber resolver o ação.
+[00:02:00.940 - 00:02:01.940] Eu vou tentar encampar dois dias.
+[00:02:01.940 - 00:02:02.940] Boa.
+[00:02:02.940 - 00:02:04.940] Eu acho que caiu um ticket para ti aí, mano.
+[00:02:04.940 - 00:02:05.940] Inclusive.
+[00:02:05.940 - 00:02:07.260] Deixa eu só validar aqui.
+[00:02:07.260 - 00:02:08.260] Qual que é?
+[00:02:08.260 - 00:02:11.260] É um de VPS e um de troca de plan do PS, né?
+[00:02:11.260 - 00:02:12.260] Exato.
+[00:02:12.260 - 00:02:14.260] Mas é um de VPS que caiu aqui.
+[00:02:14.260 - 00:02:15.300] Deixa eu ver aqui.
+[00:02:15.300 - 00:02:16.300] Não sei se qual que é o outro.
+[00:02:16.300 - 00:02:18.300] O VPS foi optado que o...
+[00:02:18.300 - 00:02:19.300] Isso, do Ernst lá.
+[00:02:19.300 - 00:02:20.300] Aham.
+[00:02:20.300 - 00:02:21.300] É.
+[00:02:21.300 - 00:02:23.710] O cara falou alguma coisa aí?
+[00:02:23.710 - 00:02:24.710] Não.
+[00:02:24.710 - 00:02:25.710] Estão parado até agora.
+[00:02:25.710 - 00:02:26.710] É, resposta de quem?
+[00:02:26.710 - 00:02:27.710] Ah, do Cazuri, né?
+[00:02:27.710 - 00:02:28.710] Boa.
+[00:02:28.710 - 00:02:29.710] Então...
+[00:02:29.710 - 00:02:30.710] Mas depois dá uma...
+[00:02:30.710 - 00:02:31.710] Um alô no Luiz.
+[00:02:31.710 - 00:02:32.710] Porque esse aí eu acho que você não vai...
+[00:02:32.710 - 00:02:34.710] Não sei se tu vai conseguir mexer.
+[00:02:34.710 - 00:02:35.710] Aí você...
+[00:02:35.710 - 00:02:36.710] E quem...
+[00:02:36.710 - 00:02:37.710] Não, eu até falei que eu ia mandar com o Gabriel aí.
+[00:02:37.710 - 00:02:39.710] Pra ver a gente vai dar uma visualizada.
+[00:02:39.710 - 00:02:41.710] E não sei como é que eles estão tendo apps ali.
+[00:02:41.710 - 00:02:44.710] É, porque eu acho que quem subiu esse sistema aí foi o Luiz, mano.
+[00:02:44.710 - 00:02:45.710] Tá ligado?
+[00:02:45.710 - 00:02:48.710] Aí eu não sei se o Gab já tá por dentro.
+[00:02:48.710 - 00:02:50.710] Mas, se tiver, pode pedir ajuda sim.
+[00:02:50.710 - 00:02:53.710] Mas, qualquer coisa, dá um alô no Luiz mesmo.
+[00:02:53.710 - 00:02:54.710] Ok?
+[00:02:54.710 - 00:02:55.710] Pode.
+[00:02:55.710 - 00:02:56.710] Boa.
+[00:02:56.710 - 00:02:57.810] Gab, como que você tá?
+[00:02:57.810 - 00:02:58.810] Final de semana?
+[00:02:58.810 - 00:02:59.810] Como que você passou?
+[00:02:59.810 - 00:03:02.350] Como que estão as demandinhas aí?
+[00:03:02.350 - 00:03:03.350] Tá de boa.
+[00:03:03.350 - 00:03:04.700] Tô...
+[00:03:04.700 - 00:03:07.700] Tô trabalhando ainda no Script Cloud Migração.
+[00:03:07.700 - 00:03:08.700] Uhum.
+[00:03:08.700 - 00:03:09.700] Corrigindo o bug dele.
+[00:03:09.700 - 00:03:11.770] Eu acho que ele sai essa semana já.
+[00:03:11.770 - 00:03:12.770] Boa.
+[00:03:12.770 - 00:03:13.770] Falei de travada.
+[00:03:13.770 - 00:03:15.770] Tô esperando um retorno do Luiz.
+[00:03:15.770 - 00:03:17.770] Que o meu Cloud me deslogou.
+[00:03:17.770 - 00:03:21.150] Aí precisa chegar o código lá no celular do Luiz.
+[00:03:21.150 - 00:03:25.150] Falar pra você que eu consegui logar sem código, viu?
+[00:03:25.150 - 00:03:26.180] Enquanto você me passou.
+[00:03:26.180 - 00:03:27.180] O meu ele...
+[00:03:27.180 - 00:03:28.180] Logou por onde?
+[00:03:28.180 - 00:03:29.180] Pelo...
+[00:03:29.180 - 00:03:30.180] Gmail.
+[00:03:30.180 - 00:03:31.180] Logo pelo Gmail.
+[00:03:31.440 - 00:03:34.440] Então, logo pelo Gmail ele fala pra eu mandar código, sei lá.
+[00:03:34.440 - 00:03:35.440] Que loucura.
+[00:03:35.440 - 00:03:36.440] Pra mim não pediu não.
+[00:03:36.440 - 00:03:37.440] Tá no KD.
+[00:03:37.440 - 00:03:38.600] Deixa eu ver um bagulho.
+[00:03:38.600 - 00:03:41.600] KD cê falou pra mim, ah, depois cê pega o código com o Luiz, mas pra mim não pediu
+[00:03:41.600 - 00:03:42.600] não.
+[00:03:42.600 - 00:03:43.600] Por isso que eu achei estranho.
+[00:03:43.600 - 00:03:46.020] É, o meu Gmail ficou rogado.
+[00:03:46.020 - 00:03:47.180] Eu entrei aqui e foi.
+[00:03:47.180 - 00:03:48.180] Puxa.
+[00:03:48.180 - 00:03:49.180] É, vai entender.
+[00:03:49.180 - 00:03:52.180] É que tipo, eu uso ele no...
+[00:03:52.180 - 00:03:53.560] No...
+[00:03:53.560 - 00:03:54.560] Vestipodino.
+[00:03:54.560 - 00:03:55.560] Botasfer.
+[00:03:55.560 - 00:03:56.560] Ah, tá.
+[00:03:56.560 - 00:04:01.180] Tem sentido.
+[00:04:01.180 - 00:04:02.180] Botasfer.
+[00:04:02.180 - 00:04:03.180] É...
+[00:04:03.180 - 00:04:05.330] Certo.
+[00:04:05.330 - 00:04:06.420] E do...
+[00:04:06.420 - 00:04:07.420] Tudo certo das mudanças aí?
+[00:04:07.420 - 00:04:09.000] Eu tô terminando de arrumar as coisas ainda aí.
+[00:04:09.000 - 00:04:10.000] Loucurada, pai.
+[00:04:10.000 - 00:04:11.000] Coisa, velho.
+[00:04:11.000 - 00:04:12.000] Imagina.
+[00:04:12.000 - 00:04:13.830] Boa.
+[00:04:13.830 - 00:04:14.830] Foi muito cansativo a semana aí.
+[00:04:14.830 - 00:04:15.830] E...
+[00:04:15.830 - 00:04:17.440] Eu tô terminando de arrumar as coisas ainda aí.
+[00:04:17.440 - 00:04:18.440] Loucurada, pai.
+[00:04:18.440 - 00:04:19.440] Coisa, velho.
+[00:04:19.440 - 00:04:20.500] Imagina.
+[00:04:20.500 - 00:04:21.500] Boa.
+[00:04:21.500 - 00:04:23.500] Foi muito cansativo a semana aí...
+[00:04:23.500 - 00:04:27.940] Aí a gente não conseguiu arrumar tudo no final de semana.
+[00:04:27.940 - 00:04:29.420] Pô, é tranquilo.
+[00:04:29.420 - 00:04:30.420] Se precisar de alguma ajuda também.
+[00:04:30.420 - 00:04:31.420] Precisa dar uma...
+[00:04:31.420 - 00:04:32.420] Uma agilizada aí.
+[00:04:32.420 - 00:04:33.420] Se precisar com um pouquinho a Waze, você dá um...
+[00:04:33.420 - 00:04:34.420] Salve.
+[00:04:34.420 - 00:04:36.740] Tranquilo.
+[00:04:36.740 - 00:04:37.740] Valeu.
+[00:04:37.740 - 00:04:38.740] Bebê.
+[00:04:38.740 - 00:04:39.740] Matheusão, você tem algo pra falar?
+[00:04:39.740 - 00:04:40.740] Alguma coisa pra passar?
+[00:04:40.740 - 00:04:43.940] Não muita coisa.
+[00:04:43.940 - 00:04:44.940] Mesma coisa.
+[00:04:44.940 - 00:04:46.940] Tentando melhorar a...
+[00:04:46.940 - 00:04:47.940] A questão de autonomia no chat.
+[00:04:47.940 - 00:04:49.940] E a investigação técnica também.
+[00:04:49.940 - 00:04:50.940] Pelo visto que eu vim.
+[00:04:50.940 - 00:04:52.940] Desavisei que esse assinamento é mais fácil.
+[00:04:52.940 - 00:04:53.940] Só aprimorando.
+[00:04:53.940 - 00:04:55.460] Isso.
+[00:04:55.460 - 00:04:57.700] Boa.
+[00:04:57.700 - 00:04:58.700] Tô perfeito, então.
+[00:04:58.700 - 00:04:59.700] É...
+[00:04:59.700 - 00:05:01.830] Acho que tinha alguma coisa pra falar.
+[00:05:01.830 - 00:05:02.830] Ah, é.
+[00:05:02.830 - 00:05:03.830] Bom, galera.
+[00:05:03.830 - 00:05:04.830] A partir de amanhã.
+[00:05:04.830 - 00:05:05.830] Não esqueçam, por favor.
+[00:05:05.830 - 00:05:06.830] Todos em call.
+[00:05:06.830 - 00:05:08.830] Não deixem a gente ficar em call, não, por favor.
+[00:05:08.830 - 00:05:10.830] Que Naldo tá pedindo.
+[00:05:10.830 - 00:05:12.090] Que é...
+[00:05:12.090 - 00:05:13.090] Primeiro que a gente fique mutado.
+[00:05:13.090 - 00:05:14.090] E tá todo mundo ficando mutado.
+[00:05:14.090 - 00:05:15.090] Então, eu acho que não vai atrapalhar.
+[00:05:15.090 - 00:05:18.090] Eu sei que tá todo mundo focado nas demandas, mas...
+[00:05:18.090 - 00:05:20.090] Eu tinha deixado essa autonomia novamente.
+[00:05:20.090 - 00:05:21.090] Até que, às vezes, vai focar.
+[00:05:21.090 - 00:05:22.090] Fico fora de call.
+[00:05:22.090 - 00:05:23.090] Fico fora de call.
+[00:05:23.090 - 00:05:25.090] Mas só que a gente nem tá falando tanto durante a call.
+[00:05:25.090 - 00:05:27.090] Em geral, fica mutado e tal.
+[00:05:27.090 - 00:05:28.090] Então...
+[00:05:28.090 - 00:05:29.090] A partir de amanhã, não.
+[00:05:29.090 - 00:05:30.090] A partir de hoje, inclusive.
+[00:05:30.090 - 00:05:33.280] A gente vai ficar em call, porque eu tô sendo cobrado desse lado aí.
+[00:05:33.280 - 00:05:34.280] Beleza?
+[00:05:34.280 - 00:05:35.280] Do time ficar completo aqui.
+[00:05:35.280 - 00:05:36.280] Porque, às vezes, sei lá.
+[00:05:36.280 - 00:05:38.280] Surge luz durante a tarde aí.
+[00:05:38.280 - 00:05:39.280] Luiz não sabe o que tá por dentro.
+[00:05:39.280 - 00:05:42.280] Ele vê um ou dois só em call aqui.
+[00:05:42.280 - 00:05:43.280] E ele vai achar estranho.
+[00:05:43.280 - 00:05:46.280] Então, é mais também ter pra galera de fora aí.
+[00:05:46.280 - 00:05:47.280] Às vezes, quando for olhar.
+[00:05:47.280 - 00:05:49.280] Já vê todos a gente aqui.
+[00:05:49.280 - 00:05:50.280] No mais é isso.
+[00:05:50.280 - 00:05:52.280] Às vezes, quando precisar fazer alguma reuniãozinha particular.
+[00:05:52.280 - 00:05:53.280] Alguma coisa.
+[00:05:53.280 - 00:05:54.280] Aí, alguém aciona aqui.
+[00:05:54.280 - 00:05:55.280] E vai pra uma call privada.
+[00:05:55.280 - 00:05:56.280] Mas...
+[00:05:56.280 - 00:05:58.280] Que todos permaneçam aqui.
+[00:05:58.280 - 00:05:59.280] Ok?
+[00:05:59.280 - 00:06:00.280] Não tem dúvida, vocês podem me avisar.
+[00:06:00.280 - 00:06:01.280] É...
+[00:06:01.280 - 00:06:02.280] Inclusive...
+[00:06:02.280 - 00:06:03.280] É...

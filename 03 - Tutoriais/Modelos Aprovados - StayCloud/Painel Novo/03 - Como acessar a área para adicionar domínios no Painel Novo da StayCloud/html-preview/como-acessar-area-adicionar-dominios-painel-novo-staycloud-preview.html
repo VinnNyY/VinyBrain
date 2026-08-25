@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Como acessar a área para adicionar domínios no Painel Novo da StayCloud</title>
+  <style>
+    :root {
+      --bg: #f4f7fb;
+      --card: #ffffff;
+      --text: #172033;
+      --muted: #5d6b84;
+      --line: #d8e0eb;
+      --accent: #1d4ed8;
+      --accent-soft: rgba(29, 78, 216, 0.08);
+      --ok: #0f7b49;
+      --warn: #b45309;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: linear-gradient(180deg, #eef3fb 0%, var(--bg) 100%);
+      color: var(--text);
+    }
+    .wrap {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 40px 24px 64px;
+    }
+    .hero {
+      background: linear-gradient(135deg, #ffffff 0%, #f4f8ff 100%);
+      border: 1px solid var(--line);
+      border-radius: 24px;
+      padding: 28px;
+      box-shadow: 0 18px 50px rgba(17, 24, 39, 0.06);
+      margin-bottom: 22px;
+    }
+    .kicker {
+      text-transform: uppercase;
+      letter-spacing: .14em;
+      font-size: 12px;
+      color: var(--accent);
+      font-weight: 800;
+      margin-bottom: 10px;
+    }
+    h1 {
+      font-size: clamp(30px, 4vw, 46px);
+      line-height: 1.06;
+      margin: 0 0 12px;
+    }
+    .lead {
+      font-size: 18px;
+      line-height: 1.55;
+      color: var(--muted);
+      max-width: 860px;
+      margin: 0;
+    }
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+      margin-top: 18px;
+    }
+    .meta .box, .panel, .step, .check {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 20px;
+      box-shadow: 0 10px 24px rgba(17, 24, 39, 0.04);
+    }
+    .meta .box { padding: 16px 18px; }
+    .meta strong, .label {
+      display: block;
+      font-size: .82rem;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: #93a0b5;
+      margin-bottom: 6px;
+    }
+    .section { margin-top: 24px; }
+    .section h2 {
+      margin: 0 0 10px;
+      font-size: 1.4rem;
+    }
+    .section p.lead {
+      margin-top: 0;
+      color: var(--muted);
+      max-width: 75ch;
+    }
+    .panel, .step, .check { padding: 20px; }
+    .grid { display: grid; gap: 18px; }
+    .steps { display: grid; gap: 18px; }
+    .step-num {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 800;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    .step-num span {
+      width: 30px; height: 30px; border-radius: 999px;
+      background: var(--accent-soft); display: inline-grid; place-items: center;
+    }
+    figure {
+      margin: 14px 0 0;
+      padding: 12px;
+      border-radius: 18px;
+      border: 1px solid var(--line);
+      background: #f8fbff;
+    }
+    figure img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 14px;
+      border: 1px solid #e3e9f3;
+      box-shadow: 0 12px 34px rgba(15, 23, 42, .10);
+    }
+    figcaption {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: .95rem;
+    }
+    ul { margin: 10px 0 0 20px; }
+    li { margin: 6px 0; }
+    .note {
+      background: #fff8e8;
+      border: 1px solid #f1d58b;
+      border-radius: 18px;
+      padding: 18px;
+      color: #5b4600;
+    }
+    .ok {
+      background: #edfdf4;
+      border: 1px solid #bcebd7;
+      border-radius: 18px;
+      padding: 18px;
+      color: #165a3a;
+    }
+    .checks {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+    .check h3 { margin: 0 0 8px; font-size: 1.02rem; }
+    .status {
+      margin-top: 22px;
+      padding: 16px 18px;
+      background: #eaf2ff;
+      border: 1px solid #bfd0ff;
+      border-radius: 18px;
+      font-weight: 700;
+    }
+    .seo-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+    .seo-item {
+      padding: 16px 18px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: #fbfdff;
+    }
+    .seo-item strong {
+      display: block;
+      margin-bottom: 6px;
+      color: #64748b;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      font-size: .76rem;
+    }
+    @media (max-width: 860px) {
+      .meta, .checks, .seo-grid { grid-template-columns: 1fr; }
+      .wrap { padding: 20px 14px 48px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <div class="kicker">StayCloud · Painel Novo</div>
+      <h1>Como acessar a área para adicionar domínios no Painel Novo da StayCloud</h1>
+      <p class="lead">Veja onde localizar a área de domínios no Painel Novo e como parar no ponto certo antes de qualquer alteração na conta.</p>
+      <div class="meta">
+        <div class="box"><strong>Palavra-chave</strong>adicionar domínios painel novo staycloud</div>
+        <div class="box"><strong>Status</strong>Rascunho local</div>
+        <div class="box"><strong>Meta title</strong>Como acessar a área para adicionar domínios no Painel Novo da StayCloud</div>
+        <div class="box"><strong>Slug</strong>como-acessar-area-adicionar-dominios-painel-novo-staycloud</div>
+      </div>
+    </section>
+
+    <section class="grid">
+      <article class="panel">
+        <h2>Quando usar este tutorial</h2>
+        <p class="lead">Use este passo a passo quando você quiser localizar a área de domínios, ver onde fica a opção de adicionar domínio e conferir a tela correta antes de iniciar qualquer cadastro.</p>
+      </article>
+      <aside class="panel">
+        <h2>Antes de começar</h2>
+        <div class="note">Entre na sua conta StayCloud, confirme que você está no Painel Novo e não preencha nenhum domínio neste tutorial.</div>
+      </aside>
+    </section>
+
+    <section class="section steps">
+      <article class="step">
+        <div class="step-num"><span>1</span>Acesse a tela inicial</div>
+        <p>Depois do login, você chega à tela inicial do Painel Novo. É nela que a navegação começa.</p>
+        <figure>
+          <img src="../prints/01-dashboard-marcado-v3.png" alt="Tela inicial do Painel Novo com a opção Domínios destacada no menu lateral" />
+          <figcaption>Nesta tela, você começa pelo menu lateral e localiza a opção <strong>Domínios</strong>.</figcaption>
+        </figure>
+      </article>
+
+      <article class="step">
+        <div class="step-num"><span>2</span>Localize Domínios</div>
+        <p>No menu lateral, clique em <strong>Domínios</strong>. Na tela seguinte, você deve ver o título <strong>Seus domínios</strong>.</p>
+        <figure>
+          <img src="../prints/02-dominios-topo-marcado-v3.png" alt="Tela principal da área de Domínios com o título da página em destaque" />
+          <figcaption>Essa é a área correta para continuar. Você ainda não precisa preencher nada.</figcaption>
+        </figure>
+      </article>
+
+      <article class="step">
+        <div class="step-num"><span>3</span>Confira a lista e os filtros</div>
+        <p>Na parte superior da área, você vê a busca e os filtros dos domínios. Isso confirma que você chegou na tela certa.</p>
+        <figure>
+          <img src="../prints/03-dominios-lista-marcado-v8.png" alt="Barra de busca e filtros da área de Domínios em destaque" />
+          <figcaption>A busca e os filtros ajudam você a se localizar antes de avançar.</figcaption>
+        </figure>
+      </article>
+
+      <article class="step">
+        <div class="step-num"><span>4</span>Localize a opção para adicionar domínio</div>
+        <p>No canto superior direito, encontre <strong>Registrar domínio</strong> ou a opção equivalente da sua conta.</p>
+        <figure>
+          <img src="../prints/04-adicionar-dominios-opcao-marcado-v5.png" alt="Botão Registrar domínio destacado na área de Domínios" />
+          <figcaption>Se abrir uma próxima etapa, pare antes de preencher qualquer informação. Aqui o objetivo é só mostrar onde fica a área.</figcaption>
+        </figure>
+      </article>
+    </section>
+
+    <section class="section panel">
+      <h2>Erros comuns</h2>
+      <ul>
+        <li>Clicar em outro item do menu e não abrir a área de domínios.</li>
+        <li>Passar pela tela sem conferir o título <strong>Seus domínios</strong>.</li>
+        <li>Avançar para o cadastro sem querer concluir a ação.</li>
+      </ul>
+    </section>
+
+    <section class="section panel">
+      <h2>Quando abrir ticket</h2>
+      <ul>
+        <li>Quando a área de Domínios não aparecer no seu painel.</li>
+        <li>Quando a página não carregar corretamente.</li>
+        <li>Quando o botão <strong>Registrar domínio</strong> não aparecer.</li>
+        <li>Quando o texto do botão estiver diferente e você não souber qual caminho seguir.</li>
+      </ul>
+      <div class="ok">Se a opção não aparecer, pare no ponto seguro e acione o suporte para confirmar o caminho da sua conta.</div>
+    </section>
+
+    <section class="section panel">
+      <h2>SEO e validação</h2>
+      <div class="seo-grid">
+        <div class="seo-item"><strong>Meta description</strong>Veja como localizar a área para adicionar domínios no Painel Novo da StayCloud sem alterar nenhuma configuração.</div>
+        <div class="seo-item"><strong>Notas</strong>Foco 100% Painel Novo, sem ação sensível, sem cPanel e sem avanço de cadastro.</div>
+      </div>
+      <div class="checks" style="margin-top:16px;">
+        <div class="check">
+          <h3>SEO Rank Math</h3>
+          <ul>
+            <li>Palavra-chave definida</li>
+            <li>Título claro e direto</li>
+            <li>Slug curto e consistente</li>
+            <li>Meta description objetiva</li>
+            <li>Palavra-chave na introdução</li>
+          </ul>
+        </div>
+        <div class="check">
+          <h3>UI/UX e visual</h3>
+          <ul>
+            <li>Fala direta com você</li>
+            <li>Passos curtos e lógicos</li>
+            <li>Prints reais com marcação</li>
+            <li>ALT text definido</li>
+            <li>Sem dado sensível</li>
+          </ul>
+        </div>
+      </div>
+      <div class="status">Status: rascunho local</div>
+    </section>
+  </main>
+</body>
+</html>

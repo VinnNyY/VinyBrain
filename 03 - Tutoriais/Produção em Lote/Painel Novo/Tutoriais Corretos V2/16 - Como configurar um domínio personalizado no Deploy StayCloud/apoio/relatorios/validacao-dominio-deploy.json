@@ -1,0 +1,1334 @@
+{
+  "date": "2026-08-03T16:19:41.092Z",
+  "loginMode": "novo-login",
+  "projectName": "tutorial-deploy-cli-teste",
+  "safety": {
+    "dnsAuthorizationFoundInObsidian": false,
+    "externalDnsChanged": false,
+    "domainSubmittedOrSaved": false,
+    "productionDomainTouched": false,
+    "billingActionExecuted": false
+  },
+  "projectState": {
+    "url": "https://beta.staycloud.com/dashboard/cloud",
+    "bodySample": "Encontrou um bug?\nNos reporte aqui\n.\nbuild 9c3a12f · 05.2026\nstaycloud\n[dado censurado]\nBuscar site, domínio, fatura ou chamado...\n⌘ K\ndark\nCloud\ndeploy de git\nCLOUD\nVisão geral\nDeployments\nLogs\nDomínios\nIntegrações\nPlano\nedge global · São Paulo + CDN StayCloud\n\n~/cloud\n\n~/CLOUD\n\nCloud\n\nDeploy de Git em produção. Build em São Paulo, edge global via CDN da StayCloud.\n\nReportar bug\natualizar\nConectar GitHub\nNovo projeto\nComo fazer seu primeiro deploy\nO passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel.\nAssistir\nPROJETOS\n2\nativos\nNO AR\n2\nservindo tráfego\nBUILDANDO\n0\nem fila ou rodando\nDEPLOYS · 30D\n4\núltimos 30 dias\n\n01\nPROJETOS\n\nSeus projetos\nTodos\n2\nNo ar\n2\nBuild\n0\nFalha\n0\ntutorial-deploy-cli-teste\nHTML estático ·\nmain · - · -\npronto\nhá 3 dias\ndomínio\ntutorial[dominio censurado]/\nAbrir\ntutorial-deploy-teste\nHTML estático ·\nmain · - · -\npronto\nhá 5 dias\ndomínio\n[dominio censurado]/\nAbrir",
+    "buttons": [
+      {
+        "text": "Nos reporte aqui Nos reporte aqui",
+        "disabled": false,
+        "x": 143,
+        "y": 8,
+        "width": 91,
+        "height": 17
+      },
+      {
+        "text": "Fechar aviso",
+        "disabled": false,
+        "x": 1402,
+        "y": 6,
+        "width": 22,
+        "height": 22
+      },
+      {
+        "text": "staycloud staycloud Ir para o início",
+        "disabled": false,
+        "x": 24,
+        "y": 50,
+        "width": 114,
+        "height": 26
+      },
+      {
+        "text": "[dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 167,
+        "y": 47,
+        "width": 178,
+        "height": 32
+      },
+      {
+        "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+        "disabled": false,
+        "x": 620,
+        "y": 47,
+        "width": 360,
+        "height": 32
+      },
+      {
+        "text": "dark dark Alternar tema",
+        "disabled": false,
+        "x": 1255,
+        "y": 48,
+        "width": 69,
+        "height": 30
+      },
+      {
+        "text": "Notificações",
+        "disabled": false,
+        "x": 1338,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Ajuda · reportar bug",
+        "disabled": false,
+        "x": 1384,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Home Home Home",
+        "disabled": false,
+        "x": 8,
+        "y": 105,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Hospedagem Hospedagem Hospedagem",
+        "disabled": false,
+        "x": 8,
+        "y": 143,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "WordPress WordPress WordPress",
+        "disabled": false,
+        "x": 8,
+        "y": 181,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "VPS VPS VPS",
+        "disabled": false,
+        "x": 8,
+        "y": 219,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Deploy Deploy Deploy",
+        "disabled": false,
+        "x": 8,
+        "y": 257,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Loja Loja Loja",
+        "disabled": false,
+        "x": 8,
+        "y": 314,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Domínios Domínios Domínios",
+        "disabled": false,
+        "x": 8,
+        "y": 352,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Faturas Faturas Faturas",
+        "disabled": false,
+        "x": 8,
+        "y": 390,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Suporte Suporte Suporte",
+        "disabled": false,
+        "x": 8,
+        "y": 447,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Ferramentas Ferramentas Ferramentas",
+        "disabled": false,
+        "x": 8,
+        "y": 485,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayFast Novo StayFast StayFast",
+        "disabled": false,
+        "x": 8,
+        "y": 523,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayAcademy StayAcademy StayAcademy",
+        "disabled": false,
+        "x": 8,
+        "y": 561,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 16,
+        "y": 954,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Visão geral Visão geral",
+        "disabled": false,
+        "x": 78,
+        "y": 208,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Deployments Deployments",
+        "disabled": false,
+        "x": 78,
+        "y": 242,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Logs Logs",
+        "disabled": false,
+        "x": 78,
+        "y": 276,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Domínios Domínios",
+        "disabled": false,
+        "x": 78,
+        "y": 309,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Integrações Integrações",
+        "disabled": false,
+        "x": 78,
+        "y": 343,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Plano Plano",
+        "disabled": false,
+        "x": 78,
+        "y": 377,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "~/cloud ~/cloud",
+        "disabled": false,
+        "x": 328,
+        "y": 123,
+        "width": 44,
+        "height": 18
+      },
+      {
+        "text": "Reportar bug Reportar bug",
+        "disabled": false,
+        "x": 880,
+        "y": 236,
+        "width": 125,
+        "height": 32
+      },
+      {
+        "text": "atualizar atualizar",
+        "disabled": false,
+        "x": 1013,
+        "y": 237,
+        "width": 97,
+        "height": 30
+      },
+      {
+        "text": "Conectar GitHub Conectar GitHub",
+        "disabled": false,
+        "x": 1118,
+        "y": 237,
+        "width": 143,
+        "height": 30
+      },
+      {
+        "text": "Novo projeto Novo projeto",
+        "disabled": false,
+        "x": 1269,
+        "y": 234,
+        "width": 131,
+        "height": 36
+      },
+      {
+        "text": "Assistir Assistir",
+        "disabled": false,
+        "x": 1246,
+        "y": 310,
+        "width": 97,
+        "height": 32
+      },
+      {
+        "text": "Dispensar tutorial",
+        "disabled": false,
+        "x": 1357,
+        "y": 312,
+        "width": 28,
+        "height": 28
+      },
+      {
+        "text": "Ajuda: Status do deploy",
+        "disabled": false,
+        "x": 975,
+        "y": 401,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "Ajuda: O que é deploy",
+        "disabled": false,
+        "x": 1259,
+        "y": 401,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "Todos 2 Todos 2",
+        "disabled": false,
+        "x": 1114,
+        "y": 536,
+        "width": 66,
+        "height": 24
+      },
+      {
+        "text": "No ar 2 No ar 2",
+        "disabled": false,
+        "x": 1181,
+        "y": 536,
+        "width": 62,
+        "height": 24
+      },
+      {
+        "text": "Build 0 Build 0",
+        "disabled": false,
+        "x": 1245,
+        "y": 536,
+        "width": 61,
+        "height": 24
+      },
+      {
+        "text": "Falha 0 Falha 0",
+        "disabled": false,
+        "x": 1308,
+        "y": 536,
+        "width": 63,
+        "height": 24
+      },
+      {
+        "text": "tutorial-deploy-cli-teste HTML estático · main · - · - pronto há 3 dias domínio tutorial[dominio censurado]/ Abrir tutorial-deploy-cli-teste HTML estático · main · - · - pronto há 3 dias domínio tutorial[dominio censurado]/ Abrir Abrir projeto tutorial-deploy-cli-teste",
+        "disabled": false,
+        "x": 329,
+        "y": 582,
+        "width": 1070,
+        "height": 97
+      },
+      {
+        "text": "tutorial-deploy-teste HTML estático · main · - · - pronto há 5 dias domínio [dominio censurado]/ Abrir tutorial-deploy-teste HTML estático · main · - · - pronto há 5 dias domínio [dominio censurado]/ Abrir Abrir projeto tutorial-deploy-teste",
+        "disabled": false,
+        "x": 329,
+        "y": 678,
+        "width": 1070,
+        "height": 98
+      }
+    ]
+  },
+  "domainsState": {
+    "url": "https://beta.staycloud.com/dashboard/cloud/dominios",
+    "bodySample": "Encontrou um bug?\nNos reporte aqui\n.\nbuild 9c3a12f · 05.2026\nstaycloud\n[dado censurado]\nBuscar site, domínio, fatura ou chamado...\n⌘ K\ndark\nCloud\ndeploy de git\nCLOUD\nVisão geral\nDeployments\nLogs\nDomínios\nIntegrações\nPlano\nedge global · São Paulo + CDN StayCloud\n\n~/CLOUD\n›\ndomínios\n\n~/CLOUD/DOMINIOS\n\nDomínios\n\nTodos os domínios próprios conectados aos seus projetos. SSL automático via CDN global da StayCloud.\n\nsincronizar tudo\nAdicionar domínio\nTOTAL\n0\ndomínios\nATIVOS\n0\nSSL ok\nPENDENTES\n0\naguardando\nERRO\n0\nrequer atenção\nSSL automático via CDN global\n Aponte um CNAME para [dominio censurado] \n e o certificado é emitido em até 2 minutos.\nver documentação\ntodos projetos\n0\n\nNenhum domínio cadastrado.\n\nDomínios · Cloud · StayCloud",
+    "buttons": [
+      {
+        "text": "Nos reporte aqui Nos reporte aqui",
+        "disabled": false,
+        "x": 143,
+        "y": 8,
+        "width": 91,
+        "height": 17
+      },
+      {
+        "text": "Fechar aviso",
+        "disabled": false,
+        "x": 1402,
+        "y": 6,
+        "width": 22,
+        "height": 22
+      },
+      {
+        "text": "staycloud staycloud Ir para o início",
+        "disabled": false,
+        "x": 24,
+        "y": 50,
+        "width": 114,
+        "height": 26
+      },
+      {
+        "text": "[dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 167,
+        "y": 47,
+        "width": 178,
+        "height": 32
+      },
+      {
+        "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+        "disabled": false,
+        "x": 620,
+        "y": 47,
+        "width": 360,
+        "height": 32
+      },
+      {
+        "text": "dark dark Alternar tema",
+        "disabled": false,
+        "x": 1255,
+        "y": 48,
+        "width": 69,
+        "height": 30
+      },
+      {
+        "text": "Notificações",
+        "disabled": false,
+        "x": 1338,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Ajuda · reportar bug",
+        "disabled": false,
+        "x": 1384,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Home Home Home",
+        "disabled": false,
+        "x": 8,
+        "y": 105,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Hospedagem Hospedagem Hospedagem",
+        "disabled": false,
+        "x": 8,
+        "y": 143,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "WordPress WordPress WordPress",
+        "disabled": false,
+        "x": 8,
+        "y": 181,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "VPS VPS VPS",
+        "disabled": false,
+        "x": 8,
+        "y": 219,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Deploy Deploy Deploy",
+        "disabled": false,
+        "x": 8,
+        "y": 257,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Loja Loja Loja",
+        "disabled": false,
+        "x": 8,
+        "y": 314,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Domínios Domínios Domínios",
+        "disabled": false,
+        "x": 8,
+        "y": 352,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Faturas Faturas Faturas",
+        "disabled": false,
+        "x": 8,
+        "y": 390,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Suporte Suporte Suporte",
+        "disabled": false,
+        "x": 8,
+        "y": 447,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Ferramentas Ferramentas Ferramentas",
+        "disabled": false,
+        "x": 8,
+        "y": 485,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayFast Novo StayFast StayFast",
+        "disabled": false,
+        "x": 8,
+        "y": 523,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayAcademy StayAcademy StayAcademy",
+        "disabled": false,
+        "x": 8,
+        "y": 561,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 16,
+        "y": 954,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Visão geral Visão geral",
+        "disabled": false,
+        "x": 78,
+        "y": 208,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Deployments Deployments",
+        "disabled": false,
+        "x": 78,
+        "y": 242,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Logs Logs",
+        "disabled": false,
+        "x": 78,
+        "y": 276,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Domínios Domínios",
+        "disabled": false,
+        "x": 78,
+        "y": 309,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Integrações Integrações",
+        "disabled": false,
+        "x": 78,
+        "y": 343,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Plano Plano",
+        "disabled": false,
+        "x": 78,
+        "y": 377,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "~/CLOUD ~/cloud",
+        "disabled": false,
+        "x": 328,
+        "y": 124,
+        "width": 53,
+        "height": 17
+      },
+      {
+        "text": "sincronizar tudo sincronizar tudo",
+        "disabled": true,
+        "x": 1088,
+        "y": 237,
+        "width": 141,
+        "height": 30
+      },
+      {
+        "text": "Adicionar domínio Adicionar domínio",
+        "disabled": false,
+        "x": 1237,
+        "y": 234,
+        "width": 163,
+        "height": 36
+      },
+      {
+        "text": "Ajuda: Certificado SSL",
+        "disabled": false,
+        "x": 598,
+        "y": 428,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "Ajuda: Registro CNAME",
+        "disabled": false,
+        "x": 835,
+        "y": 428,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "ver documentação ver documentação",
+        "disabled": false,
+        "x": 1256,
+        "y": 418,
+        "width": 125,
+        "height": 29
+      },
+      {
+        "text": "todos projetos 0 todos projetos 0",
+        "disabled": false,
+        "x": 351,
+        "y": 558,
+        "width": 122,
+        "height": 24
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Buscar domínio...",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "x": 381,
+        "y": 505,
+        "width": 987,
+        "height": 40
+      }
+    ]
+  },
+  "afterAddState": {
+    "clickedAddDomain": true,
+    "url": "https://beta.staycloud.com/dashboard/cloud/dominios",
+    "bodySample": "Encontrou um bug?\nNos reporte aqui\n.\nbuild 9c3a12f · 05.2026\nstaycloud\n[dado censurado]\nBuscar site, domínio, fatura ou chamado...\n⌘ K\ndark\nCloud\ndeploy de git\nCLOUD\nVisão geral\nDeployments\nLogs\nDomínios\nIntegrações\nPlano\nedge global · São Paulo + CDN StayCloud\n\n~/CLOUD\n›\ndomínios\n\n~/CLOUD/DOMINIOS\n\nDomínios\n\nTodos os domínios próprios conectados aos seus projetos. SSL automático via CDN global da StayCloud.\n\nsincronizar tudo\nAdicionar domínio\nTOTAL\n0\ndomínios\nATIVOS\n0\nSSL ok\nPENDENTES\n0\naguardando\nERRO\n0\nrequer atenção\nSSL automático via CDN global\n Aponte um CNAME para [dominio censurado] \n e o certificado é emitido em até 2 minutos.\nver documentação\ntodos projetos\n0\n\nNenhum domínio cadastrado.\n\nDOMÍNIOS\n\nAdicionar domínio\n\nAdicione o domínio à sua conta. Depois você pode vincular a qualquer projeto publicado.\n\nDomínio\n\nSem protocolo, sem path. Apenas o nome do domínio.\n\nCancelar\nAdicionar\nDomínios · Cloud · StayCloud",
+    "buttons": [
+      {
+        "text": "Nos reporte aqui Nos reporte aqui",
+        "disabled": false,
+        "x": 143,
+        "y": 8,
+        "width": 91,
+        "height": 17
+      },
+      {
+        "text": "Fechar aviso",
+        "disabled": false,
+        "x": 1402,
+        "y": 6,
+        "width": 22,
+        "height": 22
+      },
+      {
+        "text": "staycloud staycloud Ir para o início",
+        "disabled": false,
+        "x": 24,
+        "y": 50,
+        "width": 114,
+        "height": 26
+      },
+      {
+        "text": "[dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 167,
+        "y": 47,
+        "width": 178,
+        "height": 32
+      },
+      {
+        "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+        "disabled": false,
+        "x": 620,
+        "y": 47,
+        "width": 360,
+        "height": 32
+      },
+      {
+        "text": "dark dark Alternar tema",
+        "disabled": false,
+        "x": 1255,
+        "y": 48,
+        "width": 69,
+        "height": 30
+      },
+      {
+        "text": "Notificações",
+        "disabled": false,
+        "x": 1338,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Ajuda · reportar bug",
+        "disabled": false,
+        "x": 1384,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Home Home Home",
+        "disabled": false,
+        "x": 8,
+        "y": 105,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Hospedagem Hospedagem Hospedagem",
+        "disabled": false,
+        "x": 8,
+        "y": 143,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "WordPress WordPress WordPress",
+        "disabled": false,
+        "x": 8,
+        "y": 181,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "VPS VPS VPS",
+        "disabled": false,
+        "x": 8,
+        "y": 219,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Deploy Deploy Deploy",
+        "disabled": false,
+        "x": 8,
+        "y": 257,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Loja Loja Loja",
+        "disabled": false,
+        "x": 8,
+        "y": 314,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Domínios Domínios Domínios",
+        "disabled": false,
+        "x": 8,
+        "y": 352,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Faturas Faturas Faturas",
+        "disabled": false,
+        "x": 8,
+        "y": 390,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Suporte Suporte Suporte",
+        "disabled": false,
+        "x": 8,
+        "y": 447,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Ferramentas Ferramentas Ferramentas",
+        "disabled": false,
+        "x": 8,
+        "y": 485,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayFast Novo StayFast StayFast",
+        "disabled": false,
+        "x": 8,
+        "y": 523,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayAcademy StayAcademy StayAcademy",
+        "disabled": false,
+        "x": 8,
+        "y": 561,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 16,
+        "y": 954,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Visão geral Visão geral",
+        "disabled": false,
+        "x": 78,
+        "y": 208,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Deployments Deployments",
+        "disabled": false,
+        "x": 78,
+        "y": 242,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Logs Logs",
+        "disabled": false,
+        "x": 78,
+        "y": 276,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Domínios Domínios",
+        "disabled": false,
+        "x": 78,
+        "y": 309,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Integrações Integrações",
+        "disabled": false,
+        "x": 78,
+        "y": 343,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Plano Plano",
+        "disabled": false,
+        "x": 78,
+        "y": 377,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "~/CLOUD ~/cloud",
+        "disabled": false,
+        "x": 328,
+        "y": 124,
+        "width": 53,
+        "height": 17
+      },
+      {
+        "text": "sincronizar tudo sincronizar tudo",
+        "disabled": true,
+        "x": 1088,
+        "y": 237,
+        "width": 141,
+        "height": 30
+      },
+      {
+        "text": "Adicionar domínio Adicionar domínio",
+        "disabled": false,
+        "x": 1237,
+        "y": 234,
+        "width": 163,
+        "height": 36
+      },
+      {
+        "text": "Ajuda: Certificado SSL",
+        "disabled": false,
+        "x": 598,
+        "y": 428,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "Ajuda: Registro CNAME",
+        "disabled": false,
+        "x": 856,
+        "y": 428,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "ver documentação ver documentação",
+        "disabled": false,
+        "x": 1256,
+        "y": 418,
+        "width": 125,
+        "height": 29
+      },
+      {
+        "text": "todos projetos 0 todos projetos 0",
+        "disabled": false,
+        "x": 351,
+        "y": 558,
+        "width": 122,
+        "height": 24
+      },
+      {
+        "text": "Fechar",
+        "disabled": false,
+        "x": 933,
+        "y": 360,
+        "width": 30,
+        "height": 30
+      },
+      {
+        "text": "Cancelar Cancelar",
+        "disabled": false,
+        "x": 759,
+        "y": 604,
+        "width": 86,
+        "height": 36
+      },
+      {
+        "text": "Adicionar Adicionar",
+        "disabled": true,
+        "x": 853,
+        "y": 604,
+        "width": 110,
+        "height": 36
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Buscar domínio...",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "x": 381,
+        "y": 505,
+        "width": 987,
+        "height": 40
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "",
+        "placeholder": "[dominio censurado]",
+        "value": "",
+        "required": true,
+        "disabled": false,
+        "x": 477,
+        "y": 511,
+        "width": 486,
+        "height": 38
+      }
+    ]
+  },
+  "afterTypingState": {
+    "typedSubdomainWithoutSubmitting": true,
+    "typedRootWithoutSubmitting": true,
+    "url": "https://beta.staycloud.com/dashboard/cloud/dominios",
+    "bodySample": "Encontrou um bug?\nNos reporte aqui\n.\nbuild 9c3a12f · 05.2026\nstaycloud\n[dado censurado]\nBuscar site, domínio, fatura ou chamado...\n⌘ K\ndark\nCloud\ndeploy de git\nCLOUD\nVisão geral\nDeployments\nLogs\nDomínios\nIntegrações\nPlano\nedge global · São Paulo + CDN StayCloud\n\n~/CLOUD\n›\ndomínios\n\n~/CLOUD/DOMINIOS\n\nDomínios\n\nTodos os domínios próprios conectados aos seus projetos. SSL automático via CDN global da StayCloud.\n\nsincronizar tudo\nAdicionar domínio\nTOTAL\n0\ndomínios\nATIVOS\n0\nSSL ok\nPENDENTES\n0\naguardando\nERRO\n0\nrequer atenção\nSSL automático via CDN global\n Aponte um CNAME para [dominio censurado] \n e o certificado é emitido em até 2 minutos.\nver documentação\ntodos projetos\n0\n\nNenhum domínio cadastrado.\n\nDOMÍNIOS\n\nAdicionar domínio\n\nAdicione o domínio à sua conta. Depois você pode vincular a qualquer projeto publicado.\n\nDomínio\n\nSem protocolo, sem path. Apenas o nome do domínio.\n\nCancelar\nAdicionar\nDomínios · Cloud · StayCloud",
+    "buttons": [
+      {
+        "text": "Nos reporte aqui Nos reporte aqui",
+        "disabled": false,
+        "x": 143,
+        "y": 8,
+        "width": 91,
+        "height": 17
+      },
+      {
+        "text": "Fechar aviso",
+        "disabled": false,
+        "x": 1402,
+        "y": 6,
+        "width": 22,
+        "height": 22
+      },
+      {
+        "text": "staycloud staycloud Ir para o início",
+        "disabled": false,
+        "x": 24,
+        "y": 50,
+        "width": 114,
+        "height": 26
+      },
+      {
+        "text": "[dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 167,
+        "y": 47,
+        "width": 178,
+        "height": 32
+      },
+      {
+        "text": "Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado... ⌘ K Buscar site, domínio, fatura ou chamado Buscar (⌘K)",
+        "disabled": false,
+        "x": 620,
+        "y": 47,
+        "width": 360,
+        "height": 32
+      },
+      {
+        "text": "dark dark Alternar tema",
+        "disabled": false,
+        "x": 1255,
+        "y": 48,
+        "width": 69,
+        "height": 30
+      },
+      {
+        "text": "Notificações",
+        "disabled": false,
+        "x": 1338,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Ajuda · reportar bug",
+        "disabled": false,
+        "x": 1384,
+        "y": 47,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Home Home Home",
+        "disabled": false,
+        "x": 8,
+        "y": 105,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Hospedagem Hospedagem Hospedagem",
+        "disabled": false,
+        "x": 8,
+        "y": 143,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "WordPress WordPress WordPress",
+        "disabled": false,
+        "x": 8,
+        "y": 181,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "VPS VPS VPS",
+        "disabled": false,
+        "x": 8,
+        "y": 219,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Deploy Deploy Deploy",
+        "disabled": false,
+        "x": 8,
+        "y": 257,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Loja Loja Loja",
+        "disabled": false,
+        "x": 8,
+        "y": 314,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Domínios Domínios Domínios",
+        "disabled": false,
+        "x": 8,
+        "y": 352,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Faturas Faturas Faturas",
+        "disabled": false,
+        "x": 8,
+        "y": 390,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Suporte Suporte Suporte",
+        "disabled": false,
+        "x": 8,
+        "y": 447,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "Ferramentas Ferramentas Ferramentas",
+        "disabled": false,
+        "x": 8,
+        "y": 485,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayFast Novo StayFast StayFast",
+        "disabled": false,
+        "x": 8,
+        "y": 523,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "StayAcademy StayAcademy StayAcademy",
+        "disabled": false,
+        "x": 8,
+        "y": 561,
+        "width": 47,
+        "height": 36
+      },
+      {
+        "text": "[dado censurado] Menu da conta de [dado censurado] [dado censurado]",
+        "disabled": false,
+        "x": 16,
+        "y": 954,
+        "width": 32,
+        "height": 32
+      },
+      {
+        "text": "Visão geral Visão geral",
+        "disabled": false,
+        "x": 78,
+        "y": 208,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Deployments Deployments",
+        "disabled": false,
+        "x": 78,
+        "y": 242,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Logs Logs",
+        "disabled": false,
+        "x": 78,
+        "y": 276,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Domínios Domínios",
+        "disabled": false,
+        "x": 78,
+        "y": 309,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Integrações Integrações",
+        "disabled": false,
+        "x": 78,
+        "y": 343,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "Plano Plano",
+        "disabled": false,
+        "x": 78,
+        "y": 377,
+        "width": 195,
+        "height": 33
+      },
+      {
+        "text": "~/CLOUD ~/cloud",
+        "disabled": false,
+        "x": 328,
+        "y": 124,
+        "width": 53,
+        "height": 17
+      },
+      {
+        "text": "sincronizar tudo sincronizar tudo",
+        "disabled": true,
+        "x": 1088,
+        "y": 237,
+        "width": 141,
+        "height": 30
+      },
+      {
+        "text": "Adicionar domínio Adicionar domínio",
+        "disabled": false,
+        "x": 1237,
+        "y": 234,
+        "width": 163,
+        "height": 36
+      },
+      {
+        "text": "Ajuda: Certificado SSL",
+        "disabled": false,
+        "x": 598,
+        "y": 428,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "Ajuda: Registro CNAME",
+        "disabled": false,
+        "x": 856,
+        "y": 428,
+        "width": 13,
+        "height": 13
+      },
+      {
+        "text": "ver documentação ver documentação",
+        "disabled": false,
+        "x": 1256,
+        "y": 418,
+        "width": 125,
+        "height": 29
+      },
+      {
+        "text": "todos projetos 0 todos projetos 0",
+        "disabled": false,
+        "x": 351,
+        "y": 558,
+        "width": 122,
+        "height": 24
+      },
+      {
+        "text": "Fechar",
+        "disabled": false,
+        "x": 933,
+        "y": 360,
+        "width": 30,
+        "height": 30
+      },
+      {
+        "text": "Cancelar Cancelar",
+        "disabled": false,
+        "x": 759,
+        "y": 604,
+        "width": 86,
+        "height": 36
+      },
+      {
+        "text": "Adicionar Adicionar",
+        "disabled": false,
+        "x": 853,
+        "y": 604,
+        "width": 110,
+        "height": 36
+      }
+    ],
+    "inputs": [
+      {
+        "type": "search",
+        "name": "",
+        "id": "",
+        "placeholder": "Buscar domínio...",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "x": 381,
+        "y": 505,
+        "width": 987,
+        "height": 40
+      },
+      {
+        "type": "text",
+        "name": "",
+        "id": "domain-field-1785773973607",
+        "placeholder": "[dominio censurado]",
+        "value": "[dominio censurado]",
+        "required": true,
+        "disabled": false,
+        "x": 477,
+        "y": 511,
+        "width": 486,
+        "height": 38
+      }
+    ]
+  },
+  "answers": {
+    "areaExists": true,
+    "officialAreaName": "Domínios",
+    "acceptsRootDomain": "campo aceitou digitação de domínio raiz; salvamento não executado por segurança",
+    "acceptsSubdomain": "campo aceitou digitação de subdomínio; salvamento não executado por segurança",
+    "requiredInformation": "endereço de domínio/subdomínio no campo exibido",
+    "panelProvidesDnsRecord": "há instrução de DNS visível no fluxo inspecionado",
+    "requestedRecordType": "CNAME",
+    "hasVerifyButton": false,
+    "hasValidationStatus": true,
+    "showsSsl": true,
+    "hasTemporaryDomain": true,
+    "originalUrlStillWorks": "confirmado em validações anteriores; não alterado nesta execução",
+    "billing": "há texto de plano/cobrança no painel; nenhuma ação financeira executada",
+    "domainLimit": "0\ndom",
+    "removable": false
+  },
+  "screenshots": [
+    "01-aplicacao-correta-sanitizado.png",
+    "02-area-dominio-sanitizado.png",
+    "03-adicionar-dominio-sanitizado.png",
+    "04-instrucoes-dns-sanitizado.png",
+    "06-validacao-sanitizado.png"
+  ]
+}

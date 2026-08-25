@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0b0f19"/>
+  <rect x="78" y="78" width="1044" height="474" rx="24" fill="#111827" stroke="#263244"/>
+  <text x="118" y="156" fill="#93c5fd" font-family="Arial, sans-serif" font-size="28" font-weight="700">Legacy Doc</text>
+  <text x="118" y="270" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">Documentacao tecnica</text>
+  <text x="118" y="350" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">gerada a partir do codigo</text>
+  <text x="118" y="430" fill="#94a3b8" font-family="Arial, sans-serif" font-size="28">IA para analisar bases legadas e gerar documentacao revisavel.</text>
+  <rect x="810" y="146" width="246" height="286" rx="14" fill="#090d15" stroke="#263244"/>
+  <rect x="842" y="186" width="104" height="18" rx="9" fill="#3b82f6" fill-opacity="0.34"/>
+  <rect x="842" y="226" width="168" height="14" rx="7" fill="#94a3b8" fill-opacity="0.35"/>
+  <rect x="842" y="258" width="132" height="14" rx="7" fill="#94a3b8" fill-opacity="0.22"/>
+  <rect x="842" y="318" width="182" height="72" rx="10" fill="#111827" stroke="#263244"/>
+  <path d="M704 290H790" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M760 260L790 290L760 320" stroke="#3b82f6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

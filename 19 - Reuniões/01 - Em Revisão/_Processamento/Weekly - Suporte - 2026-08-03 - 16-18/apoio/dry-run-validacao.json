@@ -1,0 +1,21 @@
+{
+  "status": "validado_localmente",
+  "apply_executado": false,
+  "notion_enviado": false,
+  "clickup_criado": false,
+  "notion_campos_obrigatorios": [
+    "contexto",
+    "data",
+    "decisoes",
+    "links_relacionados",
+    "participantes",
+    "pendencias",
+    "pontos_discutidos",
+    "proximos_passos",
+    "resumo_executivo",
+    "status",
+    "titulo"
+  ],
+  "clickup_quantidade_tarefas": 5,
+  "observacao": "Dry-run local: JSON parseado, campos obrigatórios conferidos e nenhum script com --apply executado."
+}

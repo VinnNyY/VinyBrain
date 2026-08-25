@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Elementor Pro",
+    "aliases": ["elementor", "elementor pro"],
+    "slug": "elementor-pro",
+    "type": "page-builder",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Plugin premium permitido apenas com origem validada."
+  },
+  {
+    "name": "WP Rocket",
+    "aliases": ["wp rocket"],
+    "slug": "wp-rocket",
+    "type": "cache",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Plugin premium permitido apenas com origem validada."
+  },
+  {
+    "name": "Rank Math SEO Pro",
+    "aliases": ["rank math", "rank math seo pro"],
+    "slug": "rank-math-seo-pro",
+    "type": "seo",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Plugin premium permitido apenas com origem validada."
+  },
+  {
+    "name": "Crocoblock",
+    "aliases": ["crocoblock"],
+    "slug": "crocoblock",
+    "type": "suite",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Suite premium com validação obrigatoria."
+  },
+  {
+    "name": "JetEngine",
+    "aliases": ["jetengine"],
+    "slug": "jetengine",
+    "type": "addon",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Parte do ecossistema Crocoblock."
+  },
+  {
+    "name": "JetFormBuilder",
+    "aliases": ["jetformbuilder"],
+    "slug": "jetformbuilder",
+    "type": "addon",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Parte do ecossistema Crocoblock."
+  },
+  {
+    "name": "Premium Addons",
+    "aliases": ["premium addons"],
+    "slug": "premium-addons",
+    "type": "addon",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Requer validacao da origem."
+  },
+  {
+    "name": "Essential Addons",
+    "aliases": ["essential addons", "essentials addons"],
+    "slug": "essential-addons",
+    "type": "addon",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Requer validacao da origem."
+  },
+  {
+    "name": "Happy Addons",
+    "aliases": ["happy addons"],
+    "slug": "happy-addons",
+    "type": "addon",
+    "allowed": true,
+    "requires_license": true,
+    "notes": "Pode entrar na fila somente com validacao de origem."
+  }
+]

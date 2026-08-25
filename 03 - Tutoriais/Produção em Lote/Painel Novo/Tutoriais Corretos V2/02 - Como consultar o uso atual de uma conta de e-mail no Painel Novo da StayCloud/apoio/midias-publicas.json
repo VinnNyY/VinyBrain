@@ -1,0 +1,27 @@
+{
+  "tutorial": "Como consultar o uso atual de uma conta de e-mail no Painel Novo da StayCloud",
+  "origem": "Registros locais previamente validados; nenhum acesso ou upload ao WordPress nesta reconstrução V2.",
+  "midias": [
+    {
+      "etapa": 1,
+      "media_id": 2805,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/consultar-uso-email-painel-novo-staycloud-01-sanitizado-2.png",
+      "sanitizada": true,
+      "status": "validada"
+    },
+    {
+      "etapa": 2,
+      "media_id": 2800,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/consultar-uso-email-painel-novo-staycloud-02-sanitizado-1.png",
+      "sanitizada": true,
+      "status": "validada"
+    },
+    {
+      "etapa": 3,
+      "media_id": 2801,
+      "public_url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/consultar-uso-email-painel-novo-staycloud-03-sanitizado-1.png",
+      "sanitizada": true,
+      "status": "validada"
+    }
+  ]
+}

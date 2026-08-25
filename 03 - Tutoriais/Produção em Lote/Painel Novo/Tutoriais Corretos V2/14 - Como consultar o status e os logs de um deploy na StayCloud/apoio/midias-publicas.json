@@ -1,0 +1,44 @@
+[
+  {
+    "file": "01-aplicacao-correta-sanitizado.png",
+    "id": 2919,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-aplicacao-correta-sanitizado.png",
+    "alt": "Aplicação correta para consultar os logs do Deploy StayCloud",
+    "title": "Aplicação correta no Cloud"
+  },
+  {
+    "file": "02-status-deploy-sanitizado.png",
+    "id": 2920,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-status-deploy-sanitizado.png",
+    "alt": "Status pronto no Deploy StayCloud",
+    "title": "Status pronto do deploy"
+  },
+  {
+    "file": "03-historico-execucao-sanitizado.png",
+    "id": 2921,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-historico-execucao-sanitizado.png",
+    "alt": "Histórico de deploys com publicação pronta na StayCloud",
+    "title": "Histórico de deploys"
+  },
+  {
+    "file": "04-aba-logs-sanitizado.png",
+    "id": 2922,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-aba-logs-sanitizado.png",
+    "alt": "Aba Logs do Deploy StayCloud",
+    "title": "Aba Logs do Deploy StayCloud"
+  },
+  {
+    "file": "05-conteudo-logs-sanitizado.png",
+    "id": 2923,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-conteudo-logs-sanitizado.png",
+    "alt": "Linha segura de log do Deploy StayCloud",
+    "title": "Linha segura de log de build"
+  },
+  {
+    "file": "06-aplicacao-disponivel-sanitizado.png",
+    "id": 2924,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-aplicacao-disponivel-sanitizado.png",
+    "alt": "Botão Abrir para acessar aplicação publicada no Deploy StayCloud",
+    "title": "Botão Abrir aplicação publicada"
+  }
+]

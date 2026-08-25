@@ -1,0 +1,74 @@
+{
+  "modo": "lote_simples",
+  "dry_run": true,
+  "origem": "Weekly - Suporte - 2026-08-10 - 14-46",
+  "tarefas": [
+    {
+      "nome": "Acompanhar caso financeiro de contratação anual",
+      "descricao": "Escalar ou abrir ticket para validação financeira, liberar a conta quando aplicável e acompanhar pagamento no dia seguinte.",
+      "responsavel": "Participante que está atendendo o caso",
+      "prioridade": "Alta",
+      "status_inicial": "Pendente",
+      "prazo": "2026-08-11",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "suporte",
+        "financeiro"
+      ],
+      "checklist": [
+        "Acionar Naldo ou responsável pelo caso",
+        "Escalar ticket para validação financeira",
+        "Ajustar vencimento para 11/08/2026 quando aplicável",
+        "Verificar pagamento em 11/08/2026",
+        "Ajustar vencimento anual se o pagamento for confirmado"
+      ],
+      "criterio_conclusao": "Pagamento conferido e vencimento ajustado corretamente.",
+      "origem": "Weekly Suporte 2026-08-10",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    },
+    {
+      "nome": "Validar renovação de domínio somente após pagamento",
+      "descricao": "Não executar renovação de domínio sem confirmação de pagamento para evitar prejuízo operacional.",
+      "responsavel": "A definir",
+      "prioridade": "Alta",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "suporte",
+        "dominio"
+      ],
+      "checklist": [
+        "Confirmar se domínio está na mesma fatura",
+        "Confirmar pagamento",
+        "Executar renovação apenas após validação financeira"
+      ],
+      "criterio_conclusao": "Renovação feita somente com pagamento confirmado ou orientação registrada.",
+      "origem": "Weekly Suporte 2026-08-10",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    },
+    {
+      "nome": "Confirmar metas e entregas citadas na Weekly",
+      "descricao": "Confirmar em fonte escrita os números e escopo de artigos, playbooks e participação em migrações citados com áudio incerto.",
+      "responsavel": "A definir",
+      "prioridade": "Média",
+      "status_inicial": "Pendente",
+      "prazo": "A definir",
+      "tags": [
+        "viny-brain",
+        "weekly",
+        "suporte"
+      ],
+      "checklist": [
+        "Conferir fonte escrita das metas",
+        "Validar números citados",
+        "Atualizar próxima Weekly se necessário"
+      ],
+      "criterio_conclusao": "Metas confirmadas ou removidas do acompanhamento formal.",
+      "origem": "Weekly Suporte 2026-08-10",
+      "observacoes_internas": "Preparado apenas para revisão manual; não aplicar sem autorização."
+    }
+  ]
+}

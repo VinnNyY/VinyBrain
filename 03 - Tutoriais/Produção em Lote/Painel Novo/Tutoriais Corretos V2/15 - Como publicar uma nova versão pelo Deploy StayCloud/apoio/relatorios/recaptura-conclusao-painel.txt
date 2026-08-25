@@ -1,0 +1,76 @@
+Encontrou um bug?
+Nos reporte aqui
+.
+build 9c3a12f · 05.2026
+staycloud
+[dado censurado]
+Buscar site, domínio, fatura ou chamado...
+⌘ K
+dark
+Cloud
+deploy de git
+CLOUD
+Visão geral
+Deployments
+Logs
+Domínios
+Integrações
+Plano
+edge global · São Paulo + CDN StayCloud
+
+~/cloud
+
+~/CLOUD
+
+Cloud
+
+Deploy de Git em produção. Build em São Paulo, edge global via CDN da StayCloud.
+
+Reportar bug
+atualizar
+Conectar GitHub
+Novo projeto
+Como fazer seu primeiro deploy
+O passo a passo completo: da origem do projeto ao site no ar, com build, domínio e logs no painel.
+Assistir
+PROJETOS
+2
+ativos
+NO AR
+2
+servindo tráfego
+BUILDANDO
+0
+em fila ou rodando
+DEPLOYS · 30D
+4
+últimos 30 dias
+
+01
+PROJETOS
+
+Seus projetos
+Todos
+2
+No ar
+2
+Build
+0
+Falha
+0
+tutorial-deploy-cli-teste
+HTML estático ·
+main · - · -
+pronto
+há 6 minutos
+domínio
+tutorial-deploy-cli-teste.stayai.space/
+Abrir
+[projeto de teste censurado]
+HTML estático ·
+main · - · -
+pronto
+anteontem
+domínio
+[projeto de teste censurado].stayai.space/
+Abrir

@@ -1,0 +1,12 @@
+{
+  "loginMode": "novo-login",
+  "accountMode": "criada",
+  "maskedAccount": "tutorial-teste-****@dominio-censurado",
+  "passwordChanged": true,
+  "finalPrints": [
+    "passo-01-gerenciar-servico.png",
+    "passo-02-contas-email.png",
+    "passo-03-acao-alterar-senha.png",
+    "passo-04-nova-senha.png"
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "file": "01-onde-obter-cli-sanitizado.png",
+    "id": 2903,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/01-onde-obter-cli-sanitizado.png",
+    "alt": "CLI Deploy StayCloud no card Deploy via CLI do Painel Novo",
+    "title": "Card Deploy via CLI no Painel Novo"
+  },
+  {
+    "file": "02-comando-oficial-sanitizado.png",
+    "id": 2904,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/02-comando-oficial-sanitizado.png",
+    "alt": "Comando oficial da CLI Deploy StayCloud gerado no painel",
+    "title": "Comando oficial da CLI Deploy StayCloud"
+  },
+  {
+    "file": "03-confirmacao-instalacao-sanitizado.png",
+    "id": 2905,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/03-confirmacao-instalacao-sanitizado.png",
+    "alt": "Comandos públicos da CLI Deploy StayCloud no terminal",
+    "title": "Comandos públicos da CLI Deploy StayCloud"
+  },
+  {
+    "file": "04-autenticacao-conexao-sanitizado.png",
+    "id": 2906,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/04-autenticacao-conexao-sanitizado.png",
+    "alt": "Conexão segura da CLI Deploy StayCloud no terminal",
+    "title": "Conexão segura pelo terminal"
+  },
+  {
+    "file": "05-comando-deploy-sanitizado.png",
+    "id": 2907,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/05-comando-deploy-sanitizado.png",
+    "alt": "Comando de deploy pela CLI Deploy StayCloud",
+    "title": "Comando de deploy pela CLI"
+  },
+  {
+    "file": "06-resultado-cli-sanitizado.png",
+    "id": 2908,
+    "url": "https://ajuda.staycloud.com.br/wp-content/uploads/2026/07/06-resultado-cli-sanitizado.png",
+    "alt": "Resultado do deploy feito com a CLI Deploy StayCloud",
+    "title": "Resultado do deploy pela CLI"
+  }
+]

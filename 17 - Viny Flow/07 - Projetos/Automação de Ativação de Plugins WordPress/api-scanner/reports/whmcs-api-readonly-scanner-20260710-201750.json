@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "generated_at": "20260710-201750",
+    "mode": "dry-run",
+    "api_actions": [
+      "GetTickets",
+      "GetTicket"
+    ],
+    "blocked_actions": [
+      "AddTicketReply",
+      "UpdateTicket",
+      "CloseTicket",
+      "DeleteTicket",
+      "AddTicketNote"
+    ],
+    "source": "whmcs_api",
+    "redact_emails": false,
+    "wp_validator": "browser",
+    "inspect_requested_plugins": true,
+    "debug_plugin_table": false,
+    "prepare_installation_plan": true,
+    "gettickets_request": {
+      "params": {
+        "limitstart": 0,
+        "limitnum": 30,
+        "status": "Awaiting Reply"
+      },
+      "totalresults": 10
+    }
+  },
+  "summary": {
+    "listed": 1,
+    "returned": 1,
+    "active_analyzed": 1,
+    "opened": 1,
+    "pending_activation": 1,
+    "needs_review": 0,
+    "ignored": 0,
+    "historical_returned": 0
+  },
+  "tickets": [
+    {
+      "ticket_id": "15745",
+      "ticket_num": "QEY-565588",
+      "subject": "Solicitação de ativação de plugin(s): Elementor PRO, WP Rocket",
+      "subject_final": "#QEY-565588 - Solicitação de ativação de plugin(s): Elementor PRO, WP Rocket",
+      "status": "Open",
+      "department": "Suporte Técnico",
+      "plugins_detectados": [
+        "Elementor Pro",
+        "WP Rocket"
+      ],
+      "requested_plugins": [
+        "Elementor Pro",
+        "WP Rocket"
+      ],
+      "plugin_inventory": [
+        {
+          "plugin_name": "Elementor Pro",
+          "plugin_slug": "",
+          "installed": false,
+          "active": "incerto",
+          "installed_version": "",
+          "available_action": "install_required",
+          "dependency_warning": "",
+          "row_found": false,
+          "inventory_confidence": 0.0,
+          "activation_readiness": "PLUGIN NÃO INSTALADO",
+          "next_action": "Revisar origem e autorização antes de qualquer instalação.",
+          "package_found": true,
+          "package_basename": "elementor-pro-4.0.1.zip",
+          "package_version": "4.0.1",
+          "package_slug": "elementor-pro",
+          "package_hash_valid": true,
+          "package_status": "VALID_PACKAGE",
+          "current_wordpress_state": "NÃO INSTALADO",
+          "planned_action": "INSTALL_AND_ACTIVATE",
+          "execution_performed": false,
+          "approval_status": "READY_FOR_HUMAN_APPROVAL",
+          "blocking_reasons": []
+        },
+        {
+          "plugin_name": "WP Rocket",
+          "plugin_slug": "",
+          "installed": false,
+          "active": "incerto",
+          "installed_version": "",
+          "available_action": "install_required",
+          "dependency_warning": "",
+          "row_found": false,
+          "inventory_confidence": 0.0,
+          "activation_readiness": "PLUGIN NÃO INSTALADO",
+          "next_action": "Revisar origem e autorização antes de qualquer instalação.",
+          "package_found": true,
+          "package_basename": "wp-rocket_3.22.0.3.zip",
+          "package_version": "3.22.0.3",
+          "package_slug": "wp-rocket",
+          "package_hash_valid": true,
+          "package_status": "VALID_PACKAGE",
+          "current_wordpress_state": "NÃO INSTALADO",
+          "planned_action": "INSTALL_AND_ACTIVATE",
+          "execution_performed": false,
+          "approval_status": "READY_FOR_HUMAN_APPROVAL",
+          "blocking_reasons": []
+        }
+      ],
+      "installation_plan": [
+        {
+          "plugin_name": "Elementor Pro",
+          "package_found": true,
+          "package_basename": "elementor-pro-4.0.1.zip",
+          "package_version": "4.0.1",
+          "package_slug": "elementor-pro",
+          "package_hash_valid": true,
+          "package_status": "VALID_PACKAGE",
+          "current_wordpress_state": "NÃO INSTALADO",
+          "planned_action": "INSTALL_AND_ACTIVATE",
+          "execution_performed": false,
+          "approval_status": "READY_FOR_HUMAN_APPROVAL",
+          "blocking_reasons": []
+        },
+        {
+          "plugin_name": "WP Rocket",
+          "package_found": true,
+          "package_basename": "wp-rocket_3.22.0.3.zip",
+          "package_version": "3.22.0.3",
+          "package_slug": "wp-rocket",
+          "package_hash_valid": true,
+          "package_status": "VALID_PACKAGE",
+          "current_wordpress_state": "NÃO INSTALADO",
+          "planned_action": "INSTALL_AND_ACTIVATE",
+          "execution_performed": false,
+          "approval_status": "READY_FOR_HUMAN_APPROVAL",
+          "blocking_reasons": []
+        }
+      ],
+      "installation_plan_status": "READY_FOR_HUMAN_APPROVAL",
+      "domain_detected": "providafisio.com.br",
+      "customer_authorization": "sim",
+      "completion_signal": false,
+      "missing_information": [],
+      "preflight_classification": "ACESSO WORDPRESS VALIDADO",
+      "next_action": "Validar cliente, serviço ativo, conta cPanel e instalação WordPress antes de qualquer ativação.",
+      "wp_access_link_present": true,
+      "wp_access_link_type": "temporary_login",
+      "wp_access_link_host": "providafisio.com.br",
+      "wp_access_link_matches_domain": true,
+      "wp_access_validation_executed": true,
+      "wp_access_link_status": "ACCESSIBLE",
+      "wp_admin_accessible": true,
+      "plugins_page_accessible": true,
+      "wp_access_validation_reason": "navegador validou wp-admin e plugins.php em modo leitura",
+      "wp_access_diagnostics": {
+        "browser_started": true,
+        "initial_final_path": "/wp-admin/",
+        "plugins_final_path": "/wp-admin/plugins.php",
+        "hosts_involved": [
+          "providafisio.com.br"
+        ],
+        "redirected_to_wp_login": false,
+        "wordpress_authenticated": true,
+        "plugins_page_accessible": true,
+        "wordpress_markers_found": [
+          "admin-menu",
+          "body-class:wp-admin",
+          "id:adminmenu",
+          "id:wpadminbar",
+          "menu-plugins"
+        ],
+        "plugins_markers_found": [
+          "body-class:plugins-php",
+          "heading:plugins",
+          "id:the-list",
+          "plugin-install.php",
+          "plugins-table"
+        ],
+        "requested_plugin_inventory": [
+          {
+            "plugin_name": "Elementor Pro",
+            "plugin_slug": "",
+            "installed": false,
+            "active": "incerto",
+            "installed_version": "",
+            "available_action": "install_required",
+            "dependency_warning": "",
+            "row_found": false,
+            "inventory_confidence": 0.0,
+            "activation_readiness": "PLUGIN NÃO INSTALADO",
+            "next_action": "Revisar origem e autorização antes de qualquer instalação."
+          },
+          {
+            "plugin_name": "WP Rocket",
+            "plugin_slug": "",
+            "installed": false,
+            "active": "incerto",
+            "installed_version": "",
+            "available_action": "install_required",
+            "dependency_warning": "",
+            "row_found": false,
+            "inventory_confidence": 0.0,
+            "activation_readiness": "PLUGIN NÃO INSTALADO",
+            "next_action": "Revisar origem e autorização antes de qualquer instalação."
+          }
+        ],
+        "technical_reason": "navegador validou wp-admin e plugins.php em modo leitura",
+        "dependency_install_command": "",
+        "plugin_inventory": [
+          {
+            "plugin_name": "Elementor Pro",
+            "plugin_slug": "",
+            "installed": false,
+            "active": "incerto",
+            "installed_version": "",
+            "available_action": "install_required",
+            "dependency_warning": "",
+            "row_found": false,
+            "inventory_confidence": 0.0,
+            "activation_readiness": "PLUGIN NÃO INSTALADO",
+            "next_action": "Revisar origem e autorização antes de qualquer instalação."
+          },
+          {
+            "plugin_name": "WP Rocket",
+            "plugin_slug": "",
+            "installed": false,
+            "active": "incerto",
+            "installed_version": "",
+            "available_action": "install_required",
+            "dependency_warning": "",
+            "row_found": false,
+            "inventory_confidence": 0.0,
+            "activation_readiness": "PLUGIN NÃO INSTALADO",
+            "next_action": "Revisar origem e autorização antes de qualquer instalação."
+          }
+        ]
+      },
+      "wp_access_validator": "browser",
+      "plugin": "Elementor Pro",
+      "plugin_slug": "elementor-pro",
+      "domain": null,
+      "activation_requested": true,
+      "authorization_detected": false,
+      "completion_detected": false,
+      "wordpress_context": true,
+      "decision": "pending_activation",
+      "classification": "PRONTO PARA APROVAÇÃO",
+      "priority": "fila_ativacao",
+      "classification_reason": "pedido claro de ativação de plugin com plugin conhecido",
+      "score": 75,
+      "signals": [
+        "activation_keyword",
+        "plugin_whitelist_match",
+        "wordpress_context",
+        "pending_status"
+      ],
+      "fields_used": {},
+      "blocked_actions": [
+        "AddTicketReply",
+        "UpdateTicket",
+        "CloseTicket",
+        "DeleteTicket",
+        "AddTicketNote"
+      ],
+      "is_candidate": true,
+      "source": "detail",
+      "debug_fields": {
+        "keywords_encontradas": [
+          "ativacao",
+          "ativação",
+          "plugin",
+          "ativacao",
+          "ativação",
+          "solicitacao de ativacao",
+          "solicitação de ativação",
+          "plugin",
+          "plugin(s)"
+        ],
+        "plugins_encontrados": [
+          "Elementor Pro",
+          "WP Rocket"
+        ],
+        "motivo": "pedido claro de ativação de plugin com plugin conhecido",
+        "ignorado": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Primeira captura abortada porque o controle textual `Ver detalhes` não apareceu. A execução final validou o controle real `Expandir detalhes` e recapturou os prints aprovados localmente.

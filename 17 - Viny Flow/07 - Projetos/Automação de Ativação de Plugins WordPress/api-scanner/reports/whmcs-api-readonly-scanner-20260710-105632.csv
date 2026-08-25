@@ -1,0 +1,1 @@
+ticket_id,status,subject,message,plugin,plugin_slug,domain,activation_requested,authorization_detected,completion_detected,wordpress_context,decision,classification,score,signals,blocked_actions,is_candidate,source
